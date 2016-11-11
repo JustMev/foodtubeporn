@@ -8,7 +8,7 @@
     </dir>
         <info compressed="false">https://raw.githubusercontent.com/JustMev/foodtubeporn/master/addons.xml?token=AOJJ0k3Yq6KeiHpo1zsBV1P347t-JBt_ks5YLqYjwA%3D%3D</info>
         <checksum>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/addons.xml.md5?token=AOJJ0qQvLh7y8-3YN0ivWN_v9ME2hLqqks5YLqImwA%3D%3D</checksum>
-        <datadir zip="true">https://github.com/JustMev/foodtubeporn/tree/master/zips/</datadir>
+        <datadir zip="true">https://github.com/JustMev/foodtubeporn/tree/master/zips</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Install My Addon</summary>
