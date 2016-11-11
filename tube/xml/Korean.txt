@@ -1,0 +1,19 @@
+<channels>
+
+<channel>
+<name>South Korean Cooking with Maangchi</name>
+<thumbnail>http://i.imgur.com/cMY3K33.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Korean/Maangchi_Korean.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook South Korean with Maangchi</info>
+</channel>
+
+<channel>
+<name>South Korean Cooking with Crazy Korean Cooking</name>
+<thumbnail>http://i.imgur.com/WeQhlct.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Korean/Crazy_Korean_Cooking.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook South Korean with Crazy Korean Cooking</info>
+</channel>
+
+</channels>

@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>Cooking with Alia</name>
+<thumbnail>http://i.imgur.com/v0Yqsb8.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Morrocan/cookingwithalia.morrocan.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Morrocan with Alia</info>
+</channel>
+</channels>

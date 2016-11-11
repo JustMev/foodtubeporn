@@ -1,0 +1,19 @@
+<channels>
+
+<channel>
+<name>Malaysian Cooking with Nyonya Cooking</name>
+<thumbnail>http://i.imgur.com/XS381I7.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Malaysian/Nyonya Cooking_Malaysian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Malaysian with Nyonya Cooking</info>
+</channel>
+
+<channel>
+<name>Malaysian Cooking with Malaysian Chinese Kitchen</name>
+<thumbnail>http://i.imgur.com/cP013C7.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Malaysian/Malaysian_Chinese.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Malaysian with Malaysian Chinese Kitchen</info>
+</channel>
+
+</channels>

@@ -1,0 +1,27 @@
+<channels>
+
+<channel>
+<name>Greek Cuisine</name>
+<thumbnail>http://i.imgur.com/PffKOZl.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Greek/greek.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Greek</info>
+</channel>
+
+<channel>
+<name>Greek Cooking with Diane Kochilas</name>
+<thumbnail>http://i.imgur.com/Aui7mlb.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Greek/Diane_Kochilas_Greek.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Greek Diane Kochilas</info>
+</channel>
+
+<channel>
+<name>Greek Cooking with Dimitra's Dishes</name>
+<thumbnail>http://i.imgur.com/fwo3qv9.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Greek/Dimitra's_Dishes_Greek.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Greek with Dimitra's Dishes</info>
+</channel>
+
+</channels>

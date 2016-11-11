@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>Aussie Grillers</name>
+<thumbnail>http://i.imgur.com/F4x6Syb.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Australian/aussie_grillers.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Australian BBQ</info>
+</channel>
+</channels>

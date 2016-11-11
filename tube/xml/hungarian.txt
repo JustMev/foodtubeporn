@@ -1,0 +1,11 @@
+<channels>
+
+<channel>
+<name>Hungarian Cooking with hrcsidaranoli</name>
+<thumbnail>http://i.imgur.com/SIbqeKn.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Hungarian/hrcsidaranoli_Hungarian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Hungarian with hrcsidaranoli</info>
+</channel>
+
+</channels>

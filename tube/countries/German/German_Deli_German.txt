@@ -1,0 +1,144 @@
+<item>
+<title>Classic German Rumtopf with Chef Uwe & Chef Kelsey</title>
+<utube>7O1FNqTz-No</utube>
+<thumbnail>https://i.ytimg.com/vi/7O1FNqTz-No/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u-mpoz-Nqnr2Rz-owgV68REbOl8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Fresh Fruit Tart with Chef Uwe & Chef Kelsey</title>
+<utube>z-GEh5cD1SM</utube>
+<thumbnail>https://i.ytimg.com/vi/z-GEh5cD1SM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qa-O5W-X737D9pkmOb3PDQBKc4w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Obst-Tortenboden with Chef Uwe & Chef Kelsey</title>
+<utube>etqc0dpsxos</utube>
+<thumbnail>https://i.ytimg.com/vi/etqc0dpsxos/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NPqD1DkhhKWZzx6VdFar1sY5EVc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Wurstsalat & Fleischsalat with Chef Uwe</title>
+<utube>ihJFdXxbWFg</utube>
+<thumbnail>https://i.ytimg.com/vi/ihJFdXxbWFg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MiKYwRQQ5BuPftsXYSRP2E9SgZY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Geschnetzeltes with Chef Uwe</title>
+<utube>bqeuQVVvt1s</utube>
+<thumbnail>https://i.ytimg.com/vi/bqeuQVVvt1s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Mo8kjDMy-BWR4wkebeskY7sjCI8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Frikadellen with Chef Uwe</title>
+<utube>GX6x6askWek</utube>
+<thumbnail>https://i.ytimg.com/vi/GX6x6askWek/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lBr2uxVXGsF9UdW9nZQHOiObup4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German-style Schnitzel (nach Wiener Art) with Chef Uwe</title>
+<utube>pFGjdIKR9b0</utube>
+<thumbnail>https://i.ytimg.com/vi/pFGjdIKR9b0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6geAQX79D8bBUU-NomCrn_hoPwg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Rouladen with Chef Uwe</title>
+<utube>eNFSTVKvq_w</utube>
+<thumbnail>https://i.ytimg.com/vi/eNFSTVKvq_w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xFQevseA-7Pmf9-sk4_SmH46cIA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Here Comes Santa to GermanDeli European Food Store</title>
+<utube>SRjScYbESPw</utube>
+<thumbnail>https://i.ytimg.com/vi/SRjScYbESPw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NyIOebpEEV0OKBiLJGtsguK-fXc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>"Fall of the Wall" GermanDeli Nov 9, 2014</title>
+<utube>9WUAv9kiolw</utube>
+<thumbnail>https://i.ytimg.com/vi/9WUAv9kiolw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vLGc3ZH-h_1Mm6mOlJMpDFyPbCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lichtgrenze (standing shoulder to shoulder with Berlin)</title>
+<utube>M1HO2a8Xzcw</utube>
+<thumbnail>https://i.ytimg.com/vi/M1HO2a8Xzcw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HooRsrBl269hW181-KjU6bFiDqk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fire Punch Cup (Feuerzangentasse)</title>
+<utube>IUbPzFtvfPM</utube>
+<thumbnail>https://i.ytimg.com/vi/IUbPzFtvfPM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dnSjqFYqOBg2lnBx8mbFVm30pVY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Classic German Fire Punch (Feuerzangenbowle)</title>
+<utube>0BBXu_62E1w</utube>
+<thumbnail>https://i.ytimg.com/vi/0BBXu_62E1w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=E8JCoxbhDfiWPu0vHcqwERqMXGM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Delicious!!</title>
+<utube>g8hXwjwayfM</utube>
+<thumbnail>https://i.ytimg.com/vi/g8hXwjwayfM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5AtWHNODyNy8qLDM0w-2A_FlmiA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How we pack German food at GermanDeli.com</title>
+<utube>MxroYoBpZlE</utube>
+<thumbnail>https://i.ytimg.com/vi/MxroYoBpZlE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MLvMNv2ZvQmCxURfU4tAye3tVyc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Fleischsalat & Wurstsalat</title>
+<utube>hAuOY46DdEg</utube>
+<thumbnail>https://i.ytimg.com/vi/hAuOY46DdEg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KtWe4PRqGrgtCRp7ew7ACgUiZKg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Sauerkraut (mellow and delicious)</title>
+<utube>RvyGsEeuFls</utube>
+<thumbnail>https://i.ytimg.com/vi/RvyGsEeuFls/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PRwLEoghklIGNV9PsFiFHMMNcU8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Easy German Dumplings</title>
+<utube>KMeFg2G6BqY</utube>
+<thumbnail>https://i.ytimg.com/vi/KMeFg2G6BqY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ynd84IQ25v7Eio7zWveGp7u3jiY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Schweinebraten (Pork Roast) using Maggi "Fix"</title>
+<utube>Ooy8aFeM_zs</utube>
+<thumbnail>https://i.ytimg.com/vi/Ooy8aFeM_zs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uXOosqsN4rHDmoWl5XiaW49biI8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Schweinehaxe (Roasted Pork Shank)</title>
+<utube>gEQPDQ0jyOk</utube>
+<thumbnail>https://i.ytimg.com/vi/gEQPDQ0jyOk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=adLU5fm3mrfHFr0NMxSfPOriovU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Easy German Gulasch</title>
+<utube>PlkNYBRK_Ps</utube>
+<thumbnail>https://i.ytimg.com/vi/PlkNYBRK_Ps/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QMCie1Zq3IwMIIb6uYIypkWaHvo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Easy Frikadellen (German Hamburgers)</title>
+<utube>740bhr-msEk</utube>
+<thumbnail>https://i.ytimg.com/vi/740bhr-msEk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aELrM6IBS0Ppc7Oq7dhtcumxFi8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>German Food: Easy Geschnetzeltes</title>
+<utube>5GnEilHn3Ds</utube>
+<thumbnail>https://i.ytimg.com/vi/5GnEilHn3Ds/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_NfeNkf8Q_vvUpDKFpSrZDzXNY8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Austrian & German Food: Wiener-Schnitzel using Knorr "Fix"</title>
+<utube>nwzZDiLqMUM</utube>
+<thumbnail>https://i.ytimg.com/vi/nwzZDiLqMUM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mJ3RrsMieuBMMUbk1TYVvwhUEaE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

@@ -1,0 +1,19 @@
+<channels>
+
+<channel>
+<name>Filipino Cooking with Mga Lutong Pinoy</name>
+<thumbnail>http://i.imgur.com/bgSQjjJ.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Filipino/MgaLutongPinoy_Phillipino.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Filipino with Mga Lutong Pinoy</info>
+</channel>
+
+<channel>
+<name>Filipino Cooking with Pagkaing Pinoy TV</name>
+<thumbnail>http://i.imgur.com/AE5knCG.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Filipino/Pagkaing_Pinoy_TV.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Filipino with Pagkaing Pinoy TV</info>
+</channel>
+
+</channels>

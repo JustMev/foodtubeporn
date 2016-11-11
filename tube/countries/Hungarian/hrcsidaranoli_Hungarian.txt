@@ -1,0 +1,438 @@
+<item>
+<title>Cheese Croquette by Helen M. Radics</title>
+<utube>_pUzUqbSZa4</utube>
+<thumbnail>https://i.ytimg.com/vi/_pUzUqbSZa4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RXid3mafuiqUUT7iH5BYyDmuTgw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Wiener Schnitzel (Rántott Hús) - Valentine's Day Recipe</title>
+<utube>jbOz2O68x-o</utube>
+<thumbnail>https://i.ytimg.com/vi/jbOz2O68x-o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uU8ekBSWE3Ztp4h1FqAqegTv8OE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Roulade (Csirke Rolad)</title>
+<utube>KjxRj6p_DyY</utube>
+<thumbnail>https://i.ytimg.com/vi/KjxRj6p_DyY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=P0tDQbcwxp1ReCfNKxMQ25bsYUU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PIZZA RING (Pizza Kör)</title>
+<utube>xzPiFgMLPJY</utube>
+<thumbnail>https://i.ytimg.com/vi/xzPiFgMLPJY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G64bFtnYoWU1nN39HBXRI7pIrak</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Mushroom / Pork "Tokány"</title>
+<utube>hYLK0UaQBM4</utube>
+<thumbnail>https://i.ytimg.com/vi/hYLK0UaQBM4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QLLwhWbrakqZzcBeIXL0VgAqodE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Don't Bitch, Get Skinny™ - The Ultimate Diet Book</title>
+<utube>3w33u1tBvzg</utube>
+<thumbnail>https://i.ytimg.com/vi/3w33u1tBvzg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1LEsTp2_WSz6Rt9qrfMc-7HUtVU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy Birthady Mami - May 21, 2015</title>
+<utube>32JL80gf6zY</utube>
+<thumbnail>https://i.ytimg.com/vi/32JL80gf6zY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UuiM_HiwN2Lkv76x5139Jd_c68Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GERBEAUD BALLS by Helen M. Radics - Best Christmas Pastry ( ZSERBO GOLYOK )</title>
+<utube>AR2TqYP2odk</utube>
+<thumbnail>https://i.ytimg.com/vi/AR2TqYP2odk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WqcQBUmz5znwR0ju1U8IOEfhco8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gerbeaud Balls by Helen M. Radics (Zserbo Golyok) - Wonderful Christmas Pastry</title>
+<utube>SwkxlqWwiGk</utube>
+<thumbnail>https://i.ytimg.com/vi/SwkxlqWwiGk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=g1Bg7DrKALH5D28TkJ4eeT59oRI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pickled Cabbage Salad by Helen M Radics  ( Kaposztasalata )</title>
+<utube>y_ASfV1iQmg</utube>
+<thumbnail>https://i.ytimg.com/vi/y_ASfV1iQmg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L0E9PDvSOsXDATdJvP7fl9cEg0Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy Birthday Mami - Boldog Szulinapot</title>
+<utube>ILyT8iFLrg4</utube>
+<thumbnail>https://i.ytimg.com/vi/ILyT8iFLrg4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h6S50ZzA_2aK6Cptj9o2Eboo1JI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Edible Tulips Any Time Even Christmas Time (Roma Tomatoes with Cream Cheese) by Helen M. Radics</title>
+<utube>lJwD82izxtY</utube>
+<thumbnail>https://i.ytimg.com/vi/lJwD82izxtY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kmYvhK7zRLQks5h3wHiPY8Zj8zU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Special Occasion Salad by Helen M Radics - Great for Christmas (Karacsonyi Franciasalata)</title>
+<utube>iBfI1En13G4</utube>
+<thumbnail>https://i.ytimg.com/vi/iBfI1En13G4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8X1cUtdVZnLwimQ2r6pZhp1TvB8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy Birthday Mami (May 21, 2013)</title>
+<utube>lqCx8vriu_Y</utube>
+<thumbnail>https://i.ytimg.com/vi/lqCx8vriu_Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=N5d6UbgId8N__vsJCXCCfvFjv6c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Make Your Own Vanilla Sugar by Helen M. Radics (Vaníliás Cukor)</title>
+<utube>h6ngNJwl6uE</utube>
+<thumbnail>https://i.ytimg.com/vi/h6ngNJwl6uE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vihWrl-os5y61K-cdQuZRxapxlg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Stuffed Peppers by Helen M. Radics</title>
+<utube>iiXsaJqlj1o</utube>
+<thumbnail>https://i.ytimg.com/vi/iiXsaJqlj1o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gmOGqS8AdMfJd1_ct2fYThMy9yM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Floating Islands by Helen M. Radics  (Madartej)</title>
+<utube>hSmo7eE8MqA</utube>
+<thumbnail>https://i.ytimg.com/vi/hSmo7eE8MqA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iI2F92vm670QD9ae-aqnAs36MmA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cottage Cheese Squares by Helen M. Radics</title>
+<utube>YZsXGuQZDwg</utube>
+<thumbnail>https://i.ytimg.com/vi/YZsXGuQZDwg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ulQR2M9BHMjo1HWCzxk9NAfUbvk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>"Pumpkin Soup" brought to you by Treasured Hungarian Family Recipes™©</title>
+<utube>vpUtWfRlFbI</utube>
+<thumbnail>https://i.ytimg.com/vi/vpUtWfRlFbI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=INtT7OkUsGZEdc8EGknosahIVbM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Ring & Cranberry Ring brought to You by Treasured Hungarian Family Recipes™©</title>
+<utube>yHa9ZBt972w</utube>
+<thumbnail>https://i.ytimg.com/vi/yHa9ZBt972w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2PO2PG-gxegOr1ErsJ19kih7Ito</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Breaded Cauliflower by Treasured Hungarian Family Recipes™© (Helen M Radics)</title>
+<utube>H9CCOpWxBcA</utube>
+<thumbnail>https://i.ytimg.com/vi/H9CCOpWxBcA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MbZ3cS4b8y8r8Dc6iRha_UDAPeY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pasta Sauce  by Treasured Hungarian Family Recipes™© (Helen M Radics)</title>
+<utube>t2xlszh05sQ</utube>
+<thumbnail>https://i.ytimg.com/vi/t2xlszh05sQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q_u-iglVZjh3P5wgczPhAYoLRVM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Cooking  Presented by Treasured Hungarian Family Recipes™©</title>
+<utube>_9O_gwxAcRA</utube>
+<thumbnail>https://i.ytimg.com/vi/_9O_gwxAcRA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SlTzfz1vlE_fk7Q_SkJb8ry7SCA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Layered Savoy Cabbage Presented by Treasured Hungarian Family Recipes™©</title>
+<utube>PAmD25EalZg</utube>
+<thumbnail>https://i.ytimg.com/vi/PAmD25EalZg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9CZocE5m8fCcF78pYZmrNCtg63o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Eggs a'la Helen (Eggs in a Bun) by Helen M Radics</title>
+<utube>9MX12uRMTmo</utube>
+<thumbnail>https://i.ytimg.com/vi/9MX12uRMTmo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kNDh0g5-3cFiRG17xzlHk3wrxWk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Cucumber Salad - Uborkasalata</title>
+<utube>m80qop6y0G4</utube>
+<thumbnail>https://i.ytimg.com/vi/m80qop6y0G4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9CIGOJa0WCvtUJzDz8nbQFWFeOE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>The Delectable Desserts of Hungary</title>
+<utube>dM4ZD72pXMU</utube>
+<thumbnail>https://i.ytimg.com/vi/dM4ZD72pXMU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ztSSgwc6p-iTjmLmB4o2gPSW9P4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungary The Jewel of Eastern Europe - Magyarorszag Szépsege by Helen M Radics</title>
+<utube>VLuRTVXGRqs</utube>
+<thumbnail>https://i.ytimg.com/vi/VLuRTVXGRqs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MRhlqNztgdgSC-sqR5fBmZYj22c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Tripe Paprikash - Pacal Porkolt by Helen M. Radics</title>
+<utube>fvZbpa18HGI</utube>
+<thumbnail>https://i.ytimg.com/vi/fvZbpa18HGI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ewMD9sxdK7M4aISvw4bBGdwO7A0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Bourguignon by Helen M Radics - Culinary Journey Around The World</title>
+<utube>EpdNprB51Vo</utube>
+<thumbnail>https://i.ytimg.com/vi/EpdNprB51Vo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Gcsaw2FNjDx5JfHWkiE1IYgZvMY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Pastry - Non Plus Ultra (Easy Hungarian Pastry)</title>
+<utube>3qv51q-hLow</utube>
+<thumbnail>https://i.ytimg.com/vi/3qv51q-hLow/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SHzurSZtVFHD13cA1tHV8utXSx4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Goulash as Seen on CTV News by Helen M Radics</title>
+<utube>XNqriLr4M0w</utube>
+<thumbnail>https://i.ytimg.com/vi/XNqriLr4M0w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PlX9Jq0agnWKkwSxoBavmsl2yzk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork a'la Brasso- Helen M Radics (Brassoi Apropecsenye)</title>
+<utube>DUeZmfYktZk</utube>
+<thumbnail>https://i.ytimg.com/vi/DUeZmfYktZk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gW9GIOFH7GLM8FTYBdCNzbJG3UI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Brassoi Apropecsenye Helen Modra</title>
+<utube>O7S3pJ-CC20</utube>
+<thumbnail>https://i.ytimg.com/vi/O7S3pJ-CC20/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UYuVYnKa88y4MmkV91VgaYudLsM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Helen's Walnut Croissant - Pozsonyi Kifli Helen Modra</title>
+<utube>vTRDU0yx12I</utube>
+<thumbnail>https://i.ytimg.com/vi/vTRDU0yx12I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WIbpGvU78U5ytbWxnxQu83WPeYI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Helen's Bison Burger</title>
+<utube>0TkA65W-oqU</utube>
+<thumbnail>https://i.ytimg.com/vi/0TkA65W-oqU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Z43OnHHEb1BWaq4Cu3rEwHw02_Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BREAD - EASY BREAD (Kenyer)</title>
+<utube>fasssUIlTMo</utube>
+<thumbnail>https://i.ytimg.com/vi/fasssUIlTMo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VQ0_31v1rK5QL-DOlJ5xEmvtl_Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Layered Potato - Rakott Krumpli</title>
+<utube>rIOyMvRNC24</utube>
+<thumbnail>https://i.ytimg.com/vi/rIOyMvRNC24/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q_pKi1xdTkwx8Ert9yhMcK5wAPw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Savoy Cabbage - Kelkáposzta főzelék</title>
+<utube>qtwUxR_3EEo</utube>
+<thumbnail>https://i.ytimg.com/vi/qtwUxR_3EEo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=g03pX6tfetpijeRZn4sH-dI403c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Creamed Green Peas with Hungarian Hamburger - Borsofozelek es Fasirt</title>
+<utube>xdNnh_nFagg</utube>
+<thumbnail>https://i.ytimg.com/vi/xdNnh_nFagg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DlBUNRnM6_KG6WYA-waZ9J6jbak</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Roll With Easy Mushroom Sauce</title>
+<utube>3fo7XHvpsGY</utube>
+<thumbnail>https://i.ytimg.com/vi/3fo7XHvpsGY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uiu47aW4Nu1-HRt8bTvsYp4Bw6w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Creamed Squash - Tökfőzelék by Helen M Radics_</title>
+<utube>WWZ4VjBvXoU</utube>
+<thumbnail>https://i.ytimg.com/vi/WWZ4VjBvXoU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lWBdN76vCzz0_dYVMb_0rsXQwAk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Hamburger - Fasirt</title>
+<utube>opM2a5MiOes</utube>
+<thumbnail>https://i.ytimg.com/vi/opM2a5MiOes/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=24FT4neq99O5Vjvezl0CCVlG2uM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kifli - Hungarian Pastry - Best Hungarian Recipes</title>
+<utube>sH394uz6wc0</utube>
+<thumbnail>https://i.ytimg.com/vi/sH394uz6wc0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1FEPGGW51n0Fo8uEGQsPeZdI9ww</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Square (Almas Pite)</title>
+<utube>5EWpmAkKvQ4</utube>
+<thumbnail>https://i.ytimg.com/vi/5EWpmAkKvQ4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n-qE7kK3b3iAiMS6gucX1j81W7I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Langos - Kaposztas Langos</title>
+<utube>oB0pTb7d0pU</utube>
+<thumbnail>https://i.ytimg.com/vi/oB0pTb7d0pU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WFTeUkx35Jx24iUHwaT_LksipZY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Noodle - Makos Teszta</title>
+<utube>KKNXR1mXAqM</utube>
+<thumbnail>https://i.ytimg.com/vi/KKNXR1mXAqM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_8WFyL88CGHjQtr57kdUbdAFym8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dominican Republic Helen M Radics</title>
+<utube>WAeA5mnfPAg</utube>
+<thumbnail>https://i.ytimg.com/vi/WAeA5mnfPAg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GyEEqdz5znWterhOmzG64sOVwqw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bukta -Hungarian Yeast Pastry with Jam - Lekvaros Bukta</title>
+<utube>VvLEG158JWY</utube>
+<thumbnail>https://i.ytimg.com/vi/VvLEG158JWY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kNUdfaqeHbImmuSgVatQxWiTuRI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Zucchini a'la Helen (Breaded Zucchini) - Rantott Cukkini</title>
+<utube>Dmhi26g3dPA</utube>
+<thumbnail>https://i.ytimg.com/vi/Dmhi26g3dPA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YO9Khq5FwNAcFifjkYj9LbR0uOE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Chipotle Tenderloin with Acini De Pepe Pasta- Toltott Vesepecsenye Piritott Tarhonyaval</title>
+<utube>gcB3-dCTCJ8</utube>
+<thumbnail>https://i.ytimg.com/vi/gcB3-dCTCJ8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KyHDQLuSyBshoK_ARhOhvs8_r7c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cukkini Leves Helen Modra - Hungarian Video</title>
+<utube>b_UzWDH1uPg</utube>
+<thumbnail>https://i.ytimg.com/vi/b_UzWDH1uPg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jBQHZ_rIhheHAFgt1fRLIpjizfI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Paprikash with Creamed Wax Beans - Babfozelek (vajbab) gombaporkolt</title>
+<utube>ZMsc8YjWdpk</utube>
+<thumbnail>https://i.ytimg.com/vi/ZMsc8YjWdpk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KWkjz2VkpGgfz62q0Z79K91uS2g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Bean Soup with Sausages and Dumplings- Kolbaszos Bableves (Hungarian Food)</title>
+<utube>svRH_SGuOoM</utube>
+<thumbnail>https://i.ytimg.com/vi/svRH_SGuOoM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iKeIKYXiUON6JbPCjxK5cy6pCW4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Szekelykaposzta - Transylvanian Sour-Kraut by Helen M Radics</title>
+<utube>mkfJSy0W_cY</utube>
+<thumbnail>https://i.ytimg.com/vi/mkfJSy0W_cY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fFeNBijouPxodZI2sL23ISCL7vY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy Birthday Mami</title>
+<utube>cWcfK8lpU1c</utube>
+<thumbnail>https://i.ytimg.com/vi/cWcfK8lpU1c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xrRKweHO5Xfb6FI5n9F7LH9_1Ws</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy Mother's Day Mami - Nagyon Sok Boldog Anyaknapjat Mami</title>
+<utube>mCd3d1rplrI</utube>
+<thumbnail>https://i.ytimg.com/vi/mCd3d1rplrI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Jx25jX0dAkwuYmgqMK5i9Xxu4A8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Goulash (Elk Goulash) - Szarvasporkolt (Javorszarvas)</title>
+<utube>Cezf8PINRYM</utube>
+<thumbnail>https://i.ytimg.com/vi/Cezf8PINRYM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0yj-VekwTxUPa8Ko_iMaGbhgyNM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Goulash Soup - Gulyasleves</title>
+<utube>v7U70gPylBA</utube>
+<thumbnail>https://i.ytimg.com/vi/v7U70gPylBA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YPLXsTQ5NLTCA_AeEwR3Qvum-30</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>LECSO -  Easy Hungarian Recipe - Hungarian  Ratatouille</title>
+<utube>eZq2duvX33U</utube>
+<thumbnail>https://i.ytimg.com/vi/eZq2duvX33U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=26yLIOOHmNTQdo3nwk9b9w2WIDw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Hungarian Goulash - Porkolt</title>
+<utube>_VHiFjX33UM</utube>
+<thumbnail>https://i.ytimg.com/vi/_VHiFjX33UM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3-dmHmzXU4ABWIdnhlg_yEYmO8M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Walnut Roll 2.  - Fonott Kalacs Meglepetes</title>
+<utube>hhrPCjTK_RA</utube>
+<thumbnail>https://i.ytimg.com/vi/hhrPCjTK_RA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Of4ZchPIYu7aorYAGljIeK0NJ-c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Goat Goulash - Kecske Porkolt</title>
+<utube>AOYCcnYRLYU</utube>
+<thumbnail>https://i.ytimg.com/vi/AOYCcnYRLYU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vr5o_owN0nqR4MjGNOKk9zehcOk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Layered Sour Kraut-Husoskaposzta</title>
+<utube>1w7dlZEhMqk</utube>
+<thumbnail>https://i.ytimg.com/vi/1w7dlZEhMqk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lZJtHol_pZHdF80V0GN35j85DWY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Potato Paprikash with Dumplings - Paprikas Krumpli Galuskaval</title>
+<utube>HzQHTPKw0Yw</utube>
+<thumbnail>https://i.ytimg.com/vi/HzQHTPKw0Yw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-UHd342yveRhfjNTLqSIUP_G-s0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Chicken Paprikash - Csirke Porkolt</title>
+<utube>sEjbt49etS4</utube>
+<thumbnail>https://i.ytimg.com/vi/sEjbt49etS4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Vl6H8zIicKtkDA7OEkDEQf3eTkE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Bean Goulash Soup - Babgulyas</title>
+<utube>UPeRXQGSxyU</utube>
+<thumbnail>https://i.ytimg.com/vi/UPeRXQGSxyU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QgfWnVwjgdCumhvFj5TWsfDaFRw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Walnut Roll/Poppy Seed Roll/Beigli</title>
+<utube>0ki2KqU00i4</utube>
+<thumbnail>https://i.ytimg.com/vi/0ki2KqU00i4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=njjNYKer-kRqy-m4dVB7juJIFEA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dinner Rolls / Jalapeno Dinner Rolls</title>
+<utube>6VzKzVdbouo</utube>
+<thumbnail>https://i.ytimg.com/vi/6VzKzVdbouo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pff0DhxNycb-j_28Fzruaiapv3c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Pea Soup / Hungarian Green Pea Soup / Zoldborso Leves</title>
+<utube>cfQZNv0Q9F4</utube>
+<thumbnail>https://i.ytimg.com/vi/cfQZNv0Q9F4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j7lp2us-RU0U6wsyqJB9dPkxCsk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Lentil Fozelek/ Fasirt</title>
+<utube>-g-eZBsr_3s</utube>
+<thumbnail>https://i.ytimg.com/vi/-g-eZBsr_3s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AuT1yOeYLd4PUOXUfrYp4e52rh0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheese Stick- Bread Stick / Sajtos Rud</title>
+<utube>753uxfBdoP0</utube>
+<thumbnail>https://i.ytimg.com/vi/753uxfBdoP0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Cac6jDyGQrEnOOj5rn8j2YW8CJg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Creamed Spinach/Hungarian Creamed Spinach (Not With Cream) - Spenot</title>
+<utube>gmj9DD0TpuE</utube>
+<thumbnail>https://i.ytimg.com/vi/gmj9DD0TpuE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pKRcdP6rTSxQvpaqfKBR4wPhAJQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

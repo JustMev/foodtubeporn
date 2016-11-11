@@ -1,0 +1,300 @@
+<item>
+<title>Greek Chicken Yeros With Fresh Pita</title>
+<utube>WlgUg09LE30</utube>
+<thumbnail>http://i.imgur.com/RwElZqI.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Spanakopita (spinach and feta cheese pie)</title>
+<utube>SQITqEJ-TvQ</utube>
+<thumbnail>http://i.imgur.com/y7zxQko.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Dolmathes (Stuffed Grapevine Leaves)</title>
+<utube>KuWDsvsoaVI</utube>
+<thumbnail>http://i.imgur.com/m5pFvvz.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Stuffed Calamari with Rice and Herbs</title>
+<utube>KN-XRzH1aQU</utube>
+<thumbnail>http://i.imgur.com/PjORtGs.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Lemon Chicken Soup Recipe  Avgolemono</title>
+<utube>tpbiyOwXMow</utube>
+<thumbnail>http://i.imgur.com/LHXtZo6.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Lentil Soup aka Fakes</title>
+<utube>cVzzIqyZmNw</utube>
+<thumbnail>http://i.imgur.com/RdpmYpP.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Prawns Saganaki</title>
+<utube>uO0ejc85zSE</utube>
+<thumbnail>http://i.imgur.com/vE5jj1O.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Souvlaki</title>
+<utube>oMoYxUMJG4c</utube>
+<thumbnail>http://i.imgur.com/r8qJEof.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Stuffed Tomatoe</title>
+<utube>g-q_EerLzmQ</utube>
+<thumbnail>http://i.imgur.com/pxyQmFS.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Style Braised Lamb with potatoes in a Tomato Sauce</title>
+<utube>tFRzCA74EGA</utube>
+<thumbnail>http://i.imgur.com/clII3By.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Tilapia Recipe</title>
+<utube>sAZcofu49P4</utube>
+<thumbnail>http://i.imgur.com/Cqhjyq2.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Vegetable Stew Recipe</title>
+<utube>iWmllySAQus</utube>
+<thumbnail>http://i.imgur.com/LB9hSmY.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Red Snapper with Greek Marinade</title>
+<utube>uCAyoY1ipzo</utube>
+<thumbnail>http://i.imgur.com/n06pAJt.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Kondosouvli-Greek Spit BBQ</title>
+<utube>jkaMy1B7ewk</utube>
+<thumbnail>http://i.imgur.com/Zn1EOpf.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Calamar</title>
+<utube>gYu4CPKxoqA</utube>
+<thumbnail>http://i.imgur.com/sm6QNB8.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek MOUSAKAS (Lasagna)</title>
+<utube>3BF7yPgCCto</utube>
+<thumbnail>http://i.imgur.com/vj5Hx1X.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Octopus Greek style</title>
+<utube>DHgFDn1OXGo</utube>
+<thumbnail>http://i.imgur.com/1Oj9gQ4.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Octopus Stew with Olives</title>
+<utube>vIxmWlIgcvQ</utube>
+<thumbnail>http://i.imgur.com/Mxb0d3P.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Oven-Roasted Potatoes With a Greek Seasoning</title>
+<utube>XdCezCWL9N8</utube>
+<thumbnail>http://i.imgur.com/iDssF4q.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Pastitsio (Greek Baked Pasta)</title>
+<utube>P_0cA8aoOno</utube>
+<thumbnail>http://i.imgur.com/r1bNRsR.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek-Style Penne With Fresh Tomatoes, Feta & Dill</title>
+<utube>QRkAQbsb1Wc</utube>
+<thumbnail>http://i.imgur.com/1LETqoZ.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Roasted Lamb Shanks (Greek Style</title>
+<utube>pO8Cw1d74Dc</utube>
+<thumbnail>http://i.imgur.com/FLsFMIV.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Roasted Lamb with Lemoney Potatoes</title>
+<utube>9VXssn1LIgc</utube>
+<thumbnail>http://i.imgur.com/RwElZqI.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Cypriot Mezedakia</title>
+<utube>I6UQgNqgKis</utube>
+<thumbnail>http://i.imgur.com/EJRd15z.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Papoutsakia Eggplant</title>
+<utube>KAjMVvuLZzk</utube>
+<thumbnail>http://i.imgur.com/Iczrodn.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek BBQ Pork Kontosouvli </title>
+<utube>DGmC3zFKGCY</utube>
+<thumbnail>http://i.imgur.com/R8NPBYu.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek BBQ Souvla Lamb</title>
+<utube>gAISkY1iGtw</utube>
+<thumbnail>http://i.imgur.com/4SkhkxR.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Cyprus Pork Sheftalia BBQ</title>
+<utube>mthAaGGwazM</utube>
+<thumbnail>http://i.imgur.com/7shV9oy.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Loukaniko - (Greek Sausage)</title>
+<utube>OZTtsTGygb0</utube>
+<thumbnail>http://i.imgur.com/IsQryqP.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Sweet Below</title>
+<utube></utube>
+<thumbnail>http://i.imgur.com/FluHBLn.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>LOUKOUMADES</title>
+<utube>VGWzL1VdbsY</utube>
+<thumbnail>http://i.imgur.com/wO56ilu.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Baklava</title>
+<utube>IR0qTukkzuU</utube>
+<thumbnail>http://i.imgur.com/V3EqZ9v.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Baklava Cigars with Choc Chips</title>
+<utube>03k0yBLSgKY</utube>
+<thumbnail>http://i.imgur.com/oug099R.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Feta Herb Bread</title>
+<utube>FgTjGGYGS7g</utube>
+<thumbnail>http://i.imgur.com/XxvGdp8.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek halva with semolina</title>
+<utube>jizvySvEg80</utube>
+<thumbnail>http://i.imgur.com/fkJShrQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Kataifi Ekme</title>
+<utube>vKPRqj_SlqA</utube>
+<thumbnail>http://i.imgur.com/NuZ7fHx.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Nutella Cheesecake</title>
+<utube>xx7m8azj4zs</utube>
+<thumbnail>http://i.imgur.com/2WSJjB2.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Salad</title>
+<utube>iFC7-urzfXw</utube>
+<thumbnail>http://i.imgur.com/gKX4QIt.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Greek Yogurt Cheesecake</title>
+<utube>JE8crtueXs8</utube>
+<thumbnail>http://i.imgur.com/VlIbzHA.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Kourabiedes</title>
+<utube>0fnRCZXRfYM</utube>
+<thumbnail>http://i.imgur.com/aeiUZ1Q.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Olive Bread with a Twist!</title>
+<utube>5Yee2E0Car8</utube>
+<thumbnail>http://i.imgur.com/JSvpU1Z.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Rizoyalo - Rice Pudding</title>
+<utube>JGIKfMpgPyQ</utube>
+<thumbnail>http://i.imgur.com/it1VBOf.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+<item>
+<title>Sweet cream dessert (Greek bugatsa)</title>
+<utube>BXZZV698DPM</utube>
+<thumbnail>http://i.imgur.com/89MgNOz.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

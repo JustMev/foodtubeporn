@@ -1,0 +1,17 @@
+<channels>
+<channel>
+<name>Chinese Cooking with Happy Wok</name>
+<thumbnail>http://i.imgur.com/0PhNy9l.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Chinese/HappyWok_Chinese.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Chinese with Happy Wok</info>
+</channel>
+
+<channel>
+<name>Chinese Cooking with Xiao's Kitchen</name>
+<thumbnail>http://i.imgur.com/KfbWCrh.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Chinese/Xiaos Kitchen_chinese.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Chinese with Xiao's Kitchen</info>
+</channel>
+</channels>

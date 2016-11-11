@@ -1,0 +1,354 @@
+<item>
+<title>How to Make Banana Fritters or Banana Spring Rolls Filipino Style</title>
+<utube>ZstKkNkMBeU</utube>
+<thumbnail>https://i.ytimg.com/vi/ZstKkNkMBeU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1w3nCE1Kb6nvl1Ino93jPL_EYM4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Garlic Shrimps Cooked with 7 Up and Butter Filipino Recipe Lutong Pinoy</title>
+<utube>xBfaYO87uAk</utube>
+<thumbnail>https://i.ytimg.com/vi/xBfaYO87uAk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3U24cmgP4IkyGwofMVfRdOyHkWE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Tinola Filipino Recipe with Papaya - Chicken Soup Lutong Pinoy</title>
+<utube>qFcONjFQ0GM</utube>
+<thumbnail>https://i.ytimg.com/vi/qFcONjFQ0GM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=snqGjX8QjzHj3RjgY-_Ka0d5o4U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginisang Repolyo with Shrimps or Hipon Filipino Recipe Sauteed Cabbage with Shrimps</title>
+<utube>sgNfEpyJAz0</utube>
+<thumbnail>https://i.ytimg.com/vi/sgNfEpyJAz0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RcBKBXn4NvBwQ7H1YoVlIhfnCYg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bistek Tagalog Beef Steak Filipino Recipe</title>
+<utube>1DZWTP3iFU8</utube>
+<thumbnail>https://i.ytimg.com/vi/1DZWTP3iFU8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3TUU-_P1LIi8T8J1JM_KcrRecfc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Cod Fish or Baked Isda na Bakalaw</title>
+<utube>m7BH6vGRqyA</utube>
+<thumbnail>https://i.ytimg.com/vi/m7BH6vGRqyA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Fr2w_BIWuKX5iHI9Ik4OmxNIY5w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Empanada Filipino Recipe Lutong Pinoy Cooking</title>
+<utube>qnbN3Pmo1U0</utube>
+<thumbnail>https://i.ytimg.com/vi/qnbN3Pmo1U0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=x0010gRdzk3BfMimzeqCGDhFLos</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Filipino Macaroni Chicken Salad Lutong Pinoy Recipe</title>
+<utube>X3X9rf8oass</utube>
+<thumbnail>https://i.ytimg.com/vi/X3X9rf8oass/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EF6cNZjw7t5dGhL_yAM28GXCfu4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fruit Salad Filipino Style Pinoy Favorite with Nestle Cream</title>
+<utube>JsvwWNndlBg</utube>
+<thumbnail>https://i.ytimg.com/vi/JsvwWNndlBg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y0V-TfL92BJwXJjHOHwsi6oAWT0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Fry Bulad Besugo Pinikas Dried Fish for Crunchier Taste</title>
+<utube>OrsOX41YO9Q</utube>
+<thumbnail>https://i.ytimg.com/vi/OrsOX41YO9Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CnaRTDoZrBpzis1S_W8y4KsIP9M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook Garlic Sinangag Rice - Lutong Pinoy</title>
+<utube>qLLZ8M_QpEg</utube>
+<thumbnail>https://i.ytimg.com/vi/qLLZ8M_QpEg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xW5QRyYY0hN8ilCqROW4_5e9Jnw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Paksiw na Isda Pompano with Ampalaya - Lutong Pinoy</title>
+<utube>b1yWBbjp-1s</utube>
+<thumbnail>https://i.ytimg.com/vi/b1yWBbjp-1s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lkaJnk5bYkWFTalFRjoFOf36z_E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salmon Baked with Tomatoes, Onions and Mayonnaise - Lutong Pinoy</title>
+<utube>7UOR6h03-U0</utube>
+<thumbnail>https://i.ytimg.com/vi/7UOR6h03-U0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Df-74_V7ovY_4nyYJVTJ28jextM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginataang Kalabasa Squash with Hipon Shrimps and String Beans</title>
+<utube>zmHXqlhCOAw</utube>
+<thumbnail>https://i.ytimg.com/vi/zmHXqlhCOAw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T8xFd8YlTxlNZHGnyV-0jrIgnpo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook Filipino Clam Soup or Halaan Soup - Mga Lutong Pinoy</title>
+<utube>4BXo3SfMjHo</utube>
+<thumbnail>https://i.ytimg.com/vi/4BXo3SfMjHo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RpGwzZrkcZuLraxBECfqo5LKrs0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Filipino Spring Roll Lumpiang Sotanghon with Ground Beef</title>
+<utube>Az3109zOs5k</utube>
+<thumbnail>https://i.ytimg.com/vi/Az3109zOs5k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K85b_O2bppBIaBH9mwq9g9XQaMw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Tocino Pang Almusal Homemade Filipino Recipe Lutong Pinoy</title>
+<utube>_UyB0MAfu5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/_UyB0MAfu5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4dTsSIbBwsfxwn8TYexkf3GqArk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Tapa Homemade Filipino Recipe Lutong Pinoy</title>
+<utube>uKeeQOqjXbo</utube>
+<thumbnail>https://i.ytimg.com/vi/uKeeQOqjXbo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rKz2MBo0XLxHWbrHptzl-yuIizs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Tocino Filipino Homemade Recipe Lutong Pinoy</title>
+<utube>rPQS-hfYssI</utube>
+<thumbnail>https://i.ytimg.com/vi/rPQS-hfYssI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vfxu4X84k0h64iM7k6q9jdj3MWg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Banana Nut Muffin or Cake | Mga Lutong Pinoy Free Filipino Recipe</title>
+<utube>xEBKfnCRzu0</utube>
+<thumbnail>https://i.ytimg.com/vi/xEBKfnCRzu0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DROpE6wiu5Ui7RzekPg5I--D3wY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coconut Macaroons with Flour Filipino Recipe| Lutong Pinoy</title>
+<utube>wMRngIyPuNc</utube>
+<thumbnail>https://i.ytimg.com/vi/wMRngIyPuNc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yDZGF79EMvOz3e8tCp3I4cs23BI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Adobong Kangkong with Shrimp Lutong Pinoy ito! | Kangkong Adobo</title>
+<utube>PqU-N9Xrq-E</utube>
+<thumbnail>https://i.ytimg.com/vi/PqU-N9Xrq-E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aYna808NrAgTkCK-Tj33ngjDk6s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sinigang sa Bayabas na Bangus with Hipon Lutong Pinoy Filipino Recipe</title>
+<utube>PIFF3EbjP_I</utube>
+<thumbnail>https://i.ytimg.com/vi/PIFF3EbjP_I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sMDM9HOz-ZNpGiiONYmyGRL_M-A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pancit Bihon with Hinimay na Lechon Manok Lutong Pinoy Ito! Free Filipino Recipe</title>
+<utube>7KqcUPEa4Ug</utube>
+<thumbnail>https://i.ytimg.com/vi/7KqcUPEa4Ug/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SVEr9bQ3KN7m2QGbaJSPddYUErY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Ala King with Mushroom Filipino Recipe Lutong Pinoy</title>
+<utube>SCMkuPdvStQ</utube>
+<thumbnail>https://i.ytimg.com/vi/SCMkuPdvStQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rsqbfMKsG5t5iXlrosSm9hrQa_Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kalderetang Kambing or Goat Caldereta Filipino Recipe</title>
+<utube>flTNaHx7Y_k</utube>
+<thumbnail>https://i.ytimg.com/vi/flTNaHx7Y_k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PcAuMB3WqnFNJsy0zLM0PELHWqE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook Laing Recipe (Bicolano Dish) Similar to Bicol Express Filipino Recipe</title>
+<utube>x2UwwIt87F8</utube>
+<thumbnail>https://i.ytimg.com/vi/x2UwwIt87F8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dvlZHqRl7h6p1ptsKPzEHT2EqFQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook Arroz a la Valenciana (Bringhe) Filipino Cooking Style Lutong Pinoy Recipe</title>
+<utube>EvRnrCSIWgQ</utube>
+<thumbnail>https://i.ytimg.com/vi/EvRnrCSIWgQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9yIdNaDvYGBaYk2JJqU-PWICPks</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook Filipino Style Chicken Curry with Gata Coconut Milk Truly Lutong Pinoy</title>
+<utube>TSfzrhUNbGE</utube>
+<thumbnail>https://i.ytimg.com/vi/TSfzrhUNbGE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1z2wMDB_YA-SZrI8nK1i-agUNpU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Escabeche Sweet and Sour Fish Filipino Recipe Truly Lutong Pinoy | Free Filipino Recipe</title>
+<utube>WIDOWpx_XTE</utube>
+<thumbnail>https://i.ytimg.com/vi/WIDOWpx_XTE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=07yVQ6wbkgaWONVjvIPU10h5O6Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginataang Lobster or Alimasag Filipino Recipe Truly Lutong Pinoy | Free Filipino Recipes</title>
+<utube>Bso9uBNkz-A</utube>
+<thumbnail>https://i.ytimg.com/vi/Bso9uBNkz-A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Dnsd5gtN54NHkPJetZaWNgLGuTo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Maruya Banana Fritter | Maruyang Saging Filipino Food</title>
+<utube>cRn9D--39ns</utube>
+<thumbnail>https://i.ytimg.com/vi/cRn9D--39ns/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PF2y6IGMkNT7Oj4mTsj8OnH6C58</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Easy Puto Cheese Simple Pinoy Filipino Style Recipe | Steamed Rice Cake</title>
+<utube>t9wtUVUcTwc</utube>
+<thumbnail>https://i.ytimg.com/vi/t9wtUVUcTwc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oe5viPNv0BPuV4d5ySRyKoAGTBY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook Beef Nilaga Filipino Recipe | Nilagang Baka (Beef Soup) Lutong Pinoy</title>
+<utube>puR5EVhQ_So</utube>
+<thumbnail>https://i.ytimg.com/vi/puR5EVhQ_So/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uKEcNiLxKufT0z1BelbhpUPs13w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kare Kare Filipino Recipe with Beef Shanks Tripes Oxtail Peanut Butter Unsalted</title>
+<utube>SjzJEgjSJM8</utube>
+<thumbnail>https://i.ytimg.com/vi/SjzJEgjSJM8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tPYda4lvW33N6qfMIitVfpcPF-k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Pochero Filipino Recipe Lutong Pinoy</title>
+<utube>TNkZR2qQ02g</utube>
+<thumbnail>https://i.ytimg.com/vi/TNkZR2qQ02g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Xjn0gGWvPP68VhYplpEi5-bwKCs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Binagoongan Lutong Pinoy Filipino Recipe</title>
+<utube>KcNQd7f5zDA</utube>
+<thumbnail>https://i.ytimg.com/vi/KcNQd7f5zDA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UGPRQDaEaMZiNxDzYFodCy8-YP0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Filipino Chicken Savory Adobo Recipe | Filipino Recipes Lutong Pinoy</title>
+<utube>39UUlXFbY0w</utube>
+<thumbnail>https://i.ytimg.com/vi/39UUlXFbY0w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wIGJ1STrNvCcZhzv1oRv-QIRo2E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vegetarian Pancit Sotanghon Recipe Healthy Lutong Pinoy Filipino Recipe</title>
+<utube>CdWUbhiWf6M</utube>
+<thumbnail>https://i.ytimg.com/vi/CdWUbhiWf6M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MAtgzcSOlwwFD0p4XnjwGveLwFs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sinigang na Tanigue Sour Cod Steak Fish Soup with Hipon | Filipino Recipe Lutong Pinoy</title>
+<utube>AEoCRhiPrug</utube>
+<thumbnail>https://i.ytimg.com/vi/AEoCRhiPrug/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vFsTBStEtqraZnLhBWyM_ik2Dyw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pancit Sotanghon Guisado with Shrimps Chicken and Fish Ball | Free Filipino Recipes Lutong Pinoy</title>
+<utube>MhujztarsmM</utube>
+<thumbnail>https://i.ytimg.com/vi/MhujztarsmM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SqysxgOIEAmbiSNYidBExNRmwTI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Caldereta Baka or Bakareta Filipino Recipe Left Over Idea</title>
+<utube>0oxe-t08g2U</utube>
+<thumbnail>https://i.ytimg.com/vi/0oxe-t08g2U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xx6AAL4OaurRCPpZiXOPbwB2zpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shrimp Ukoy Okuy Fried | Free Filipino Recipes Lutong Pinoy</title>
+<utube>rA1HS0yo23I</utube>
+<thumbnail>https://i.ytimg.com/vi/rA1HS0yo23I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2ln6M05beEGojIzkt8se2jkSvv8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginisang Beef with Green Baguio String Beans Filipino Recipe Lutong Pinoy</title>
+<utube>4WO0Tb0M0v4</utube>
+<thumbnail>https://i.ytimg.com/vi/4WO0Tb0M0v4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BkmVpTmLg7fuFpub2vxzC7Ygz2U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chorizo or Longanisa Pang Bata Pinoy Almusal Lutong Pinoy</title>
+<utube>366CTUHNtAE</utube>
+<thumbnail>https://i.ytimg.com/vi/366CTUHNtAE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LX_l-U3TWGfFY0TADoTHLuNvy2U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Luncheon Meat Spam Pang Bata Pinoy Almusal Lutong Pinoy</title>
+<utube>SOff3skM_tQ</utube>
+<thumbnail>https://i.ytimg.com/vi/SOff3skM_tQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4aRxWGVXG8mK1FGHaOtolajs8EM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginisang Munggo Monggo (Mung Beans) with Gata Coconut Milk  Ampalaya, Tokwa and Spinach</title>
+<utube>iVc6FF3GxEM</utube>
+<thumbnail>https://i.ytimg.com/vi/iVc6FF3GxEM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LMD3EMaquj1MOSXK9l26d5CEkYs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tortang Talong with Giniling Filipino Recipe | Lutong Pinoy</title>
+<utube>JuQEYPeEwOE</utube>
+<thumbnail>https://i.ytimg.com/vi/JuQEYPeEwOE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pi03np9ZxS-txbTldFX_sykFMjg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hamonado Pineapple Recipe Filipino Homemade Ham | How to Cook and Make it</title>
+<utube>AP_bsXhwrmc</utube>
+<thumbnail>https://i.ytimg.com/vi/AP_bsXhwrmc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ztOYxJ6bRfUJ4Pjhzf-j-te5LGQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kare Kare Oxtails Peanut Stew with Tripe a Filipino Recipe | Lutong Pinoy</title>
+<utube>04U_ZzMvaGQ</utube>
+<thumbnail>https://i.ytimg.com/vi/04U_ZzMvaGQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6-xTLsa7P0txCTSfoJC0XlgMD8c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pancit Luglug with Chicken Lutong Pinoy Filipino Recipe Masarap to</title>
+<utube>VXRE0SZV9ws</utube>
+<thumbnail>https://i.ytimg.com/vi/VXRE0SZV9ws/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gZ8a6O4maECMX8ZpZndX94J13Do</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mga Pang Almusal Filipino Breakfasts Recipes Lutong Pinoy</title>
+<utube>ldPEX5u3HpE</utube>
+<thumbnail>https://i.ytimg.com/vi/ldPEX5u3HpE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7Br_qOZOucHiVLDuR7Jx_Y37QPc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Ginataang Monggo with Malunggay and Tokwa | Lutong Pinoy Filipino Recipe</title>
+<utube>c9tK-sOKouY</utube>
+<thumbnail>https://i.ytimg.com/vi/c9tK-sOKouY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tso464WSFWo3KvRk7tpGx7WpKAU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Pancit Bihon with Cilantro | Filipino Recipe Lutong Pinoy</title>
+<utube>DmvqxTYt8Hs</utube>
+<thumbnail>https://i.ytimg.com/vi/DmvqxTYt8Hs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d7Z_XeSGTDjPJmUeB3CwUtbkDgw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Misua Soup with Hard Boiled Eggs Soup and Chicken Dumplings!</title>
+<utube>-4k8kqpO3tA</utube>
+<thumbnail>https://i.ytimg.com/vi/-4k8kqpO3tA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M3SNxzy2WE3OCMgbDpyYi6H89Ac</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tokwa't Baboy with Cilantro Recipe | Lutong Pinoy Free Filipino Recipe</title>
+<utube>y0AIU1XuP-Q</utube>
+<thumbnail>https://i.ytimg.com/vi/y0AIU1XuP-Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vPzjHI43xn_ckvMB6_1ExGqdB6M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Arroz Caldo Recipe | Chicken and Rice Porridge Free Filipino Recipe Lutong Pinoy</title>
+<utube>xDvcj0LdR8Q</utube>
+<thumbnail>https://i.ytimg.com/vi/xDvcj0LdR8Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t4Skg2bGBtfT03Sn8FIGOkh515Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bakareta Beef Caldereta Filipino Recipe Lutong Pinoy</title>
+<utube>9VkIfrycDOU</utube>
+<thumbnail>https://i.ytimg.com/vi/9VkIfrycDOU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JpPN3o01AD-8ACtwxNzAylQBsgc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Yema   Free Filipino Recipe Lutong Pinoy</title>
+<utube>6NmNgZpzDW0</utube>
+<thumbnail>https://i.ytimg.com/vi/6NmNgZpzDW0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QanrhiPvg7zJdeCq8vMBUpN7k4I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

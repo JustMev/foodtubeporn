@@ -1,0 +1,19 @@
+<channels>
+
+<channel>
+<name>Turkish Cooking with Easy Turkish Recipes</name>
+<thumbnail>http://i.imgur.com/yMsYOYs.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Turkish/Easy_Turkish_Recipes_Turkish.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Turkish with Easy Turkish Recipes</info>
+</channel>
+
+<channel>
+<name>Turkish Cooking with Turkish cuisine</name>
+<thumbnail>http://i.imgur.com/G9PQobB.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Turkish/Turkish cuisine.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Turkish with Turkish cuisine</info>
+</channel>
+
+</channels>

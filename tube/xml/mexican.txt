@@ -1,0 +1,11 @@
+<channels>
+
+<channel>
+<name>Mexican Cooking with how to Cook Mexican Food</name>
+<thumbnail>http://i.imgur.com/2dg1p1P.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Mexican/HowToCookMexicanFood_Mexican.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Mexican with how to Cook Mexican Food</info>
+</channel>
+
+</channels>

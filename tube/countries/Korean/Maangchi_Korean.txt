@@ -1,0 +1,1734 @@
+<item>
+<title>Scallop Doenjang Jjigae (Paeju-doenjang-jjigae: 패주된장찌개)</title>
+<utube>1N8HVNO4mqo</utube>
+<thumbnail>https://i.ytimg.com/vi/1N8HVNO4mqo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Rbfe9pjNZPX6zDriRlMtScMYWtI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean honey butter fried chicken (허니버터치킨)</title>
+<utube>KXajiO-30Ow</utube>
+<thumbnail>https://i.ytimg.com/vi/KXajiO-30Ow/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=czuBsXp3cVKFdGj691Duxxfst8k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cut up a whole chicken (닭 자르는 법)</title>
+<utube>qTcvt23MV2A</utube>
+<thumbnail>https://i.ytimg.com/vi/qTcvt23MV2A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pYUI1X0R_1jdX-TZ8DLJYKQBqtY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy stuffed green chili pepper kimchi (Gochu-sobagi: 고추소박이)</title>
+<utube>jDIV_a5kkfQ</utube>
+<thumbnail>https://i.ytimg.com/vi/jDIV_a5kkfQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GOiMm4aez_A01vCJq-PVXAa01xc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean crab stew (Kkotgetang: 꽃게탕)</title>
+<utube>Q7tQiDTQzHs</utube>
+<thumbnail>https://i.ytimg.com/vi/Q7tQiDTQzHs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HNM0tqfDmFN3WKbT6k37U9JZQc8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crunchy squid threads (Ojingeo-silchae-bokkeum: 오징어실채볶음)</title>
+<utube>OW-8RB33g4Q</utube>
+<thumbnail>https://i.ytimg.com/vi/OW-8RB33g4Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tH-fWCY1OhhZCSI98hB7eNwJPDo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hotteok filled with vegetables & noodles (Yachae hotteok: 야채호떡)</title>
+<utube>2v5K2-pOOt8</utube>
+<thumbnail>https://i.ytimg.com/vi/2v5K2-pOOt8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fmDb7P6G5jkQQISaPMN4WwHx3iA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet & sour seaweed salad (Miyeok-muchim: 미역무침)</title>
+<utube>vhrBlvmpJTY</utube>
+<thumbnail>https://i.ytimg.com/vi/vhrBlvmpJTY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pQuQ3HmULgglDTVNXAat2DZusxw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold, spicy, chewy noodles (Bibim-naengmyeon: 비빔냉면)</title>
+<utube>QYl0n8YpojA</utube>
+<thumbnail>https://i.ytimg.com/vi/QYl0n8YpojA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LXRbRWXTVwGt6iyJVpzDd2r-c-U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold noodle soup (Mul-naengmyeon: 물냉면)</title>
+<utube>QIgLSko7Kmc</utube>
+<thumbnail>https://i.ytimg.com/vi/QIgLSko7Kmc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eQYe75Y1XJye4VVS3bPwef4sRwI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crunchy Korean Peanut Cookies (Matdongsan: 맛동산)</title>
+<utube>1II9XfW5NdY</utube>
+<thumbnail>https://i.ytimg.com/vi/1II9XfW5NdY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A5geWpBpCQaboqVHyxHg4wJZMfs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom soup ( 버섯들깨탕: Beoseot-deulkkae-tang)</title>
+<utube>tvHKfNRKVUk</utube>
+<thumbnail>https://i.ytimg.com/vi/tvHKfNRKVUk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_vrdKBUqXq-S-DydDwthuClXiLw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple ssamjang, a Korean dipping sauce (Sagwa-ssamjang: 사과쌈장)</title>
+<utube>VYb97sUCtGc</utube>
+<thumbnail>https://i.ytimg.com/vi/VYb97sUCtGc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j_0L2JdiDRDwuLFXOVp6lOAfjFs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ox bone hangover soup (Ppyeo-haejangguk: 뼈해장국)</title>
+<utube>o0JKPJkCMuI</utube>
+<thumbnail>https://i.ytimg.com/vi/o0JKPJkCMuI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iVaRuu1r2uEz5mqloRDYtpETuv4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stir-fried garlic scapes (Maneuljjong-bokkeum: 마늘쫑볶음)</title>
+<utube>9U2NBWRsYOc</utube>
+<thumbnail>https://i.ytimg.com/vi/9U2NBWRsYOc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pS2WgO792lB86LfybRi0FjTEXBo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shrimp & Asian chive dumplings (Saeu buchu mandu: 새우 부추 만두)</title>
+<utube>2KyR3rtrh9Y</utube>
+<thumbnail>https://i.ytimg.com/vi/2KyR3rtrh9Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GXA4rsdbekp2_VGbm_uKTR2olBs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled yellow corvina (Gulbi-gui: 굴비구이)</title>
+<utube>PMyAJ2M2DSc</utube>
+<thumbnail>https://i.ytimg.com/vi/PMyAJ2M2DSc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cCU26G6duhXOs72swmnWSxKqRNM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green plum syrup, liquor, & pickles (Maesil-cheong, Maesilju, & Maesil-jangajji: 매실청, 매실주, 매실 장아찌)</title>
+<utube>Vrg-0IXeqw8</utube>
+<thumbnail>https://i.ytimg.com/vi/Vrg-0IXeqw8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=naAsql560HmJSG3RZ8W5xerwTpY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make soy milk (Duyu: 두유)</title>
+<utube>z1HHx93EBLE</utube>
+<thumbnail>https://i.ytimg.com/vi/z1HHx93EBLE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pdKINkhSaE2m4k4OZlq845739Ec</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bibimbap (비빔밥) & Dolsot-bibimbap (돌솥비빔밥)</title>
+<utube>6QQ67F8y2b8</utube>
+<thumbnail>https://i.ytimg.com/vi/6QQ67F8y2b8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dXeLOg8GPxvVn6J336e5jrR_20Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pan-fried meat & tofu patties (Wanja jeon: 완자전)</title>
+<utube>elcH2ebWXLQ</utube>
+<thumbnail>https://i.ytimg.com/vi/elcH2ebWXLQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8ZrrPJTRb8YLh7nD482hbo1o2sw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Celebrating 1 million subscriptions!</title>
+<utube>1rHP0XnJE0g</utube>
+<thumbnail>https://i.ytimg.com/vi/1rHP0XnJE0g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lhS0DE-AYXMWgbQocATCw9b23lY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach side dish (Sigeumchi-namul: 시금치나물)</title>
+<utube>P4JgJec4QQI</utube>
+<thumbnail>https://i.ytimg.com/vi/P4JgJec4QQI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=s7S-BwWd_wfvj5IoK8AsZUdKlAs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy beef and vegetable soup (Yukgaejang: 육개장)</title>
+<utube>FxSmBbXSDl0</utube>
+<thumbnail>https://i.ytimg.com/vi/FxSmBbXSDl0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iinIL1ZlfFcBjdyVcfhJ2L3xaEU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Egg bread (Gyeran-ppang: 계란빵)</title>
+<utube>ejXopUU3UoI</utube>
+<thumbnail>https://i.ytimg.com/vi/ejXopUU3UoI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4k4xgwzFO2x1qdtgKZ0OCy80vHs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seasoned raw beef (Yukhoe: 육회)</title>
+<utube>pa-A2plYl7Q</utube>
+<thumbnail>https://i.ytimg.com/vi/pa-A2plYl7Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UQDPiTMSE__pDGcSn4n90r8tgDc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy braised tofu (Dubu-jorim: 두부조림)</title>
+<utube>ob2CYmTx9PM</utube>
+<thumbnail>https://i.ytimg.com/vi/ob2CYmTx9PM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0G2SPWhgxmO1rT1k9jWSP4fC38o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy garlic fried chicken (Kkanpunggi: 깐풍기)</title>
+<utube>VjneaJ0hmgs</utube>
+<thumbnail>https://i.ytimg.com/vi/VjneaJ0hmgs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rooQIVV3amwUIHhtD8k5In61ab8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean soybean paste stew (Doenjang-jjigae: 된장찌개)</title>
+<utube>Slj_fM1jQVo</utube>
+<thumbnail>https://i.ytimg.com/vi/Slj_fM1jQVo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=w-KAxqK5EvYdcXYtfBqan1mEy4M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Korean fermented soybean paste (Doenjang: 된장) & soy sauce (Guk-ganjang: 국간장)</title>
+<utube>PGhKwCq7SZk</utube>
+<thumbnail>https://i.ytimg.com/vi/PGhKwCq7SZk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fOk8ASau7nlM3I_ndtulkh6tSas</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Abalone porridge (Jeonbokjuk: 전복죽)</title>
+<utube>C-wzQwyR2Mo</utube>
+<thumbnail>https://i.ytimg.com/vi/C-wzQwyR2Mo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iyvBNRutKRgvXeJksVq4oyUP4b8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Red Bean Porridge (Patjuk: 팥죽)</title>
+<utube>zU4KpvG_a1I</utube>
+<thumbnail>https://i.ytimg.com/vi/zU4KpvG_a1I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SWa9JBj6PF6MOUkR0-o3FPPEfPs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yuja tea (Yujacha: 유자차)</title>
+<utube>DOV-gx8Wjmc</utube>
+<thumbnail>https://i.ytimg.com/vi/DOV-gx8Wjmc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8DqGwWiUF-5lMka5X858Z08KKfI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Noodle Soup (Guksu: 국수)</title>
+<utube>ZRESBwsRS_U</utube>
+<thumbnail>https://i.ytimg.com/vi/ZRESBwsRS_U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bCsnwanMSsqf432s0u4biU3GtDI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Twisted Korean doughnuts (Kkwabaegi: 꽈배기)</title>
+<utube>lLy9ojZZFOw</utube>
+<thumbnail>https://i.ytimg.com/vi/lLy9ojZZFOw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d0BysGictIOqEkbMR1-tlaeCw2s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Lettuce Salad (Sangchu-geotjeori: 상추겉절이)</title>
+<utube>umRqugilSkA</utube>
+<thumbnail>https://i.ytimg.com/vi/umRqugilSkA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7xFpVbzlF6L4LSZbht_SYtVaEks</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mung Bean Pancakes (Bindaetteok: 빈대떡)</title>
+<utube>QJJawgzmgOk</utube>
+<thumbnail>https://i.ytimg.com/vi/QJJawgzmgOk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6ffnBIgk8quPgtSvDb9N4akzmqU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mung bean sprout side dish (Sukjunamul-muchim: 숙주나물무침)</title>
+<utube>-cACd0cF92Q</utube>
+<thumbnail>https://i.ytimg.com/vi/-cACd0cF92Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3qE30d0my5d18Mrc_m9vxZu12ig</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to grow mung bean sprouts (Sukju-namul: 숙주나물)</title>
+<utube>-m74YYPVbWU</utube>
+<thumbnail>https://i.ytimg.com/vi/-m74YYPVbWU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FesCgT4gggcYSuqFUc6RPYDJLKg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi Stew (Kimchi-jjigae: 김치찌개)</title>
+<utube>rJgb92JWMCE</utube>
+<thumbnail>https://i.ytimg.com/vi/rJgb92JWMCE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6rA1-Z1Q1jvLAJBKwIiitX9vbgw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cupcake rice cake (Hobaktteok: 호박떡)</title>
+<utube>oyHey-NQP5E</utube>
+<thumbnail>https://i.ytimg.com/vi/oyHey-NQP5E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2rol2Sp3jcEdJ4XVldSJXSqrxHs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Taro Soup (Toran-guk: 토란국)</title>
+<utube>xQTPS29YIAY</utube>
+<thumbnail>https://i.ytimg.com/vi/xQTPS29YIAY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Jk1rBtR9_ize40uDTj3tZWxW9t0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style Curry Rice (Ka-re rice: 카레라이스)</title>
+<utube>QZOWDJcHyIs</utube>
+<thumbnail>https://i.ytimg.com/vi/QZOWDJcHyIs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mryS1SNRYJnTn7Xy4bWZVJLfw-8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Pancakes (Soegogi-jeon: 쇠고기전)</title>
+<utube>Pr6fpcaXOhA</utube>
+<thumbnail>https://i.ytimg.com/vi/Pr6fpcaXOhA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uOdZQOxt87KbbfEDUQR0C3tpLRM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style iced coffee (Naeng-keopi: 냉커피)</title>
+<utube>4zNKal3PI_Q</utube>
+<thumbnail>https://i.ytimg.com/vi/4zNKal3PI_Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=R0HfJ3A4Ub3TIu9mC2xEycf_2E4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised Kimchi & Pork (kimchijjim: 김치찜)</title>
+<utube>1BTXGrW4rJM</utube>
+<thumbnail>https://i.ytimg.com/vi/1BTXGrW4rJM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-_38W9TC77MRbN5b16_8gc0bX2g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pan-fried Rice Cakes with sweet bean filling (Bukkumi: 부꾸미)</title>
+<utube>ZFXIpaFWfSM</utube>
+<thumbnail>https://i.ytimg.com/vi/ZFXIpaFWfSM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1G1dfClJ-FosT0o4ihtcX0B3AyM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginseng Chicken Soup (Samgyetang:삼계탕)</title>
+<utube>JUmFtHqwrnk</utube>
+<thumbnail>https://i.ytimg.com/vi/JUmFtHqwrnk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=F3HFuwgUAfn-OrZNeoo0LQT1uHs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold Cucumber Soup (Oi-naengguk: 오이냉국)</title>
+<utube>U1Mg8EVh-xk</utube>
+<thumbnail>https://i.ytimg.com/vi/U1Mg8EVh-xk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QGDlZ1_EdC86gsKqpLsB-zxm19I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice ball lunch box (Jumeokbap: 주먹밥)</title>
+<utube>mYObH4uH9u4</utube>
+<thumbnail>https://i.ytimg.com/vi/mYObH4uH9u4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HQfhAnccYysj6JX6FzQTvnyeZ-A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shrimp Pancakes (Saeujeon: 새우전)</title>
+<utube>jLN3vM7l9Hk</utube>
+<thumbnail>https://i.ytimg.com/vi/jLN3vM7l9Hk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bn5h1s-yR3goDXhCKGoIF75jOjA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Multigrain rice (Japgokbap: 잡곡밥)</title>
+<utube>SB771cg5d08</utube>
+<thumbnail>https://i.ytimg.com/vi/SB771cg5d08/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ECJ5onCUVNjVFN7lB3iZ14Y2FJE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Makgeolli (Korean rice liquor: 막걸리)</title>
+<utube>cO2s1TavdAE</utube>
+<thumbnail>https://i.ytimg.com/vi/cO2s1TavdAE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0CDWidgLkY7L9EurDhcbVEXPIIA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork wraps (Bo-ssam: 보쌈)</title>
+<utube>t0Ta_ckc9O0</utube>
+<thumbnail>https://i.ytimg.com/vi/t0Ta_ckc9O0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IkCHZ4m6DmG2dODr9bxz38nl1iU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy cucumber side dish (Oi-muchim: 오이무침)</title>
+<utube>zau-F0L_hrY</utube>
+<thumbnail>https://i.ytimg.com/vi/zau-F0L_hrY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=88CyEY64u-MgxkFgwgPVGmfVFMM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yaksik (Sweetened Rice with Dried Fruits & Nuts: 약식)</title>
+<utube>w_QL-oTsPOg</utube>
+<thumbnail>https://i.ytimg.com/vi/w_QL-oTsPOg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MUwEdMzwASeP0ojjI-LA_miQ4mM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yellow Pickled Radish (Danmuji:단무지)</title>
+<utube>1Pzd5op36fk</utube>
+<thumbnail>https://i.ytimg.com/vi/1Pzd5op36fk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4_E5T52oZvw0kZ08B2INCU530n8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised baby potatoes (Algamja-jorim: 알감자조림)</title>
+<utube>jikaamQz01A</utube>
+<thumbnail>https://i.ytimg.com/vi/jikaamQz01A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=z10QYtc3JOf14vPWh0SfVrgm8mM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy fire chicken with cheese (Cheese Buldak: 치즈불닭)</title>
+<utube>T9uI1-6Ac6A</utube>
+<thumbnail>https://i.ytimg.com/vi/T9uI1-6Ac6A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JrPoEXF5IyiRpod-ORvv7ZrN_aE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggs in soy broth (Gyeran-jangjorim: 계란장조림)</title>
+<utube>u5ZYf5FM2EU</utube>
+<thumbnail>https://i.ytimg.com/vi/u5ZYf5FM2EU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BD0zkiVXkAX0xNSI9niwzg4pJmo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style pork cutlet (Donkkaseu: 돈까스)</title>
+<utube>LWlafDHuwHo</utube>
+<thumbnail>https://i.ytimg.com/vi/LWlafDHuwHo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KnRKayquFYxwU7Ot2fZMJpaEr_o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef and vegetable porridge (Soegogi-yachaejuk: 쇠고기야채죽)</title>
+<utube>jjTOcr1pd-M</utube>
+<thumbnail>https://i.ytimg.com/vi/jjTOcr1pd-M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=R20mVoIa2ElryBttywvmQUy2FNs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cornbread (Oksusu-ppang: 옥수수빵)</title>
+<utube>sMxzW9zGdII</utube>
+<thumbnail>https://i.ytimg.com/vi/sMxzW9zGdII/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EY0xCutQqqoiDVw2stiIDwaUtOM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi soft tofu stew (kimchi sundubu-jjigae: 김치순두부찌개)</title>
+<utube>BvZ9m3Bikuw</utube>
+<thumbnail>https://i.ytimg.com/vi/BvZ9m3Bikuw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ILMiLiy7ch9YjXhJrJnZYc23ggo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggplant and soy sauce side dish (가지나물)</title>
+<utube>763VL30t8vg</utube>
+<thumbnail>https://i.ytimg.com/vi/763VL30t8vg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X-hiT5VXZPbHRftSyBjFIdidglQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pomegranate tea (Seoklyu-cha: 석류차)</title>
+<utube>7cyWyOKanDk</utube>
+<thumbnail>https://i.ytimg.com/vi/7cyWyOKanDk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MT0WNnMUPrcBlJDJtUXXsWx9e6A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Clam Stew (Jogaetang: 조개탕)</title>
+<utube>30hOXeydZDU</utube>
+<thumbnail>https://i.ytimg.com/vi/30hOXeydZDU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iep_64VBWBNxVW2Te6ifJt71bI4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet and Sour Pork (Tangsuyuk: 탕수육)</title>
+<utube>TEszU_dPh-U</utube>
+<thumbnail>https://i.ytimg.com/vi/TEszU_dPh-U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sZUB4UHPrzSJ6oaRboIWZKo3wUw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy grilled squid (Grilled calamari, ojingeo-tonggui: 오징어통구이)</title>
+<utube>LFlzbfnmsas</utube>
+<thumbnail>https://i.ytimg.com/vi/LFlzbfnmsas/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GoTeagEx9yC35bu-Wpzm19MgiRA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bok Choy doenjang muchim (청경채 무침)</title>
+<utube>ZGNZ0rlM810</utube>
+<thumbnail>https://i.ytimg.com/vi/ZGNZ0rlM810/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T5RAPM_4oEw4yaOXB4FEb81JIV4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lobster gimbap (kimbap:랍스터 김밥)</title>
+<utube>-Zf--SCa1_0</utube>
+<thumbnail>https://i.ytimg.com/vi/-Zf--SCa1_0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mJTcwoZR_B-kO2g-2CKUeKLWKcM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japchae (Glass noodles stir-fried with vegetables: 잡채)</title>
+<utube>i1djfV9uigc</utube>
+<thumbnail>https://i.ytimg.com/vi/i1djfV9uigc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qAvX4SKkhmcBOmVvmuHsIs6N6so</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Army base stew (Budae-jjigae: 부대찌개)</title>
+<utube>euVyBKNfxkk</utube>
+<thumbnail>https://i.ytimg.com/vi/euVyBKNfxkk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qg8aZAgYjOlo4S6BT-ZQJUQ7GIw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sesame Seed Candy (깨강정)</title>
+<utube>bOdvPiPOoks</utube>
+<thumbnail>https://i.ytimg.com/vi/bOdvPiPOoks/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QK9-vxq8cA7DlZhi2kcuJMm5sBc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Toasted Sesame Seeds (볶은깨)</title>
+<utube>_waJ6mAouN0</utube>
+<thumbnail>https://i.ytimg.com/vi/_waJ6mAouN0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lbkpZmSQdXpX5_b5btmvZSxIPsE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Style Green Chili Pepper Pickles (Gochu-jangajji: 고추장아찌)</title>
+<utube>taWE6WGrsWE</utube>
+<thumbnail>https://i.ytimg.com/vi/taWE6WGrsWE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UFrDXL3WYKjls0Y5QZVdEfdPG4Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>King-size kimchi dumplings (Kimchi-Wangmandu: 김치왕만두)</title>
+<utube>fpyEDjmTeGo</utube>
+<thumbnail>https://i.ytimg.com/vi/fpyEDjmTeGo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5Gv2hqQPpjMEsT8RLpmlMQoiIIM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dumpling Wrappers (Mandu-pi: 만두피)</title>
+<utube>s0bliFUHiVA</utube>
+<thumbnail>https://i.ytimg.com/vi/s0bliFUHiVA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tKnXsUVBfyV6pKGYboQuCg3y5Y4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Minced, Seasoned, & Grilled Beef Ribs (Tteokgalbi : 떡갈비)</title>
+<utube>1CNdHgGB1Tc</utube>
+<thumbnail>https://i.ytimg.com/vi/1CNdHgGB1Tc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NcGBn2aF6hfyoQNlHqGanD4UdxM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet, Sour, & Spicy Mushrooms with Water Dropwort (버섯 미나리 초무침)</title>
+<utube>X_gUQaIMiik</utube>
+<thumbnail>https://i.ytimg.com/vi/X_gUQaIMiik/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BYJPXigdI1GUgB8ZIZ0tZX7shlU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry jam (Ttalgi-jam: 딸기잼)</title>
+<utube>DrMuNvFjwiI</utube>
+<thumbnail>https://i.ytimg.com/vi/DrMuNvFjwiI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oxz1ukUbe508dcsIKcvM7NwZrJ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bread rolls or dinner rolls (Roll-ppang: 롤빵)</title>
+<utube>T8NVqDQZWgk</utube>
+<thumbnail>https://i.ytimg.com/vi/T8NVqDQZWgk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pqLDlZFch07sj3U9biC63fVTwEI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kale pancakes (kale-jangtteok: 케일장떡)</title>
+<utube>YjYQfZNtc38</utube>
+<thumbnail>https://i.ytimg.com/vi/YjYQfZNtc38/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Y5yfJ_u1QmEZnDHi9_N28blf6Nk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi making FAQ</title>
+<utube>c3aZ3nBMtNU</utube>
+<thumbnail>https://i.ytimg.com/vi/c3aZ3nBMtNU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AajgOn_5LlH7aIGEL2S5_s0HR0s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Traditional kimchi recipe (Tongbaechu-kimchi: 통배추김치)</title>
+<utube>eTucCw1w6Ak</utube>
+<thumbnail>https://i.ytimg.com/vi/eTucCw1w6Ak/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=m3TWK9JYhqYgXqb0Xg6fEpQKP38</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Style Potato Salad (Gamja salad: 감자샐러드)</title>
+<utube>KF5ykCgn41Q</utube>
+<thumbnail>https://i.ytimg.com/vi/KF5ykCgn41Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zDHo4tK1UPvAOJo5MpGsJDkCZ3s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seaweed Soup with Mussels (Honghap Miyeokguk: 홍합미역국)</title>
+<utube>GHF1wRj92n0</utube>
+<thumbnail>https://i.ytimg.com/vi/GHF1wRj92n0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CmJkXa4l5laGz58ceaQxH1pmKl8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi hot dog</title>
+<utube>i5IjL_-Xqug</utube>
+<thumbnail>https://i.ytimg.com/vi/i5IjL_-Xqug/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AV03JeDM0zmRVZaHm1Sosk24DAo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean pancake with ramps</title>
+<utube>GOmXR9mPdFg</utube>
+<thumbnail>https://i.ytimg.com/vi/GOmXR9mPdFg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ekyetp2Y0KY3OSxrLHIuZY95xHk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy Stir-fried fish cakes (Eomuk-bokkeum: 어묵볶음)</title>
+<utube>m4E4xtHqQUM</utube>
+<thumbnail>https://i.ytimg.com/vi/m4E4xtHqQUM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lyHDGqPCzN8xkPnHcAcBEV_Vqu8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade fish cakes (Eomuk: 어묵)</title>
+<utube>zJzgZGGF4PU</utube>
+<thumbnail>https://i.ytimg.com/vi/zJzgZGGF4PU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6bGEfhBcRni1ieoU-DsYaCn20Pw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make gimbap (aka kimbap: 김밥)</title>
+<utube>Y-Y9CXGRJPU</utube>
+<thumbnail>https://i.ytimg.com/vi/Y-Y9CXGRJPU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PM10l1I9_avJXa-9_O3FQ-PanPE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Chicken Noodle Soup from Scratch (Kalguksu: 칼국수)</title>
+<utube>5Ceg1QN56p0</utube>
+<thumbnail>https://i.ytimg.com/vi/5Ceg1QN56p0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ai87TV5_Vteags9TbNzm9KwEu6s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean fish-shaped bread with red bean filling (Bungeoppang: 붕어빵)</title>
+<utube>UN1yoJQe_KU</utube>
+<thumbnail>https://i.ytimg.com/vi/UN1yoJQe_KU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G68vHAh0NHjqYYpVUCRLnUTNikw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style roasted seaweed (Gim-Gui: 김구이)</title>
+<utube>EWK0AIPrVSc</utube>
+<thumbnail>https://i.ytimg.com/vi/EWK0AIPrVSc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rBOx7wxb64QEz_cm1-ihn2CVOwc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Pork Belly (Samgyeopsal-gui: 삼겹살구이)</title>
+<utube>23tRGHUX3qM</utube>
+<thumbnail>https://i.ytimg.com/vi/23tRGHUX3qM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4RkDOfiGzd6lLAO439HfpkT8evw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi and Mackerel Camping Stew (김치찌개)</title>
+<utube>MuJFwXGA_XM</utube>
+<thumbnail>https://i.ytimg.com/vi/MuJFwXGA_XM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_2G_GnkdLxnFfPR7n6mK5RsXHUY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seasoned Dried Anchovies (Myeolchi-muchim: 멸치무침)</title>
+<utube>yLmPDCWbGnU</utube>
+<thumbnail>https://i.ytimg.com/vi/yLmPDCWbGnU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IqxXiKBNADeRygANd-eXA1n0nj4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crunchy Korean fried chicken recipe (Dakgangjeong: 닭강정)</title>
+<utube>jSh6VJYRV-g</utube>
+<thumbnail>https://i.ytimg.com/vi/jSh6VJYRV-g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t7B36ODBbM73Eznbw1hHgGSHexs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chestnut Cookies (Yul-lan: 율란)</title>
+<utube>BnxF6nc0ZGA</utube>
+<thumbnail>https://i.ytimg.com/vi/BnxF6nc0ZGA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fPxnTjZJDfItXh8nvAEXKOMeu7U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Gochujang (Yakgochujang: 약고추장)</title>
+<utube>yRPJtXCYQ7E</utube>
+<thumbnail>https://i.ytimg.com/vi/yRPJtXCYQ7E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IW2XMDVW5YhmbblkQKCa5hxJGY8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice cake soup (Tteokguk: 떡국)</title>
+<utube>plvT0vWBK14</utube>
+<thumbnail>https://i.ytimg.com/vi/plvT0vWBK14/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wwBf0_xmUDfo5LFDlQK3PcUcj8s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Non-Spicy Kimchi (White kimchi: Baek-Kimchi: 백김치)</title>
+<utube>SXtZz4_7yIw</utube>
+<thumbnail>https://i.ytimg.com/vi/SXtZz4_7yIw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vCTc7-keLlQFVcWTaxuFnx3dGkk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginseng Jujube Tea (Insam-Daechucha: 인삼대추차)</title>
+<utube>7cKmsLzbNx8</utube>
+<thumbnail>https://i.ytimg.com/vi/7cKmsLzbNx8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nLpTo8RTx9YJ0Ctw1PvwHiP-wpU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ppopgi (old-fashioned Korean sugar candy) 뽑기</title>
+<utube>CWs0m3auwnc</utube>
+<thumbnail>https://i.ytimg.com/vi/CWs0m3auwnc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9YKveVdZ6_xGBOSsJuv_OxcD7Uc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>LA meetup & potluck</title>
+<utube>VOeWdKdGQFw</utube>
+<thumbnail>https://i.ytimg.com/vi/VOeWdKdGQFw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J3zWmxAHvXlbiEl8Y_xm1nFuLzQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy grilled chicken and vegetables (Dakgalbi: 닭갈비)</title>
+<utube>ncv1NbfeqNw</utube>
+<thumbnail>https://i.ytimg.com/vi/ncv1NbfeqNw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IvPGE-SYninbAHmm1UVMVuITLd0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yanggaeng (Sweet Red Bean Jelly: 양갱)</title>
+<utube>urIYGtwMCxw</utube>
+<thumbnail>https://i.ytimg.com/vi/urIYGtwMCxw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HPMEZ2j5nZHNyCb_zrlBz2i_aoI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled pork skewers (Maekjeok: 맥적)</title>
+<utube>0ak695hPhXk</utube>
+<thumbnail>https://i.ytimg.com/vi/0ak695hPhXk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LjjMkhvGR1kWx5qdqVI2JULGYtE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tuna sandwich (참치 샌드위치)</title>
+<utube>SU12dtgfqkE</utube>
+<thumbnail>https://i.ytimg.com/vi/SU12dtgfqkE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=osGbIYGedWb-x-Z1_M_CPOdLYYg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Korean ramyeon (Ramyeon: 라면) aka ramen</title>
+<utube>zCy8X9H3TEs</utube>
+<thumbnail>https://i.ytimg.com/vi/zCy8X9H3TEs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Br4nDkqOxexHFE1dZhmZXtyvt8o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold salad with spicy mustard sauce (Gyeoja Naengchae) 겨자냉채</title>
+<utube>syXmyL-Jx7k</utube>
+<thumbnail>https://i.ytimg.com/vi/syXmyL-Jx7k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lwKEQk0A7GBTB2X-L0KoZettj1E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Soju Watermelon Cocktail (수박소주)</title>
+<utube>5zbORadjdzE</utube>
+<thumbnail>https://i.ytimg.com/vi/5zbORadjdzE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Oob8zLqO_fz6mj6O4ZWc4hS2yfg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef and Radish Soup (Soegogi Muguk: 쇠고기무국)</title>
+<utube>NefPocSaeDU</utube>
+<thumbnail>https://i.ytimg.com/vi/NefPocSaeDU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-ozc1Jf5B4ZJNUPXe7coanrWPH4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Rice (Bokkeumbap: 볶음밥)</title>
+<utube>ls6pAFqtM1E</utube>
+<thumbnail>https://i.ytimg.com/vi/ls6pAFqtM1E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lQmYSJkzYj-PvkCoaQrrixE6xBY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet rice cakes with edible flowers (Hwajeon: 화전)</title>
+<utube>5lG8tnr27Hg</utube>
+<thumbnail>https://i.ytimg.com/vi/5lG8tnr27Hg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_xpU6a3pNvPnqljNBka3sElWXDk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ganjang-gejang (Raw crabs marinated in soy sauce: 간장게장)</title>
+<utube>c8euGxGY32I</utube>
+<thumbnail>https://i.ytimg.com/vi/c8euGxGY32I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EYDYkgpkd6y9Ugs1kmoQcmuq13g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cucumber kimchi (Oi-sobagi: 오이소박이)</title>
+<utube>ApQUENQbgiY</utube>
+<thumbnail>https://i.ytimg.com/vi/ApQUENQbgiY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=w6FAMe8aUmd45NGjH_8UD1aU3z0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lamb's Quarters side dish (Myeongajunamul: 명아주나물)</title>
+<utube>z6bAtiphB6w</utube>
+<thumbnail>https://i.ytimg.com/vi/z6bAtiphB6w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Bh8ikEvQRC6Vcd6dD8X36TmcPvA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi fried rice: 김치볶음밥</title>
+<utube>Lf44Fk7H24s</utube>
+<thumbnail>https://i.ytimg.com/vi/Lf44Fk7H24s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=agDOB_Nr9qtraW_p09fmIrOviNY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Soybean sprout side dish (Kongnamul muchim: 콩나물무침)</title>
+<utube>NWfhIq_MiiU</utube>
+<thumbnail>https://i.ytimg.com/vi/NWfhIq_MiiU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b1vhVwIWq7nUpwiIpsUaSMWA1Vg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to grow Soybean Sprouts (Kongnamul: 콩나물)</title>
+<utube>fkZKGX9VIfc</utube>
+<thumbnail>https://i.ytimg.com/vi/fkZKGX9VIfc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=P9gccRvHqP0HXJJBNYYg8RVmpXA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mumallaengi-Muchim (seasoned dried radish strips: 무말랭이무침)</title>
+<utube>MZmW3NQYHwQ</utube>
+<thumbnail>https://i.ytimg.com/vi/MZmW3NQYHwQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WkEsojb1stON2CD7_lEuwBjR_Rs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry milkshake (딸기셰이크)</title>
+<utube>IsOXUzQsZFg</utube>
+<thumbnail>https://i.ytimg.com/vi/IsOXUzQsZFg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mdyRcsOlpqnJBKbsrTFeCz0pC2M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Raw fish bibimbap (Hoedeopbap: 회덮밥)</title>
+<utube>Vc7l8ZpIQ-s</utube>
+<thumbnail>https://i.ytimg.com/vi/Vc7l8ZpIQ-s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9MO5VVekuZztrVYaZH6Kon9hvt4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style fried snapper with seasoning sauce/ 생선구이 양념잠</title>
+<utube>jRNDKz_aUMw</utube>
+<thumbnail>https://i.ytimg.com/vi/jRNDKz_aUMw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=P4pM7sCy2ed60JbTjoitLysPRlA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to clean and salt a fish</title>
+<utube>OU5KAGRyevI</utube>
+<thumbnail>https://i.ytimg.com/vi/OU5KAGRyevI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rp6Ik2L8CAXU4BeG0qeBxhlxTa4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Broccoli Tree Salad (브로콜리 샐러드)</title>
+<utube>cfToOMC7Wyk</utube>
+<thumbnail>https://i.ytimg.com/vi/cfToOMC7Wyk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=995AR9nmuvKVxDS228vPKjqOFGQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef short ribs soup (Galbitang: 갈비탕)</title>
+<utube>MeTwuomNAV0</utube>
+<thumbnail>https://i.ytimg.com/vi/MeTwuomNAV0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hAEGHCVq0wgpO4jrOogdqVY-DQ0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean potato pancakes (Gamjajeon: 감자전)</title>
+<utube>4HPsl36bbIY</utube>
+<thumbnail>https://i.ytimg.com/vi/4HPsl36bbIY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tTfHAavxKSyM8-OjD42aib1y4hE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make rice (밥)</title>
+<utube>5JZs0wNKYY4</utube>
+<thumbnail>https://i.ytimg.com/vi/5JZs0wNKYY4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MfY5vsKLWua2-o-plttqMg8HIQE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>kimchi soup (kimchiguk: 김치국)</title>
+<utube>Eb82-kqS4fA</utube>
+<thumbnail>https://i.ytimg.com/vi/Eb82-kqS4fA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gMTfBBoKgj0dCCHblU7Jcc7i2AM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Royal Court Stir Fried Rice Cakes (Gungjung tteokbokki: 궁중떡볶이)</title>
+<utube>w_GBd5YJtFU</utube>
+<thumbnail>https://i.ytimg.com/vi/w_GBd5YJtFU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MkkJQc2wa9einUq9XUHgZF6mbkk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy rice cake (Ddeokbokki: 떡볶이)</title>
+<utube>TA3Uo3a9674</utube>
+<thumbnail>https://i.ytimg.com/vi/TA3Uo3a9674/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sieefwdvZu_1nWPQ7GKEaV2QHro</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Garaeddeok (long cylinder shaped rice cake: 가래떡)</title>
+<utube>oMz4t12DIGQ</utube>
+<thumbnail>https://i.ytimg.com/vi/oMz4t12DIGQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NouZYKPItBYW8JhZq6YJ8xoj0bs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fish cake soup (Eomukguk: 어묵국)</title>
+<utube>0zeboswxMeQ</utube>
+<thumbnail>https://i.ytimg.com/vi/0zeboswxMeQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZBUOt7qf8YTZq0C4LDX3mqYWX2w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Steamed Pears (Baesuk: 배숙)</title>
+<utube>EzPf6WDmKEc</utube>
+<thumbnail>https://i.ytimg.com/vi/EzPf6WDmKEc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SXB8w0EZZIBdhJeOiCfpTKBkqQk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Tofu Pickles (Dubujangajji: 두부장아찌)</title>
+<utube>I3B-ro8ZepQ</utube>
+<thumbnail>https://i.ytimg.com/vi/I3B-ro8ZepQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2HEphplGWbCgGq43uLqWbCpilJg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy pork BBQ (Dwaejibulgogi: 돼지불고기)</title>
+<utube>h942eNDfxmM</utube>
+<thumbnail>https://i.ytimg.com/vi/h942eNDfxmM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gr_8zs669KfyWgnO7WPEH2Zivds</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bulgogi (Korean BBQ: 불고기)</title>
+<utube>3qBjL_HGvco</utube>
+<thumbnail>https://i.ytimg.com/vi/3qBjL_HGvco/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=m9jIOLv5OZm7GLHbSImj2Gtm48k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ssamjang (Korean dipping sauce: 쌈장)</title>
+<utube>P7_X99-h9L4</utube>
+<thumbnail>https://i.ytimg.com/vi/P7_X99-h9L4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ri59A0j00Uuwu0AINbN42Njmiq8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>White steamed rice cake (Baekseolgi: 백설기)</title>
+<utube>1MzJqEiF6uY</utube>
+<thumbnail>https://i.ytimg.com/vi/1MzJqEiF6uY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zVvUfrqyL5kqGloOqOnS0Xi-yE8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet potato rice (Gogumabap: 고구마밥)</title>
+<utube>tf3yN39L8hM</utube>
+<thumbnail>https://i.ytimg.com/vi/tf3yN39L8hM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ul0KwDzoKkEV9G3O7lo6k7TOCgg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised Saury (Mackerel pike: 꽁치조림)</title>
+<utube>ijSaV_9vWlE</utube>
+<thumbnail>https://i.ytimg.com/vi/ijSaV_9vWlE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Er5SSbosmFFfUT5VXTdyPIHvk_k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Noodles with blackbean sauce (Jjajangmyeon: 짜장면)</title>
+<utube>F4Cm75Qvk4A</utube>
+<thumbnail>https://i.ytimg.com/vi/F4Cm75Qvk4A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hGbsJ00YdHeLiW8WFJhpu9IGhWY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dorajimuchim (Spicy bellflower root: 도라지무침)</title>
+<utube>PWxD2RBTn5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/PWxD2RBTn5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fSPZ0zDGgPPAvX4kCCFoPf4h24Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold eggplant soup (Gajinaengguk: 가지냉국)</title>
+<utube>lcbnniOuTKQ</utube>
+<thumbnail>https://i.ytimg.com/vi/lcbnniOuTKQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=njPRqPGqbOZ7ZPxyRyi0aKJpeEU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Black Sesame Seed Porridge (Heukimjajuk:흑임자죽)</title>
+<utube>2wlFyY2JCvQ</utube>
+<thumbnail>https://i.ytimg.com/vi/2wlFyY2JCvQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PBeuPSffp5cv8YA1E-965YRxvo0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ginger tea (Saenggangcha:생강차)</title>
+<utube>hC3TPFjyAIw</utube>
+<thumbnail>https://i.ytimg.com/vi/hC3TPFjyAIw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=swNmrJjPSI9vTA72Ck_HmKrIKwU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef short ribs (galbijjim: 갈비찜)</title>
+<utube>lfER2igLvig</utube>
+<thumbnail>https://i.ytimg.com/vi/lfER2igLvig/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YwApH5uFdcT2-9IbEN4R11OeKdw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seasoned acorn jelly (Dotorimuk: 도토리묵)</title>
+<utube>Bi2iV3tbM7k</utube>
+<thumbnail>https://i.ytimg.com/vi/Bi2iV3tbM7k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UkpqeAHiIkZrp1pJZHCwIC7Xaq0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Springtime Korean picnic in Connecticut</title>
+<utube>N_xOFLri5tg</utube>
+<thumbnail>https://i.ytimg.com/vi/N_xOFLri5tg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jYWqmVE3aJvzG5lnj1u8e-lzPHU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dongchimiguksu: cold noodle soup with radish water kimchi</title>
+<utube>lone_v6zDds</utube>
+<thumbnail>https://i.ytimg.com/vi/lone_v6zDds/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6oQSBciQs-WigGjzqq8HrhSfbRw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean radish water kimchi (Dongchimi: 동치미)</title>
+<utube>ATe2jm83MSg</utube>
+<thumbnail>https://i.ytimg.com/vi/ATe2jm83MSg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f_fLT1KCxhoPYDi5kGCeTPRxfaw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Korean hot pepper paste (Gochujang: 고추장)</title>
+<utube>1yuaUJ2oh6Q</utube>
+<thumbnail>https://i.ytimg.com/vi/1yuaUJ2oh6Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FhoFoIVZOdQV1ykhdjt9m68hu_E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed Chicken Rice</title>
+<utube>ufBB14_lEC4</utube>
+<thumbnail>https://i.ytimg.com/vi/ufBB14_lEC4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OB32-Ax9rdhOjXJvL7izy9kcDPY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Walnuts wrapped in persimmons (gotgamssam: 곶감쌈)</title>
+<utube>E0KudVD-0Ig</utube>
+<thumbnail>https://i.ytimg.com/vi/E0KudVD-0Ig/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8XKXu7OA90o6ApyDocGISFG0JdA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Paua fritters</title>
+<utube>HM6NGT2j3j0</utube>
+<thumbnail>https://i.ytimg.com/vi/HM6NGT2j3j0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2xKBaOktEeelCwwxC-habIlGowc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi and readers on Korean TV</title>
+<utube>y1Tp8oL5pfU</utube>
+<thumbnail>https://i.ytimg.com/vi/y1Tp8oL5pfU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0WE3PzmC6bQj89fi8gSSM8_cfyQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Squid soup (Ojingeoguk:오징어국)</title>
+<utube>_tD_CaCsHgU</utube>
+<thumbnail>https://i.ytimg.com/vi/_tD_CaCsHgU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FiBCl1YVaAQr9pCzjYK2MK-RpdM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken adobo</title>
+<utube>VTdvGhhS1yE</utube>
+<thumbnail>https://i.ytimg.com/vi/VTdvGhhS1yE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_aWxFZe4c19C6LA8ETIA-49Y7W4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ponytail Kimchi (Chonggak kimchi: 총각김치)</title>
+<utube>MN5AhKpLEK0</utube>
+<thumbnail>https://i.ytimg.com/vi/MN5AhKpLEK0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dydh3cVwXhvQD5ZReMp4beUOVXs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fish Head Mee Hoon</title>
+<utube>LDfSS1mRdmA</utube>
+<thumbnail>https://i.ytimg.com/vi/LDfSS1mRdmA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=frMJNEx7m0VqL6FSYAYLdWS4_6c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>녹차 찹쌀떡 (Chapssaltteok)</title>
+<utube>Q8sG9BBrJ6M</utube>
+<thumbnail>https://i.ytimg.com/vi/Q8sG9BBrJ6M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KESAL2U-jBNWmJ64qMwilR5fe9w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chapssaltteok (Korean style mochi)</title>
+<utube>xM1bRpXTa0U</utube>
+<thumbnail>https://i.ytimg.com/vi/xM1bRpXTa0U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=08OG2ujcfgIJHG_Vj3xta6SGp_o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy mixed noodles (Bibimguksu:비빔국수)</title>
+<utube>IP187wjY9Os</utube>
+<thumbnail>https://i.ytimg.com/vi/IP187wjY9Os/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iPwMypHlM4237HH_xpMkkIFA_vU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Endive mash and Dutch meatballs</title>
+<utube>95hF0Qrjk58</utube>
+<thumbnail>https://i.ytimg.com/vi/95hF0Qrjk58/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n15O1OBTgEXg3CE-4WhY4yrS504</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy radish and beef soup</title>
+<utube>FqyskLIwtD8</utube>
+<thumbnail>https://i.ytimg.com/vi/FqyskLIwtD8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=S4zsdFTpFEMCfiGzuNfPFbzzH2g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gado-gado vegetable salad</title>
+<utube>_wIVmPSotow</utube>
+<thumbnail>https://i.ytimg.com/vi/_wIVmPSotow/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Tog3NJYqN7ZWxZ3z7vVAdBRHCDE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy braised chicken (Dakbokkeumtang: 닭볶음탕)</title>
+<utube>bDXL_g6kJ5U</utube>
+<thumbnail>https://i.ytimg.com/vi/bDXL_g6kJ5U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wiK32dOwIM6Jl_UqbtpgRDQuK2A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Thai papaya salad (Som tam)</title>
+<utube>vhjcNoS9Y1o</utube>
+<thumbnail>https://i.ytimg.com/vi/vhjcNoS9Y1o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L2pZebZuFAmaNaKs9H2PSY3tM28</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Popcorn chicken gizzards</title>
+<utube>AQ8BMD8J8Xc</utube>
+<thumbnail>https://i.ytimg.com/vi/AQ8BMD8J8Xc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=riBVly_XvQ4IzRg94z1BAboIOeo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy whelks with noodles (Golbaengimuchim: 골뱅이무침)</title>
+<utube>V2Zpybxv-FU</utube>
+<thumbnail>https://i.ytimg.com/vi/V2Zpybxv-FU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rnQLG4_XJf1ptulB8JLD3o__E78</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fluffy hot steamed eggs (뚝배기계란찜)</title>
+<utube>WuNrLgh2Vw0</utube>
+<thumbnail>https://i.ytimg.com/vi/WuNrLgh2Vw0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XnFALj0EYmXMRDpPJmufRm511Tw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi's mapa tofu (마파두부)</title>
+<utube>trqL9v7GSGw</utube>
+<thumbnail>https://i.ytimg.com/vi/trqL9v7GSGw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aeQFRQBHOqCL78KJRgRFaUB6Auw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet pumpkin with rice stuffing (Danhobakbap: 단호박밥)</title>
+<utube>GlpUeMpZalk</utube>
+<thumbnail>https://i.ytimg.com/vi/GlpUeMpZalk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VefLshmde1usU5XC2-ft1WOiD6Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Soybean sprouts bibimbap (kongnamulbap: 콩나물밥)</title>
+<utube>6rkOm6kbPqo</utube>
+<thumbnail>https://i.ytimg.com/vi/6rkOm6kbPqo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AxG4iK7uzdC2XYbbzo_5wWF2RQQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised chicken with vegetables (Dakjjim:안동찜닭)</title>
+<utube>I16AwkdIZOw</utube>
+<thumbnail>https://i.ytimg.com/vi/I16AwkdIZOw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LM_6NLNsHbjDdQhstpDLkMsWxYs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gapshida itinerary announced</title>
+<utube>5zitncBJGbQ</utube>
+<thumbnail>https://i.ytimg.com/vi/5zitncBJGbQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qmVYUwe_GH5A5UqEkpibVy7AbJA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised mackerel with radish (고등어무조림)</title>
+<utube>wp4tO6jO8Wo</utube>
+<thumbnail>https://i.ytimg.com/vi/wp4tO6jO8Wo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=i-O0QiD8QS8h8DX778ry8iey3pE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Injeolmi rice cake (인절미)</title>
+<utube>B0ASFDM1sd8</utube>
+<thumbnail>https://i.ytimg.com/vi/B0ASFDM1sd8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=14D5QgtFgYn5npzHi440Hi3JLDQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cubed radish kimchi (kkakdugi: 깍두기)</title>
+<utube>z5NXchQKy-s</utube>
+<thumbnail>https://i.ytimg.com/vi/z5NXchQKy-s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u9wg3YHUhcExlw7Cpwv6EsjhT_w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed shishito peppers: Kkwarigochujjim(꽈리고추찜)</title>
+<utube>FhsPjilYZqo</utube>
+<thumbnail>https://i.ytimg.com/vi/FhsPjilYZqo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KUSmrKD_MATEz7n_D32rj7aE5-g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Announcing my new cooking show</title>
+<utube>WxbvhqOCe9U</utube>
+<thumbnail>https://i.ytimg.com/vi/WxbvhqOCe9U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ixTpy81ZcKIlorw0aWx08Ao5Zbk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seasoned seaweed (Doljabanmuchim: 돌자반무침)</title>
+<utube>9HJmNN_Rixg</utube>
+<thumbnail>https://i.ytimg.com/vi/9HJmNN_Rixg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fa8CTNWr8O5n8se1eoK-k8yRxzE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet manju pastry (만주)</title>
+<utube>PNaYmKGFQ6E</utube>
+<thumbnail>https://i.ytimg.com/vi/PNaYmKGFQ6E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=g6jvGakVPFFBqKSfe1l9KlQMl_o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pollock fish pancakes (dongtaejeon: 동태전)</title>
+<utube>hamzyhUXeMc</utube>
+<thumbnail>https://i.ytimg.com/vi/hamzyhUXeMc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eq3XuGiKidzIpGtGZ0hoRpbERzo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Patbingsu at Google in NYC (팥빙수)</title>
+<utube>LJKhdWcLWmQ</utube>
+<thumbnail>https://i.ytimg.com/vi/LJKhdWcLWmQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3RRkEBSOFThfsRAGDn8XLR_-h6o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tuna pancakes (Chamchijeon: 참치전)</title>
+<utube>-tymold77XQ</utube>
+<thumbnail>https://i.ytimg.com/vi/-tymold77XQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sZF3N5e5_uCOoKSgyYBHaHP0CT0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mungbean sprouts side dish (Sukjunamul): Maangchi is nextup!</title>
+<utube>sb75wK8ZOgw</utube>
+<thumbnail>https://i.ytimg.com/vi/sb75wK8ZOgw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Aom_Or7Fl-U-WI_JmjUwqaA9uSw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fresh fish feast (Hoe: 회)</title>
+<utube>n84LxhhJIGs</utube>
+<thumbnail>https://i.ytimg.com/vi/n84LxhhJIGs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=axFMq-v1e2RrZ6g3Ciir8Ez2C1o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mugwort soup and mugwort rice cake (Ssukguk: 쑥국)</title>
+<utube>ekLdiKTFIT8</utube>
+<thumbnail>https://i.ytimg.com/vi/ekLdiKTFIT8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=30wCgKlBEhphUHx-cWAIgwAbjYI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green onion pancake (Pajeon: 파전)</title>
+<utube>RXcsHj1l-Pc</utube>
+<thumbnail>https://i.ytimg.com/vi/RXcsHj1l-Pc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kVWS3WLB3i3Kf5VlAzQUszIFba0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi's nextup</title>
+<utube>poHaKq7DDFE</utube>
+<thumbnail>https://i.ytimg.com/vi/poHaKq7DDFE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zBoM6fGZJJEKk9sS5YyCh82metU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy raw fish soup (mulhoe: 물회)</title>
+<utube>VxxQkvR7r3s</utube>
+<thumbnail>https://i.ytimg.com/vi/VxxQkvR7r3s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_MW4wcpi96p60x9tMobA1X7dk0o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Emergency kimchi (yangbaechu-kimchi: 양배추김치)</title>
+<utube>CqY22Y7hVgE</utube>
+<thumbnail>https://i.ytimg.com/vi/CqY22Y7hVgE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vt_Jd_olJhlH_2nDcB401rLyj1c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green chili pancake (gochujeon:고추전)</title>
+<utube>T0JAebTQ5gs</utube>
+<thumbnail>https://i.ytimg.com/vi/T0JAebTQ5gs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VHlSKRvWOrFH2gBAIqdUQHygT9w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean fried chicken recipe (Yangnyeom-tongdak: 양념통닭)</title>
+<utube>0smDhdzqXu8</utube>
+<thumbnail>https://i.ytimg.com/vi/0smDhdzqXu8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UazmqHJW83yiOQtMSjb8hDq4tYg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pine nut porridge (Jatjuk: 잣죽)</title>
+<utube>7LCRotZ43zE</utube>
+<thumbnail>https://i.ytimg.com/vi/7LCRotZ43zE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=61TKReoh-ckP2FJj8B_CY-CBhkg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Aster Scaber side dish (취나물)</title>
+<utube>zQEyoKq9aTk</utube>
+<thumbnail>https://i.ytimg.com/vi/zQEyoKq9aTk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sc3GoEIvBiHa0q0blEq5l_l1DKY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dipping sauce for raw fish</title>
+<utube>farz2S2nHVo</utube>
+<thumbnail>https://i.ytimg.com/vi/farz2S2nHVo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=30zHOKlJ9RaJbNOQ5sysUt49hwU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Candied sweet potatoes (Matang: 마탕)</title>
+<utube>zl9EyxgC3w8</utube>
+<thumbnail>https://i.ytimg.com/vi/zl9EyxgC3w8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0ozIZgkaO5Sn4dLXhThbaJSTwUQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ox bone soup (Seolleongtang: 설렁탕)</title>
+<utube>-eQb_6iUwRw</utube>
+<thumbnail>https://i.ytimg.com/vi/-eQb_6iUwRw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W4tuwq_2G6SyW8ymelWfLQeCfFM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fermented squid side dish (오징어젓)</title>
+<utube>B0qSB2RV0FM</utube>
+<thumbnail>https://i.ytimg.com/vi/B0qSB2RV0FM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XxIwCCDaR-ljowcYb9RiKOm-wxU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yubuchobap (Seasoned tofu pockets stuffed with rice: 유부초밥)</title>
+<utube>NsSCdIpv2xs</utube>
+<thumbnail>https://i.ytimg.com/vi/NsSCdIpv2xs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wUCn1rBnucwBGrE6AKQGNRgKdl0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi meetup in LA, 2010</title>
+<utube>71ZptV1_3qQ</utube>
+<thumbnail>https://i.ytimg.com/vi/71ZptV1_3qQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XQwiJv70ZCdlD4SutwsjJFTom2E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Collard Greens Side Dishes</title>
+<utube>27dNH2ouZ_Y</utube>
+<thumbnail>https://i.ytimg.com/vi/27dNH2ouZ_Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zcxvflJjhsruvCnJF_5pvVfp1qU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>White radish salad (Musaengchae:무생채)</title>
+<utube>S2EvtWdrN_k</utube>
+<thumbnail>https://i.ytimg.com/vi/S2EvtWdrN_k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J8evFald-40izTqU_V-xSPVZqIk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean spicy stir-fried pork (Jeyukbokkeum:제육볶음)</title>
+<utube>uE22T4Mlv0I</utube>
+<thumbnail>https://i.ytimg.com/vi/uE22T4Mlv0I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rhtjce4F2JfT-18w6NDmkDC0NgU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean food photo contest and LA meetup</title>
+<utube>U1dQv1pojVc</utube>
+<thumbnail>https://i.ytimg.com/vi/U1dQv1pojVc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7iRmIuat05FKX7z-3IJ5gMgxrpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed pork buns (Jjinppang-mandu: 찐빵만두)</title>
+<utube>jzG5CXE0hfo</utube>
+<thumbnail>https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-IrVxlJWMwMCG-hoyIYhciDzcy4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled mackerel (고등어구이)</title>
+<utube>ZMYtYwjLQCE</utube>
+<thumbnail>https://i.ytimg.com/vi/ZMYtYwjLQCE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3WW30ubii7dEEj6gRtBuoT4ekRo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi on Fox 9 Morning News, July 11 2010</title>
+<utube>zao-13bWYaI</utube>
+<thumbnail>https://i.ytimg.com/vi/zao-13bWYaI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mXlzzyMjR1W0dNoh57FkKMlVCb4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi pancakes (kimchijeon: 김치전)</title>
+<utube>sJzhriY1C70</utube>
+<thumbnail>https://i.ytimg.com/vi/sJzhriY1C70/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kLoZV_4ETO5CHZydguyTHzaHuWU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>New York Kimchi Contest - June 26, 2010</title>
+<utube>0d_J9w_Cnac</utube>
+<thumbnail>https://i.ytimg.com/vi/0d_J9w_Cnac/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DuyDsEG9kQQ1-Sj0XNTUBstadZc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean beef barbecue ("LA Galbi": 갈비)</title>
+<utube>JAF3Bpy-AsY</utube>
+<thumbnail>https://i.ytimg.com/vi/JAF3Bpy-AsY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G3krPqJ23zKsMnJ-H50j0anmhmw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dried pollock soup ("bugeoguk":북어국)</title>
+<utube>iRkOZ9UVhHU</utube>
+<thumbnail>https://i.ytimg.com/vi/iRkOZ9UVhHU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iQ6VAV9vt8o4PJ9fRehyUeiKJh4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean-style sautéed sea plant ("miyeok julgi bokkeum":미역줄기볶음)</title>
+<utube>FdJOZaQaCEk</utube>
+<thumbnail>https://i.ytimg.com/vi/FdJOZaQaCEk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T3CFqD8fWBilkuuSDLRIpZrt-N4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Skewered pancakes with vegetables and beef (Pasanjeok: 파산적)</title>
+<utube>9F7mbBoz5fc</utube>
+<thumbnail>https://i.ytimg.com/vi/9F7mbBoz5fc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=95J0fkTaiyLqT6eFBSZI1aYmK0Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seasoned dried shredded squid (ojingeochae muchim: 오징어채무침)</title>
+<utube>hK2pNakR8eg</utube>
+<thumbnail>https://i.ytimg.com/vi/hK2pNakR8eg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vHbLIBqjADtifM6w4_Tj7C5nJAE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean-style steak tartare ("yukhoe")</title>
+<utube>0IKLOu7Wyhg</utube>
+<thumbnail>https://i.ytimg.com/vi/0IKLOu7Wyhg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1hRsIMev4CE7PS5ZlAUL9eLmI9E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet pancakes (Hotteok: 호떡)</title>
+<utube>R_MPEq53QFs</utube>
+<thumbnail>https://i.ytimg.com/vi/R_MPEq53QFs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=alTALQl8qmWDvAExROjuaOIQY8U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken and rice porridge (dakjuk: 닭죽)</title>
+<utube>tUtlhEz4Was</utube>
+<thumbnail>https://i.ytimg.com/vi/tUtlhEz4Was/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WvAQiWETT9OhMlvLpp2cSpVURjE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ground-soybean stew ("kongbiji jjigae":콩비지찌개)</title>
+<utube>LIzIyN3Jsh0</utube>
+<thumbnail>https://i.ytimg.com/vi/LIzIyN3Jsh0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TnQf3YEVeelgPRci8H3BtxvFmII</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Easy Kimchi (막김치)</title>
+<utube>0sX_wDCbeuU</utube>
+<thumbnail>https://i.ytimg.com/vi/0sX_wDCbeuU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Fmqhf1yPb1gNkhvbinTKiZe4a_s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mung bean jelly (Cheongpomukmuchim: 청포묵)</title>
+<utube>j5nlGYcVpNY</utube>
+<thumbnail>https://i.ytimg.com/vi/j5nlGYcVpNY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=adjMTOyrbFywxBJrBVtTA8vlEIo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean ginger cookies ("maejakgwa":매작과)</title>
+<utube>Uqb7EapjQ1Q</utube>
+<thumbnail>https://i.ytimg.com/vi/Uqb7EapjQ1Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5LPb1aYU6UjtUFmP8K9nRXFUykM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage and soy bean paste soup ("baechu doenjangguk":배추된장국)</title>
+<utube>nq4a_lnKD3A</utube>
+<thumbnail>https://i.ytimg.com/vi/nq4a_lnKD3A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0wzNkdAge0FTCgfFe5Offjsr6Gc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rainbow rice cake ("mujigaeddeok":무지개떡)</title>
+<utube>26e_NGOHo18</utube>
+<thumbnail>https://i.ytimg.com/vi/26e_NGOHo18/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pHkFq_GJOTfs7wxNkcJh-FvwXhA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Squash pancakes (hobakjeon:호박전)</title>
+<utube>xTiqBDd1eZE</utube>
+<thumbnail>https://i.ytimg.com/vi/xTiqBDd1eZE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L4MbfTr2VCk8DJ9ck20b7hjxYKM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sujebi (hand-torn noodle soup:수제비)</title>
+<utube>CfSrXq7tVyQ</utube>
+<thumbnail>https://i.ytimg.com/vi/CfSrXq7tVyQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ybEbq22xPmxkRu1IAHEluE2Jlg0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean grilled pork belly BBQ ("samgyeopsal":삼겹살)</title>
+<utube>Vy19VqtYiKc</utube>
+<thumbnail>https://i.ytimg.com/vi/Vy19VqtYiKc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2vben3zoadAecPx_5ztdxbgsYUY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cooking Korean food: 2 tofu sidedishes</title>
+<utube>J64UnMsgq_0</utube>
+<thumbnail>https://i.ytimg.com/vi/J64UnMsgq_0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ewDn-gFaMeTuGPZtMdqRKORCxTg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean-style Cucumber Pickles (oijangajji:오이장아찌)</title>
+<utube>8pBA-3_8uDA</utube>
+<thumbnail>https://i.ytimg.com/vi/8pBA-3_8uDA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lxV3ow5a1X_eHhVYGnclbT5_oBU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Perilla leaf kimchi and perilla leaf pickles (깻잎)</title>
+<utube>2zTCa7Ea23c</utube>
+<thumbnail>https://i.ytimg.com/vi/2zTCa7Ea23c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7r7EEFCFpV_E9CnInp-cDPz-5HY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salty beef side dish ("jangjorim":장조림)</title>
+<utube>_TpmH0XF_dE</utube>
+<thumbnail>https://i.ytimg.com/vi/_TpmH0XF_dE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=V8w5ov0owKGAo8nnsk-B8mw6bJg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Soy milk noodle soup ("kongguksu":콩국수)</title>
+<utube>WySFTC3TAOw</utube>
+<thumbnail>https://i.ytimg.com/vi/WySFTC3TAOw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n3RRYCaOJmS8h1liVjTPWIz6Gzo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi NYC meetup June 2009</title>
+<utube>HeMi1DEzI-g</utube>
+<thumbnail>https://i.ytimg.com/vi/HeMi1DEzI-g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PP0By190-QHHEddsVo2wKvRGE0w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Triangle kimbap (samgak kimbap:삼각김밥)</title>
+<utube>Dy8rQ6nQ954</utube>
+<thumbnail>https://i.ytimg.com/vi/Dy8rQ6nQ954/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tHPDkSka8SwtKNxXddmz_uXAF44</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Broccoli pickles</title>
+<utube>jCPnPCQzgR8</utube>
+<thumbnail>https://i.ytimg.com/vi/jCPnPCQzgR8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XnFXmNpNbUFlHn8Xn905Wz1uurM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork bone soup ("gamjatang":감자탕)</title>
+<utube>pT5_tkC7p9M</utube>
+<thumbnail>https://i.ytimg.com/vi/pT5_tkC7p9M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xlxDxHnbsR4HNcn254hTNiGolh8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet flower pancakes ("hwajeon")</title>
+<utube>aIHRyiug7w8</utube>
+<thumbnail>https://i.ytimg.com/vi/aIHRyiug7w8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pkD3ELMK3xo6jMvnCxojMwQH1KI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy stir-fried fish cake side dish ("uhmook bokkeum":어묵볶음)</title>
+<utube>jFc4lb1d-dM</utube>
+<thumbnail>https://i.ytimg.com/vi/jFc4lb1d-dM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Fhk3opdViddOWcfPsNUxzIdGD64</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Soybean sprout soup (kongnamulguk:콩나물국)</title>
+<utube>iXCHOEPKqOs</utube>
+<thumbnail>https://i.ytimg.com/vi/iXCHOEPKqOs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CQkLvFrZVZbGMP1doujfp6MRIBU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi meetup in LA!</title>
+<utube>uZEAP9-NEHU</utube>
+<thumbnail>https://i.ytimg.com/vi/uZEAP9-NEHU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qp71V-KBmIuUN8m3HRy3rlFJ1fY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean abalone porridge (jeonbokjuk)</title>
+<utube>nByMbMaRmZI</utube>
+<thumbnail>https://i.ytimg.com/vi/nByMbMaRmZI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UjC83P8_2y0iAtiMOAc7h6biroA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean rice dessert drink (Shikhye:식혜)</title>
+<utube>neLyt1h5-1o</utube>
+<thumbnail>https://i.ytimg.com/vi/neLyt1h5-1o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QS9uCHQUn-B64vDeCc1-CWyEdEI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice cake soup (떡국)</title>
+<utube>P_PI1p3bnQU</utube>
+<thumbnail>https://i.ytimg.com/vi/P_PI1p3bnQU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pkDU0qRez_Fcj34mzlLLyoDGuMc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cooked radish side dish (Munamul:무나물)</title>
+<utube>b4Loq4mz9p4</utube>
+<thumbnail>https://i.ytimg.com/vi/b4Loq4mz9p4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T87fYD1eKnJ6kA2r5LlcYLVUeig</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tangsuyuk (Crunchy beef with sweet sour sauce)</title>
+<utube>atY6th-3vnI</utube>
+<thumbnail>https://i.ytimg.com/vi/atY6th-3vnI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QZP0NSIuWxN6NwYZ-a7sjnssiOM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean spicy seafood noodle soup (jjampong:짬뽕)</title>
+<utube>J4wTyYyb7ek</utube>
+<thumbnail>https://i.ytimg.com/vi/J4wTyYyb7ek/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n8Pv4zvmwWDmFc7ZYt-TBnVa4Zg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggplant side dish (Gajinamul:가지나물)</title>
+<utube>Jt4BRAUzcYc</utube>
+<thumbnail>https://i.ytimg.com/vi/Jt4BRAUzcYc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jcIchXMeC4h-FtZGtk_fpbcZ_kg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Butternut squash porridge (hobakjuk:호박죽)</title>
+<utube>rPIa5mGMpdg</utube>
+<thumbnail>https://i.ytimg.com/vi/rPIa5mGMpdg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3_uW3BUl8SaxqSKAe-bCdK0LsYg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy fish soup (maeuntang)</title>
+<utube>bxB5XuuNy1I</utube>
+<thumbnail>https://i.ytimg.com/vi/bxB5XuuNy1I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=og0qfJAfQ14SMVgC4kSHx_FiVB4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef short ribs (galbijjim:갈비찜)</title>
+<utube>-CP9gKR9GR4</utube>
+<thumbnail>https://i.ytimg.com/vi/-CP9gKR9GR4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_OMj3WL0zCtUQbKjgtyScgItt3o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice cake for Chuseok (Songpyeon:송편)</title>
+<utube>cZSihmpIGZE</utube>
+<thumbnail>https://i.ytimg.com/vi/cZSihmpIGZE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zQ8FBVd5zS7jqtw-q65rouV3MvQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Raw fish with rice and vegetables (Hoedeopbap)</title>
+<utube>RpIvDegEu2A</utube>
+<thumbnail>https://i.ytimg.com/vi/RpIvDegEu2A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=je3-YZjA0nXdrcOzAxmIsYJwEGs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold cucumber soup (Oinaengguk: 오이냉국)</title>
+<utube>Nm4A46PpHlo</utube>
+<thumbnail>https://i.ytimg.com/vi/Nm4A46PpHlo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cMWNEvVU8RMgQcYjvF75bRiRe-w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi meetup</title>
+<utube>mxLj6mxTvHM</utube>
+<thumbnail>https://i.ytimg.com/vi/mxLj6mxTvHM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZkUcJj5RimGEP7MNm65e_dv0cUk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed eggs (Gyeranjjim:계란찜)</title>
+<utube>-IicuyDgRyw</utube>
+<thumbnail>https://i.ytimg.com/vi/-IicuyDgRyw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2WkuRi75OgdVTPgy6LSF6yBE2AI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stirfried dried anchovy side dishes (myulchi bokkeum:멸치볶음)</title>
+<utube>_bu2n6D0yiM</utube>
+<thumbnail>https://i.ytimg.com/vi/_bu2n6D0yiM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T3k9u7VDylUGAc9ykGWYxoeDWXI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cold noodles (Naengmyeon: 냉면)</title>
+<utube>1Iq9jCEULhA</utube>
+<thumbnail>https://i.ytimg.com/vi/1Iq9jCEULhA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vHhGmq21CkeXFJ7jchu2rc51MjM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Young radish kimchi (yeolmu kimchi: 열무김치)</title>
+<utube>ZkxmncTRQZY</utube>
+<thumbnail>https://i.ytimg.com/vi/ZkxmncTRQZY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-VM8E4Tj_DftRMa2ez60RZjvcIE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making mandu (Korean dumplings: 만두)</title>
+<utube>zECZXmDmHR0</utube>
+<thumbnail>https://i.ytimg.com/vi/zECZXmDmHR0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_G_nP7eguqM2prC5pjqxEOdQMaw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean dessert (Sujeonggwa: 수정과)</title>
+<utube>TEXQko6yBg0</utube>
+<thumbnail>https://i.ytimg.com/vi/TEXQko6yBg0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QWPJqS2ucETdxMVxDrMe_jI03Xk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato side dishes (Gamjabokkeum: 감자볶음)</title>
+<utube>5kZTzEYlXUY</utube>
+<thumbnail>https://i.ytimg.com/vi/5kZTzEYlXUY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f94bWVlinai9calBU-FV7QoTDto</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet and crispy chicken wings (Dakgangjeong: 닭강정)</title>
+<utube>ldN2dCTdAMA</utube>
+<thumbnail>https://i.ytimg.com/vi/ldN2dCTdAMA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t4jVglKJf1dzfH36TRS87SzheoE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make traditional Korean rice cake (Gyeongdan: 경단)</title>
+<utube>4Saqaznxs8k</utube>
+<thumbnail>https://i.ytimg.com/vi/4Saqaznxs8k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KJjI2XPS-zPwOnSG-gaJ248fCYs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Haemul-sundubu-jjigae (Spicy soft tofu stew with seafood: 해물순두부찌개)</title>
+<utube>2HCwhBptOnA</utube>
+<thumbnail>https://i.ytimg.com/vi/2HCwhBptOnA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VTKokIYGQ8pKU4YQ7CYuPxD9LXo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maangchi has been tagged!</title>
+<utube>XO-_XEC0i5k</utube>
+<thumbnail>https://i.ytimg.com/vi/XO-_XEC0i5k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HiCuFokVIVsAy677smhFTwSED6E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean soybean side dish (Kongjorim: 콩조림)</title>
+<utube>9U2bsMxGNpI</utube>
+<thumbnail>https://i.ytimg.com/vi/9U2bsMxGNpI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3N2abA-P81OgkQHJC0O68RDxdSg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cucumber kimchi (oisobagi kimchi) and radish soup with beef</title>
+<utube>AifEPZZwRkw</utube>
+<thumbnail>https://i.ytimg.com/vi/AifEPZZwRkw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0aT83cO21BIffmT6RIW25eCpVik</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bibimbap</title>
+<utube>6KCWzRfFyr4</utube>
+<thumbnail>https://i.ytimg.com/vi/6KCWzRfFyr4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LnlL8XF7z_RPKZmKHPCYMA68GP8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seaweed soup (Miyeokguk: 미역국)</title>
+<utube>3iqxRPQvMn8</utube>
+<thumbnail>https://i.ytimg.com/vi/3iqxRPQvMn8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QRP6EZHJx_SO_GUS-e3IGUjeXDE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi stew (kimchi-jjigae) and a bean sprout side dish</title>
+<utube>sbmZjvjavaU</utube>
+<thumbnail>https://i.ytimg.com/vi/sbmZjvjavaU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JAjW-2lo9ZnYnYLbQr0wcdLfJPk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy Korean beef and vegetable soup ("yukgaejang":육개장)</title>
+<utube>8ViCgcNEYLQ</utube>
+<thumbnail>https://i.ytimg.com/vi/8ViCgcNEYLQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ekWhYsDE0XRl_srdqO5hFjW6L5A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean ginseng chicken soup (Samgyetang: 삼계탕)</title>
+<utube>NNHthPsujZA</utube>
+<thumbnail>https://i.ytimg.com/vi/NNHthPsujZA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6VZc3hFo_nhYOPsgTIh8qxmon8c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean spinach side dish (Sigeumchinamul: 시금치나물)</title>
+<utube>7JQPv0xzujg</utube>
+<thumbnail>https://i.ytimg.com/vi/7JQPv0xzujg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RsobD0ezCR6LvYLOcoIuV88CKWw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tteokbokki (Korean spicy rice cake)</title>
+<utube>QUmBqvMv89E</utube>
+<thumbnail>https://i.ytimg.com/vi/QUmBqvMv89E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EdH7Vh7IuqAVdeUrbplT7ekcwss</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make tuna gimbap</title>
+<utube>6NdWXqqiYuc</utube>
+<thumbnail>https://i.ytimg.com/vi/6NdWXqqiYuc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9s_B9fSRnoRJKGJE_rWHQvWUih0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style vegetable pancake ("yachaejeon")</title>
+<utube>lQ41-vzj_a8</utube>
+<thumbnail>https://i.ytimg.com/vi/lQ41-vzj_a8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EqEvcN3R4UWT-5L_tXyPdI1N_IA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Jjajangmyun (noodles with black sauce)</title>
+<utube>QtZMeLbTgMs</utube>
+<thumbnail>https://i.ytimg.com/vi/QtZMeLbTgMs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hpZ7yC-hwX0OE1pZy_XzpWVnXNo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making japchae (Korean stir fried noodles and vegetables: 잡채)</title>
+<utube>2inbxROOCzY</utube>
+<thumbnail>https://i.ytimg.com/vi/2inbxROOCzY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UiURT-Og_GYQ0UZtoEFnll_QR3I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean style  grilled beef</title>
+<utube>U3064TcbXsE</utube>
+<thumbnail>https://i.ytimg.com/vi/U3064TcbXsE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=a3qYdv22S_E4ya_XHuQYc28X71k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making kimchi</title>
+<utube>IeBR91ypxk4</utube>
+<thumbnail>https://i.ytimg.com/vi/IeBR91ypxk4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ScSQh5FIQNOfs9DBCTG9OoNbosY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cooking bulgogi and bulgogi stew</title>
+<utube>AoPeVS03A3A</utube>
+<thumbnail>https://i.ytimg.com/vi/AoPeVS03A3A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NowBKB4HZmlGklqH5nsOGVycMis</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cod pancake (Daegujeon)</title>
+<utube>OO3O8vwUm1Q</utube>
+<thumbnail>https://i.ytimg.com/vi/OO3O8vwUm1Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=p7_JKyS2A1tZ8X7TyGB06KILYBw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fermented soybean paste stew mixed with fresh salad (Doenjang-jjigae geotjeori bibimbap)</title>
+<utube>-rvjK0lE3z4</utube>
+<thumbnail>https://i.ytimg.com/vi/-rvjK0lE3z4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GQqEuAVpuH0lbDJb4yljUIvUcsI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stir-fried squid dish (Ojingeobokkeum:오징어볶음)</title>
+<utube>2OaNOLNUzO0</utube>
+<thumbnail>https://i.ytimg.com/vi/2OaNOLNUzO0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J8Sg--DA4chdXtOAAcAnZzHPLso</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

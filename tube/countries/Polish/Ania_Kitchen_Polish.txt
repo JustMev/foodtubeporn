@@ -1,0 +1,1746 @@
+<item>
+<title>Sauerkraut Pancakes - Fuczki - Recipe #256</title>
+<utube>76ncwhQoTWY</utube>
+<thumbnail>https://i.ytimg.com/vi/76ncwhQoTWY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yG5CEwZ7CfoJxuomR1Dvey9rwDI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Egg Salad - Salatka Jajeczna - Recipe #255</title>
+<utube>bHUT6xx-O94</utube>
+<thumbnail>https://i.ytimg.com/vi/bHUT6xx-O94/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GXUBU311VkUDFzK2GPVNrDcuT6c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coconut Macaroons - Kokosanki - Recipe #254</title>
+<utube>CeGQJai6klA</utube>
+<thumbnail>https://i.ytimg.com/vi/CeGQJai6klA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xQPhasMv2a3xQDyi8GYr18R6J2E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Brussel Sprouts - Brukselka Smazona - Recipe #253</title>
+<utube>RveSTORdE64</utube>
+<thumbnail>https://i.ytimg.com/vi/RveSTORdE64/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y4P9a8CDrT2ONP02XII_WQqXtME</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Our Camping Trip - Vlog #3</title>
+<utube>gP6copcxk70</utube>
+<thumbnail>https://i.ytimg.com/vi/gP6copcxk70/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VVBJOoPU9T87lZj8l_eplbLIDzw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Trip To Poland - Vlog #2</title>
+<utube>cs_ybDlxfmc</utube>
+<thumbnail>https://i.ytimg.com/vi/cs_ybDlxfmc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CJ2X7mOLeXabzhL8zxeZ0JIxKFs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Trip to Poland - Vlog #1</title>
+<utube>ECDejfpY1wM</utube>
+<thumbnail>https://i.ytimg.com/vi/ECDejfpY1wM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Kh-vPd5wmqTczPOPqG37_IXmEaY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lard with Cracklings - Smalec ze Skwarkami - Recipe #252</title>
+<utube>1Py7CGdmD9o</utube>
+<thumbnail>https://i.ytimg.com/vi/1Py7CGdmD9o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EDS69mwNTnRuUAz1sYgign43rTs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Q and A with Isabella and Sebastian</title>
+<utube>GjcbfsHaeS4</utube>
+<thumbnail>https://i.ytimg.com/vi/GjcbfsHaeS4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jtCjByFtvN7_k2rVvhAw5qaupYM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Palmiers - Palmiery Jablkowe - Recipe #251</title>
+<utube>1D9CPn7EgUc</utube>
+<thumbnail>https://i.ytimg.com/vi/1D9CPn7EgUc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IJSIVehRswi_scS5Qv53rGuKhlM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Bread Rolls - Buleczki z Grzybami - Recipe #250</title>
+<utube>yoMwyhTlmkw</utube>
+<thumbnail>https://i.ytimg.com/vi/yoMwyhTlmkw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SyKg8pbVsHaPuML1hVymfkLHAdA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Honey Palmiers - Palmiery Miodowe - Recipe #249</title>
+<utube>aAWzX7teAi0</utube>
+<thumbnail>https://i.ytimg.com/vi/aAWzX7teAi0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RoQeoY-vWk7PVq1wVJr1ZL3EvJ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Ice Cream Cake - Latwy Tort Lodowy - Recipe #248</title>
+<utube>t-t8-BSUGu4</utube>
+<thumbnail>https://i.ytimg.com/vi/t-t8-BSUGu4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PrDAiI6sll8DpTp_3qKeuFsh854</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OmieBox Lunch Box review</title>
+<utube>PRUlxyKCjYQ</utube>
+<thumbnail>https://i.ytimg.com/vi/PRUlxyKCjYQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f6YRkHYUusk76-tA-OlAlV6X7Cs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Red Cabbage Salad - Surowka z Czerwonej Kapusty - Recipe #247</title>
+<utube>e7RvEBqysfU</utube>
+<thumbnail>https://i.ytimg.com/vi/e7RvEBqysfU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EnZ0EHJfkn3Mw3i0ltR5JGFKEjA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beetroots with Bacon - Buraczki Zasmazane - Recipe #246</title>
+<utube>kQta7bIueEA</utube>
+<thumbnail>https://i.ytimg.com/vi/kQta7bIueEA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eGdVj_aZIHZ6RTaBZUHLlC6-5AU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Zucchini Muffins - Babeczki z Cukinia - Recipe #245</title>
+<utube>I-gXdSFS0Bc</utube>
+<thumbnail>https://i.ytimg.com/vi/I-gXdSFS0Bc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1nnexa3mapXjWLxQCfpMyRMHdyU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Meat Pasties - Paszteciki z Miesem - Recipe #244</title>
+<utube>xaxIsxpNUZU</utube>
+<thumbnail>https://i.ytimg.com/vi/xaxIsxpNUZU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jxfhNk6t-34YFpv7ly5YkBrj5dc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Tortilla - Podplomyki - Recipe #243</title>
+<utube>Q79zuWfCR50</utube>
+<thumbnail>https://i.ytimg.com/vi/Q79zuWfCR50/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XOA2RR9d8K1o6QcuEEbethd32_4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage Salad - Surowka z Kapusty - Recipe #242</title>
+<utube>c2JSX_r_g4w</utube>
+<thumbnail>https://i.ytimg.com/vi/c2JSX_r_g4w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_-OPZ1cDZR3vY1Ns7Zy1S31Ovhc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dulce de Leche Babka - Babka Krowkowa - Recipe #241</title>
+<utube>KTO6I2-OA6E</utube>
+<thumbnail>https://i.ytimg.com/vi/KTO6I2-OA6E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Gzmpe2IucIw3cakY45cwNFp8NzY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Chicks Deviled Eggs - Jajeczne Kurczaczki Wielkanocne - Recipe #240</title>
+<utube>c8OlLtP-3bY</utube>
+<thumbnail>https://i.ytimg.com/vi/c8OlLtP-3bY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uvRKvoFdj4GFadG3e23kaLGWmvY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Blue Mountain Trip - Winter Vlog</title>
+<utube>64rSEbnsh3E</utube>
+<thumbnail>https://i.ytimg.com/vi/64rSEbnsh3E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UP8tM_hsUSaUPhXBbsg7WYCETrk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Cheese Rolls - Zapiekane Buleczki z Serem - Recipe #239</title>
+<utube>_3uV3-JE_Qo</utube>
+<thumbnail>https://i.ytimg.com/vi/_3uV3-JE_Qo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PQ4kdAEi-F6o-5tBdiV9ZLnVquI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Cornmeal Cookies - Ciasteczka Kukurydziane - Recipe #238</title>
+<utube>mHQlHr-7q1Y</utube>
+<thumbnail>https://i.ytimg.com/vi/mHQlHr-7q1Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KYEIiSuwFmFPvyYAbuSzPLRgVzs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Microwave Chocolate Cake - Ciasto Czekoladowe z Mikrofalowki - Recipe #237</title>
+<utube>bbbIux0z0-k</utube>
+<thumbnail>https://i.ytimg.com/vi/bbbIux0z0-k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qab7XbGYIZjJUqjr-utLWSAZS5k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bacon Muffins - Babeczki z Boczkiem - Recipe #236</title>
+<utube>dkxogCu7WM4</utube>
+<thumbnail>https://i.ytimg.com/vi/dkxogCu7WM4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_JRFk39NDbl0kRyZWzZUReiZhhk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Pear Rolls - Gruszki w Ciescie- Recipe #235</title>
+<utube>pIdHb0d_a-c</utube>
+<thumbnail>https://i.ytimg.com/vi/pIdHb0d_a-c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=C0UrL4jcnyHzPR5-6lw4BUG2FaM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pull Apart Garlic Bread - Pieczywo Czosnkowe do Odrywania - Recipe #234</title>
+<utube>OnHimwK4jIU</utube>
+<thumbnail>https://i.ytimg.com/vi/OnHimwK4jIU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pJKEdy7xOlMxAxEQuVteaeiHfD0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mulled Wine in a Slowcooker - Grzane Wino z Wolnowaru - Recipe #233</title>
+<utube>0N7DxPcLLZc</utube>
+<thumbnail>https://i.ytimg.com/vi/0N7DxPcLLZc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1-0sXgtQcQaRwKV_7FioqtpMsWI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gingerbread Cupcakes - Babeczki Piernikowe - Recipe #232</title>
+<utube>QnhvmCrktUE</utube>
+<thumbnail>https://i.ytimg.com/vi/QnhvmCrktUE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iIMnfRIRcBWKzdxIhyNN-OA9c5w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kulebiak with Cabbage and Mushrooms - Kulebiak z Kapusta i Grzybami Recipe #231</title>
+<utube>xYcEWg7Fxgw</utube>
+<thumbnail>https://i.ytimg.com/vi/xYcEWg7Fxgw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6_jo08W7hkE7Kk3gXnzhPokT6nM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Honey & Maple Roasted Almonds - Prazone Migdaly z Miodem i Syropem Klonowym - Recipe #230</title>
+<utube>6ga95e2jl0I</utube>
+<thumbnail>https://i.ytimg.com/vi/6ga95e2jl0I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1m_G-zwWEz51UMj5OGTKACShu_0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Decorating Christmas Tree - Ania's Christmas Vlog</title>
+<utube>H_odqm7GkWk</utube>
+<thumbnail>https://i.ytimg.com/vi/H_odqm7GkWk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ukhnc4UfhmcqUXx_27ZPz3jW8AM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Babka - Babka Piegowata - Recipe #229</title>
+<utube>0I3lC5rhRHg</utube>
+<thumbnail>https://i.ytimg.com/vi/0I3lC5rhRHg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Dlb4IJL50HeuJRKIrydoqJ12_vk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Pita  Bread - Proziaki - Recipe #228</title>
+<utube>C_SJbe7uWRU</utube>
+<thumbnail>https://i.ytimg.com/vi/C_SJbe7uWRU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pJuirl1py6vLoMWVZfcvHZ6LWvw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>"Russell" Buttercream - Krem "Russell" - Recipe #227</title>
+<utube>OaR62w6ezwk</utube>
+<thumbnail>https://i.ytimg.com/vi/OaR62w6ezwk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J0Be5Y1mgSuVWl8H7-sCs2r28Iw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pickled Pumpkin - Dynia Marynowana - Recipe #226</title>
+<utube>mul63qojX24</utube>
+<thumbnail>https://i.ytimg.com/vi/mul63qojX24/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WjGnh7Nlma8o_isNwjQFKn4jK2U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream of Pumpkin - Zupa Krem z Dyni - Recipe #225</title>
+<utube>dCJh2wMO0i8</utube>
+<thumbnail>https://i.ytimg.com/vi/dCJh2wMO0i8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_wq5st-bmgOsrfBMeqR3ufIyFho</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted Pumpkin Seeds - Pestki z Dyni - Recipe #224</title>
+<utube>C9umDrBLXzs</utube>
+<thumbnail>https://i.ytimg.com/vi/C9umDrBLXzs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zrS2pqICli0BJWqJoke-qgOzva8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Puree - Puree z Dyni - Recipe #223</title>
+<utube>DASaQblqqps</utube>
+<thumbnail>https://i.ytimg.com/vi/DASaQblqqps/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ak5iapK-PbeToJqwXt_r8bjTMGc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Bread Rolls - Buleczki Dyniowe - Recipe #222</title>
+<utube>GNoNNKmfspA</utube>
+<thumbnail>https://i.ytimg.com/vi/GNoNNKmfspA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8DKIwoV75MmJnJS8pi0Hyd9S48o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Scones - Rozki z Dyni - Recipe #221</title>
+<utube>Td0TKNqXeqo</utube>
+<thumbnail>https://i.ytimg.com/vi/Td0TKNqXeqo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=B77k6TEenCRdadYMi5dX5wqkpPU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Garlic Bread - Pieczywo Czosnkowe - Recipe #220</title>
+<utube>Ynt_9zF0k_U</utube>
+<thumbnail>https://i.ytimg.com/vi/Ynt_9zF0k_U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=379SiCbi6anqNh1aKerBAreIyI4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Funnel Dumplings in Milk - Lane Kluski na  Mleku - Recipe #219</title>
+<utube>51Y0eu5kPzc</utube>
+<thumbnail>https://i.ytimg.com/vi/51Y0eu5kPzc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HoOBIIfd8IJGuQQgcCczOtSgy88</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crescent Apple Cookies - Rogaliki z Jablkiem - Recipe # 218</title>
+<utube>tm2EPjwy83M</utube>
+<thumbnail>https://i.ytimg.com/vi/tm2EPjwy83M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eSowPsRRcUwQCXSmlFZ5EhDuY_I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Almond Cookies - Ciasteczka Migdalowe - Recipe # 217</title>
+<utube>Mvwv1myxuX0</utube>
+<thumbnail>https://i.ytimg.com/vi/Mvwv1myxuX0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GkSdd1s0oNEUnBfx3Rl5WnIfYeI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>So I did cut my hair!</title>
+<utube>-gh5idkNTeE</utube>
+<thumbnail>https://i.ytimg.com/vi/-gh5idkNTeE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5IJbxwLKalisoQnNG-_5QGb19VA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Visiting family and going back home - Travel Vlog Part VI</title>
+<utube>-0XmYwEDXIE</utube>
+<thumbnail>https://i.ytimg.com/vi/-0XmYwEDXIE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=S-qde3ZTxXgXIht2sakCDJBHJBs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Isabella's Birthday Party - Travel Vlog Part V</title>
+<utube>yer4eugbgl8</utube>
+<thumbnail>https://i.ytimg.com/vi/yer4eugbgl8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uBf-PPgIz8hzXVz7d8bZyiqmjDY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Just an update!</title>
+<utube>MhZ535YNX2Q</utube>
+<thumbnail>https://i.ytimg.com/vi/MhZ535YNX2Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=H-s78c4AGpzvHs2QzZ1AccDeKpI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Trip to Warsaw, walking in "Old Town"  and getting ready for Isabella's B-Day! - Travel Vlog Part IV</title>
+<utube>tYTYSsC6FYc</utube>
+<thumbnail>https://i.ytimg.com/vi/tYTYSsC6FYc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=o1-qetrB63xcsd_gtN3zPPE-mj4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fishing, eating out and Isabella walking "In style" - Travel Vlog Part III</title>
+<utube>mj4wFB1YCKI</utube>
+<thumbnail>https://i.ytimg.com/vi/mj4wFB1YCKI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bB9_0O2R_ZPsX3Q9Roki-jy9J24</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Sole Filets - Grilowane Filety z Soli - Recipe #216</title>
+<utube>JiLJWf6f__A</utube>
+<thumbnail>https://i.ytimg.com/vi/JiLJWf6f__A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ggBDDO5rZ2vkPC5i8q_EghqqmX0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My accident and Sebastian takes over the vlog - Travel Vlog Part II</title>
+<utube>uB5bdHeEGak</utube>
+<thumbnail>https://i.ytimg.com/vi/uB5bdHeEGak/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2IQPtFtbaKyg9DUy8r2uMG0NKZk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Cheese Pasta - Kluski z Serem - Polish and European Food Recipe #215</title>
+<utube>rfJ9W9aLc88</utube>
+<thumbnail>https://i.ytimg.com/vi/rfJ9W9aLc88/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M4szqEse8kuVsWoqVd4WSjucqk0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Our Trip To Poland - Travel Vlog Part 1</title>
+<utube>fILsbWyZoI8</utube>
+<thumbnail>https://i.ytimg.com/vi/fILsbWyZoI8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lTg4NBHzzY2ChZF_kD5JQySCxD8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Maple and Nuts Baguette - Bagietka z Syropem Klonowym i Orzechami - Recipe #214</title>
+<utube>PW7pxJ3CLxQ</utube>
+<thumbnail>https://i.ytimg.com/vi/PW7pxJ3CLxQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5M2QT5zqPpAPjvvQ8SVQO235chc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Potatoes - Pieczone Ziemniaki - Polish and European Food Recipe #213</title>
+<utube>HX1ehNliGgM</utube>
+<thumbnail>https://i.ytimg.com/vi/HX1ehNliGgM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4VyO2YmqZT45xk7zGvxXM57paKU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sugar Cookies - Kruche Ciasteczka z Cukrem - Polish and European Food Recipe #212</title>
+<utube>ybM4ionXqkQ</utube>
+<thumbnail>https://i.ytimg.com/vi/ybM4ionXqkQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K8vcEz3ndfG31zNSnGzPLa6qdnI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Cabbage - Kapusta Zasmazana - Recipe #211</title>
+<utube>dNIFwtbWngU</utube>
+<thumbnail>https://i.ytimg.com/vi/dNIFwtbWngU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kcH7y5P7isZ7ebhKpoL1Q4qvFyw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage Rolls - Gołąbki - Recipe #210</title>
+<utube>kJ4qg1BHk8A</utube>
+<thumbnail>https://i.ytimg.com/vi/kJ4qg1BHk8A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0e0ev2GUu8arVaHIP3kbnms1Vio</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mother's Day Oatmeal Raisins Cookies - Ciasteczka Owsiane - Recipe #209</title>
+<utube>_pyzDmJSh2k</utube>
+<thumbnail>https://i.ytimg.com/vi/_pyzDmJSh2k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LKs-VCdOGpLHeLxI1GkyzeBGYhs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Whole Wheat Onion Bread - Chleb Pelnoziarnisty Cebulowy - Recipe #208</title>
+<utube>MeU5hO6SlTk</utube>
+<thumbnail>https://i.ytimg.com/vi/MeU5hO6SlTk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EHEa9AITLOlBHoWRgUJmRTmplDQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mini Pizzas - Mini Pizze - Recipe #207</title>
+<utube>GuCdf4N1Dhc</utube>
+<thumbnail>https://i.ytimg.com/vi/GuCdf4N1Dhc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OFQL0H7GkFwcCo3bsOF1Cc3SD9Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Pizza Dough - Ciasto na Pizze - Recipe #206</title>
+<utube>LRfWYzvTDKk</utube>
+<thumbnail>https://i.ytimg.com/vi/LRfWYzvTDKk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JW5OM5H72rxcMknXanQW5VSd_O0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Raisin Bread - Wielkanocna Chalka z Rodzynkami - Recipe #205</title>
+<utube>Eljo7N8AYyA</utube>
+<thumbnail>https://i.ytimg.com/vi/Eljo7N8AYyA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CB5G-92cyzqf_k95k3od1ln1MIQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pate Roulade - Rolada Pasztetowa - Recipe #204</title>
+<utube>kTU74gc-uZg</utube>
+<thumbnail>https://i.ytimg.com/vi/kTU74gc-uZg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u5TyqTawzKGkvErM82pY7bocKVQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Lemon Babka - Wielkanocna Babka Cytrynowa - Recipe #203</title>
+<utube>xonN50auI_0</utube>
+<thumbnail>https://i.ytimg.com/vi/xonN50auI_0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RyY5tDOnbKiv-u2FQku5BeW2TLg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Cheese - Ser Smazony- Recipe #202</title>
+<utube>taoL6-48fvM</utube>
+<thumbnail>https://i.ytimg.com/vi/taoL6-48fvM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mcC_og0OXc4JPTMFLBXr5fCJ-Ko</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Milky Semolina with Raspberries - Kasza Manna na Mleku z Malinami - Recipe # 201</title>
+<utube>bNv2DOucUM4</utube>
+<thumbnail>https://i.ytimg.com/vi/bNv2DOucUM4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JCyIF38GZF0osiUlF-YhwxxGgxw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Heart Cookies - Czekoladowe Ciasteczka Serduszka - Recipe # 200</title>
+<utube>Yw3z3McRMN8</utube>
+<thumbnail>https://i.ytimg.com/vi/Yw3z3McRMN8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pYovodgdBqdCXyV8vOu9FtyW6-w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>P & J Crepe Mini Cakes - Torciki Nalesnikowe z Maslem Orzechowym - Recipe # 199</title>
+<utube>EzmnUPP3vLM</utube>
+<thumbnail>https://i.ytimg.com/vi/EzmnUPP3vLM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_nIjlIa3nTbpfKMoF1XpnysFFZE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Edition - Chocolate Donuts - Paczki Czekoladowe - Recipe # 198</title>
+<utube>1lgLqIEc9Uo</utube>
+<thumbnail>https://i.ytimg.com/vi/1lgLqIEc9Uo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AsBMCvlBPkEDO3A_WTw4Heecn38</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Edition: Chocolate Pudding - Budyn Czekoladowy - Recipe # 197</title>
+<utube>biIErxsTJ30</utube>
+<thumbnail>https://i.ytimg.com/vi/biIErxsTJ30/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5EbzKAKTCB1MZ3iNO4khYbIdMK4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Breadsticks - Paluszki Chlebowe - Recipe # 196</title>
+<utube>Y-eyjn-0yHI</utube>
+<thumbnail>https://i.ytimg.com/vi/Y-eyjn-0yHI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=N58HtOED3ijYTCvZC_dkyIa6FCQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sauerkraut Salad - Surowka z Kiszonej Kapusty - Recipe #195</title>
+<utube>qmeB80H-uas</utube>
+<thumbnail>https://i.ytimg.com/vi/qmeB80H-uas/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eGkuiFV-3IbYAujbdnloI-fmC8Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Breaded Pork Chops - Kotlety Schabowe - Recipe #194</title>
+<utube>IWIqZ3HfYm4</utube>
+<thumbnail>https://i.ytimg.com/vi/IWIqZ3HfYm4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EeHMZFjwfhNkZA8ADW3OU8fuf-I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheesecake Patties - Syrniki/Smazone Serniczki - Recipe #193</title>
+<utube>Gkvp6omB5Q4</utube>
+<thumbnail>https://i.ytimg.com/vi/Gkvp6omB5Q4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dNKo6YqCYMJhLUo5GEAjZI9hbhE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Merry Christmas and Happy New Year from Ania & Family!</title>
+<utube>Uw-aecLGadQ</utube>
+<thumbnail>https://i.ytimg.com/vi/Uw-aecLGadQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LUnrjfnP3AnNCjxsBA_Mbqdbp0g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Christmas Mushroom Soup - Swiateczna Zupa Grzybowa - Christmas Recipe # 192</title>
+<utube>I5JyZkEfmeY</utube>
+<thumbnail>https://i.ytimg.com/vi/I5JyZkEfmeY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tlPcTZxCqQb0QkT7u0IOFV1qCHY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Christmas Star Cookies - Gwiazdeczki Swiateczne (Gluten Free - Bezglutenowe) - Christmas Recipe #191</title>
+<utube>zF4FkfPImYA</utube>
+<thumbnail>https://i.ytimg.com/vi/zF4FkfPImYA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2mgI_DEqoGYkzVdv02m6rBnVZdk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Candied Orange Peel - Kandyzowana Skorka Pomaranczowa - Christmas Recipe #190</title>
+<utube>Ky14cGfB2H8</utube>
+<thumbnail>https://i.ytimg.com/vi/Ky14cGfB2H8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2BOj_iqkXCzLc5-dYzAKDmAqoS8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Bagles - Obwarzanki - Recipe #189</title>
+<utube>IBkeZvmC1M0</utube>
+<thumbnail>https://i.ytimg.com/vi/IBkeZvmC1M0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HaX4xac9GZ0XqHiIsa3sQjxXFSU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cinnamon Rolls - Buleczki Cynamonowe - Recipe #188</title>
+<utube>ivbS3m9U8t4</utube>
+<thumbnail>https://i.ytimg.com/vi/ivbS3m9U8t4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cpmIZZzGpZpKGvdXzC8DWw7W6oo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crock Pot / Slow Cooker Apple Filling - Nadzienie Jablkowe z Wolnowaru - Recipe #187</title>
+<utube>dmXcL061rtI</utube>
+<thumbnail>https://i.ytimg.com/vi/dmXcL061rtI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_Y6HPEbWzsE0ESPitel1SfR7wRg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mini Pumpkin Cheesecakes - Mini Serniczki Dyniowe-  Recipe #186</title>
+<utube>y-QutZgeowM</utube>
+<thumbnail>https://i.ytimg.com/vi/y-QutZgeowM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=l0IwqNBNEYEdsbesi_8GiC3xem0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Steak with Onion - Polędwica z Cebulą - Recipe #185</title>
+<utube>2NaAAJti8n4</utube>
+<thumbnail>https://i.ytimg.com/vi/2NaAAJti8n4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KnfjQ7YBR4ZK3Ix01mTURC5B7Gw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Ice Cream - Lody Dyniowe - Recipe #184</title>
+<utube>t2J4DR4RhWE</utube>
+<thumbnail>https://i.ytimg.com/vi/t2J4DR4RhWE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HKq7kyujc-mlt557pl9oUNovgz4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Pie Spice - Przyprawa do Piernika - Recipe #183</title>
+<utube>ca8yAZ5buBc</utube>
+<thumbnail>https://i.ytimg.com/vi/ca8yAZ5buBc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CoNMrOnHBkV7r28gyuvOUO5xNkM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Plum Butter Rolls - Babeczki Sliwkowe - Recipe #182</title>
+<utube>P0hrCgl2ncg</utube>
+<thumbnail>https://i.ytimg.com/vi/P0hrCgl2ncg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=I0OJs8mYtiZlgYGprKTHQU7Dhpc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vanilla Cheesecake - Sernik Waniliowy - Recipe #181</title>
+<utube>E04CyjqRVpY</utube>
+<thumbnail>https://i.ytimg.com/vi/E04CyjqRVpY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gT3Z1Uk5Umm57IIoHVJu4t4XvxI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Cheese Bread Rolls - Drozdzowki z Serem - Recipe #180</title>
+<utube>zOE9pAVNjyI</utube>
+<thumbnail>https://i.ytimg.com/vi/zOE9pAVNjyI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eO54-fADh-13mmW5CgiEVcuucyo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yeast Pierogi with Chicken - Drozdzowe Pierogi z Kurczakiem - Recipe #179</title>
+<utube>fjz8yRUzr_U</utube>
+<thumbnail>https://i.ytimg.com/vi/fjz8yRUzr_U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KQKGFixi0bDDQ2NjI-qT94rBs4o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken and Noodle Soup - Rosol - Recipe #178</title>
+<utube>_TJkMKzfUXY</utube>
+<thumbnail>https://i.ytimg.com/vi/_TJkMKzfUXY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O11uZiJEL7vKbjKQRWjmo0w64dE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Braided Bread - Chalka - Recipe #177</title>
+<utube>zbIf2VvVIOw</utube>
+<thumbnail>https://i.ytimg.com/vi/zbIf2VvVIOw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HyL0otoC_d9TKFoETsoIrgg0Lqw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberries and Whipped Cream Roulade - Truskawkowa Rolada z Bita Smietana - Recipe #176</title>
+<utube>tSPezJ8ZksE</utube>
+<thumbnail>https://i.ytimg.com/vi/tSPezJ8ZksE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NjdGTbkiiMlsBtyyRAe5wKgMRzk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream Puffs - Ptysie z Bita Smietana - Recipe #175</title>
+<utube>yelymvXU5bo</utube>
+<thumbnail>https://i.ytimg.com/vi/yelymvXU5bo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Cu5948B1O3QBELoko2XJryfC7oE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>No Bake Raspberry Cheesecake - Sernik Malinowy na Zimno - Recipe #174</title>
+<utube>oUFMV3O8XiI</utube>
+<thumbnail>https://i.ytimg.com/vi/oUFMV3O8XiI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DCSOytKzV-nPUH2riricw_EDNCc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's ALS Ice Bucket Challenge</title>
+<utube>xC4ZnDkt4so</utube>
+<thumbnail>https://i.ytimg.com/vi/xC4ZnDkt4so/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=w9Ur8aFZBRSIE6F9T68DlZeT4BU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>White Chocolate Vodka - Jamie Oliver's Search For a Cocktail Star Competition</title>
+<utube>0G3oIqrJync</utube>
+<thumbnail>https://i.ytimg.com/vi/0G3oIqrJync/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CMXowtzqROqUJe9Ik2vBqICEeMY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Blueberry Crumb Pie - Placek z Jagodami - Recipe #173</title>
+<utube>orwerZlbmGE</utube>
+<thumbnail>https://i.ytimg.com/vi/orwerZlbmGE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rVoy8vtoTL9PCdPbf6MfJXevExY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Holiday!</title>
+<utube>HzoeJAgdCbk</utube>
+<thumbnail>https://i.ytimg.com/vi/HzoeJAgdCbk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tQQ972I4Wnj8CZ_DxL-IQv1gRbQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Turnovers - Rozki z Jablkami - Recipe #172</title>
+<utube>UYlFgfHQ_d0</utube>
+<thumbnail>https://i.ytimg.com/vi/UYlFgfHQ_d0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t_eTiHMLQ4N4Tgjb3Qjp0611ceA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Breakfast Bread - Chleb Sniadaniowy - Recipe #171</title>
+<utube>7RPN6Hy4Umc</utube>
+<thumbnail>https://i.ytimg.com/vi/7RPN6Hy4Umc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eB0u2VyX6QKp_oAkJddZhhAhR0Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberries and Cream Smoothie - Koktajl Truskawkowo Smietankowy - Recipe #170</title>
+<utube>D6Oe0LXPiFI</utube>
+<thumbnail>https://i.ytimg.com/vi/D6Oe0LXPiFI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8LR131dLqnlRlGc_r1jv8PHoK8E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mini Ricotta & Bacon Pies - Babeczki z Ricotta i Boczkiem - Recipe #169</title>
+<utube>4_4LxVceRUg</utube>
+<thumbnail>https://i.ytimg.com/vi/4_4LxVceRUg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=56akhG-fvMu3rKh6N3cFAZTPMKY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Father's Day Slow Cooker Ribs - Zeberka z Wolnowaru- Recipe #168</title>
+<utube>_LGSMPN2Bsw</utube>
+<thumbnail>https://i.ytimg.com/vi/_LGSMPN2Bsw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DpBTeUqvMOnSjF69UjlWBrQqcSM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Father's Day Bacon Waffles  - Gofry z Boczkiem na Dzien Taty - Recipe #167</title>
+<utube>9S5OYwxp4gc</utube>
+<thumbnail>https://i.ytimg.com/vi/9S5OYwxp4gc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1OVN5gwSXlFFUU8E_B65m3Un0tc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sebastian's "Zebra" Cake - Ciasto "Zebra" Sebastiana - Recipe #166</title>
+<utube>UGDeyLC5hIw</utube>
+<thumbnail>https://i.ytimg.com/vi/UGDeyLC5hIw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WCwHusZ9P8dzIhpYjsiNDzDulQI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Snickers Cake - Ciasto Snickers - Recipe #165</title>
+<utube>nEASikerAzM</utube>
+<thumbnail>https://i.ytimg.com/vi/nEASikerAzM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=McJWiCV4w2yRfjrXA-eKblPI3s0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Honey Crullers - Miodowe Paczki Parzone "Gniazdka- Recipe #164</title>
+<utube>fiNXOp0UA8k</utube>
+<thumbnail>https://i.ytimg.com/vi/fiNXOp0UA8k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=im1YwVhJ776sm1Xb-g0Nk2B2qn0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Quick Potato Pancakes  - Szybkie Placki Ziemniaczane - Recipe #163</title>
+<utube>m8xokFgfxbM</utube>
+<thumbnail>https://i.ytimg.com/vi/m8xokFgfxbM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MGTDQ9ZEiJnc9lzYV3h9w2IPUHc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Tart - Tarta Truskawkowa - Recipe #162</title>
+<utube>Ho0mzOFI1_k</utube>
+<thumbnail>https://i.ytimg.com/vi/Ho0mzOFI1_k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7DK_J12y0ZbT4j7cpNQXHH61r0g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Kissel  - Kisiel Truskawkowy - Recipe #161</title>
+<utube>g1Dx7fXfYN4</utube>
+<thumbnail>https://i.ytimg.com/vi/g1Dx7fXfYN4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j15bwGwYZS3vq5lHLmeSVFor-VA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's Baguettes  - Bagietki Ani - Recipe #160</title>
+<utube>ZzhNCUKOKoY</utube>
+<thumbnail>https://i.ytimg.com/vi/ZzhNCUKOKoY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PsLw6n1awXdKZEDCaO0Tg-XOhN8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Meatballs  - Pieczone Pulpety -  Recipe #159</title>
+<utube>XpnchNsyIkk</utube>
+<thumbnail>https://i.ytimg.com/vi/XpnchNsyIkk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2QfN2rP8wPZhzPoCyLBa-Gcbm6g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Slow Cooker Pork Hocks and Cabbage - Golonka z Kapusta z Wolnowaru - Recipe #158</title>
+<utube>zRUXJtJUFHk</utube>
+<thumbnail>https://i.ytimg.com/vi/zRUXJtJUFHk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UB65e1qSzssK5n3889GTKGFVtDE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Beetroot Salad  - Cwikla -  Recipe #157</title>
+<utube>h0xc-a2Shbk</utube>
+<thumbnail>https://i.ytimg.com/vi/h0xc-a2Shbk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6wrzQl2n-AEuNbIvuTkB81mnyMA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's French Toast  - Tosty Francuskie Ani - Recipe #156</title>
+<utube>AkH7M0dHJNk</utube>
+<thumbnail>https://i.ytimg.com/vi/AkH7M0dHJNk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UZBeyYLrdyHBVgLVj0HXa4WS3p0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>White Chocolate Pasha - Pascha z Biala Czekolada - Easter Recipe #155</title>
+<utube>SxoU0zoxISg</utube>
+<thumbnail>https://i.ytimg.com/vi/SxoU0zoxISg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3kT--tQA1ndVD5wtW2qjCpgH98w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Chocolate and Vanilla Babka  - Wielkanocna Babka Czekoladowo Waniliowa - Easter Recipe #154</title>
+<utube>Sc0j235qqJc</utube>
+<thumbnail>https://i.ytimg.com/vi/Sc0j235qqJc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=32-dCnwxwwHxb68AF_v9dollapo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Dulce de Leche Mazurek  - Wielkanocny Mazurek Krowkowy - Easter Recipe #153</title>
+<utube>ZQ0H0un6x4M</utube>
+<thumbnail>https://i.ytimg.com/vi/ZQ0H0un6x4M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tb7HyLMPj6eU51Sj-4s8N009ZiQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Roulade - Rolada Ze Schabu - Easter Recipe #152</title>
+<utube>qKhl_N40epk</utube>
+<thumbnail>https://i.ytimg.com/vi/qKhl_N40epk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RjfEKNhdwxF1Bd5MMmT8uNdXMTc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grated Horseradish - Tarty Chrzan - Easter Recipe #151</title>
+<utube>1sCVCs6t2q0</utube>
+<thumbnail>https://i.ytimg.com/vi/1sCVCs6t2q0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VF4eZf4_48wjuwftXBlJ0sE72yg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Egg Patties - Kotlety Jajeczne - Easter Recipe #150</title>
+<utube>vqtHJqt77GQ</utube>
+<thumbnail>https://i.ytimg.com/vi/vqtHJqt77GQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=i6_5tbLA9mMa7M3x30wGTkaPwwQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roman Style Meatloaf - Pieczen Rzymska - Easter Recipe #149</title>
+<utube>NOAorhsNDcI</utube>
+<thumbnail>https://i.ytimg.com/vi/NOAorhsNDcI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3f5CuLWY2MC_jCzvRhYCWDjAYdE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Babka - Babka Kartoflana - Recipe #148</title>
+<utube>4aeUWKGtUYo</utube>
+<thumbnail>https://i.ytimg.com/vi/4aeUWKGtUYo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UWZm-tyqIwOHs-gMZF8nWfNfb48</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sausage Rolls - Parowki w Ciescie - Recipe #147</title>
+<utube>MAqzARdbBz8</utube>
+<thumbnail>https://i.ytimg.com/vi/MAqzARdbBz8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YlWYuF-vG4hXZwWCB_RGTMwQ464</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ricotta and Bacon Pasta Bake - Makaron Zapiekany z Ricotta i Boczkiem - Recipe #146</title>
+<utube>p8bTzgR2XcM</utube>
+<thumbnail>https://i.ytimg.com/vi/p8bTzgR2XcM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ot7zChy5FZh4vG02f3ELEaY8wrA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dulce De Leche Wafers - Wafle z Masa Krowkowa - Recipe #145</title>
+<utube>z-sZFzVHdMI</utube>
+<thumbnail>https://i.ytimg.com/vi/z-sZFzVHdMI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cl8eWyIEm1hZiwI7ve_Kldaq-Z8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Feta and Caramelized Onions Buns - Buleczki z Feta i Cebula - Recipe #144</title>
+<utube>G5zoeMQvBiY</utube>
+<thumbnail>https://i.ytimg.com/vi/G5zoeMQvBiY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ymvS-Gv9G0kkKWFsK0RFWM9bXdw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Fish in Vegetables - Ryba Zapiekana w Warzywach - Recipe #143</title>
+<utube>BDB9M3PwaNQ</utube>
+<thumbnail>https://i.ytimg.com/vi/BDB9M3PwaNQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=73S1-_dPZDLAFlAycH31PWyuc0E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sebastian's Day and Night Pancakes - Nalesniki Dzien i Noc - Recipe #142</title>
+<utube>0nSP4xpN2yA</utube>
+<thumbnail>https://i.ytimg.com/vi/0nSP4xpN2yA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Emj3htCVlKuhm_eoajaLMlGyPV0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Carnival Rosettes - Roze Karnawalowe - Recipe #141</title>
+<utube>JUtLD3HIGe8</utube>
+<thumbnail>https://i.ytimg.com/vi/JUtLD3HIGe8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=g1m6l5tGw8LwKQPmZfGsXRPXHA8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My Recipes in Polish - Invitation to my new channel: U Ani w Kuchni</title>
+<utube>7M9OvUakWKc</utube>
+<thumbnail>https://i.ytimg.com/vi/7M9OvUakWKc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qu83OybCxoKjCmJWhZul8TJwpCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Donuts - Paczki Pieczone - Recipe #140</title>
+<utube>8rMqDWF-Log</utube>
+<thumbnail>https://i.ytimg.com/vi/8rMqDWF-Log/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PibtiRXTuY3_repNsQzi8t23oOo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>20 Random Facts About Me</title>
+<utube>2bdQAk5NbiU</utube>
+<thumbnail>https://i.ytimg.com/vi/2bdQAk5NbiU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JIBRdMLow1hr9StjO0CyRYRa2Qw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Slow Cooker Hunter's Stew - Bigos z Wolnowaru - Recipe #139</title>
+<utube>B-NOYBOW5AI</utube>
+<thumbnail>https://i.ytimg.com/vi/B-NOYBOW5AI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DlCDWE0KaHN0IOlBVnswJGbYWRY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coffee Cream - Deser Kawowy - Recipe #138</title>
+<utube>_m96Z00G_Cg</utube>
+<thumbnail>https://i.ytimg.com/vi/_m96Z00G_Cg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qMCXSFtC8DE6XMkDhSDLgVQAWr4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Rice Pudding - Ryz z Truskawkami - Recipe #137</title>
+<utube>YNWcKZ9Jlrc</utube>
+<thumbnail>https://i.ytimg.com/vi/YNWcKZ9Jlrc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q5aoUopMzillQd2iJmN8fPJuaEY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Edition: Dulce de Leche Pavlova - Krowkowa Pavlova - Recipe #136</title>
+<utube>4tMMjTKcsG4</utube>
+<thumbnail>https://i.ytimg.com/vi/4tMMjTKcsG4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cqMPwMvO3EY5VvYep5tBehkaHh0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Tart - Tarta ze Szpinakiem - Recipe #135</title>
+<utube>GiN4z21E-jk</utube>
+<thumbnail>https://i.ytimg.com/vi/GiN4z21E-jk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gih-AWl0apJouELo1x0WLAKS3HI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chewy Chocolate Caramels - Krowki w Czekoladzie - Recipe #134 - Valentine's Day Edition</title>
+<utube>QZ5UZgvtwos</utube>
+<thumbnail>https://i.ytimg.com/vi/QZ5UZgvtwos/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=33t4MXUvL0wwc6MueF5Pjib72cA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cauliflower Soup - Zupa Kalafiorowa - Recipe #133</title>
+<utube>ZWYVzcySqA8</utube>
+<thumbnail>https://i.ytimg.com/vi/ZWYVzcySqA8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JIJbKm3bJkBNLn7X1VzX1ZeHnEg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pot Cheese Cookies - Ciasteczka Serowe - Recipe #132 - Valentine's Day Edition</title>
+<utube>c8jNfJydLj8</utube>
+<thumbnail>https://i.ytimg.com/vi/c8jNfJydLj8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YW5LSVJ8V_oKcA0vjOWYu77kyrw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vanilla Pudding - Budyn Waniliowy - Recipe #131 - Valentine's Day Edition</title>
+<utube>EbXuH2TvjLk</utube>
+<thumbnail>https://i.ytimg.com/vi/EbXuH2TvjLk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZC9lccp3V6fV4CRPXTI-xXiBac4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream of Carrots - Zupa Krem z Marchewki - Recipe #130</title>
+<utube>Io1tHshWVGQ</utube>
+<thumbnail>https://i.ytimg.com/vi/Io1tHshWVGQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XdLasBd5GOIzagzaoAStSt7MTms</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salmon Pie - Kulebiak z Lososiem - Recipe #129</title>
+<utube>weoL6zQezKw</utube>
+<thumbnail>https://i.ytimg.com/vi/weoL6zQezKw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SbRKI0lRbdu8yMz3sqMXNylE6No</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Barley Soup - Krupnik - Recipe #128</title>
+<utube>VRDIaSrEr2Q</utube>
+<thumbnail>https://i.ytimg.com/vi/VRDIaSrEr2Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bYrF5fbw23_LcQU90XgoMsuOLnk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dinner Rolls - Buleczki Sniadaniowe - Recipe #127</title>
+<utube>2gxrIXZMtF4</utube>
+<thumbnail>https://i.ytimg.com/vi/2gxrIXZMtF4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0uAoeGGsiRInV9yHNJQTpPv7Ekc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sebastian's "Dulce de Leche" Cheesecake - Sernik Krowkowy - Recipe #126</title>
+<utube>r_zVoSzz9A8</utube>
+<thumbnail>https://i.ytimg.com/vi/r_zVoSzz9A8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MJCgGSv9-k9uPTrxMDZ2beRrdqM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's Polish "Dulce de Leche" - Masa Krowkowa - Recipe #125</title>
+<utube>ZBBn_cdsBd0</utube>
+<thumbnail>https://i.ytimg.com/vi/ZBBn_cdsBd0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=D6XfImj3cq7xHC6Y48K868OmbCs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy New Year!</title>
+<utube>LG02G8Jnoho</utube>
+<thumbnail>https://i.ytimg.com/vi/LG02G8Jnoho/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cKycen9Dm9VxiAv2hSvFquJeCoI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Christmas Cookies - Kolaczki Swiateczne -  Recipe #124</title>
+<utube>l3uZwTLFIZI</utube>
+<thumbnail>https://i.ytimg.com/vi/l3uZwTLFIZI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hD-OVacVRu_wwAkITTnJC438G-M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Gingerbread House - Domek z Piernika -  Recipe #123</title>
+<utube>Y0Ypn0Ouk2s</utube>
+<thumbnail>https://i.ytimg.com/vi/Y0Ypn0Ouk2s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iZvKQZf5EOzkkbCLdgZwcWUw8tk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage Bread Rolls - Zawijance z Kapusta - Christmas Recipe #122</title>
+<utube>EJAMrS0sqh0</utube>
+<thumbnail>https://i.ytimg.com/vi/EJAMrS0sqh0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HsdWgTVoOUNVD6vcTxAiw6z5-to</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rum Babka - Babeczki Rumowe -  Christmas Recipe #121</title>
+<utube>5epuNAtQ9kU</utube>
+<thumbnail>https://i.ytimg.com/vi/5epuNAtQ9kU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zyBCNQorAIhOcBOiBtUHTmooZwg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mulled Beer With Egg - Grzanka Piwna z Jajkiem -  Christmas Recipe #120</title>
+<utube>KfaEErUIJyE</utube>
+<thumbnail>https://i.ytimg.com/vi/KfaEErUIJyE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QZMK8Ks_tENv56HWDlpkc8Dh8mc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Little Announcement</title>
+<utube>UaF63VVKNf0</utube>
+<thumbnail>https://i.ytimg.com/vi/UaF63VVKNf0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5mWGTthF2YlIxqa5ekgbEADzHOk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Pasta - Lazanki -  Polish Christmas Recipe #119</title>
+<utube>jpB9fAFUkFE</utube>
+<thumbnail>https://i.ytimg.com/vi/jpB9fAFUkFE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zZDWD8puZI2mlrY0xBa1S8lBtLs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage with Mushrooms - Kapusta z Grzybami -  Polish Christmas Recipe #118</title>
+<utube>72t-gNZG4m4</utube>
+<thumbnail>https://i.ytimg.com/vi/72t-gNZG4m4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=p82OqgqOvef6w5dQ2mkOzUAcWyE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>In Ania's Kitchen - Behind The Scenes</title>
+<utube>R9Ugsgm0MMw</utube>
+<thumbnail>https://i.ytimg.com/vi/R9Ugsgm0MMw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ac5VoPCR0S2zykDsHchr4WYkwgs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Split Pea Soup with Croutons - Grochowa z Grzankami -  Recipe #117</title>
+<utube>lAA1kO382Cw</utube>
+<thumbnail>https://i.ytimg.com/vi/lAA1kO382Cw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kEcBCzAa7ZlStRdWYG6arI0PQDc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Welcome to Ania's Kitchen</title>
+<utube>yFCGZudVx0s</utube>
+<thumbnail>https://i.ytimg.com/vi/yFCGZudVx0s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lfV6Cs4qrkXNFn2arxgENMzA2Qk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cucumber Salad - Mizeria -  Recipe #116</title>
+<utube>SUh4rUslqYk</utube>
+<thumbnail>https://i.ytimg.com/vi/SUh4rUslqYk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=N7dy2u29EACxJnIZogW3CDoOJhQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's Mashed Potatoes - Ziemniaki Puree-  Recipe #115</title>
+<utube>V0xDuEcW5BM</utube>
+<thumbnail>https://i.ytimg.com/vi/V0xDuEcW5BM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hRZhn16mRCXFf5lB_Bp8yTWSaEw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Thanksgiving or Christmas Day Roasted Turkey - Indyk Pieczony -  Recipe #114</title>
+<utube>hjnGs_EhKxw</utube>
+<thumbnail>https://i.ytimg.com/vi/hjnGs_EhKxw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=F7A7DWJ02WQO4XHJ8G3HtBUJfqk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sebastian's Banana Bread - Ciasto Bananowe -  Recipe #113</title>
+<utube>tSZgtuq9KNg</utube>
+<thumbnail>https://i.ytimg.com/vi/tSZgtuq9KNg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jGTIDlXmgSGUtXiEZnXpbjBcnG0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Placek po Wegiersku - Hungarian Style Potato Pancake -  Recipe #112</title>
+<utube>KvFBBigTffs</utube>
+<thumbnail>https://i.ytimg.com/vi/KvFBBigTffs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xFveeX-kLAnkUuycjum8fi0qb2I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's Pumpkin Muffins - Babeczki z Dynia -  Recipe #111</title>
+<utube>KaWeJMTQFY4</utube>
+<thumbnail>https://i.ytimg.com/vi/KaWeJMTQFY4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bzz3ND2rz-G0CTYZUl-mVrF3Zzo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Pumpkin Cake - Placek z Dynia -  Recipe #110</title>
+<utube>ZWMLnf1gHdQ</utube>
+<thumbnail>https://i.ytimg.com/vi/ZWMLnf1gHdQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v-5WSTgtel8QirfEIwTknplnggM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kitchen Renovation-Done!</title>
+<utube>4H32MGwqAHM</utube>
+<thumbnail>https://i.ytimg.com/vi/4H32MGwqAHM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xjbdiaDJ6tofTeiVEZX92qyzkdI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kitchen Renovation - Almost there!</title>
+<utube>LOnuJLqlQ5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/LOnuJLqlQ5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O2h55Q1DHEoITTs74BCA7oturzg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kitchen Renovation Update</title>
+<utube>mEmSWc1NfcU</utube>
+<thumbnail>https://i.ytimg.com/vi/mEmSWc1NfcU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ijbpQ466jTL1BcI1hBLegjw53Og</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ania's Kitchen Renovation!</title>
+<utube>mVpkP8gnrhg</utube>
+<thumbnail>https://i.ytimg.com/vi/mVpkP8gnrhg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ikEukFJeTTJ6hagTW8si322wFRs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheesecake Cupcakes - Babeczki Serowe -  Recipe #109</title>
+<utube>OPrqLcsdgX0</utube>
+<thumbnail>https://i.ytimg.com/vi/OPrqLcsdgX0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HQHGn4F0Wx0VC82KCnjyk3fEoTo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate and Cherry Bundt Cake - Czekoladowa Babka z Wisniami -  Recipe #108</title>
+<utube>hH_Y4Nw2BdM</utube>
+<thumbnail>https://i.ytimg.com/vi/hH_Y4Nw2BdM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_ScQAGenUGUqSH9P3GCbYWFZFMg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Creamy Pasta with Spinach - Makaron ze Szpinakiem -  Recipe #107</title>
+<utube>p5Fvmc3pmF4</utube>
+<thumbnail>https://i.ytimg.com/vi/p5Fvmc3pmF4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iA6_5YxnNQkzIEUPfmft5v0tWVo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Jamie Oliver's Search for a Food Tube Star with Uncle Ben Entry -  Rice Dumplings with Plums</title>
+<utube>uV0AN3d6KeM</utube>
+<thumbnail>https://i.ytimg.com/vi/uV0AN3d6KeM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FJorci6VlCUKtOP5uWPHHnoi5v4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Funnel Cake - Chruscik Lany -  Recipe #105</title>
+<utube>hcmZa5qmu2E</utube>
+<thumbnail>https://i.ytimg.com/vi/hcmZa5qmu2E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TJ-cdCve2Ke0iMOiZAYUpSZBgo0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sebastian's Easy Brownies Recipe #104</title>
+<utube>_PzT-k9_KYg</utube>
+<thumbnail>https://i.ytimg.com/vi/_PzT-k9_KYg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hGiAxhJ47-v0Y78WD-nF46c6a9c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Sourdough Bread - Polski Chleb na Zakwasie -  Recipe #103</title>
+<utube>NToaxuGnauA</utube>
+<thumbnail>https://i.ytimg.com/vi/NToaxuGnauA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EMmQxxnE__KUenlGs2qcce8Uk_s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sourdough Starter - Zakwas na Chleb -  Recipe #102</title>
+<utube>guXKfgsu9gE</utube>
+<thumbnail>https://i.ytimg.com/vi/guXKfgsu9gE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qkL9jMkXQyix7g_GHujpFPpZWIY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sponge Cake with Pears - Biszkopt z Gruszkami -  Recipe #101</title>
+<utube>U0qmJrHvQXE</utube>
+<thumbnail>https://i.ytimg.com/vi/U0qmJrHvQXE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6jdSZQEGECsk6A-FW14pJRl09Jg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate and Cream Cake - Wuzetka -  Recipe #100</title>
+<utube>9Y7ydkgdN04</utube>
+<thumbnail>https://i.ytimg.com/vi/9Y7ydkgdN04/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EGzEKhHcTngejcioOYeRFE68ifs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Roulade with Bacon - Zrazy z Boczkiem -  Recipe #99</title>
+<utube>k0mH9feRcXU</utube>
+<thumbnail>https://i.ytimg.com/vi/k0mH9feRcXU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-gF6FVYufNcgfF2X9kv7drLRodg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Laid Dumplings - Kluski Kladzione -  Recipe #98</title>
+<utube>k1Vup9cj-S4</utube>
+<thumbnail>https://i.ytimg.com/vi/k1Vup9cj-S4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aZ7r0js2dsKB_xt9t0eXF3J62uw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Cheese Pudding - Legumina Serowa -  Recipe #97</title>
+<utube>zfaKTkrqXIM</utube>
+<thumbnail>https://i.ytimg.com/vi/zfaKTkrqXIM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TZiCQLHGg02gNTOqtCKuwgU1PnU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vanilla Sauce - Mleczko Waniliowe -  Recipe #96</title>
+<utube>Ev1CNQCx9F8</utube>
+<thumbnail>https://i.ytimg.com/vi/Ev1CNQCx9F8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dKj3JHtiZIExEz3kEm7qcw4DdAU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ice Cream Cake - Tort Lodowy  -  Recipe #95</title>
+<utube>EXWToR2g8gw</utube>
+<thumbnail>https://i.ytimg.com/vi/EXWToR2g8gw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=INWttu1hrBNpvfDoc50qTIEDpAA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vanilla Ice Cream - Lody Waniliowe -  Recipe #94</title>
+<utube>Jkb_7vggVf8</utube>
+<thumbnail>https://i.ytimg.com/vi/Jkb_7vggVf8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EyGQSw1jafaMxNa6-pCVuoJtXa4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My Birthday Giveaway Winner!</title>
+<utube>ZUxLXV0nhjU</utube>
+<thumbnail>https://i.ytimg.com/vi/ZUxLXV0nhjU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wq5lSBA4s0vVvdY7HKN2vPZuO7Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bacon Rolls - Sliwki i Kielbaski w Boczku -  Recipe #93</title>
+<utube>l3rf4WJcDB4</utube>
+<thumbnail>https://i.ytimg.com/vi/l3rf4WJcDB4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Bjkjl6S9zHn8SEH5CKK6G0agZZA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Omelette With Raspberry Jam - Omlet z Dzemem Malinowym - Mother's Day Special -  Recipe #92</title>
+<utube>F6-i9NNjkWo</utube>
+<thumbnail>https://i.ytimg.com/vi/F6-i9NNjkWo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gSt8do1shtpSuUN_AnrMDxYPKcI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My Birthday Giveaway - Closed!</title>
+<utube>XoO6E8Qj7bQ</utube>
+<thumbnail>https://i.ytimg.com/vi/XoO6E8Qj7bQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=e7Qd-sM2t-l_oLf_k-N5PvAqeCc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Cheese Bread - Kolocz Slaski -  Recipe #91</title>
+<utube>0dBqWgkjPSg</utube>
+<thumbnail>https://i.ytimg.com/vi/0dBqWgkjPSg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eaFAMyPhfVkGDuqJ8a6OPtqY6wo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beer Stew - Gulasz na Piwie -  Recipe #90</title>
+<utube>CYv-itlZAJU</utube>
+<thumbnail>https://i.ytimg.com/vi/CYv-itlZAJU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CXWLWJVFns1zWbeo2NBbZ30LKgE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Danube Waves Cake - Fale Dunaju -  Recipe #89</title>
+<utube>PNf3bwlo9F4</utube>
+<thumbnail>https://i.ytimg.com/vi/PNf3bwlo9F4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f-JrVdZZIaZ-Goo1EvODQjktJ0w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Pate - Pasztet Drobiowy -  Recipe #88</title>
+<utube>-0rrLWBRKec</utube>
+<thumbnail>https://i.ytimg.com/vi/-0rrLWBRKec/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FXqeA8vYrj1QBX_18BwIz71faL0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Roast Pork Loin - Schab Pieczony ze Sliwka - Recipe #87</title>
+<utube>CJ5Dp0UESUg</utube>
+<thumbnail>https://i.ytimg.com/vi/CJ5Dp0UESUg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6YRkmMA1CozmSiyZGSp8qLS2TaU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Eggs - Jajka Faszerowane -  Recipe #86</title>
+<utube>-IOGdMgiudc</utube>
+<thumbnail>https://i.ytimg.com/vi/-IOGdMgiudc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=doLOi6-aaacfeLE_WJPY1QXRwMI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sour Rye Soup - Zurek -  Recipe #85</title>
+<utube>GrbkVKAXULw</utube>
+<thumbnail>https://i.ytimg.com/vi/GrbkVKAXULw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BcFdg2-oIUiJWK28fKdOWVRQ7Kw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sour Rye Soup Starter - Zakwas na Zurek -  Recipe #84</title>
+<utube>fPpsshVA7sI</utube>
+<thumbnail>https://i.ytimg.com/vi/fPpsshVA7sI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J3LvCOLiPVG10H7g-bwAVRqJRro</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Breton Beans - Fasolka po Bretonsku -  Recipe #83</title>
+<utube>8NfKoeyWZI0</utube>
+<thumbnail>https://i.ytimg.com/vi/8NfKoeyWZI0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A7AZYIjsowwcgsv8rd1LgVauENo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cracow Style Cheesecake - Sernik Krakowski - Recipe #82</title>
+<utube>rG2LcR7MBXI</utube>
+<thumbnail>https://i.ytimg.com/vi/rG2LcR7MBXI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wHt4NQuMlCY03WzzgHp5pt202Ws</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Bell Peppers - Papryka Faszerowana -  Recipe #81</title>
+<utube>DgK-Y20Kwa0</utube>
+<thumbnail>https://i.ytimg.com/vi/DgK-Y20Kwa0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Z-rjyvH_E2BZMkgDXx-THuVyghA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Chops Under Blanket - Schabowe Pod Kolderka -  Recipe #80</title>
+<utube>sis7F2TEsyk</utube>
+<thumbnail>https://i.ytimg.com/vi/sis7F2TEsyk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GT9DyhQXToO4RLoaenZeM0YvvcM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pot Cheese - Twarozek -  Recipe #79</title>
+<utube>t1Nix7IdEGs</utube>
+<thumbnail>https://i.ytimg.com/vi/t1Nix7IdEGs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6To0Wh5x2GABe_c7L0xQnHDK6tU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Cake Pops - Ciasteczkowe Lizaczki Walentynkowe -  Recipe #78</title>
+<utube>c1eA4BraYMg</utube>
+<thumbnail>https://i.ytimg.com/vi/c1eA4BraYMg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0kLikahb-CUauGJW0gad40dmsM4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Day Sand Cake - Walentynkowe Ciasto Piaskowe -  Recipe #77</title>
+<utube>APCm7OhbO10</utube>
+<thumbnail>https://i.ytimg.com/vi/APCm7OhbO10/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b-7BDYCI_RM5tPs0CyUPMFh0-MA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Valentine's Cookies - Kruche Ciasteczka Walentynkowe -  Recipe #76</title>
+<utube>PR5yyOtldPk</utube>
+<thumbnail>https://i.ytimg.com/vi/PR5yyOtldPk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NehFzZYAAoHF3jNjbk1kfnZHBB8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream Donuts - Paczki z Budyniem -  Recipe #75</title>
+<utube>P31N66jMe98</utube>
+<thumbnail>https://i.ytimg.com/vi/P31N66jMe98/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0i7phiRESugHv6hFkIKcw5--rtw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Angel Wings - Faworki -  Recipe #74</title>
+<utube>25cFL9ecZDM</utube>
+<thumbnail>https://i.ytimg.com/vi/25cFL9ecZDM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=btdgM1KtmVfxQsim2lwCMpH_izA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>"Little Tires" Donuts - Oponki -  Recipe #73</title>
+<utube>tXZwET7elW4</utube>
+<thumbnail>https://i.ytimg.com/vi/tXZwET7elW4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TaGIvivW5ulxljme8FTgPNPtRnQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Onion Buns - Cebulaki -  Recipe #72</title>
+<utube>tKsc-1SuPIs</utube>
+<thumbnail>https://i.ytimg.com/vi/tKsc-1SuPIs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CGitEl-AAqJYtQ4kaoA7T8AJ2lw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Meringue Cookies - Bezy -  Recipe #71</title>
+<utube>lpselfs-lLQ</utube>
+<thumbnail>https://i.ytimg.com/vi/lpselfs-lLQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ozk8NgBbTj-7a9xvTw5zMHs1ScI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato, Bacon and Noodles Soup - Zacierkowa - Recipe #70</title>
+<utube>nDOnj2McxfE</utube>
+<thumbnail>https://i.ytimg.com/vi/nDOnj2McxfE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mTjnhJL90izDBtbiox4aByMh5Lk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coffee Meringue Cake - Tort Kawowo Bezowy - Recipe #69</title>
+<utube>4hY3B8OwET8</utube>
+<thumbnail>https://i.ytimg.com/vi/4hY3B8OwET8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RMsX5zQLExDTNtR9W7uDcBrFt6M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Potato Dumplings - Kopytka - Recipe #68</title>
+<utube>VvLwGOY_ZDc</utube>
+<thumbnail>https://i.ytimg.com/vi/VvLwGOY_ZDc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jpq-wg3EWiGJScgLmcRV19tqKjM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Stroganoff - Strogonow - Recipe #67</title>
+<utube>Bd6-DWInJtI</utube>
+<thumbnail>https://i.ytimg.com/vi/Bd6-DWInJtI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xcN9OLg78gjRHlPWD8ki_ooDvbI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Bites - Buleczki z Pieczarkami - Ania's Polish Food Recipe #66</title>
+<utube>aLBo7W6K5k4</utube>
+<thumbnail>https://i.ytimg.com/vi/aLBo7W6K5k4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aMOev9ezSmDDE9QKAgbFVYGKav0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Fish - Ryba Faszerowana - Christmas Menu Recipe #65</title>
+<utube>wRZNMVuu58M</utube>
+<thumbnail>https://i.ytimg.com/vi/wRZNMVuu58M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=et9JAY9NbiR2Ao5CS7mfDTdEvXE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spiced Honey Cookies - Pierniczki - Christmas Menu Recipe #64</title>
+<utube>H1JwcvmXzC0</utube>
+<thumbnail>https://i.ytimg.com/vi/H1JwcvmXzC0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EeRk59wPaY1NpnuCJsRzj8rRlP8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Cheesecake - Seromak - Christmas Menu Recipe #63</title>
+<utube>Nf22_22isU4</utube>
+<thumbnail>https://i.ytimg.com/vi/Nf22_22isU4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=C1la5zDGhA2vM3DQtvXC-CVLzF4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Plum Butter Strudel - Strucla Swiateczna - Christmas Menu Recipe #62</title>
+<utube>a7NNVm_yCgA</utube>
+<thumbnail>https://i.ytimg.com/vi/a7NNVm_yCgA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jxRdyvHsr9raKJ9jtBSFci3s6B0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My Christmas Table decoration</title>
+<utube>zmjOnCLUaZM</utube>
+<thumbnail>https://i.ytimg.com/vi/zmjOnCLUaZM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GIxGiV_cl0z8tMFJBBrMx_Q-W7o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Roll - Makowiec - Christmas Menu Recipe #61</title>
+<utube>pPsOMGLwJbI</utube>
+<thumbnail>https://i.ytimg.com/vi/pPsOMGLwJbI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hiyA2JLaxfYhsFDV411z07ZgDa8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Filling - Masa Makowa - Christmas Menu Recipe #60</title>
+<utube>NbLoKwEluAk</utube>
+<thumbnail>https://i.ytimg.com/vi/NbLoKwEluAk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FnUpCUBnkEHWvdvn0wMUdE6jrbA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Pasties - Paszteciki z Pieczarkami - Christmas Menu Recipe #59</title>
+<utube>JpLbm8HPl9I</utube>
+<thumbnail>https://i.ytimg.com/vi/JpLbm8HPl9I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1QBidEKXbkNwSPxdWda8SIGtLsU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Plum Butter - Powidla Sliwkowe - Christmas Menu Recipe #58</title>
+<utube>6N10-Dz7K2k</utube>
+<thumbnail>https://i.ytimg.com/vi/6N10-Dz7K2k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=a3oqOiEJhsFqCadEFeUlZAyiK1s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salmon with Tartar Sauce - Losos z Sosem Tatarskim - Christmas Menu Recipe #57</title>
+<utube>Ez5O8VxzAn8</utube>
+<thumbnail>https://i.ytimg.com/vi/Ez5O8VxzAn8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=E1OUOkOHn_wz8E_KDXKUP8jW3QY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage and Mushrooms Pierogies - Pierogi z Kapusta i Grzybami - Christmas Menu Recipe #56</title>
+<utube>AJ2jHm-mSMg</utube>
+<thumbnail>https://i.ytimg.com/vi/AJ2jHm-mSMg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9gPf-Uv2psfBRiAWRRZ8nGEgp0E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Gingerbread Honey Cake - Piernik - Christmas Menu Recipe #55</title>
+<utube>mRrw6YjL920</utube>
+<thumbnail>https://i.ytimg.com/vi/mRrw6YjL920/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=blffca6chCdSp0CHuxZFQ7exclY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Split Peas and Cabbage - Kapusta z Grochem - Christmas Menu Recipe #54</title>
+<utube>q1Z51KI1kso</utube>
+<thumbnail>https://i.ytimg.com/vi/q1Z51KI1kso/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lHw_sjgrEPirnnNZK6fHbCnzRV8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Fish "à la Greek" - Ryba po Grecku - Christmas Menu Recipe #53</title>
+<utube>MOpSySxmTSQ</utube>
+<thumbnail>https://i.ytimg.com/vi/MOpSySxmTSQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v-bIFk3_rbbL6rLsXlyaSSDAlkw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mini Pierogies - Uszka - Christmas Menu Recipe #52</title>
+<utube>nLQrYCOrI24</utube>
+<thumbnail>https://i.ytimg.com/vi/nLQrYCOrI24/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_KfRAPQEVOSXsZQQjvmn9EL_NSg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Red Borscht - Barszcz Czerwony - Christmas Menu Recipe #51</title>
+<utube>VYhcWhfvh-c</utube>
+<thumbnail>https://i.ytimg.com/vi/VYhcWhfvh-c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cWB9DA7MBSwzRSzcaUZTUln0wx8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Christmas Menu</title>
+<utube>mwnKCvCotGI</utube>
+<thumbnail>https://i.ytimg.com/vi/mwnKCvCotGI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JDNjBcnUS7ElAflIK9_O5WCebek</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Napoleon's Cake or Papal Cream Cake - Kremowki - Ania's Polish Food Recipe #50</title>
+<utube>HhqlhdB83Bs</utube>
+<thumbnail>https://i.ytimg.com/vi/HhqlhdB83Bs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G4cDsiFwvLs_-3bI9RVM-3HCH_U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Plum Tarts - Francuskie ze Sliwkami - Ania's Polish Food Recipe #49</title>
+<utube>dOMOYhMpK8Y</utube>
+<thumbnail>https://i.ytimg.com/vi/dOMOYhMpK8Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=E7bFzPF4ENWqvhAnGPlnaYorExc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Puff Pastry - Ciasto Francuskie - Ania's Polish Food Recipe #48</title>
+<utube>kbzcoEv7oII</utube>
+<thumbnail>https://i.ytimg.com/vi/kbzcoEv7oII/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aeBobRaBerX6vc7byMzYfWOT7k0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Ricotta Crepes - Nalesniki z Serem - Ania's Polish Food Recipe #47</title>
+<utube>en8rnSuFWvA</utube>
+<thumbnail>https://i.ytimg.com/vi/en8rnSuFWvA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8MKewrL7_wM1fkbX0im4cmOrW9A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sebastian's B-Day Cake - Tort Urodzinowy Sebastiana - Ania's Polish Food Recipe #46</title>
+<utube>OQMCl3pckZM</utube>
+<thumbnail>https://i.ytimg.com/vi/OQMCl3pckZM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WE8fPRMKEWA5WEoQvpahfMmB41g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Muffins - Babeczki Ziemniaczane - Ania's Polish Food Recipe #45</title>
+<utube>Q6LUkWqbMTo</utube>
+<thumbnail>https://i.ytimg.com/vi/Q6LUkWqbMTo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=idSMx_TZgb64OZPIYY-5_8SK_PI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Risotto - Risotto z Kurczakiem - Ania's Polish Food Recipe #44</title>
+<utube>TyA08bMo-98</utube>
+<thumbnail>https://i.ytimg.com/vi/TyA08bMo-98/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xKf-ZBFy4_oO4HbMDDUlZQmXlCs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Have a walk with me!</title>
+<utube>z2KPuRrmJJY</utube>
+<thumbnail>https://i.ytimg.com/vi/z2KPuRrmJJY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Q_pVHjvw-jFJyN2RViMrBQXkSc8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Apple Bread - Placek z Jablkami - Ania's Polish Food Recipe #43</title>
+<utube>ht2PArPAbnk</utube>
+<thumbnail>https://i.ytimg.com/vi/ht2PArPAbnk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gAsbajhFZsb1dSyYyombnTdAwCU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheese Balls - Kuleczki Serowe - Ania's Polish Food Recipe #42</title>
+<utube>tQNEGaruvlI</utube>
+<thumbnail>https://i.ytimg.com/vi/tQNEGaruvlI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A6YwMlzjbLSrFPKxMSXbHiIdPIw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Deep Fried Apples - Jablka w Ciescie - Ania's Polish Food Recipe #41</title>
+<utube>USZQ_6nSBA0</utube>
+<thumbnail>https://i.ytimg.com/vi/USZQ_6nSBA0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rD-hxcn-aRzQFNc6yzFaRNGZulo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Meat Pierogies - Pierogi z Miesem - Ania's Polish Food Recipe #40</title>
+<utube>TMpt-41UTOk</utube>
+<thumbnail>https://i.ytimg.com/vi/TMpt-41UTOk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q05rLUtS7_LBCjm1e0I-iLPX8RY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheese and Potatoes Pierogies - Pierogi Ruskie - Ania's Polish Food Recipe #39</title>
+<utube>6uttmRx2ovo</utube>
+<thumbnail>https://i.ytimg.com/vi/6uttmRx2ovo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3Y4sO09AuVwiEiB11V415x8OXQw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Pierogi - Pierogi z Dynia - Recipe #38</title>
+<utube>LhrmwGxTLAE</utube>
+<thumbnail>https://i.ytimg.com/vi/LhrmwGxTLAE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZlB3fd_4KRZ_-emmyDSEgfApTec</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Carrots and Potatoes - Marchewka z Ziemniakami - Ania's Polish Food Recipe #37</title>
+<utube>7DZrqvC8JP8</utube>
+<thumbnail>https://i.ytimg.com/vi/7DZrqvC8JP8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Q0e3U0cihsoyj6pnxfSRsklXc1A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Creamy Mushrooms - Grzyby w Smietanie - Ania's Polish Food Recipe #36</title>
+<utube>kgS4aiQvTc4</utube>
+<thumbnail>https://i.ytimg.com/vi/kgS4aiQvTc4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lNYfOi3p0VOs0EZV1b73ZfvYid4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage Soup - Kapusniak - Ania's Polish Food Recipe #35</title>
+<utube>XCe94_GPIrE</utube>
+<thumbnail>https://i.ytimg.com/vi/XCe94_GPIrE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=e5QSshYF88KXoQa1ZdJSjKmdmSk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Buckwheat Pancakes with Caviar - Bliny z Kawiorem - Ania's Polish Food Recipe #34</title>
+<utube>HS9mBCAfZ18</utube>
+<thumbnail>https://i.ytimg.com/vi/HS9mBCAfZ18/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7f6yqOvgQKB6koHtEo4gdrNFo0w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Salad - Salatka Ziemniaczana - Ania's Polish Food Recipe #33</title>
+<utube>A9O0e_Bv7NE</utube>
+<thumbnail>https://i.ytimg.com/vi/A9O0e_Bv7NE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_tsEtcxUFsjhOCKV0en9ESotexg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ms. Walewska Cream Cake - Pani Walewska - Ania's Polish Food Recipe #32</title>
+<utube>zpz4IM2m3zc</utube>
+<thumbnail>https://i.ytimg.com/vi/zpz4IM2m3zc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TpdJYRssI-1gcEi3hzHNLw3sG4g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Isabella's B-Day Cake - Tort Urodzinowy Izabelli - Ania's Polish Food Recipe #31</title>
+<utube>z-NR7j_r6TQ</utube>
+<thumbnail>https://i.ytimg.com/vi/z-NR7j_r6TQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OIA5KP4QKa_ywIPi5zAc427bVjQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Summer Break in Poland :)</title>
+<utube>XkjWPLJyX8I</utube>
+<thumbnail>https://i.ytimg.com/vi/XkjWPLJyX8I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Yb4g9T1lT6CVwbVu72Hcxj_zhbY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Quick Endive salad - Szybka Salatka z Cykorii - Ania's Polish Food Recipe #30</title>
+<utube>Wf3_afsAL7k</utube>
+<thumbnail>https://i.ytimg.com/vi/Wf3_afsAL7k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4JtJc35oS18OZbPb61iWChGiUtc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Hocks in Beer & Honey - Golonka na Piwie z Miodem - Ania's Polish Food Recipe #29</title>
+<utube>d8TZkOoXaOw</utube>
+<thumbnail>https://i.ytimg.com/vi/d8TZkOoXaOw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zeW97vGncSU2j0jgH68zWivKkVQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberries and Cream Pasta - Makaron z Truskawkami - Ania's Polish Food Recipe #28</title>
+<utube>FF5IvandaHQ</utube>
+<thumbnail>https://i.ytimg.com/vi/FF5IvandaHQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6SDfxdVm3EMLij5j4d72bujjvxk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Blueberry Buns - Jagodzianki - Ania's Polish Food Recipe #27</title>
+<utube>R7cDH8_uBms</utube>
+<thumbnail>https://i.ytimg.com/vi/R7cDH8_uBms/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k88gzEXC7bLRgT92hB93CA3nuew</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hunter's Stew - Bigos - Ania's Polish Food Recipe #26</title>
+<utube>io_zb2sZFQ8</utube>
+<thumbnail>https://i.ytimg.com/vi/io_zb2sZFQ8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MSZT2aKMwp6_xFT7AyZo1BhppEM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crêpe Rolls with Meat - Krokiety z Miesem - Ania's Polish Food Recipe #25</title>
+<utube>q8_Sqn2uPt4</utube>
+<thumbnail>https://i.ytimg.com/vi/q8_Sqn2uPt4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0XyqyOjICf6hSebmtq6TIpbbs8M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Cheese Pancakes - Racuchy z Serem - Ania's Polish Food Recipe #24</title>
+<utube>pHiNgb69V-g</utube>
+<thumbnail>https://i.ytimg.com/vi/pHiNgb69V-g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oOuGxDOaQkwy47I5PwRmOPZGaPs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Style Potatoes - Ziemniaki po Polsku - Ania's Polish Food Recipe #23</title>
+<utube>hV_0gdpHBQM</utube>
+<thumbnail>https://i.ytimg.com/vi/hV_0gdpHBQM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qm15x9nARWx_pmcx36KMFN4Iw5E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pickled Cucumber Soup - Zupa Ogorkowa - Ania's Polish Food Recipe #22</title>
+<utube>bcSUam_Hp7A</utube>
+<thumbnail>https://i.ytimg.com/vi/bcSUam_Hp7A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gJWSmDsvEh6PPxcNutOmnC8h0iw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vienna Style Cheesecake - Sernik po Wiedensku- Ania's Polish Food Recipe #21</title>
+<utube>2eMT7ZbybJc</utube>
+<thumbnail>https://i.ytimg.com/vi/2eMT7ZbybJc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5gnuda3TqKn28o1UB3RIKAootAA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Mushroom Baguette - Zapiekanka - Ania's Polish Food Recipe #20</title>
+<utube>JdoCBxzJ42c</utube>
+<thumbnail>https://i.ytimg.com/vi/JdoCBxzJ42c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rMDzEOqpL5J-0WZNopv7nVS77NU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice Apple Pudding - Ryz z Jablkami Ania's Polish Food Recipe #19</title>
+<utube>TyyS0cGVckE</utube>
+<thumbnail>https://i.ytimg.com/vi/TyyS0cGVckE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ufpjexV2XGzvtgkv-UHxUhb1f5Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Cake - Murzynek  Ania's Polish Food Recipe #18</title>
+<utube>54cYlYwSZyY</utube>
+<thumbnail>https://i.ytimg.com/vi/54cYlYwSZyY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v6sa-mvkIr9q0zeTH_izhycTd-s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Schnitzel - Sznycel z kurczaka - Ania's Polish Food Recipe #17</title>
+<utube>9sDHzAlPKuU</utube>
+<thumbnail>https://i.ytimg.com/vi/9sDHzAlPKuU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PMBcHSaoty6u7IPICUGZynFL3eg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Veggie Salad - Salatka Jarzynowa - Ania's Polish Food Recipe #16</title>
+<utube>QGxWwJm8rBw</utube>
+<thumbnail>https://i.ytimg.com/vi/QGxWwJm8rBw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cZ7XtGDDuc9qSEEH0vMU-DjnnHk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Mazurek - Mazurek Wielkanocny - Ania's Polish Food Recipe #15</title>
+<utube>a8ccQww666Y</utube>
+<thumbnail>https://i.ytimg.com/vi/a8ccQww666Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wI2GvYmTn5abyuRYNc2PSx8P3jU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Pasha - Pascha Wielkanocna - Ania's Polish Food Recipe #14</title>
+<utube>2Ls0fHUMLj8</utube>
+<thumbnail>https://i.ytimg.com/vi/2Ls0fHUMLj8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lRFtSZexYOUc0fHmSYrpL3gRtM4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easter Bundt Cake - Babka Wielkanocna - Ania's Polish Food Recipe #13</title>
+<utube>A9Rscx-p3lg</utube>
+<thumbnail>https://i.ytimg.com/vi/A9Rscx-p3lg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ozwIlObbYkuMwqGdHrUAdBBIPhM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Carpathian Mountain Cream Cake - Karpatka - Ania's Polish Food Recipe #12</title>
+<utube>705uh1OnSTY</utube>
+<thumbnail>https://i.ytimg.com/vi/705uh1OnSTY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8C6-GlFSBsc_xpLWYJfFWoeebpQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cutlets - Kotlety Mielone - Ania's Polish Food Recipe #11</title>
+<utube>scpauWtVZkM</utube>
+<thumbnail>https://i.ytimg.com/vi/scpauWtVZkM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7cXZJBEIp4xqrwntj_Xm0zPYTlw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tomato Soup - Pomidorowa - Ania's Polish Food Recipe #10</title>
+<utube>k6vuQd4vvwY</utube>
+<thumbnail>https://i.ytimg.com/vi/k6vuQd4vvwY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gM-9ghRZgX8G2V1wFUjdwYmGF9Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Donuts - Paczki - Ania's Polish Food Recipe #9</title>
+<utube>kw9x5KFyvxY</utube>
+<thumbnail>https://i.ytimg.com/vi/kw9x5KFyvxY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gXKelU24XpRi_zL-ceIGuyWbuuk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Smoked Turkey Salad - Salatka z Wedzonym Indykiem - Ania's Polish Food Recipe #8</title>
+<utube>-GCSzkmm_ck</utube>
+<thumbnail>https://i.ytimg.com/vi/-GCSzkmm_ck/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vMIGkg7VutiXcysUmP893Nz4FIs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lazy Pierogi - Leniwe Pierogi - Ania's Polish Food Recipe #7</title>
+<utube>Fx0aRBjhk_k</utube>
+<thumbnail>https://i.ytimg.com/vi/Fx0aRBjhk_k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EGO-qKXgpa3ErTBG6TQ1a3DL8k4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rum Spiced Apple Cider - Jablecznik z Rumem - Ania's Polish Food Recipe #6</title>
+<utube>Ut6gTpPzobg</utube>
+<thumbnail>https://i.ytimg.com/vi/Ut6gTpPzobg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YhcfktJtff45aCYFoZ8HyUj1a4M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Pancakes - Racuchy z Jablkami - Ania's Polish Food Recipe #5</title>
+<utube>FvS_1njgw3g</utube>
+<thumbnail>https://i.ytimg.com/vi/FvS_1njgw3g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PR_YoSd3fqrCWbwtxbHR4jWLVP8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Cake - Piegusek - Ania's Polish Food Recipe #4</title>
+<utube>zDrAW1mW6FE</utube>
+<thumbnail>https://i.ytimg.com/vi/zDrAW1mW6FE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gVOyeupSSwm3p26cl9fS3AoxRkE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Plum Cake - Biszkopt ze Sliwkami - Ania's Polish Food Recipe #3</title>
+<utube>pP7s4gUN_7k</utube>
+<thumbnail>https://i.ytimg.com/vi/pP7s4gUN_7k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iSUXHSTBRaJQb9-oS1TyAyhDswI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Pie - Szarlotka - Ania's Polish Food Recipe #2</title>
+<utube>_cSOwSOexNQ</utube>
+<thumbnail>https://i.ytimg.com/vi/_cSOwSOexNQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5tJtIHqVmtRZok7-w_iau_Y3Rvw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Pancakes - Placki Ziemniaczane - Ania's Polish Food Recipe #1</title>
+<utube>63_jjseeDJs</utube>
+<thumbnail>https://i.ytimg.com/vi/63_jjseeDJs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SMF1UAC68r71XxLgjttyn8ki4Qk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

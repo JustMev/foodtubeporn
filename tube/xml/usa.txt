@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>Cooking texas style Cuisine</name>
+<thumbnail>http://i.imgur.com/CaKdbMh.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/USA/Texas_Style_Cuisine.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook texas style Cuisine</info>
+</channel>
+</channels>

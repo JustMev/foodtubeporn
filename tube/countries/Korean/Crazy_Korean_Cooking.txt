@@ -1,0 +1,390 @@
+<item>
+<title>Jjim Dak (Braised Chicken) - Crazy Korean Cooking EXPRESS</title>
+<utube>LcrDU6JjOv0</utube>
+<thumbnail>https://i.ytimg.com/vi/LcrDU6JjOv0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCpObr7mrCScANTjEsZeUZOLo-A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ssamjang, Dipping Sauce for Korean BBQ Wrap</title>
+<utube>ukXhmydvFxg</utube>
+<thumbnail>https://i.ytimg.com/vi/ukXhmydvFxg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ABElGVHhdA4u4CnBUL5o7HH7BMI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi Pancake, Kimchijeon - Crazy Korean Cooking EXPRESS</title>
+<utube>7ZKsL0kPG-U</utube>
+<thumbnail>https://i.ytimg.com/vi/7ZKsL0kPG-U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wH8Cr_0ptf14k4zsPoHpSuGek_s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>JANGJORIM, Braised Beef and Quail Eggs</title>
+<utube>KqlaXDLTS8Q</utube>
+<thumbnail>https://i.ytimg.com/vi/KqlaXDLTS8Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vJk0zoblbzLOAmNrkClHuMp-vRI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nabak Kimchi, Pink Water Kimchi</title>
+<utube>RwxEm86SGZ4</utube>
+<thumbnail>https://i.ytimg.com/vi/RwxEm86SGZ4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6tR-XTaJTeSFIJ9icpcQR6rHJcQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Galbi, Korean Grilled Beef Short Ribs - Crazy Korean Cooking EXPRESS</title>
+<utube>WV0C3437pa0</utube>
+<thumbnail>https://i.ytimg.com/vi/WV0C3437pa0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DanXStjZ_1dcwXMJjK5ZRb60T7w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Samgeopsal Gui, Grilled Pork Belly with Ssam - Crazy Korean Cooking EXPRESS</title>
+<utube>_hvo_YmOnGA</utube>
+<thumbnail>https://i.ytimg.com/vi/_hvo_YmOnGA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=U817665usWr87ihuf-xm_mi0Mnk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Pan-fried Breaded Fish, Saengseonjeon - Crazy Korean Cooking EXPRESS</title>
+<utube>kqOn0zQIwds</utube>
+<thumbnail>https://i.ytimg.com/vi/kqOn0zQIwds/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7HmwjMqeM7Gh78Aly4_2EFG_JcI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mayak Gimbap,  Mini Korean Seaweed Rice Roll - Crazy Korean Cooking EXPRESS</title>
+<utube>5TPUNl-HUVk</utube>
+<thumbnail>https://i.ytimg.com/vi/5TPUNl-HUVk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oHCZX4fbX3OgS2mX1buq4ARPGqQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Bulgogi, Korean Grilled Marinated Beef 불고기 - Crazy Korean Cooking EXPRESS</title>
+<utube>l_LpgyvV8DE</utube>
+<thumbnail>https://i.ytimg.com/vi/l_LpgyvV8DE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OMJlGF6Q0kHX9Juy4K1Lu4Kkp5Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Traditional Napa Cabbage Kimchi, Baechu Kimchi 배추김치 - Crazy Korean Cooking EXPRESS</title>
+<utube>sVzsryKmGk8</utube>
+<thumbnail>https://i.ytimg.com/vi/sVzsryKmGk8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JCRwY1x1iCYpEQMYwJi-vlFklPY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy Chicken Bulgogi 닭불고기 - Crazy Korean Cooking Express</title>
+<utube>SsSCYGYipiQ</utube>
+<thumbnail>https://i.ytimg.com/vi/SsSCYGYipiQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jObcHAxPQW-G65X-DTcTe6WKOW0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PONYTAIL RADISH KIMCHI (CHONG GAK KIMCHI) 총각김치 - Crazy Korean Cooking</title>
+<utube>ZYMI8Q8MpbU</utube>
+<thumbnail>https://i.ytimg.com/vi/ZYMI8Q8MpbU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ltysbwWIMf2xISvO31kBNzDKDFU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>KOREAN CINNAMON GINGER PUNCH, SUJEONGGWA RECIPE - CRAZY KOREAN COOKING</title>
+<utube>c785ni8ehJ0</utube>
+<thumbnail>https://i.ytimg.com/vi/c785ni8ehJ0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1zdPUEDetklhyxXlKMOO-ZoYjJM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SOJU COCKTAIL 8 Delicious Recipes - Crazy Korean Cooking</title>
+<utube>QkDtb2gkObk</utube>
+<thumbnail>https://i.ytimg.com/vi/QkDtb2gkObk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W2nN5dCR4cVTfuwYp8zZ5oDiZBw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japchae, Korean Glass Noodles Recipe - Crazy Korean Cooking EXPRESS</title>
+<utube>OTOtUIeRouw</utube>
+<thumbnail>https://i.ytimg.com/vi/OTOtUIeRouw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UcRso0qEoekEspRGGXT12mFOfv4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Potato Pancakes, Gamjajeon 감자전</title>
+<utube>Q27Q0UB04rI</utube>
+<thumbnail>https://i.ytimg.com/vi/Q27Q0UB04rI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RdqzSpKQ66TnJhndiGDcYcWGQKo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Watermelon Punch Recipe</title>
+<utube>6E4tUkMnxcQ</utube>
+<thumbnail>https://i.ytimg.com/vi/6E4tUkMnxcQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8H8-w4lYIW6rTf8H5LD9CZTEDh4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kkakdugi, Radish Kimchi Recipe - Crazy Korean Cooking</title>
+<utube>3VvU9zrPrV8</utube>
+<thumbnail>https://i.ytimg.com/vi/3VvU9zrPrV8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Xw6jjmwUREITWiV6-qho5r4VW6c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Crispy Bites, Ssi-At-Gang-Jeong 씨앗강정 - Crazy Korean Cooking EXPRESS</title>
+<utube>rQlm-SfShxQ</utube>
+<thumbnail>https://i.ytimg.com/vi/rQlm-SfShxQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b_iv2WgRy3xgPOXABotg-aUMt8M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Fried Chicken Recipe, Yang Nyeom Tong Dak 양념통닭</title>
+<utube>Y8HVgxsp_wA</utube>
+<thumbnail>https://i.ytimg.com/vi/Y8HVgxsp_wA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qtK1jAwX8wl15Ijg8Rs0d9eSGxE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Lunch Box to show your love  - Crazy Korean Cooking Express</title>
+<utube>gpOmZxKwNJc</utube>
+<thumbnail>https://i.ytimg.com/vi/gpOmZxKwNJc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7GjAup8lmzzKI6-_raOCnnL24ec</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mae Jak Gwa, Korean Twisted Cookies - Korean Dessert</title>
+<utube>7YKx8CDMV2g</utube>
+<thumbnail>https://i.ytimg.com/vi/7YKx8CDMV2g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rO8yyRg5bdzgI3jXwpOckWn6BpM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Jjolmyeon, Korean Spicy Chewy Noodles</title>
+<utube>_7mgiHeBhdY</utube>
+<thumbnail>https://i.ytimg.com/vi/_7mgiHeBhdY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=z8KNGVVW5eDlAhpIesbnpPvV4Nk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Mul Naengmyeon from scratch, Korean cold noodles in soup</title>
+<utube>R6gNmCGWDL8</utube>
+<thumbnail>https://i.ytimg.com/vi/R6gNmCGWDL8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_26Pt_w_2TdgB_01yuSp_ydnSfI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Samgyeopsal Recipe - 7 variations, pairing with soju, dipping sauces (Grilled Korean Pork Belly)</title>
+<utube>igGXrzPCAww</utube>
+<thumbnail>https://i.ytimg.com/vi/igGXrzPCAww/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3muTkdCJ3d2wJQqqKhzRpfEtcqY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Gimbap (Kimbap): 6 Authentic Variations + 4 Crazy Fusion Variations</title>
+<utube>kxJuGq5ciNI</utube>
+<thumbnail>https://i.ytimg.com/vi/kxJuGq5ciNI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=P87ELO-4pTxgbRUcN26CmmXGhtQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Andong Bibimbap - Traditional Korean Bibimbap with Steamed Fish & Pan-fried Vegetables</title>
+<utube>KJb6ZUelHeE</utube>
+<thumbnail>https://i.ytimg.com/vi/KJb6ZUelHeE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eF4efNhvmKYyDI5g2nMSoaAeWog</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Seafood Bibimbap (Tong-yeong Bibimbap) & Nakji Bibimbap: The Epic of Bibimbap - Part 2</title>
+<utube>6_S6rL94WJI</utube>
+<thumbnail>https://i.ytimg.com/vi/6_S6rL94WJI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q-JS8BPNeXasvx1fNqdhtI7XuOw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Jeonju Royal Bibimbap, Pyeongyang Bibimbap & Yangpoon Bibimbap Recipes, The Epic of Bibimbap Part 1</title>
+<utube>Es_6t0jJQNk</utube>
+<thumbnail>https://i.ytimg.com/vi/Es_6t0jJQNk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d734eHPGEFuOrLmILOpZdfsVkww</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Authentic Galbi: Wang Galbi, the King of Galbi & its royal cousin, DdukGalbi, Korean BBQ</title>
+<utube>kCE_myhfQLQ</utube>
+<thumbnail>https://i.ytimg.com/vi/kCE_myhfQLQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c-jiDNfNBk2xM42Crohuu4GD_fU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Beautiful Pan-fried Tofu and Zucchini, Dubujeon &  Hobakjeon Recipe, 두부전, 호박전</title>
+<utube>Jju-u2FHNDk</utube>
+<thumbnail>https://i.ytimg.com/vi/Jju-u2FHNDk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JTqtjU-3DRSP9GASaoaDWkmUHRg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Nakji Bokkeum, Spicy Stir-fried Small Octopus & Everything you need to know about nakji</title>
+<utube>nDcRxKimV4M</utube>
+<thumbnail>https://i.ytimg.com/vi/nDcRxKimV4M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lIww8q0Xn0_LJSl8FEsrYwUDO-I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Jangjorim, Korean braised beef and eggs, 장조림 -</title>
+<utube>ywfFP-mI_SM</utube>
+<thumbnail>https://i.ytimg.com/vi/ywfFP-mI_SM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=75iStYrF43V-jKG6DhiCKiBWgUo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Shabu Shabu, Korean style Beef & Mushroom Hot Pot</title>
+<utube>m0PR7_90DGs</utube>
+<thumbnail>https://i.ytimg.com/vi/m0PR7_90DGs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=s39Aq3HYaFLYPmC3fQbsjOyYRNM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean Food Love Song - dedicated to All Korean Food Lovers</title>
+<utube>_ngJU8kKepI</utube>
+<thumbnail>https://i.ytimg.com/vi/_ngJU8kKepI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5vE5mWb1hgAu5P9ZjGwQCxbedog</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Korean rolled egg omelette side dish - 5 different variations of Gyeranmalyee 계란말이</title>
+<utube>PasCUqxsVDg</utube>
+<thumbnail>https://i.ytimg.com/vi/PasCUqxsVDg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JpAfCx2Qst4rKMamL-Db5P2XicM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make rice in a pot and in a rice cooker (white rice and multigrain) & nurungji, nurungji-tang</title>
+<utube>HbjdxjiVyLI</utube>
+<thumbnail>https://i.ytimg.com/vi/HbjdxjiVyLI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=I4UKFwZIE4VlY9rFvyxWNWAwMgc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miyuk Guk Recipe, Miyeokguk Recipe (Korean Seaweed Soup, Korean Seaplant Soup)</title>
+<utube>7NRUBmBOOWs</utube>
+<thumbnail>https://i.ytimg.com/vi/7NRUBmBOOWs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d1nWaPZu0ipH1twIdTK-0kf9VPs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bloopers # 2 - Crazy korean Cooking behind the Scenes</title>
+<utube>5cgmNWwqKvk</utube>
+<thumbnail>https://i.ytimg.com/vi/5cgmNWwqKvk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8bxbXpx8XdbCWO5mejGt4aw1Rwk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>5 stone bowl recipes - Ddukbaegi Bulgogi, Albap, Gyeranjjim, Bibimbap, Dwenjang Jjigae 돌솥 레시피</title>
+<utube>OPLT0PRwJcw</utube>
+<thumbnail>https://i.ytimg.com/vi/OPLT0PRwJcw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dVd1y7aqcG8cTE75V28dBkhDX5E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Dolsot Bibimbap (Authentic Bibimbap recipe), Beef Bibimbob with vegetarian option</title>
+<utube>n7mBClIRNgE</utube>
+<thumbnail>https://i.ytimg.com/vi/n7mBClIRNgE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YbF7BQ8zyIhZF5qHHrMiiq3Sv_E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Korean SoMaek recipe & techniques (Korean drink recipe, Beer and Soju cocktail recipe)</title>
+<utube>V-e0FYw9FRM</utube>
+<thumbnail>https://i.ytimg.com/vi/V-e0FYw9FRM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ObS8bnnGtpDJKkNhLUoZf1xV2uQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yukgaejang (Yookgaejang) Recipe, Spicy Beef and Vegetables Soup (how to make Yukgaejang)</title>
+<utube>ytVmgg3Fy6g</utube>
+<thumbnail>https://i.ytimg.com/vi/ytVmgg3Fy6g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qe43jw5KLjEF7XSTcHGR8YiQST4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bloopers Special - Crazy Korean Cooking</title>
+<utube>XxHCqovSNjs</utube>
+<thumbnail>https://i.ytimg.com/vi/XxHCqovSNjs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8aGFYwMKJOirbNFMibLX78YUtwI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Contest Result - Wed. Feb 27, 2013</title>
+<utube>15QWwa29hxE</utube>
+<thumbnail>https://i.ytimg.com/vi/15QWwa29hxE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4Z9P4uRJqkenimNoFzZcnR9Ev4s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Doenjang Jjigae Recipe, Soy Bean Paste Stew, 된장찌개 (how to make Doenjang Jjigae)</title>
+<utube>mBrZhLgXUX0</utube>
+<thumbnail>https://i.ytimg.com/vi/mBrZhLgXUX0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7boSiJ2RQipau-LNO67Rv93f3v4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>San Jeok Recipe, Korean Beef and Vegetable Skewers, 산적 - Crazy Korean Cooking</title>
+<utube>ktyo0ctr1gM</utube>
+<thumbnail>https://i.ytimg.com/vi/ktyo0ctr1gM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mlVvCGRphOUXchLqAiYCJ2G9hkU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SamGyeTang Recipe, Korean Ginseng Chicken Soup  삼계탕 (how to make Samgyetang)</title>
+<utube>eASVOyAqYgM</utube>
+<thumbnail>https://i.ytimg.com/vi/eASVOyAqYgM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LIJcTRsvdj0Sr_hSkw179otfOf8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Galbi Jjim / Kalbi Jjim Recipe 갈비찜 (Korean braised short ribs) (how to make Galbijjim)</title>
+<utube>bcKJpwEmaV8</utube>
+<thumbnail>https://i.ytimg.com/vi/bcKJpwEmaV8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5osNV_P4ORUJUV38QNT1EyDZkhA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make HaeMulPajeon, Korean Seafood Pancakes Recipe, Hae Mul Pa Jeon 해물파전  ()</title>
+<utube>D_9gaXZtHVc</utube>
+<thumbnail>https://i.ytimg.com/vi/D_9gaXZtHVc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hi56hy_aA3qzhRegCLnO842EJnU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy Seafood Noodle Soup Recipe, Jjam Ppong, 짬뽕 - Crazy Korean Cooking</title>
+<utube>OnJi3RmiK48</utube>
+<thumbnail>https://i.ytimg.com/vi/OnJi3RmiK48/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UgAJRXLFXUivu7-qQIHmtHOh6Ho</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Jjajangmyeon Recipe, Jjajangmyun Recipe, Korean Noodles in Black Bean Sauce, 짜장면</title>
+<utube>zJVYowFdPbk</utube>
+<thumbnail>https://i.ytimg.com/vi/zJVYowFdPbk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2bH53sdQets90JbWi6hqH1ypOkQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ddeokbokki, Tteokbokki, Ddukbokgi Recipe, Spicy Rice Cake 떡볶이 - Crazy Korean Cooking</title>
+<utube>QRgQeLKZHnE</utube>
+<thumbnail>https://i.ytimg.com/vi/QRgQeLKZHnE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ut0aoIASWnMh7WQyJlFL2ZJ48EQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dumplings Recipe (Beef, Pork & Kimchi with vegetarian option) 고기 만두 -  Crazy Korean Cooking</title>
+<utube>DPpg8PYuDMc</utube>
+<thumbnail>https://i.ytimg.com/vi/DPpg8PYuDMc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LaKBYWOn0maqI1rSN5E1dno8ha0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Kimchi (cabbage) and Kkakdugi (radish Kimchi), 김치 & 깍두기 (Kimchi Recipe)</title>
+<utube>TUlSKzuWUFQ</utube>
+<thumbnail>https://i.ytimg.com/vi/TUlSKzuWUFQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yt6AeYojH-idkRvqj1slNyv0mnI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bulgogi (Beef) and Spicy Pork Bulgogi, 불고기 & 돼지불고기 - CRAZY KOREAN COOKING</title>
+<utube>1-hDlvct-5A</utube>
+<thumbnail>https://i.ytimg.com/vi/1-hDlvct-5A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BO-yb_CBPhFjhXNx-Jgp4BStSXU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SPICY PORK BONE SOUP 감자탕 - CRAZY KOREAN COOKING</title>
+<utube>KRa-Bbp8L8w</utube>
+<thumbnail>https://i.ytimg.com/vi/KRa-Bbp8L8w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_HmDs6SCiGmazk2lWw0tlB1QIcU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi Pancake (Kimchi Jeon) 김치전 - CRAZY KOREAN COOKING</title>
+<utube>VkdiL5SkXBg</utube>
+<thumbnail>https://i.ytimg.com/vi/VkdiL5SkXBg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gsAtGPnnVx4sGnwi8cBfK0IwRe0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice Cake Dumpling Soup, Dduk Gook 떡만두국 - Crazy Korean Cooking</title>
+<utube>q2HXA90OxB4</utube>
+<thumbnail>https://i.ytimg.com/vi/q2HXA90OxB4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7gDX92eqpELQbUoHTNOM3ngVjZg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi Stew (quick and easy with Tuna), 김치 찌개 - Crazy korean Cooking</title>
+<utube>vqodL2vPir8</utube>
+<thumbnail>https://i.ytimg.com/vi/vqodL2vPir8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cGsuIaZZ614m3LBZNn5f6zL5rTg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Kimchi Fried Rice, 김치 볶음밥, Kimchi Bokkuembap</title>
+<utube>VqtYpAxe4G8</utube>
+<thumbnail>https://i.ytimg.com/vi/VqtYpAxe4G8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IXooBKIgl4wNimU050qrdHpboos</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SWEET AND SOUR CHICKEN, TANG SU YUK, 탕수육 - CRAZY KOREAN COOKING</title>
+<utube>wfxfNpZGrzg</utube>
+<thumbnail>https://i.ytimg.com/vi/wfxfNpZGrzg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3i6Ye-8aqV-2s1s88s6DPqGJM0Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SPICY TOFU STEW ( SOON DU BU ) 순두부 - CRAZY KOREAN COOKING</title>
+<utube>QBKlkbnl8uo</utube>
+<thumbnail>https://i.ytimg.com/vi/QBKlkbnl8uo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=B76vwt2_XZL_VbL1V-G_LHGowfo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HALLOWEEN SPECIAL, Korean Quiche, 계란찜 - Crazy Korean Cooking</title>
+<utube>2Lf2IhXNaZw</utube>
+<thumbnail>https://i.ytimg.com/vi/2Lf2IhXNaZw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FxazgFamZbyBglB0n1vVFJqe_nw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

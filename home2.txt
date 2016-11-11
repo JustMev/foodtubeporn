@@ -1,0 +1,162 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>Australian Cooking</name>
+<thumbnail>http://i.imgur.com/sOfwbv4.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/australia.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Australian</info>
+</channel>
+
+<channels>
+<channel>
+<name>Caribbean Cooking</name>
+<thumbnail>http://i.imgur.com/Pmz7tpb.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/caribean.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Caribbean</info>
+
+<channel>
+<name>Chinese Cooking</name>
+<thumbnail>http://i.imgur.com/JWYHJIV.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/chinese.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Chinese</info>
+</channel>
+
+<channel>
+<name>Greek Cooking</name>
+<thumbnail>http://i.imgur.com/cMny8Vc.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/greek.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Greek</info>
+</channel>
+
+<channel>
+<name>German Cooking</name>
+<thumbnail>http://i.imgur.com/ySfeMOw.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/german.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook German</info>
+</channel>
+
+<channel>
+<name>Hungarian Cooking</name>
+<thumbnail>http://i.imgur.com/jgTadV1.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/hungarian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Hungarian</info>
+</channel>
+
+<channel>
+<name>Indian Cooking</name>
+<thumbnail>http://i.imgur.com/wZGcD7S.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/indian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Indian</info>
+</channel>
+
+<channel>
+<name>Italian Cooking</name>
+<thumbnail>http://i.imgur.com/NdP6r5G.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/italian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Italian</info>
+</channel>
+
+
+<channel>
+<name>Korean Cooking</name>
+<thumbnail>http://i.imgur.com/ho5Zw36.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/Korean.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook South Korean</info>
+</channel>
+
+
+<channel>
+<name>Malaysian Cooking</name>
+<thumbnail>http://i.imgur.com/vevnYHP.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/malaysian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Malaysian</info>
+</channel>
+
+
+<channel>
+<name>Mexican Cooking</name>
+<thumbnail>http://i.imgur.com/rkOPFXd.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/mexican.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Mexican</info>
+</channel>
+
+<channel>
+<name>Morrocan Cooking</name>
+<thumbnail>http://i.imgur.com/xVXp4Ca.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/morrocan.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Morrocan</info>
+</channel
+
+<channel>
+<name>Multi Cultural Cooking</name>
+<thumbnail>http://i.imgur.com/lSgV4Oz.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/multi.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Multi Cultural</info>
+</channel>
+
+
+<channel>
+<name>Filipino Cooking</name>
+<thumbnail>http://i.imgur.com/pvcUdSF.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/filipino.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Filipino</info>
+</channel>
+
+<channel>
+<name>Polish Cooking</name>
+<thumbnail>http://i.imgur.com/buR833n.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/polish.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Polish</info>
+</channel>
+
+<channel>
+<name>Russian Cooking</name>
+<thumbnail>http://i.imgur.com/3eck56H.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/russian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Russian</info>
+</channel>
+
+<channel>
+<name>Thai Cooking</name>
+<thumbnail>http://i.imgur.com/hnK1EWf.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/thai.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Thailand</info>
+</channel>
+
+
+<channel>
+<name>Turkish Cooking</name>
+<thumbnail>http://i.imgur.com/FaZV6cY.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/turkish.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Turkish</info>
+</channel>
+
+
+<channel>
+<name>Vietnamese Cooking</name>
+<thumbnail>http://i.imgur.com/GMSJaWw.png</thumbnail>
+<externallink>http://tvdev.xyz/tube/xml/vietnamese.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Vietnamese</info>
+</channel>
+
+</channels>

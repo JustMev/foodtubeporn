@@ -1,0 +1,1038 @@
+<item>
+<title>Mitarashi Dango Recipe   Japanese Cooking 101</title>
+<utube>/watch?v=tKw7XtOr3Ns</utube>
+<thumbnail>https://i.ytimg.com/vi/tKw7XtOr3Ns/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ArBWG8psSiF6ES8s6MGsfScSHlQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cucumber with Sesame Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=RzEvRpJSsOI</utube>
+<thumbnail>https://i.ytimg.com/vi/RzEvRpJSsOI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EGby4BT6Wxdy7bghi1MP_z96lfg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tsukune Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=2CEC4KwW9Jg</utube>
+<thumbnail>https://i.ytimg.com/vi/2CEC4KwW9Jg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QYXmAz3VbtylDlj1kRa7iWKzVBk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Shishito Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=mmC-jQyEFVE</utube>
+<thumbnail>https://i.ytimg.com/vi/mmC-jQyEFVE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lsNjjp8uirbjujtBV41cmMZyY3Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Teppanyaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=AMWTnjtc4ts</utube>
+<thumbnail>https://i.ytimg.com/vi/AMWTnjtc4ts/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pLcjLKbrsuK-wr4huLpZckJDrl4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fruit Sandwich Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=DOSdIlOTeNA</utube>
+<thumbnail>https://i.ytimg.com/vi/DOSdIlOTeNA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zUKavNx_mwHQhy7Ws69Q9qCCRVg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shoku Pan Recipe   Japanese Cooking 101</title>
+<utube>/watch?v=Sw5b-ejPvh8</utube>
+<thumbnail>https://i.ytimg.com/vi/Sw5b-ejPvh8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tm9B6sDNkqBqaZ0Go01ZazPDGMY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mabo Tofu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=Cg6Se8cLKf4</utube>
+<thumbnail>https://i.ytimg.com/vi/Cg6Se8cLKf4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qg0Qk_ILk5pBj0Hj9Xa4WNI2s2w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tororo Soba Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=c9Zj9ISh6rc</utube>
+<thumbnail>https://i.ytimg.com/vi/c9Zj9ISh6rc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qFEnuNcqbZ1KJGbUFsl89DP1f-w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tako Sunomono Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=TFIDgEnLYCQ</utube>
+<thumbnail>https://i.ytimg.com/vi/TFIDgEnLYCQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GclElCGH66-1gjz2sYGV24MYprM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Buri Nitsuke Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=M8B3os4rBDs</utube>
+<thumbnail>https://i.ytimg.com/vi/M8B3os4rBDs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PZkgVoR0c4yym1vMroaQDKm6Gts</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kakigori Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=KC4ujqejBlo</utube>
+<thumbnail>https://i.ytimg.com/vi/KC4ujqejBlo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pzayt2MfJDlBUAsahUTuep9pGOk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Soba Bolo Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=BpURDBLOHV0</utube>
+<thumbnail>https://i.ytimg.com/vi/BpURDBLOHV0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pk8jXgEAvb1ei11mkjagaZOP0_0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yakimeshi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=4kkz5RWY2dk</utube>
+<thumbnail>https://i.ytimg.com/vi/4kkz5RWY2dk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eQeJnbwqzoGgiRuazutG7UDH5Bw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kakitamajiru Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=u0cUEd2FsJ0</utube>
+<thumbnail>https://i.ytimg.com/vi/u0cUEd2FsJ0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TL1mzNL6sVCsqmp8EQuA_qwTRlQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kushikatsu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=WtNmEF3AL1M</utube>
+<thumbnail>https://i.ytimg.com/vi/WtNmEF3AL1M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gyyzDs3whH3kG3tIlY6D57voM0Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Niku Tofu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=SU3ahRyWihk</utube>
+<thumbnail>https://i.ytimg.com/vi/SU3ahRyWihk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b0f8u8-b1vVGmeWzCEMcNCDTHUY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nametake Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=gGma3BY6noY</utube>
+<thumbnail>https://i.ytimg.com/vi/gGma3BY6noY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SPcgCUoJWcOQHXOc1Hj6ogyNwss</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tarako Spaghetti Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=So7RqoZp_iA</utube>
+<thumbnail>https://i.ytimg.com/vi/So7RqoZp_iA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mtCXCussi3kd21tIJNwF3MBBuT0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hanami Dango Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=9WmDGyJlC8s</utube>
+<thumbnail>https://i.ytimg.com/vi/9WmDGyJlC8s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kbqxWMmC0fK_zNJ4iTCvSGiIC6o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shrimp Gyoza Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=R_vMy3Vh7zo</utube>
+<thumbnail>https://i.ytimg.com/vi/R_vMy3Vh7zo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XaPNhRDrt31GofG4gfAZWC8lWz4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miso Dengaku with Konnyaku Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=0ytMW-td7CQ</utube>
+<thumbnail>https://i.ytimg.com/vi/0ytMW-td7CQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DWiaA4lvgNn8MhH3U1tDKWXT3i8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miso Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=OTq5QbOGFME</utube>
+<thumbnail>https://i.ytimg.com/vi/OTq5QbOGFME/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q1mAG19GWKzM7rwACB_RmqDmNCI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ebi Fry Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=4FGqWNF32xc</utube>
+<thumbnail>https://i.ytimg.com/vi/4FGqWNF32xc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qs4LpEvreYl0OLnhM3M5Jj_p51U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nabeyaki Udon Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=LEsUSJZsSh0</utube>
+<thumbnail>https://i.ytimg.com/vi/LEsUSJZsSh0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u6JfQ6MoHA6vRwaJlGwpG0kM-7I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Futomaki Sushi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=lQnRLOoSYWs</utube>
+<thumbnail>https://i.ytimg.com/vi/lQnRLOoSYWs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WAawdHMXkWTpA6jhMbbHhNoQoj4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Zenzai (Oshiruko) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=lnhiy502zfo</utube>
+<thumbnail>https://i.ytimg.com/vi/lnhiy502zfo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GFKwOlhMln2jlutp2Aj4gQEX1n4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kaki Gohan (Oyster Rice) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=uX68uLZI2q4</utube>
+<thumbnail>https://i.ytimg.com/vi/uX68uLZI2q4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QTol3ZK9KgNkDOyBr8XHirgDoiA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Variations of Mochi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=C5C8GQnI7C0</utube>
+<thumbnail>https://i.ytimg.com/vi/C5C8GQnI7C0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y6Emd3UhvJwZL0h5RedoC4qA1vk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Datemaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=zSyU7-Y46XI</utube>
+<thumbnail>https://i.ytimg.com/vi/zSyU7-Y46XI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W4YFfMIk5D4-1rBq98yC4lOzn0w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kuri Kinton Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=oHlTYiSzhMc</utube>
+<thumbnail>https://i.ytimg.com/vi/oHlTYiSzhMc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0VzZPnIUEpT8slEx5VrypFgGK8I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Buche de Noel Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=pKLaBgN8W_Y</utube>
+<thumbnail>https://i.ytimg.com/vi/pKLaBgN8W_Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=V7PpYvsDCRQG-EVu3Je4DktsAPI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Buttercream Recipe (バタークリームの作り方) - Japanese Cooking 101</title>
+<utube>/watch?v=7XtTFdiGwnw</utube>
+<thumbnail>https://i.ytimg.com/vi/7XtTFdiGwnw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KhTZ-mlimzST7esquXpBvKDpym8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Agedashi Tofu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=wkYkHVqZ2Zs</utube>
+<thumbnail>https://i.ytimg.com/vi/wkYkHVqZ2Zs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q_A8tRGrkKMXtPHm-YAN52aaIU0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Macaroni Gratin Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=Riot5NIsioI</utube>
+<thumbnail>https://i.ytimg.com/vi/Riot5NIsioI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OV0JleB9mcj9teFAtY8Umi8c7QE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Choux Cream (Cream Puffs) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=zddbmSvj2T0</utube>
+<thumbnail>https://i.ytimg.com/vi/zddbmSvj2T0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fjOJcwfLK37l73bKT_4xGXg6g3Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Beef Steak Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=vmuT33p_6q4</utube>
+<thumbnail>https://i.ytimg.com/vi/vmuT33p_6q4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1GOftcQ94nao_Xo-kUu0sd5seQQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nori Tsukudani Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=pB5ewuWN9pA</utube>
+<thumbnail>https://i.ytimg.com/vi/pB5ewuWN9pA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dSwmCTKAKZ1U1cUnYeLFV3emvd8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kinoko Gohan Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=KtvyUSblaLM</utube>
+<thumbnail>https://i.ytimg.com/vi/KtvyUSblaLM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2bzQuCeKDii-eQNNYsaw5dDT1U0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Satsumaimo Amani Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=TR0TWG1QsdI</utube>
+<thumbnail>https://i.ytimg.com/vi/TR0TWG1QsdI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SrPuYBBDUt0V9MPO_-phuOMIdQk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coffee Jelly Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=pMWPVUpgO9o</utube>
+<thumbnail>https://i.ytimg.com/vi/pMWPVUpgO9o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j5HTwzHnUOMjYdRtEqPkcQ_PG1k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nasu Nibitashi (Braised Eggplant) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=MQN_dtqYtVI</utube>
+<thumbnail>https://i.ytimg.com/vi/MQN_dtqYtVI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OBjrz_Rly8jtmyIGuDwpD8rLDgo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Soboro Donburi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=r1XQY6bAgk8</utube>
+<thumbnail>https://i.ytimg.com/vi/r1XQY6bAgk8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lLY4kxaYqsbUHnw7YWRsaUOOvr4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Shabu Shabu Salad Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=XPI-agTF9zY</utube>
+<thumbnail>https://i.ytimg.com/vi/XPI-agTF9zY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6Jn1Nrhtbjxl7qsqCCfIpyztBwA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tofu Hamburger Steak Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=bqz8yteyouE</utube>
+<thumbnail>https://i.ytimg.com/vi/bqz8yteyouE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Kf_s4W8ygD85CWqpD_1im9d_134</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mugicha (Barley Tea) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=vYFCqn6jmaY</utube>
+<thumbnail>https://i.ytimg.com/vi/vYFCqn6jmaY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XJkiymPvO_8C-tydpswmHDRNcZo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Iced Matcha Latte Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=PTtjZJqp_lg</utube>
+<thumbnail>https://i.ytimg.com/vi/PTtjZJqp_lg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mRg-dZ8kNsRnh_uoU-WxFaKYNxw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hiyashiame Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=YJzZqoX7GqQ</utube>
+<thumbnail>https://i.ytimg.com/vi/YJzZqoX7GqQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Vixcrjied6LVzQFzFFsu4N6T2xs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Amashoku Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=DNkWYARlsAc</utube>
+<thumbnail>https://i.ytimg.com/vi/DNkWYARlsAc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=adoTBqfzcmHiApdQeRCH403Ak7Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kakiage Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=G6Wsyvv8paw</utube>
+<thumbnail>https://i.ytimg.com/vi/G6Wsyvv8paw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eVcSbPGJFFarkOnidPv-AAHCKXQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Umeshu (Plum Wine) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=on-OHh3h_5E</utube>
+<thumbnail>https://i.ytimg.com/vi/on-OHh3h_5E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ly-IxPzxsuxzSi3o1t-EIpoJDJs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nikuman Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=FNeoiHdu2hY</utube>
+<thumbnail>https://i.ytimg.com/vi/FNeoiHdu2hY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wcD-4gtohOZ5d3EM_Id9TKpljtU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Okayu (Japanese Rice Porridge) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=UE7iz3ePi_E</utube>
+<thumbnail>https://i.ytimg.com/vi/UE7iz3ePi_E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fTKdsTxBVfJk6bkRqSSN_jJdpkI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kitsune Udon Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=a4RwXrA1hiE</utube>
+<thumbnail>https://i.ytimg.com/vi/a4RwXrA1hiE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wnW3huetnwwHZtwKTHnh6Ezza6k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Aburaage - Japanese Cooking 101</title>
+<utube>/watch?v=Yqt7zqSirmM</utube>
+<thumbnail>https://i.ytimg.com/vi/Yqt7zqSirmM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Iq4NWKX20sQjMcdxqQFrkFpLlng</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Udon - Japanese Cooking 101</title>
+<utube>/watch?v=asmsy1J2vFY</utube>
+<thumbnail>https://i.ytimg.com/vi/asmsy1J2vFY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7YEXz-KZjnc18aoW_Afy-nhgu3M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bento Lunch Menu 3 - Japanese Cooking 101</title>
+<utube>/watch?v=LL8bGP8VJC8</utube>
+<thumbnail>https://i.ytimg.com/vi/LL8bGP8VJC8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8i3sAXPg0E1s2KSrRDd4OoiXy94</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef Roll Up with Vegetables Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=b6RNJlH5-Cc</utube>
+<thumbnail>https://i.ytimg.com/vi/b6RNJlH5-Cc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qGbQ946jL4H3e_TrKMG_d4ZIDpY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Tofu - Japanese Cooking 101</title>
+<utube>/watch?v=Wy2fzHIpo3Q</utube>
+<thumbnail>https://i.ytimg.com/vi/Wy2fzHIpo3Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=S_b-o65lhWiVnYiUpBzYrbu3zk4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tenmusu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=1mqPW1sLK7Y</utube>
+<thumbnail>https://i.ytimg.com/vi/1mqPW1sLK7Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G_nYJWISxY7-nxKarEH6o7F_1_0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Nori (Roasted Seaweed) - Japanese Cooking 101</title>
+<utube>/watch?v=fW0j3IbSObs</utube>
+<thumbnail>https://i.ytimg.com/vi/fW0j3IbSObs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Zk-iaKTpiYM5VRWi3E7XD11xGuc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sumashijiru Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=ncLJSKS69Vo</utube>
+<thumbnail>https://i.ytimg.com/vi/ncLJSKS69Vo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b9aI8JsoNjdQZIqy8PlpjSOb3_c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Katsuobushi - Japanese Cooking 101</title>
+<utube>/watch?v=2EPFv5ZwQJ4</utube>
+<thumbnail>https://i.ytimg.com/vi/2EPFv5ZwQJ4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9p5N5UZ5KeXY1Dv2a_Ubo09vGc8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Melon Pan Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=DU3vMMFq87Y</utube>
+<thumbnail>https://i.ytimg.com/vi/DU3vMMFq87Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UpPjRwLWXm8kkH3OLwC92iGicMw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Basic Bread Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=ovaM4_IqRwU</utube>
+<thumbnail>https://i.ytimg.com/vi/ovaM4_IqRwU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XF-Y-9_w_yCM_vnooT0mRNiPfQQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shabu Shabu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=f9ZxMoor6LA</utube>
+<thumbnail>https://i.ytimg.com/vi/f9ZxMoor6LA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=asm7kXLFk8aneLlnkD1i4Ji_zwQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Kombu - Japanese Cooking 101</title>
+<utube>/watch?v=zwEhOJS-6sU</utube>
+<thumbnail>https://i.ytimg.com/vi/zwEhOJS-6sU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jQXpR9aavowaTP8FCFFIEg47SF8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Menchi Katsu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=pNbbgAHO_t4</utube>
+<thumbnail>https://i.ytimg.com/vi/pNbbgAHO_t4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ka7i2sYhIAqYHjOpnQfZ_fkt4Qk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Ingredients: Mirin - Japanese Cooking 101</title>
+<utube>/watch?v=2IypI4IUI4k</utube>
+<thumbnail>https://i.ytimg.com/vi/2IypI4IUI4k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iUgd6LwO-GTBpQakces4hvEhTPQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miso Dressing Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=IbMYqZ_9Cuk</utube>
+<thumbnail>https://i.ytimg.com/vi/IbMYqZ_9Cuk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=51EfeCTj7SAtj5T5t_KhFMirH7E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hayashi Rice Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=DmhgC3bomcM</utube>
+<thumbnail>https://i.ytimg.com/vi/DmhgC3bomcM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JfS7l1vruOx7nsvFzpQZEkjiAts</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shogayu (Ginger Tea) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=bFXhCxyysPU</utube>
+<thumbnail>https://i.ytimg.com/vi/bFXhCxyysPU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YrQrXYmVu9bkaxP-uIJ8YsvjeZ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kuromame Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=T5m1AY1A3l4</utube>
+<thumbnail>https://i.ytimg.com/vi/T5m1AY1A3l4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HdVA20kXZY0pgniBI9gOaRvh_rk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kazunoko Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=1wnJwfhrTAU</utube>
+<thumbnail>https://i.ytimg.com/vi/1wnJwfhrTAU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sRAw29p5guhWGULhOD2Qd0k3tMI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tazukuri (Gomame) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=FNZwr0y02wY</utube>
+<thumbnail>https://i.ytimg.com/vi/FNZwr0y02wY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9DRiRU534yKJRRGRL1dKZESqcu0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Shortcake Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=x8zb0Fk9Z8k</utube>
+<thumbnail>https://i.ytimg.com/vi/x8zb0Fk9Z8k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K6Y5aDHfDxIJuqNua5E5m4lbP7g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sponge Cake Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=_pWW4Jig8Tc</utube>
+<thumbnail>https://i.ytimg.com/vi/_pWW4Jig8Tc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rJLIPMgnHD2Ri_scR1sAseY4fKo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miso Ramen Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=RqgN6iWMkb0</utube>
+<thumbnail>https://i.ytimg.com/vi/RqgN6iWMkb0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vRCkViJDWX1lDDHC4Yj4CTNYer4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yakibuta Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=dtYqZyRA2_4</utube>
+<thumbnail>https://i.ytimg.com/vi/dtYqZyRA2_4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ALF6iZ_XwQZ74ja2da4b249JK0s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Dinner Menu 2 - Japanese Cooking 101</title>
+<utube>/watch?v=pIFsmRLW_a4</utube>
+<thumbnail>https://i.ytimg.com/vi/pIFsmRLW_a4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MOFWoS_E3d6LcniYgVB23QvSENc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shumai Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=haEgfNZ6Z4o</utube>
+<thumbnail>https://i.ytimg.com/vi/haEgfNZ6Z4o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RgQm-v1wjnj_D-t7ccstteoASjA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tonjiru Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=7AU5PwPNa5I</utube>
+<thumbnail>https://i.ytimg.com/vi/7AU5PwPNa5I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gfTHXKwz2scPsMsTWB8nL1wojbQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Carrot Ginger Dressing Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=2leDUJ6j0yA</utube>
+<thumbnail>https://i.ytimg.com/vi/2leDUJ6j0yA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RXUyXFZRqAJm6L_NVOiYbXT0JS0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yakisoba Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=iXI0N8PC4F0</utube>
+<thumbnail>https://i.ytimg.com/vi/iXI0N8PC4F0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JpuRGL4K4vkB3ZVuXQbpNfHt500</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kinpira Gobo Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=49nsbblTyEU</utube>
+<thumbnail>https://i.ytimg.com/vi/49nsbblTyEU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f3EuOp63jm6EdkNOlqjZsBXwmpw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Katsudon Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=fW1yk3pmdKE</utube>
+<thumbnail>https://i.ytimg.com/vi/fW1yk3pmdKE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HXTsR4ASFTlzmDiRkJCM17LK4lY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Takikomi Gohan Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=rZO86_-MIp0</utube>
+<thumbnail>https://i.ytimg.com/vi/rZO86_-MIp0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W3wSwOlBpw59DQshI9BNbbvyZy0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Onion Salad - Japanese Cooking 101</title>
+<utube>/watch?v=B6sKC5heZZY</utube>
+<thumbnail>https://i.ytimg.com/vi/B6sKC5heZZY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pZgF62MzK1acFfr2l_ydC6vcVy0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hiyashi Chuka Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=r50hr5XdusY</utube>
+<thumbnail>https://i.ytimg.com/vi/r50hr5XdusY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gBe6cawb6CtquGoibzq1mY2B_xA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bento Lunch Menu 2 - Japanese Cooking 101</title>
+<utube>/watch?v=CY6aAL9o3Bw</utube>
+<thumbnail>https://i.ytimg.com/vi/CY6aAL9o3Bw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GY-kfc5jUMZ2gGwsyY8z_FA4VyE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dango Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=8m5aIBYkqms</utube>
+<thumbnail>https://i.ytimg.com/vi/8m5aIBYkqms/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0UXG1HKbuzMXwuU0jqNGJCvEBkA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Edamame Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=zBnR0bdU_JM</utube>
+<thumbnail>https://i.ytimg.com/vi/zBnR0bdU_JM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IQSvnSPWao9SzbOL1uVMKQiOm4U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Oroshi Soba Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=rVNFLAUSi64</utube>
+<thumbnail>https://i.ytimg.com/vi/rVNFLAUSi64/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ROjsHrwoChFhC4hPd8kxfnQv-Ws</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hijiki no Nimono Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=0vDdrQISJww</utube>
+<thumbnail>https://i.ytimg.com/vi/0vDdrQISJww/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-8CrCUTTgQsIxhd4q9VXecZYW3s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Saba Tatsutaage Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=LD6I2V44Nk4</utube>
+<thumbnail>https://i.ytimg.com/vi/LD6I2V44Nk4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WcLiVPZCXLjk5qdjuXns28ztxsI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yakitomorokoshi (Grilled Corn) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=lmmxchDZ7w8</utube>
+<thumbnail>https://i.ytimg.com/vi/lmmxchDZ7w8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BLMiX3SLx3XPXKO5Usixz-Y_s8I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Daikon Salad Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=EY1Ks5wgqDo</utube>
+<thumbnail>https://i.ytimg.com/vi/EY1Ks5wgqDo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h1Awb5bkMvDRjaq1CvPzq30IwPQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kasutera (Castella) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=UGxYoenxNl0</utube>
+<thumbnail>https://i.ytimg.com/vi/UGxYoenxNl0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0MBGTKnqzegQRhxdn7q3CTwqgeo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spaghetti Neapolitan Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=SGejr3U0ORo</utube>
+<thumbnail>https://i.ytimg.com/vi/SGejr3U0ORo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=H4jcj2zyhVX00zOqGHgpCvhkM94</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pork Shogayaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=ONrA5wo5-p4</utube>
+<thumbnail>https://i.ytimg.com/vi/ONrA5wo5-p4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JopoiZlztvVcFUwO9upwAqhSV2s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tsukemono Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=0Q5BfjDMzmI</utube>
+<thumbnail>https://i.ytimg.com/vi/0Q5BfjDMzmI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X4Z9nfvG8m8mmUf7Kj_H95PZeG8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Japanese Dinner Menu 1 - Japanese Cooking 101</title>
+<utube>/watch?v=0q5lpIAEiqM</utube>
+<thumbnail>https://i.ytimg.com/vi/0q5lpIAEiqM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=C2_UHa8M0_LMUda2n9kNlznWtc4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>An Pan Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=AH1fPaUU-Xs</utube>
+<thumbnail>https://i.ytimg.com/vi/AH1fPaUU-Xs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3V8Sk6o2YL9PMF0llrL2hP82Vpw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Barazushi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=4SiUvHm4_vY</utube>
+<thumbnail>https://i.ytimg.com/vi/4SiUvHm4_vY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cnmv7_XBNJr3nZg7av-_iXszGWc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Genmai (Brown Rice) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=O4ykbddAsSg</utube>
+<thumbnail>https://i.ytimg.com/vi/O4ykbddAsSg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OfJZ3zaDJsM2LW8Nf_XadfgLXeA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yakiudon (Stir-fried Udon noodles) - Japanese Cooking 101</title>
+<utube>/watch?v=u95xkc4DfAs</utube>
+<thumbnail>https://i.ytimg.com/vi/u95xkc4DfAs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BpPeVspmROIa2WSeMxSvxsDDrXE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bento Lunch Menu 1 - Japanese Cooking 101</title>
+<utube>/watch?v=IAjZloPm-AM</utube>
+<thumbnail>https://i.ytimg.com/vi/IAjZloPm-AM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sAko-9c7y37Tz0gXjhYliNQ30fI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to eat Natto - Japanese Cooking 101</title>
+<utube>/watch?v=M61t7MJMf6w</utube>
+<thumbnail>https://i.ytimg.com/vi/M61t7MJMf6w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8UCVrDIjZVHVSbCZjVuBrcVEIm8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yudofu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=jThO-u3wZKQ</utube>
+<thumbnail>https://i.ytimg.com/vi/jThO-u3wZKQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QXmF41zAjcHIxGWCcAAb97YwpZ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kaki Fry (Deep Fried Oyster) - Japanese Cooking 101</title>
+<utube>/watch?v=S4UVm751IbI</utube>
+<thumbnail>https://i.ytimg.com/vi/S4UVm751IbI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FabT4WP-g5dOSDW1hLK-EEsB6Kw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Breakfast Menu 1 - Japanese Cooking 101</title>
+<utube>/watch?v=HC9HTmIyt6c</utube>
+<thumbnail>https://i.ytimg.com/vi/HC9HTmIyt6c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JkeLeFovF8zFN3IwkLAqJBE_c0Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tekka Don (Tuna Bowl) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=1CugWYoQgvk</utube>
+<thumbnail>https://i.ytimg.com/vi/1CugWYoQgvk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=07tPCfPU4Zf1yqOHnUAp32fSVOQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dashimaki Tamago Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=MzEEthEvJ_Q</utube>
+<thumbnail>https://i.ytimg.com/vi/MzEEthEvJ_Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Lei7Nbmu57TZPPQxcx3PrfF1zhs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ochazuke Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=gegiDXGnbWM</utube>
+<thumbnail>https://i.ytimg.com/vi/gegiDXGnbWM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7J4tkjwrCn3FfVsoFCtbvy2jFVE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Mochi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=rWjdBDe9dS8</utube>
+<thumbnail>https://i.ytimg.com/vi/rWjdBDe9dS8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eWZAaExt0zWvvurDwawSzdvIGtQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Namasu Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=8V8d-eSauf0</utube>
+<thumbnail>https://i.ytimg.com/vi/8V8d-eSauf0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9-ta730MbPdD087xGcfjWPy_VvE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chikuzenni Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=_xPNJr1aqvU</utube>
+<thumbnail>https://i.ytimg.com/vi/_xPNJr1aqvU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d13pNaEXeK1STOEGQZuBcR2Jt3E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ichiban Dashi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=6h54t3LwED4</utube>
+<thumbnail>https://i.ytimg.com/vi/6h54t3LwED4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XcWsJtsvZXG_iR-8oESgcYIUZXw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spaghetti with Shimeji Mushroom Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=eJ_2FHS2YIs</utube>
+<thumbnail>https://i.ytimg.com/vi/eJ_2FHS2YIs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n52Inl359sJZe8SoXglGHABc1CQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salmon Flakes Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=e5_wZoZA9_c</utube>
+<thumbnail>https://i.ytimg.com/vi/e5_wZoZA9_c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xOIj30cAWOyMVpBIu_tCOAls5yM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sushi Rolls (Cucumber and Tuna Rolls) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=R6mlUxxf4ao</utube>
+<thumbnail>https://i.ytimg.com/vi/R6mlUxxf4ao/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pwV4xA0AuxN4fYSt-iUBcf0s36k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sesame Dressing Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=kK7W4juGXVE</utube>
+<thumbnail>https://i.ytimg.com/vi/kK7W4juGXVE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Aa5FLKgCRL121Rjy3fMXduAHGok</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yasai Itame (Stir Fry Vegetables) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=deoawaSi5Xs</utube>
+<thumbnail>https://i.ytimg.com/vi/deoawaSi5Xs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7-BaYN5wwjr6abzg5Cs8XDesu9I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Teuchi Udon (Homemade Noodle) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=i_lbq7GnG2A</utube>
+<thumbnail>https://i.ytimg.com/vi/i_lbq7GnG2A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lfVtq_IfvnWBEq6iaA5NGcX0_l8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Purin (Custard Pudding) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=uYiFMenZdWk</utube>
+<thumbnail>https://i.ytimg.com/vi/uYiFMenZdWk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q4lotc7odNnDBZ1jvunCSbkWdKg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Saba Shioyaki (grilled mackerel) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=e5PERqMslTA</utube>
+<thumbnail>https://i.ytimg.com/vi/e5PERqMslTA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n-p-ucHh49Umw_v8-VIFojen6-Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kimchi Takoyaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=dHAF8cFUVcA</utube>
+<thumbnail>https://i.ytimg.com/vi/dHAF8cFUVcA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-by-qZZOHHx6NiA-ZCCJ3LeXtuA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Yakitori Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=XFe9T1s2hrs</utube>
+<thumbnail>https://i.ytimg.com/vi/XFe9T1s2hrs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9lgJ2JONBc_Rg2zUjEwXWO4jv60</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Tea Ice Cream Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=x5kwH-efRh8</utube>
+<thumbnail>https://i.ytimg.com/vi/x5kwH-efRh8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mnQEOnvzpDaNvaF9NmLKLUSyiQE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hiyayakko (Cold Tofu Salad) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=oXsCI5P115Q</utube>
+<thumbnail>https://i.ytimg.com/vi/oXsCI5P115Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JgrlLN9h9cv3zHPrkq1f-izImhg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kinshi Tamago Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=gseLRDQ9HEA</utube>
+<thumbnail>https://i.ytimg.com/vi/gseLRDQ9HEA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k2hoi5hub8zN-wYdNwnHZ8Afubs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Zaru Soba Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=l8BCDXkwHwI</utube>
+<thumbnail>https://i.ytimg.com/vi/l8BCDXkwHwI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4dr2JdzCwqaR2o5ZQ0wzDfjo8aE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Salad Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=iDFsurou78w</utube>
+<thumbnail>https://i.ytimg.com/vi/iDFsurou78w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8vRrL0_vN3aaeKNvFTdst1VY6zQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ramen Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=EizSoy7Ztto</utube>
+<thumbnail>https://i.ytimg.com/vi/EizSoy7Ztto/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6GZBWXguC4Z0YybxJAnX3461DAM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Omurice Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=gUfcaFEa_xA</utube>
+<thumbnail>https://i.ytimg.com/vi/gUfcaFEa_xA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2iYpmYnrr5gqzfov7MO79fl3wco</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Inarizushi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=AT9J-Jii4oc</utube>
+<thumbnail>https://i.ytimg.com/vi/AT9J-Jii4oc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PgYjfGoeqHMOaW9FIeZB3YadLf8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Tea Cookies Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=8J-GRXTexlU</utube>
+<thumbnail>https://i.ytimg.com/vi/8J-GRXTexlU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ALOU3zQMn3gK1gtHjjuVkw4ukec</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tempura Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=Mzn6Q4gUDBo</utube>
+<thumbnail>https://i.ytimg.com/vi/Mzn6Q4gUDBo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cbjfIiJKoshSKlcuUH_I79t4Qcg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chawanmushi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=cOvModiiUjs</utube>
+<thumbnail>https://i.ytimg.com/vi/cOvModiiUjs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SH1yxm13hD-cZdNXf71KR5hIKKA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gyudon (Beef Bowl) - Japanese Cooking 101</title>
+<utube>/watch?v=2hvvVgAEPzc</utube>
+<thumbnail>https://i.ytimg.com/vi/2hvvVgAEPzc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DWyhSI2hOBvbgZt0JXk74rN6HTo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Korokke (croquette) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=FVEJDJWDas0</utube>
+<thumbnail>https://i.ytimg.com/vi/FVEJDJWDas0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KmCPEW9gPy793u8ma0C16d7h3WQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shira-ae Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=wR5NakHWK0o</utube>
+<thumbnail>https://i.ytimg.com/vi/wR5NakHWK0o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1l7iQhjFYh50UjU6tbDgLFs7Qps</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Takoyaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=gKYcWUenTXk</utube>
+<thumbnail>https://i.ytimg.com/vi/gKYcWUenTXk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=l10dUEsPhV9ivDvR8_Xo-Ldxlyw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ozoni (Zoni) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=85MlgN4l-dM</utube>
+<thumbnail>https://i.ytimg.com/vi/85MlgN4l-dM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UQKjx_S0RlBlKjv0o_8pXjT2BfI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mizutaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=7lSTmVrW6Yk</utube>
+<thumbnail>https://i.ytimg.com/vi/7lSTmVrW6Yk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wZW-FwFoq_OPRTuuCnalrvqkvPs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Karaage Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=kAjKd-QeCNw</utube>
+<thumbnail>https://i.ytimg.com/vi/kAjKd-QeCNw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FMJq_JNXYRARjfmOitPtXygvaXU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sukiyaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=bq4sDlTqjCE</utube>
+<thumbnail>https://i.ytimg.com/vi/bq4sDlTqjCE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9zyTm7q1ibhxstLxKaMRaLTtAxw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dorayaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=HqXfW5B3Qq4</utube>
+<thumbnail>https://i.ytimg.com/vi/HqXfW5B3Qq4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HNVZoaarinZRSowRp_kQDC-7cd0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Anko (sweet red bean paste) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=dqfpoPd8QN8</utube>
+<thumbnail>https://i.ytimg.com/vi/dqfpoPd8QN8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gAcBYQ7Hcx_zXymSFmSrCZSeO_o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nikujaga Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=PHdqJMMWPU8</utube>
+<thumbnail>https://i.ytimg.com/vi/PHdqJMMWPU8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L7VCxficAM9T11OIyCM2wXHgGX8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gyoza Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=I4yi6yrDVG0</utube>
+<thumbnail>https://i.ytimg.com/vi/I4yi6yrDVG0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NoOd6DBOJ94hfukSafFjeZhpwts</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Oyakodon Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=E-YayMWAyI8</utube>
+<thumbnail>https://i.ytimg.com/vi/E-YayMWAyI8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1fV5ff4JVnTgRm1h7PjIrp96wCA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Somen (Cold Noodle) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=DG9Hc4U2t18</utube>
+<thumbnail>https://i.ytimg.com/vi/DG9Hc4U2t18/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ORU4BVNIGKCt-xT7auMtL9-C5PE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Men-Tsuyu (multipurpose sauce) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=JLlgxPIAYnM</utube>
+<thumbnail>https://i.ytimg.com/vi/JLlgxPIAYnM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NcoZCQjM7n2t2Pwgi9pFg5Qs2N0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Beans with Sesame Sauce Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=OidI_IFNaYQ</utube>
+<thumbnail>https://i.ytimg.com/vi/OidI_IFNaYQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k3qsw4ShFtvZzz2xKcu08WSwdks</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice Ball (Onigiri) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=9QowU13oUFI</utube>
+<thumbnail>https://i.ytimg.com/vi/9QowU13oUFI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jNhHWwDZ-PAsRf7L6S9Z-M9nMZg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hamburger Steak Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=WPgvsQkg2Rc</utube>
+<thumbnail>https://i.ytimg.com/vi/WPgvsQkg2Rc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fC2zeWGKaFKlaAycYNXzgZ_YTv4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miso Grilled Salmon Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=lh2yxVEdG2g</utube>
+<thumbnail>https://i.ytimg.com/vi/lh2yxVEdG2g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jMzB5kjRyTqUtCBHJC9IytUJiB0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Ohitashi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=6PltnExlw58</utube>
+<thumbnail>https://i.ytimg.com/vi/6PltnExlw58/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=muQG4RiD-yp9QbF8K39Y5jzC6Ko</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Udon Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=E46hfYyQzD4</utube>
+<thumbnail>https://i.ytimg.com/vi/E46hfYyQzD4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=m9DY9sb9m5XRd_lg1ICgr6J_nzc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kabocha no Nimono (Simmered Pumpkin) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=DrGEKkdBVnE</utube>
+<thumbnail>https://i.ytimg.com/vi/DrGEKkdBVnE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FZ688eY7VcqV2f6HPvkEtp_eIJQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tamagoyaki (pan fried rolled egg) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=LMCLzWIS2jc</utube>
+<thumbnail>https://i.ytimg.com/vi/LMCLzWIS2jc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A8hZ52X8aFPh9m51wxtfgCenbQ0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tonkatsu (deep fried pork) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=TFy21yoLdfw</utube>
+<thumbnail>https://i.ytimg.com/vi/TFy21yoLdfw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4vDnn4KfVUlqURuYl9NDS91MOt8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sunomono (Cucumber Salad)  Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=8OhJiDBxEGI</utube>
+<thumbnail>https://i.ytimg.com/vi/8OhJiDBxEGI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zlhudXkgTYoA_irC7aUGP1JWWxc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Okonomiyaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=JOp9SxBhZYE</utube>
+<thumbnail>https://i.ytimg.com/vi/JOp9SxBhZYE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TgpkIS1tO3lm6fG77nUi-2eLQH0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed Rice Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=-eed1Kz-3DE</utube>
+<thumbnail>https://i.ytimg.com/vi/-eed1Kz-3DE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7kADc6qBinWH0OJr7uSK6tamVuc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Curry and Rice Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=7emvnX9RT1A</utube>
+<thumbnail>https://i.ytimg.com/vi/7emvnX9RT1A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9KwK7q6t1vauFfGCLwxlRSO-IjY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hand Roll Sushi Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=5FzXn3lCZxI</utube>
+<thumbnail>https://i.ytimg.com/vi/5FzXn3lCZxI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O__nE6r8aUjzhYImQfFexF_W6Ao</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>California Roll Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=kD25U-pM1Qw</utube>
+<thumbnail>https://i.ytimg.com/vi/kD25U-pM1Qw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=py4_9PTbRelhnCwP_792MDC64Lg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dashi (fish broth) Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=HM7UagEGBis</utube>
+<thumbnail>https://i.ytimg.com/vi/HM7UagEGBis/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iIJKL2092W6m1E6AJdvJzIjnswE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Miso Soup Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=lH7pgsnyGrI</utube>
+<thumbnail>https://i.ytimg.com/vi/lH7pgsnyGrI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0KTtGksOC7i_qfkF7E0oncQptok</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sushi Rice Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=U-d37LWz1OY</utube>
+<thumbnail>https://i.ytimg.com/vi/U-d37LWz1OY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JiXMrz-UTCiCj1vA-np5Q28u77U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Teriyaki Recipe - Japanese Cooking 101</title>
+<utube>/watch?v=2z7eTnwgZ-I</utube>
+<thumbnail>https://i.ytimg.com/vi/2z7eTnwgZ-I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0sYK-y3POBx5PkzoGgW8XPmHjuA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

@@ -1,0 +1,1374 @@
+<item>
+<title>Hummus Recipe - Simple Turkish Hummus with Tahini</title>
+<utube>7rhYa84Gf5M</utube>
+<thumbnail>https://i.ytimg.com/vi/7rhYa84Gf5M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GhcnbDEhU3KxbGg-HINBeoc10a8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Puff Pastry - Pogaca Cake with Sesame Seeds</title>
+<utube>Fdq2WZZT_TY</utube>
+<thumbnail>https://i.ytimg.com/vi/Fdq2WZZT_TY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XEsM0ECVpk7JqZ_iZGTT95AQtZ4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crunchy Turkish Tahini Baklava Cookies Recipe</title>
+<utube>rSaPwctQKaY</utube>
+<thumbnail>https://i.ytimg.com/vi/rSaPwctQKaY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JNYq72GRsdUnwLOXUTNKD87lM44</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Tart Cake Recipe - Easy Banana Pudding Cake</title>
+<utube>lkymPTQJJ5s</utube>
+<thumbnail>https://i.ytimg.com/vi/lkymPTQJJ5s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fkRsEElCV5Dl2C0vZvR85WPZvJc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Pie Cookies Recipe - Mini pies with Walnuts and Apples</title>
+<utube>vZpTlkgZJMw</utube>
+<thumbnail>https://i.ytimg.com/vi/vZpTlkgZJMw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EZMxI5-av6aFj6AJNFrraSO0vvQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Puff Pogaca Pastry with Feta Cheese Recipe</title>
+<utube>wYSuMhkKNEA</utube>
+<thumbnail>https://i.ytimg.com/vi/wYSuMhkKNEA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ikGXEySv7RSPdKbgp_MBb1RToZw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Orange Poppy Seed Cake Recipe - Easy Turkish Recipes</title>
+<utube>EZUunp-VTxs</utube>
+<thumbnail>https://i.ytimg.com/vi/EZUunp-VTxs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=einV5Uw-H_09ON95B9SYdZyWDtc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Raisin Tsoureki Recipe - Turkish Easter Bread</title>
+<utube>4ooN0Egkm4E</utube>
+<thumbnail>https://i.ytimg.com/vi/4ooN0Egkm4E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TwhHBcSlbfjiOwu6XMNX0f_db7Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Borek Recipe - Crispy Turkish Pastry with Feta Cheese</title>
+<utube>KhtkLluTIdk</utube>
+<thumbnail>https://i.ytimg.com/vi/KhtkLluTIdk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0Xxqq4rYnvWNJx4MYa_BbzxxlJo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sausage Puff Rolls Recipe - Knitted Turkish Borek</title>
+<utube>FlgZhNHhQ88</utube>
+<thumbnail>https://i.ytimg.com/vi/FlgZhNHhQ88/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aW-YRoDXP0w4U3Rv8ENcLmejwzA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Raspberry Cake Recipe - Moist Cacao Sponge Cake</title>
+<utube>ZLkLwE_R0v8</utube>
+<thumbnail>https://i.ytimg.com/vi/ZLkLwE_R0v8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5IITSYJchDCrWxKMBAhsqAWctuM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Cinnamon Walnut Cake - Turkish Apple Pie Cake</title>
+<utube>eYF7DqbZ5GA</utube>
+<thumbnail>https://i.ytimg.com/vi/eYF7DqbZ5GA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8jE0hzx7HgOLJuw_LhFAh-wR_to</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ladyfingers Eclair Recipe - Chocolate Ladyfingers Dessert</title>
+<utube>BBqipJQefsM</utube>
+<thumbnail>https://i.ytimg.com/vi/BBqipJQefsM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hYg82rQejjfxhwiKoqd660StOu4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tres Leches Cake Recipe - Mexican Hot Milk Cake</title>
+<utube>KkTWdaom15U</utube>
+<thumbnail>https://i.ytimg.com/vi/KkTWdaom15U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aFVfoGjgCpRBLKvqhsezR_vV84k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Basic French Crepes Recipe - Crepe Batter just in a minute</title>
+<utube>4JUqP3DLEMQ</utube>
+<thumbnail>https://i.ytimg.com/vi/4JUqP3DLEMQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5f-Kar-yxiDNamxKqpiTDbnF0bQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baklava Phyllo Borek Recipe - Turkish Homemade Cheese Pie</title>
+<utube>Nh1NJCsRdBo</utube>
+<thumbnail>https://i.ytimg.com/vi/Nh1NJCsRdBo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A9UJWQCBniZ9aXZasl_tA1Sic30</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Healthy Doughnuts - Banana Cake Doughnut Recipe</title>
+<utube>kpXUxsiqPgY</utube>
+<thumbnail>https://i.ytimg.com/vi/kpXUxsiqPgY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Z01b8-1QYv4j29uhzLN536fHIwY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Moist Cake Recipe - Turkish Style Wet Cake</title>
+<utube>339bMERiGs8</utube>
+<thumbnail>https://i.ytimg.com/vi/339bMERiGs8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PsMh_TtCBCU2eyV0FkRIu_2uuVI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moist Semolina Cookies - Turkish Shekerpare Dessert Recipe</title>
+<utube>NoWOZtoZGF8</utube>
+<thumbnail>https://i.ytimg.com/vi/NoWOZtoZGF8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5tjacG4h1FYJOLm7hvj88pjAUEo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Biscuit Cake - No Bake Turkish Banana Pudding Cake</title>
+<utube>H18JYWbPFRI</utube>
+<thumbnail>https://i.ytimg.com/vi/H18JYWbPFRI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-4E3GiBg3Zqg5aDnxVYCZowOHj0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Quick and Easy Homemade Pizza Recipe</title>
+<utube>DKJLSTsemZo</utube>
+<thumbnail>https://i.ytimg.com/vi/DKJLSTsemZo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XCdYhGCHt7Xys1mgyzcJ8_aiKXc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Biscuit Cake Recipe - Pyramid Shaped Chocolate Salami</title>
+<utube>nhDZDk6FV1w</utube>
+<thumbnail>https://i.ytimg.com/vi/nhDZDk6FV1w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ojTDCXK2O9EQyLmyno7PuvO4f0c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet Tahini Buns - Turkish Walnut Bread Rolls</title>
+<utube>TtpTEZfXd6o</utube>
+<thumbnail>https://i.ytimg.com/vi/TtpTEZfXd6o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wYh7PLoDhe2K-4t2PANyjMpoY_A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Flatbread Recipe - Traditional Tahini Butter Flat Bread</title>
+<utube>nl7zXMYSzYA</utube>
+<thumbnail>https://i.ytimg.com/vi/nl7zXMYSzYA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eTZ1QCkXgy1_BjJpMnV-yLRMh2A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Potatoes Recipe - Turkish Stuffed Jacket Potato</title>
+<utube>8ZF1YuskeYw</utube>
+<thumbnail>https://i.ytimg.com/vi/8ZF1YuskeYw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=90SZyQAqVpXD3Hya16SlSG3qpPE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crispy Walnut Cinnamon Cookies Recipe - Easy Turkish Cookies</title>
+<utube>mOURAeYqgQI</utube>
+<thumbnail>https://i.ytimg.com/vi/mOURAeYqgQI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gcVRANHPBLV1fRDBEIQXnIWMUN8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Triangle Shaped Borek Recipe - Turkish Phyllo Pastry Amulet Borek</title>
+<utube>icqbxTH6RBc</utube>
+<thumbnail>https://i.ytimg.com/vi/icqbxTH6RBc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=unCRaXbvKe-4f99OAPve83emyrc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Stuffed Puff Pastry Borek - Baked Chicken Pie Recipe</title>
+<utube>RROEaCnYI-Q</utube>
+<thumbnail>https://i.ytimg.com/vi/RROEaCnYI-Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A-kX56pgW7Xxa8wk1n55WiWSF0I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Moussaka Recipe - Traditional Eggplant and Ground Beef</title>
+<utube>InQlXSY9Iak</utube>
+<thumbnail>https://i.ytimg.com/vi/InQlXSY9Iak/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LDnyucfRsUIjC9KwazUIg9wtFw8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Chicken and Potatoes with Bechamel Sauce  Recipe</title>
+<utube>WFqw5V-p5Z4</utube>
+<thumbnail>https://i.ytimg.com/vi/WFqw5V-p5Z4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6F6AP4wj48Vd5lNsxl-LPAiDMgs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Potatoes Rolled Borek Recipe Without Oven</title>
+<utube>LyPtlhzUZo0</utube>
+<thumbnail>https://i.ytimg.com/vi/LyPtlhzUZo0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vkJaCfNqGhfpuSDYR7CYG24P2-s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Turkish Pan Bread Recipe – Leavened Bread Bazlama</title>
+<utube>YgF_iLzqTvI</utube>
+<thumbnail>https://i.ytimg.com/vi/YgF_iLzqTvI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=E-AAOFQUbUbyfcJSd3zn_Exr0Bs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tahini Sweet Bread Roll Recipe - Sesame Paste Tsoureki</title>
+<utube>wbRbseU-rJw</utube>
+<thumbnail>https://i.ytimg.com/vi/wbRbseU-rJw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zdmsDf5RNy9AMC40Bfb9v9xoHtI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cocoa Fudge Cake Recipe - Milk Soaked Wet Cake</title>
+<utube>dQMPJFvvEzo</utube>
+<thumbnail>https://i.ytimg.com/vi/dQMPJFvvEzo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bP10MlH2cqdBmnvG6_rkdPbmHZU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Panna Cotta Recipe with Fresh Cherry Sauce</title>
+<utube>0Ii8jVuzb8Q</utube>
+<thumbnail>https://i.ytimg.com/vi/0Ii8jVuzb8Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=D_-vEFiUzAISYX2M22vLK9bMePg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pudding Toasted Bread Cake Recipe</title>
+<utube>m8GLZ1_gtDE</utube>
+<thumbnail>https://i.ytimg.com/vi/m8GLZ1_gtDE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dn2M2K9VwEo-vr_WrJ_wKNJKIzo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Crispy Turkish Pogaca Recipe with Olives and Bread Crumbs</title>
+<utube>8IGZ-mB3n5o</utube>
+<thumbnail>https://i.ytimg.com/vi/8IGZ-mB3n5o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Sv4GG2msdRWsL7hWSVtD1B4l7IQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fluffy Chocolate Chips Muffins Recipe - Easy Turkish Recipes</title>
+<utube>IcLu16-hZZs</utube>
+<thumbnail>https://i.ytimg.com/vi/IcLu16-hZZs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oHNlybvy-Ji_JThfLVl6EqRnowA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pogaca Simit Recipe - Sesame Breads With Feta Cheese</title>
+<utube>lnXzrXuBOjU</utube>
+<thumbnail>https://i.ytimg.com/vi/lnXzrXuBOjU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Nl52WsWgo4kiUn-26DhJcIzbbLY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Tulumba Recipe - Fried Sweet Dough with Sugar Syrup</title>
+<utube>qlxn-VFWEes</utube>
+<thumbnail>https://i.ytimg.com/vi/qlxn-VFWEes/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sey0J_ReH_XZJrEPT4pVjisJbfk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Vegetable Lentil Soup Recipe – Traditional Turkish Red Lentil</title>
+<utube>VVnZd8A84z4</utube>
+<thumbnail>https://i.ytimg.com/vi/VVnZd8A84z4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kekOtYrCq6uJC8ro2zMJMglc6i0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pogaca Recipe - Flower Shaped No Yeast Breads with Potato</title>
+<utube>hVf7YLGT044</utube>
+<thumbnail>https://i.ytimg.com/vi/hVf7YLGT044/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WaDIxlcVXl7_K0RT3_Wwi15-SdI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Churros Recipe - Fried Sweet Dough with Sugar Syrup</title>
+<utube>opAWa5w2QSM</utube>
+<thumbnail>https://i.ytimg.com/vi/opAWa5w2QSM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vPWC6bDgxmomdNAJ4yW7RqWxHXc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Recipe for Roll Cookies with Apple, Cinnamon and Walnut</title>
+<utube>Fz04A-m1QWE</utube>
+<thumbnail>https://i.ytimg.com/vi/Fz04A-m1QWE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rjYEZCKrwwCKa4OXmIhJgeW3rE0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken and Vegetable Noodles Recipe - Basic and Easy</title>
+<utube>XZDC23QNF-4</utube>
+<thumbnail>https://i.ytimg.com/vi/XZDC23QNF-4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sRcH_w0b16-HOwn4Qo0QrPB8mIU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pogaca Recipe - Knot Shaped Butter Breads with Olive Paste</title>
+<utube>MNjP37nDpaA</utube>
+<thumbnail>https://i.ytimg.com/vi/MNjP37nDpaA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2zPTb0UcaK7p6irGbDAE9SploXo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Homemade Baked Chocolate Ring Donuts Recipe</title>
+<utube>wUTY8BFU77o</utube>
+<thumbnail>https://i.ytimg.com/vi/wUTY8BFU77o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Qk2hX8thqarEIcTO7B4BEr6wzUE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Cake Roll Recipe - Swiss Roll with Kiwi and Spinach</title>
+<utube>PQVi9sZEC7s</utube>
+<thumbnail>https://i.ytimg.com/vi/PQVi9sZEC7s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_EK9y6tdZ8jZ8lebEULwMZVAG9Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vanilla Cream Filling Recipe for Cupcakes and Donuts</title>
+<utube>fakN7-ZL9p0</utube>
+<thumbnail>https://i.ytimg.com/vi/fakN7-ZL9p0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SSy2FJbYYXyIkGadt2dBZnmCgik</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pogaca Recipe - Easy Butter Bread with Cheese</title>
+<utube>DBFxbGF-b7s</utube>
+<thumbnail>https://i.ytimg.com/vi/DBFxbGF-b7s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nafXj7ehvuoGp7SAY0v5wSGKKg4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Chocolate Sauce Recipe - Easy Turkish Recipes</title>
+<utube>ALudlSs-8ms</utube>
+<thumbnail>https://i.ytimg.com/vi/ALudlSs-8ms/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QNS_CPVJ1lJlPSGHtKVWSrnXKKg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Butter Cookies - Nightingale’s Nest Dessert Recipe</title>
+<utube>5waF68Fk6b8</utube>
+<thumbnail>https://i.ytimg.com/vi/5waF68Fk6b8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=65u8lr7mGprZUiYxg7M83cZBR34</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Custard Recipe with Mastic Drops - Turkish Pudding</title>
+<utube>5UwQ5pLPQJY</utube>
+<thumbnail>https://i.ytimg.com/vi/5UwQ5pLPQJY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dxGMi2IhFw2NWser693AWdpogg0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Stew with Rice and Wheat - Turkish Spinach Recipe</title>
+<utube>Em6Wi2puizc</utube>
+<thumbnail>https://i.ytimg.com/vi/Em6Wi2puizc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k0_lMXhTKTZpHXezncUgmuSfffI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moist Chocolate Cookies Recipe - Cocoa Cookies with Sugar Syrup</title>
+<utube>yXNChxXZ4MY</utube>
+<thumbnail>https://i.ytimg.com/vi/yXNChxXZ4MY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TmrLCOVrVe7zC6ATCnYeR9uw4To</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Milk Slice Recipe - How to make Kinder Milk Slice</title>
+<utube>9lrbXcf-xVM</utube>
+<thumbnail>https://i.ytimg.com/vi/9lrbXcf-xVM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=l6MLvoF5djf7Vx2sq5E3gYbjKog</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pure Milk Jam Recipe - Easy Turkish Recipes</title>
+<utube>8YHxuNhVf5U</utube>
+<thumbnail>https://i.ytimg.com/vi/8YHxuNhVf5U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X1ulwQQ8Agi3l96MQ57b_x3SYNo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mussel Shaped Turkish Borek - Green Lentil Borek Pastry Recipe</title>
+<utube>Er4ju9HkQoc</utube>
+<thumbnail>https://i.ytimg.com/vi/Er4ju9HkQoc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EdXoK-LqfL0oBYBe2jU0_wVwfpQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pasta with Ground Beef Recipe - Easy Turkish Recipes</title>
+<utube>65ARmLSBof8</utube>
+<thumbnail>https://i.ytimg.com/vi/65ARmLSBof8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qdu95LLMhtkJwZ321RZtMLQBY20</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>French Savory Cake Recipe - with Cheese and Herbs</title>
+<utube>EnTZ0NsfoJo</utube>
+<thumbnail>https://i.ytimg.com/vi/EnTZ0NsfoJo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5F4Yo2TvRRTPF7Hst2rhUYvZSUY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Anchovy Dolma Recipe - Fried Anchovies with Onion</title>
+<utube>t8zzgltZ_sM</utube>
+<thumbnail>https://i.ytimg.com/vi/t8zzgltZ_sM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L5iipMsjFPD6LThkXJdSMa9wlmU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Deep Fried Crispy Cauliflower Recipe – Easy Turkish Recipes</title>
+<utube>nGvpu72kFOY</utube>
+<thumbnail>https://i.ytimg.com/vi/nGvpu72kFOY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4J8PVYT5wcqNn15p75cumntoSLc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Cake with Vanilla Pudding Filling</title>
+<utube>wgGNt3t9U08</utube>
+<thumbnail>https://i.ytimg.com/vi/wgGNt3t9U08/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eqcatBOJge4fg44fLgZsJxLd5WM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Basic Chocolate Pudding Recipe - Easy Turkish Recipes</title>
+<utube>FXrxsUC5jtQ</utube>
+<thumbnail>https://i.ytimg.com/vi/FXrxsUC5jtQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3Qc0D9hiWB1i1k_oTsPW9mrEFVA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pressure Cooker Turkish Beef Stew Recipe</title>
+<utube>SIbEOTKR-ig</utube>
+<thumbnail>https://i.ytimg.com/vi/SIbEOTKR-ig/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kKafhNo0filftmnb4_bK6GogoLo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Hazelnut Dipped Sandwich Cookies Recipe</title>
+<utube>C503xce7EZA</utube>
+<thumbnail>https://i.ytimg.com/vi/C503xce7EZA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bN4noVqx2y2Wxx1ygnbcoqCSnCM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Mushroom Shaped Cookies with Starch and Cocoa</title>
+<utube>moVlkRrbOa8</utube>
+<thumbnail>https://i.ytimg.com/vi/moVlkRrbOa8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=slyunJmD0yJWFK7_lYYrJeJmBPM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Water Borek- Delicious Cheese Borek Recipe</title>
+<utube>hPDZRyLHHyI</utube>
+<thumbnail>https://i.ytimg.com/vi/hPDZRyLHHyI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Y4sihO2EesVkrj-AQMYcIoME55I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tray Kebab Recipe - How to make Baked Turkish Kebab</title>
+<utube>OZa4ljAcWxc</utube>
+<thumbnail>https://i.ytimg.com/vi/OZa4ljAcWxc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7kC1NHD4Qrvf3Kitpbpwy5zkMwo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Basic Hazelnut Butter Cookies - Turkish Cookies with Nuts</title>
+<utube>ktNqWgpkPso</utube>
+<thumbnail>https://i.ytimg.com/vi/ktNqWgpkPso/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ulvAXIy-K_qTn14PAT8l_pI1sFk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish-style Potato Salad Recipe - Served in Edible Cups</title>
+<utube>gn7dVBBqy5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/gn7dVBBqy5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=x2lNb7zlCq9zrM1HIt_otju7T-w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pacanga Borek Recipe - Turkish Pastry Rolls with Pastirma</title>
+<utube>gB7uVkylBqs</utube>
+<thumbnail>https://i.ytimg.com/vi/gB7uVkylBqs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xRAWXf2mT-TPOp9uMhP30cg_ZrU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Eggplant Islim Kebab Recipe - Kebab with Vegetables</title>
+<utube>w5MIUI-YyFE</utube>
+<thumbnail>https://i.ytimg.com/vi/w5MIUI-YyFE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TvV-jzD8NmJL6nYJz1iYq6iqcAk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Turkish Rice - Easy Pilaf Recipe</title>
+<utube>e9CEuUJqszQ</utube>
+<thumbnail>https://i.ytimg.com/vi/e9CEuUJqszQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_buIC8sHYKsVKvQRi1Cl4dvhICw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Stuffed Meatball Recipe - Meatballs with Mashed Potato</title>
+<utube>d5uHKgpvb9M</utube>
+<thumbnail>https://i.ytimg.com/vi/d5uHKgpvb9M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uJ0STmrN0Noh5P0t6yk5TfwXey8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Crepe Recipe - French Pancakes with Cocoa</title>
+<utube>PZv-e2wdEhU</utube>
+<thumbnail>https://i.ytimg.com/vi/PZv-e2wdEhU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zlq_Fn8qQo5NHpprwEmtM3Y1BrQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mashed Potatoes with Milk - Turkish Potato Puree Recipe</title>
+<utube>1ptoZiscNq4</utube>
+<thumbnail>https://i.ytimg.com/vi/1ptoZiscNq4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kDOtFgQiXOdtLiGZvwn6hGLaaQQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rose Shaped Dinner Rolls Recipe - Turkish Pogaca Pastry</title>
+<utube>WEe6Rk3J9as</utube>
+<thumbnail>https://i.ytimg.com/vi/WEe6Rk3J9as/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PPFKxz6o6OgkdEF3ADoAgNS6Kr8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fudgy Brownies Recipe - Chocolate Walnut Brownies</title>
+<utube>beBB7iuQisI</utube>
+<thumbnail>https://i.ytimg.com/vi/beBB7iuQisI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KBzCG7MyLdD0nDCJqQox6hUsYLI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Menemen Recipe - Egg and Tomato Recipe</title>
+<utube>ybsp4tNr4EM</utube>
+<thumbnail>https://i.ytimg.com/vi/ybsp4tNr4EM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AHbwCYWk8WQOqZ0CxHlaHfMWtr8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Tomato Rice Recipe - How to Make Tomato Pilaf</title>
+<utube>p8HpM6JQFxA</utube>
+<thumbnail>https://i.ytimg.com/vi/p8HpM6JQFxA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=V6ZZfBsyZUxcp7m9ZzL7tPIp10k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Borek Rolls with Ground Beef – Turkish Spring Rolls Recipe</title>
+<utube>5GExsH4wxVE</utube>
+<thumbnail>https://i.ytimg.com/vi/5GExsH4wxVE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BaU5KkpslL0ZZyI_xPBkIEBePEY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggplant Salad Recipe - Turkish Recipe for Baba Ganoush</title>
+<utube>rn7Mbb7ErjM</utube>
+<thumbnail>https://i.ytimg.com/vi/rn7Mbb7ErjM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ooNJyFQL_s8jGZP8rPMY28Pmibg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gullac Recipe - Turkish Ramadan Dessert</title>
+<utube>BvAeRxDSsH4</utube>
+<thumbnail>https://i.ytimg.com/vi/BvAeRxDSsH4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=blMqRiFBqA_6nl303ZSAql3exVA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Fried Rice Meatballs Recipe - Easy Meatballs</title>
+<utube>oxhNyaQLGpc</utube>
+<thumbnail>https://i.ytimg.com/vi/oxhNyaQLGpc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PRfMdk0rQdhS9aUihH6nwUd-rOQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Crunchy Turkish Sesame Bagels Recipe</title>
+<utube>DWpALuLuoGc</utube>
+<thumbnail>https://i.ytimg.com/vi/DWpALuLuoGc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fooiNtNoy7HSLlAYXITsRxg3LFQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bechamel Sauce Recipe - White Sauce for Lasagna</title>
+<utube>AvtMIGGSpOI</utube>
+<thumbnail>https://i.ytimg.com/vi/AvtMIGGSpOI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c1OdGS7qIl6jnCMfBdnKA99cmJY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Knafeh Recipe - Shredded Phyllo Dessert with Walnuts</title>
+<utube>VTrqBgZPfDA</utube>
+<thumbnail>https://i.ytimg.com/vi/VTrqBgZPfDA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1xXbkp_mAFvYtzZUoVf-ck_NNc8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Turkish Cream of Mushroom Soup Recipe</title>
+<utube>0DT7Y-btQUI</utube>
+<thumbnail>https://i.ytimg.com/vi/0DT7Y-btQUI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mHs3c3PUZNOoihUcc0Cm_adFcgk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Sauteed Chicken Recipe - Vegetable Saute with Chicken</title>
+<utube>8zn3efu_kSM</utube>
+<thumbnail>https://i.ytimg.com/vi/8zn3efu_kSM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1U6L8hj1KgCc43vTgjN4FjW2Rdg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Baklava Recipe - How to make Easy Baklava Dessert</title>
+<utube>xER3WegCNAs</utube>
+<thumbnail>https://i.ytimg.com/vi/xER3WegCNAs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FAdzurQKk0FcyL-pmlI-CG3yLR0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apricot Jam Recipe - How to make Easy Apricot Jam</title>
+<utube>at8XmGQHQlY</utube>
+<thumbnail>https://i.ytimg.com/vi/at8XmGQHQlY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rgm2OjZgjngOf_9O86tlLiiNPkc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bowl Kebab Recipe - How to make Turkish Beef Stew</title>
+<utube>OAD6oqYxBoQ</utube>
+<thumbnail>https://i.ytimg.com/vi/OAD6oqYxBoQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=e7NeG7UQtSSJMsfiZW1YN5UuAO4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Chocolate Sponge Cake Recipe</title>
+<utube>0jH-u3aE7qI</utube>
+<thumbnail>https://i.ytimg.com/vi/0jH-u3aE7qI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QRo6mEXr63Fa2u1Ctq-gLOXRq_A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Celery Root Stew Recipe with Potatoes and Beef</title>
+<utube>7HSiuUnYGeE</utube>
+<thumbnail>https://i.ytimg.com/vi/7HSiuUnYGeE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4yBL_Mo7jxl8SfUu4u-tJloqYiw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ramadan Bread Recipe - Turkish Ramadan Pita</title>
+<utube>Zt-IGBG_JeI</utube>
+<thumbnail>https://i.ytimg.com/vi/Zt-IGBG_JeI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=on9IW7k3Y_9-PSd8FV-Pquz5Gg8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Puff Pastry Cones Recipe - Cream Horn (Trubochki) Recipe</title>
+<utube>a2g42LFQy9s</utube>
+<thumbnail>https://i.ytimg.com/vi/a2g42LFQy9s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=itmBeUvzzTKuoIr3ENcGPdxoaFM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Recipe for Easy Chocolate Chip Cookies with Butter</title>
+<utube>ED6XryVQYsQ</utube>
+<thumbnail>https://i.ytimg.com/vi/ED6XryVQYsQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nvkK9-tJeyFfv5fLvoj8i4eJ9hk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy and Delicious Cheese Leek Tart Recipe</title>
+<utube>KEu_qT_0jwI</utube>
+<thumbnail>https://i.ytimg.com/vi/KEu_qT_0jwI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=e0AJxpqQPXnENvRvHj4OoFXr9p4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Bake Potato in Oven - Easy Turkish Recipes</title>
+<utube>xjIYWsKrEVo</utube>
+<thumbnail>https://i.ytimg.com/vi/xjIYWsKrEVo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T0gkIxiUIxhswrig6PLX0YA8RhY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted Oyster Mushroom Recipe & Baked Potatoes</title>
+<utube>7Mv1ULRxCsY</utube>
+<thumbnail>https://i.ytimg.com/vi/7Mv1ULRxCsY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O2y0O4Pazpu_oHPyUO8UbziDX1M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Sesame Bagel Simit Recipe - Ring Bread</title>
+<utube>XlQRM1hS0tk</utube>
+<thumbnail>https://i.ytimg.com/vi/XlQRM1hS0tk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=D39UhaYsrTWq4sOQ_wZqciv2RF0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Recipe for Semolina Halvah Dessert with Ice Cream</title>
+<utube>16ZeAQR3cDg</utube>
+<thumbnail>https://i.ytimg.com/vi/16ZeAQR3cDg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zeI0IgYSCnX47jGlLtgwrSaTIQo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Kebab Recipe - Eggplant Puree with Ground Beef</title>
+<utube>Dkzgn0E2DeU</utube>
+<thumbnail>https://i.ytimg.com/vi/Dkzgn0E2DeU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CP5pSJpuWlDtWMZuHF-l7mB6VaA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beef and Green Bean Stew Recipe</title>
+<utube>aC5iQC4AYw0</utube>
+<thumbnail>https://i.ytimg.com/vi/aC5iQC4AYw0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M2U2eyRglpYJs7Btd_ZzNb7Iw38</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Chocolate Crack Cookies Recipe</title>
+<utube>-Tus9Ryuc-k</utube>
+<thumbnail>https://i.ytimg.com/vi/-Tus9Ryuc-k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mlqe2_YT-HRDJrGSC1p9WoSP-Uw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Sponge Cake Recipe | Simple Vanilla Cake</title>
+<utube>shNpo9YtMA4</utube>
+<thumbnail>https://i.ytimg.com/vi/shNpo9YtMA4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JZDrXsC8LNuF21uxPic6_OG5-EE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Kebab Recipe | Kebab in Paper</title>
+<utube>RJc8p8F_vbc</utube>
+<thumbnail>https://i.ytimg.com/vi/RJc8p8F_vbc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y-BJ2Pvkd1zPeawcMxTX281JOfY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>White Chocolate Cake Filling  | Custard Recipe</title>
+<utube>Y-eSYCE1yZg</utube>
+<thumbnail>https://i.ytimg.com/vi/Y-eSYCE1yZg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-DKGUCQ0wv6Af8-h1nNczKoKSUQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Beef Wrap Recipe - Easy Turkish Food</title>
+<utube>A7l6ar_xNTk</utube>
+<thumbnail>https://i.ytimg.com/vi/A7l6ar_xNTk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UtU7n7re30m0qPUY1W_cQYTqch0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggplant Kebab Recipe - Easy Baked Turkish Shish Kebab</title>
+<utube>tm5IenOKSP0</utube>
+<thumbnail>https://i.ytimg.com/vi/tm5IenOKSP0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZfTrX4lyfM1jS3IAsFXlyQB2Rgc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tuna Pizza Recipe | Pizza with Fresh Tomatoes</title>
+<utube>P3GNIuXZ-Yk</utube>
+<thumbnail>https://i.ytimg.com/vi/P3GNIuXZ-Yk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k5Dgqedbx8IPwkuW7HgylB2ZXJI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Vegetables Recipe | Easy Turkish Meze</title>
+<utube>h5B9jBjjzj8</utube>
+<thumbnail>https://i.ytimg.com/vi/h5B9jBjjzj8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=U3-W7OVwlWA0wImZtJcAB2zqXn8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rolled Burek Recipe | Turkish Food with Ground Beef</title>
+<utube>Ut8ybKehDrI</utube>
+<thumbnail>https://i.ytimg.com/vi/Ut8ybKehDrI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NWh5rggU7mnOfqM9qYGLiVv7o8I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mole Cake Recipe | Cake with Banana and Chocolate</title>
+<utube>gFbWHTazaEU</utube>
+<thumbnail>https://i.ytimg.com/vi/gFbWHTazaEU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4EEhOT8xXXE2c5D5NxphJ2KomU8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mini Coconut and Chocolate Cakes Recipe</title>
+<utube>sS0UTyjoWyU</utube>
+<thumbnail>https://i.ytimg.com/vi/sS0UTyjoWyU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zUK8fMaHPQOg8i3_5aF1M2hlbao</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Gozleme Recipe | How to make Gozleme</title>
+<utube>HN85o70xiKo</utube>
+<thumbnail>https://i.ytimg.com/vi/HN85o70xiKo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7mnMsEgYw7rUfYo5Ke_MlVJMz30</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Almond Butter Cookies Recipe | Easy Moon Biscuits</title>
+<utube>N6RfTEwtimE</utube>
+<thumbnail>https://i.ytimg.com/vi/N6RfTEwtimE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TeQuayvBHZxfJsVJg2JvZmwCK08</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Lasagna Recipe with Bechamel Sauce</title>
+<utube>dzuyEiDcbnQ</utube>
+<thumbnail>https://i.ytimg.com/vi/dzuyEiDcbnQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W6qpF8rwb8JPZ2Egp_shNZ8Tq3I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Cornbread Recipe | How to make Corn Bread</title>
+<utube>OvRi9N4G41Q</utube>
+<thumbnail>https://i.ytimg.com/vi/OvRi9N4G41Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q6DVq7zfIE38qw_q_-PWKj4fFJw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Easy Cheesecake | Strawberry Cheesecake</title>
+<utube>26CK4VTnmWo</utube>
+<thumbnail>https://i.ytimg.com/vi/26CK4VTnmWo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tOTwaDZPip1e9FSK5AaWgGx0Cuw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Zucchini Cake Recipe | Savory Vegetable Cake</title>
+<utube>ylyDvuq94k8</utube>
+<thumbnail>https://i.ytimg.com/vi/ylyDvuq94k8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FFHwhyRci4mQ_Ch8Fi-D77U8Puk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Meringues Recipes | Meringue Cookies Recipe</title>
+<utube>32y58o7Z7hs</utube>
+<thumbnail>https://i.ytimg.com/vi/32y58o7Z7hs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OQM7yAiJ4AJC2ncS-GEqJjxQQ14</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheese Stuffed Crab Mushrooms Recipe</title>
+<utube>S8LjyognNgY</utube>
+<thumbnail>https://i.ytimg.com/vi/S8LjyognNgY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IVsT9IDucDw6V_dfGdIPl4oKXVU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Jam Recipe | How to make Jam Canning</title>
+<utube>orIgvQ6OMBM</utube>
+<thumbnail>https://i.ytimg.com/vi/orIgvQ6OMBM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4G4ckwxHDx0cudwgroRV7BdfN2s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Chocolate Eclairs Recipe</title>
+<utube>te5eYR-Fvng</utube>
+<thumbnail>https://i.ytimg.com/vi/te5eYR-Fvng/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FyhpMaVq5Xz-bZQJkPZaNya6vpk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Zebra Cake Recipe | Easy Marble Cake</title>
+<utube>qNPhi4satiQ</utube>
+<thumbnail>https://i.ytimg.com/vi/qNPhi4satiQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=05rAa_nvJgpffNSyQnGuTB824Bg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lavash Recipe | Turkish Thin FlatBread Recipe</title>
+<utube>_YPKm_Jx0Gs</utube>
+<thumbnail>https://i.ytimg.com/vi/_YPKm_Jx0Gs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Gua4bQyjUIpPeynz40xWUzh8NNA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Zucchini Cakes Recipe (With Feta Cheese)</title>
+<utube>GLN1druqAR4</utube>
+<thumbnail>https://i.ytimg.com/vi/GLN1druqAR4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6v8jJLdM1h187ZGpVgqBnYLu9HM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Chocolate Fondant Recipe</title>
+<utube>aL9xxpBZh7o</utube>
+<thumbnail>https://i.ytimg.com/vi/aL9xxpBZh7o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1lHMOy1K66dNt7Ub_tJtG54JHBU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Banana Cake Recipe</title>
+<utube>zM-6Pbp4x40</utube>
+<thumbnail>https://i.ytimg.com/vi/zM-6Pbp4x40/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0M_04ZlVJ8f_-dGzWAjiw9EnQj4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Cake Cream Recipe | Chocolate Frosting</title>
+<utube>impia1Gml0A</utube>
+<thumbnail>https://i.ytimg.com/vi/impia1Gml0A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3OeSNEiHCvh8MzK_HRNOwy34SwQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Simple Sponge Cake Recipe</title>
+<utube>Q2-iJjduDYw</utube>
+<thumbnail>https://i.ytimg.com/vi/Q2-iJjduDYw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iE9D9Qfw5BrgXkL6YK_xLULshjA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Baklava | Easy Turkish Recipes</title>
+<utube>8IIjVmMf5Nw</utube>
+<thumbnail>https://i.ytimg.com/vi/8IIjVmMf5Nw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZjqDhEzq0GkZqjVSZlg67olyGJo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Baked Chicken Recipe | Sauce For Chicken</title>
+<utube>QMVFFd7uTvM</utube>
+<thumbnail>https://i.ytimg.com/vi/QMVFFd7uTvM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4UkWtuuQArT4fqU732o5gN0zrGI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tuna Pasta Salad With Corn Recipe</title>
+<utube>h9Shw7RQT1M</utube>
+<thumbnail>https://i.ytimg.com/vi/h9Shw7RQT1M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0sBELRet1e0shD90LVN_Iud4PIY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Recipe for Turkish Borek and Phyllo Pastry</title>
+<utube>aMa0n6LPCuo</utube>
+<thumbnail>https://i.ytimg.com/vi/aMa0n6LPCuo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GYR3TdfQ7e5aGAgwhxqSPPPp6k8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Artichoke Hearts Recipe</title>
+<utube>vfSd8AppQY4</utube>
+<thumbnail>https://i.ytimg.com/vi/vfSd8AppQY4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zsMNNCdcn29Avv7_kPnGYNj8vUQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Meat Pie Recipe | Minced Meat Bread</title>
+<utube>BFb6W4eWxmM</utube>
+<thumbnail>https://i.ytimg.com/vi/BFb6W4eWxmM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KT8MkV9x-H8QXI5AhpM5jgCXYBg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>No-Bake Cocoa Biscuit Cake Recipe</title>
+<utube>LkPo8GL7OwE</utube>
+<thumbnail>https://i.ytimg.com/vi/LkPo8GL7OwE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CiIZdw5oCnnZIJECCQF0rkHQ8TQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Pizza Recipe | Pepperoni  Pizza</title>
+<utube>4if72iBIiJ8</utube>
+<thumbnail>https://i.ytimg.com/vi/4if72iBIiJ8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RmajnoQorS0d9cW8C9RhS63KoWw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pizza Recipe | Ground Beef Bread</title>
+<utube>vSztPNM2uho</utube>
+<thumbnail>https://i.ytimg.com/vi/vSztPNM2uho/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4411HM8pLb5uEObX1SnCnV6UoCs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hamburger Recipe | Buns and Patties</title>
+<utube>UDksVmIi-As</utube>
+<thumbnail>https://i.ytimg.com/vi/UDksVmIi-As/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K5agaKf3TiJ6IveOQmhY0chWhQk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Recipe French Fries - Homemade Fries</title>
+<utube>jsXO2JkVAtg</utube>
+<thumbnail>https://i.ytimg.com/vi/jsXO2JkVAtg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RCyHU3rS1eWjqI7PHneIy2IAeYY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salami Cheese Omelette Recipe</title>
+<utube>5MmloUi2EIM</utube>
+<thumbnail>https://i.ytimg.com/vi/5MmloUi2EIM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SDr4wLiI98hnyOEbrM6bRBiuXtk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Butter Roll Recipe | Bread Rolls</title>
+<utube>Zry5neFoYQ4</utube>
+<thumbnail>https://i.ytimg.com/vi/Zry5neFoYQ4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KiXubuSPhv6gKsiq66w1XmYfUKg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Profiteroles Recipe</title>
+<utube>A8gIYVCB7zE</utube>
+<thumbnail>https://i.ytimg.com/vi/A8gIYVCB7zE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7k1YHWEh0x_Mv9TY3oPab7RBKsc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Neapolitan Sauce Spaghetti Recipe</title>
+<utube>MOvD7VBOjwI</utube>
+<thumbnail>https://i.ytimg.com/vi/MOvD7VBOjwI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JY_25ZFB2VGWfmWhPkma0oWRCeM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salty Sesame Cookies Recipe</title>
+<utube>ciuqy3hivUw</utube>
+<thumbnail>https://i.ytimg.com/vi/ciuqy3hivUw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yAn1o-NOpG1FJTyriyUkCQJkdX0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chili con Carne Recipe</title>
+<utube>syFU2LucueM</utube>
+<thumbnail>https://i.ytimg.com/vi/syFU2LucueM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UyitfO2IvKV1v1TOACC2r6uQ_Os</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Wheat Meatballs Recipe</title>
+<utube>uysZfzYi1m4</utube>
+<thumbnail>https://i.ytimg.com/vi/uysZfzYi1m4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=68rR8BGVKWuUcqJeqUfcE_24eA0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Flour Tortilla Recipe | Lavash Bread</title>
+<utube>0yDHeZVc7rA</utube>
+<thumbnail>https://i.ytimg.com/vi/0yDHeZVc7rA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=plR43AysmhR8XLMG0jXMwH_nKOo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Flour Halvah Recipe | Halwa Recipe</title>
+<utube>DeHuCZGZGnM</utube>
+<thumbnail>https://i.ytimg.com/vi/DeHuCZGZGnM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jBCrVTzBJSZdmJoq2fXb7RI10ng</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Waffle Recipe</title>
+<utube>8Mqqz-j6MMA</utube>
+<thumbnail>https://i.ytimg.com/vi/8Mqqz-j6MMA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=stW5ojSKHR7OZhhFXwEEg43QgGY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Beans with Olive Oil Recipe</title>
+<utube>0dXalGDoOWk</utube>
+<thumbnail>https://i.ytimg.com/vi/0dXalGDoOWk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=65t6Yf9s80OcJ91-ZeveL9sFfZs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Knafeh Recipe | Turkish Kunefe Recipe</title>
+<utube>1JRak1lhOKo</utube>
+<thumbnail>https://i.ytimg.com/vi/1JRak1lhOKo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5iCXqFfhzswD7V6dftg7M85RLfY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coconut Pudding Recipe With Almond</title>
+<utube>guNycK1fEPs</utube>
+<thumbnail>https://i.ytimg.com/vi/guNycK1fEPs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XiktCelEKh2-D8W_Exs5x1oiW1g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bulgur Salad | Bulgur Wheat Salad</title>
+<utube>6XckZFo_3ZI</utube>
+<thumbnail>https://i.ytimg.com/vi/6XckZFo_3ZI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L2sxOqWjNcrMoVVXc3BfOndG5gU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kidney Beans Recipe | Turkish Meze</title>
+<utube>X9DoAR6RuIw</utube>
+<thumbnail>https://i.ytimg.com/vi/X9DoAR6RuIw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=szyPPAyDR_zCNUz6lhG-s4qn8sU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Liver and Onions Recipe | Fried Liver Recipe</title>
+<utube>sijkJKnqR6k</utube>
+<thumbnail>https://i.ytimg.com/vi/sijkJKnqR6k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MY0ao8YeDgGb19L4Jp6ZJ2ihZIs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spicy Tomato Sauce Recipe | Ezme Recipe</title>
+<utube>CK4daAs0qvU</utube>
+<thumbnail>https://i.ytimg.com/vi/CK4daAs0qvU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wNPL6cj9Hr8DNou4l8MJJqqFRqo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cake Roll Recipe | Swiss Roll Recipe</title>
+<utube>Da8jKKpM4Tg</utube>
+<thumbnail>https://i.ytimg.com/vi/Da8jKKpM4Tg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gYU0P5x_EQh2-MhLtNwc3dgS-Ys</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Loukoumades Recipe | Sweet Fried Dough</title>
+<utube>hFoevdz_vk0</utube>
+<thumbnail>https://i.ytimg.com/vi/hFoevdz_vk0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WUIm0vqXjCN48JlWbmzSYdfmxZo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kanafeh with Pudding Recipe | Turkish Dessert</title>
+<utube>H7z61stY-7c</utube>
+<thumbnail>https://i.ytimg.com/vi/H7z61stY-7c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nc-lOpVGr6-EZTylS4uvq_75VNU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Chicken Breast Pudding | Recipe for Turkish Pudding</title>
+<utube>wJO-ix0IAMg</utube>
+<thumbnail>https://i.ytimg.com/vi/wJO-ix0IAMg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yMBKyPXGUQcCHBu0PoJAwt3VZUk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Carrot Cake Recipe | Hazelnut Cake with Carrot</title>
+<utube>Fe_A_JUj-40</utube>
+<thumbnail>https://i.ytimg.com/vi/Fe_A_JUj-40/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0vwkTFJnoWuaALehSMG7zsKTcuA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ground Beef Cauliflower Recipe | How to Cook Cauiflower</title>
+<utube>QXup7RVXm88</utube>
+<thumbnail>https://i.ytimg.com/vi/QXup7RVXm88/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ySX_DOnLPIJ_Jd6uC4GEwVZEJqE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Oven Baked Pasta Recipe | Recipe for Baked Pasta</title>
+<utube>eti69HZqljE</utube>
+<thumbnail>https://i.ytimg.com/vi/eti69HZqljE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0bWSHmtHEOmhh-jxOHqwO4JkCXA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Cake Recipe | How to make Green Cake</title>
+<utube>qmchCA7yuIc</utube>
+<thumbnail>https://i.ytimg.com/vi/qmchCA7yuIc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=enKxE1-7Y9VSd8Flmrzpw3C5XjE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Flour Cookies Recipe | Turkish Butter Cookies by Easy Turkish Recipes</title>
+<utube>NYSKsvPYw_g</utube>
+<thumbnail>https://i.ytimg.com/vi/NYSKsvPYw_g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OvCGxv2IsXzshFHJQLk8tkCf_9A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Baklava Recipe | Traditional Baklawa Recipe</title>
+<utube>0dNCdSl-Yvc</utube>
+<thumbnail>https://i.ytimg.com/vi/0dNCdSl-Yvc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8hDQziWdZWQL1D9-Mmge_ML614c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Apple Quince Dessert Recipe | Turkish Quince Dessert</title>
+<utube>mh8mRDg0flc</utube>
+<thumbnail>https://i.ytimg.com/vi/mh8mRDg0flc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TARh0OtFIYPGix9pC3V-twYnNZ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Semolina Pudding Recipe | Cocoa Pudding Recipe</title>
+<utube>17OqOt11u3s</utube>
+<thumbnail>https://i.ytimg.com/vi/17OqOt11u3s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MEAYS-G-wAXsmSSJK5HJQHG9-bI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moist Chocolate Cake Recipe | Cocoa Cake with Sauce Recipe</title>
+<utube>OEHkVb3sWXA</utube>
+<thumbnail>https://i.ytimg.com/vi/OEHkVb3sWXA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZE-v7xrwAQHKVTdun4kkCFOfjqY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Basbousa Recipe | How to Make Revani</title>
+<utube>s8v3RIddbjg</utube>
+<thumbnail>https://i.ytimg.com/vi/s8v3RIddbjg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vnhFe3QMGCOoYL7yaSakBNuOrOg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cabbage Rolls Recipe | Turkish Stuffed Cabbage Rolls Recipe</title>
+<utube>q2s9XQL6bXo</utube>
+<thumbnail>https://i.ytimg.com/vi/q2s9XQL6bXo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_mv05dypV7CoZaGsLrmnPJhKy0Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mini Apple Pies Recipe | Easy Apple Tart</title>
+<utube>oZens-l0c38</utube>
+<thumbnail>https://i.ytimg.com/vi/oZens-l0c38/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=23P5DgZFUH80FaTNFWm5L7Lj6SY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rose Shaped Sweet Semolina Pastry | Turkish Rose Dessert with Syrup</title>
+<utube>Bas3KUCsXy8</utube>
+<thumbnail>https://i.ytimg.com/vi/Bas3KUCsXy8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gwr3zi0nSz44JuKeMXQrcPzxekc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Jam Sandwich Cookies | Butter Cookies with Nutella</title>
+<utube>NYpQwnxsPac</utube>
+<thumbnail>https://i.ytimg.com/vi/NYpQwnxsPac/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GjXQI5QqJqadPQfC5d58PiWw6ig</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Dough Filled with Cheese Recipe | Turkish Recipes</title>
+<utube>h1m6RNIJVMM</utube>
+<thumbnail>https://i.ytimg.com/vi/h1m6RNIJVMM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Cp-vgCXYYrGC62I_I3L7eGcxTJ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy No-Fry Bagels Recipe | Turkish Bagels Recipe</title>
+<utube>fiY4mCwRVlI</utube>
+<thumbnail>https://i.ytimg.com/vi/fiY4mCwRVlI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tHDxufHw4tV_XGS8dSFl7Y0LdDk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Dipped Cookies Recipe | How to Make Chocolate Shortbreads</title>
+<utube>ev2N4Ea8j2I</utube>
+<thumbnail>https://i.ytimg.com/vi/ev2N4Ea8j2I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WqHX-IIb5932vAZ3Wvwh7yag-AY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Turkish Recipes Channel Trailer</title>
+<utube>z75ADuItE3Y</utube>
+<thumbnail>https://i.ytimg.com/vi/z75ADuItE3Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SNBAdWGLmPxjdU9iOrQhKxw_100</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Delight Recipe | How to Make Turkish Delight | Locum Recipe</title>
+<utube>0ANQ1AwVG6U</utube>
+<thumbnail>https://i.ytimg.com/vi/0ANQ1AwVG6U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rHBZN-ZmFzRcojwWhHK30yF_Zao</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Ashure Recipe | Asure Recipe | Noah's Pudding</title>
+<utube>EtOP6aPM9K8</utube>
+<thumbnail>https://i.ytimg.com/vi/EtOP6aPM9K8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=220_CGmiPsYei3ZmSfoPuPupFQE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Flour Soup Recipe | How to Make Turkish Flour Soup</title>
+<utube>sHW5BFTfPJY</utube>
+<thumbnail>https://i.ytimg.com/vi/sHW5BFTfPJY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0rHC368lMoND3jyCr851qzJiaK0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised Leek Recipe | Leek with Carrots Recipe</title>
+<utube>dgU7FmECrDE</utube>
+<thumbnail>https://i.ytimg.com/vi/dgU7FmECrDE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7Y-LZi5CBlHWPz3rI4h-pp87j-k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Semolina Halva Recipe | Turkish Halva Recipe</title>
+<utube>lbzjgmqy2wo</utube>
+<thumbnail>https://i.ytimg.com/vi/lbzjgmqy2wo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7C5nVF7iBPBrlhM-WYnJS3d21wg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Borek Recipe | Cigarette Borek Recipe</title>
+<utube>yOacyJ9xgUE</utube>
+<thumbnail>https://i.ytimg.com/vi/yOacyJ9xgUE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CveWyDGHtcHDsQbqpi8OCqSElL0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Oven Baked Meatballs Recipe | Turkish Meatballs in Oven</title>
+<utube>D00HxCPj_Jc</utube>
+<thumbnail>https://i.ytimg.com/vi/D00HxCPj_Jc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cgQ8x6nm6NGLEABPQzS0wDc7bEk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cherry-Cream Dessert with Toasted Bread | Cake of Dry Biscuits Recipe</title>
+<utube>pmQUqJgWfKM</utube>
+<thumbnail>https://i.ytimg.com/vi/pmQUqJgWfKM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fX851oyf1jho45givt1EIiEr84U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Mantı Recipe | Turkish Dumplings Recipe</title>
+<utube>j_5FXVU6NWw</utube>
+<thumbnail>https://i.ytimg.com/vi/j_5FXVU6NWw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CLenrxW9DzuaFAqjgKdExAtHHl4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Quince Jam Recipe | With Pomegranate | Pink Quince Jam Recipe</title>
+<utube>k35iU1P1gJ8</utube>
+<thumbnail>https://i.ytimg.com/vi/k35iU1P1gJ8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KjRsebFXWMD9od4krcx87kUgvTw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Dessert Recipe | Easy Pumpkin Recipe</title>
+<utube>ZVbvAW4SYBQ</utube>
+<thumbnail>https://i.ytimg.com/vi/ZVbvAW4SYBQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Cp-eCyhSW-RtYXm0d3fJBd_362o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vegetable Soup Recipe | Turkish Ezogelin Soup Recipe</title>
+<utube>vg-S9Nh6SGY</utube>
+<thumbnail>https://i.ytimg.com/vi/vg-S9Nh6SGY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SUxfZlgkR47a7jk311GgcdK18Co</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed Meatballs Recipe | Turkish Bulgar Wheat Meatballs</title>
+<utube>-jG8FJTe8kw</utube>
+<thumbnail>https://i.ytimg.com/vi/-jG8FJTe8kw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L8VLV58Tq6HzyERqeVqkvEMkweU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Clean Fish | Cleaning Anchovies Close Up</title>
+<utube>Vr8vTbHK1ts</utube>
+<thumbnail>https://i.ytimg.com/vi/Vr8vTbHK1ts/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jMQ-6ze01_uYHsMLCClHWp-O2Uo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Potato Puree Recipe | Puree Recipes</title>
+<utube>_yh8ifPJblQ</utube>
+<thumbnail>https://i.ytimg.com/vi/_yh8ifPJblQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ybDhzIHzoBPIOA-YBw2bnGbtx24</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Borek Recipe | Filo Pastry | with Spinach and Cheese</title>
+<utube>FyHLIL9ZFkE</utube>
+<thumbnail>https://i.ytimg.com/vi/FyHLIL9ZFkE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Rb_QwE_CKsCzAKnMKmmh_a-SVjU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice Pudding Recipe | How to make pudding with Rice | Turkish Recipes</title>
+<utube>0SXWKp4vOAY</utube>
+<thumbnail>https://i.ytimg.com/vi/0SXWKp4vOAY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y4ihiusy3xXylp6sxqwf8I9DDxs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Basic Pastry Recipe | Easy Butter Bread Recipe | Turkish Recipes</title>
+<utube>FFGHTzcpoH8</utube>
+<thumbnail>https://i.ytimg.com/vi/FFGHTzcpoH8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6Accvzk-c72XkLJiIBOpwWSTNjM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Borek with Ground Meat | Phyllo Pastry Burek with Beef | Borek Recipe</title>
+<utube>rmbe-hf7B10</utube>
+<thumbnail>https://i.ytimg.com/vi/rmbe-hf7B10/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2lv9JV1l4PeUesDAtngi5DFCj3A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice with Anchovies Recipe from Northern Turkey | Traditional Seafood Recipe</title>
+<utube>UK07yoQSp9E</utube>
+<thumbnail>https://i.ytimg.com/vi/UK07yoQSp9E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aqmL3OntnZgjx0b3Foje9iG-Jkg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Braised Meat Recipe | Roasted Meat Recipe | Turkish Recipes</title>
+<utube>s_95UOzMf5M</utube>
+<thumbnail>https://i.ytimg.com/vi/s_95UOzMf5M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=scSSsTB2Yy8Ryu3cM7UY0j8j-2s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vegetarian Stuffed Eggplant Recipe</title>
+<utube>ZUyvc89BIQY</utube>
+<thumbnail>https://i.ytimg.com/vi/ZUyvc89BIQY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=l54jywk5Q8aQqLiNn6xv7WiNfcQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lentil Soup Recipe | Easy Soup Recipe | Turkish Recipes</title>
+<utube>i55SnpiaJYM</utube>
+<thumbnail>https://i.ytimg.com/vi/i55SnpiaJYM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fqvLTtk3XkvveTqIrHF29McOyzY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Damascus Dessert Recipe | Sambali Dessert Recipe | With Sherbet</title>
+<utube>gbuGpihkUyY</utube>
+<thumbnail>https://i.ytimg.com/vi/gbuGpihkUyY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ap57dHcuToe3Y2bV44zM0kOKY2o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dill Pogaca Recipe | Pasty Recipes | Dill Pastry Recipes | Turkish Pastry</title>
+<utube>_2HvgT9tF3A</utube>
+<thumbnail>https://i.ytimg.com/vi/_2HvgT9tF3A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bOBbQYVlhUlEJBIzr7140enIIr0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Tiramisu Recipe | Labneh Tiramisu Recipe | Without Rum</title>
+<utube>yuobkNL-A54</utube>
+<thumbnail>https://i.ytimg.com/vi/yuobkNL-A54/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=USJMq1YJYZm07UgB7HO0aoTpdn8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Boiled Meatballs Recipe | Turkish Meatball Soup | Meatball Recipe</title>
+<utube>FBa9a8S2osE</utube>
+<thumbnail>https://i.ytimg.com/vi/FBa9a8S2osE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=E8hOpcmVA93XXe7vlL7VPg3YLt4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Basic Crepe Recipe | How to make Crêpes | Crepe Recipes</title>
+<utube>jeMB9HrlHTY</utube>
+<thumbnail>https://i.ytimg.com/vi/jeMB9HrlHTY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ptkIyvQGKnGYUcKqZ8vP_Ohi-eM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moist Cake with Whipped Cream | Traditional Greek Recipe</title>
+<utube>Cm3BPjB-Dnk</utube>
+<thumbnail>https://i.ytimg.com/vi/Cm3BPjB-Dnk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ON3OmNwzktLcVIUK7MG_Ch8PMx0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pancakes Recipe | Easy Waffle Recipe | How to make Pancake Mix</title>
+<utube>44KY00A6fOQ</utube>
+<thumbnail>https://i.ytimg.com/vi/44KY00A6fOQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yAHsZyGhglw3l1VF9Z677GXHpeI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spinach Puree with Fried Egg | Armenian Cuisine | How to make Puree</title>
+<utube>iyykj8t0xAs</utube>
+<thumbnail>https://i.ytimg.com/vi/iyykj8t0xAs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mPO65KcbtRuvpp5Gk2bk3i9jTLQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Shepherd's Salad Recipe | Delicious Salad Recipes | Mediterranean Salad</title>
+<utube>qk5WrAhKH9Y</utube>
+<thumbnail>https://i.ytimg.com/vi/qk5WrAhKH9Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tmzVj63g1qW6uHm4PvD376hR6R0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Cake with Sour Cherries | Easy Desserts | Home-made Cake</title>
+<utube>z4IsRk0UJV4</utube>
+<thumbnail>https://i.ytimg.com/vi/z4IsRk0UJV4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=I2iBNsLz7MfLKEDg4MdK0GlUGzA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Beans with Eggs | Easy, Healthy and Delicious Recipe | Recipe Green Beans</title>
+<utube>USJ8bFcmnk4</utube>
+<thumbnail>https://i.ytimg.com/vi/USJ8bFcmnk4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0wWB8Ie-gwse9yZXjMZKRs2oHEs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Borek with Potatoes | Potato Pastry | Borek Recipe</title>
+<utube>Y7Y533vY7Tw</utube>
+<thumbnail>https://i.ytimg.com/vi/Y7Y533vY7Tw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IgImEM3-QnfokyROdrOU6ZMqT50</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Kebab Recipe | How to make Kebab | Shish Kebab Recipe</title>
+<utube>gxztx42m78k</utube>
+<thumbnail>https://i.ytimg.com/vi/gxztx42m78k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7Btkclx3QI0Ux34sjYXgsHmneSQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spring Soup Recipe | Yogurt Soup | Healthy and Easy Soups</title>
+<utube>xU81xJprkx8</utube>
+<thumbnail>https://i.ytimg.com/vi/xU81xJprkx8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gc11gP-WT7uPWlcJiAsVNq1yYK4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bulgar Wheat Pilaf Recipe | Bulgur Recipe | Wheat with Tomatoes | Healthy Rice Recipe</title>
+<utube>4iKjt3CLzpU</utube>
+<thumbnail>https://i.ytimg.com/vi/4iKjt3CLzpU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6sdpxeAB2fanZ86palDYmEp7UI0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Vegetarian Lentil Meatballs | Meatballs without Meat | Red Lentil Salad</title>
+<utube>bF6lkVwr7E4</utube>
+<thumbnail>https://i.ytimg.com/vi/bF6lkVwr7E4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_VbwfAibNPZ1fuwG4IPJEo1ZWSA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Piyaz (White Beans Salad) Recipe | How to Make Piyaz | Haricot Bean Salad</title>
+<utube>ntGA_NB1L04</utube>
+<thumbnail>https://i.ytimg.com/vi/ntGA_NB1L04/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Jo0gCixRYFdbhFefqWTTsL47bpo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed Anchovies Recipe | How to Cook Best Anchovies</title>
+<utube>zOEdm_mpRLc</utube>
+<thumbnail>https://i.ytimg.com/vi/zOEdm_mpRLc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=e-XtIyIYVC8_7Hmc20T-1LtoZlo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Stuffed Grape Leaves Recipe | How to make the Best Sarma</title>
+<utube>sfQm4xxr09c</utube>
+<thumbnail>https://i.ytimg.com/vi/sfQm4xxr09c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YDXsFViWjU_2ME9OeUqYzorWf-I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Borek with Sousages | Borek Recipe | How to make Burek | Greek bouréki or bourekáki</title>
+<utube>m77qnk5TjVo</utube>
+<thumbnail>https://i.ytimg.com/vi/m77qnk5TjVo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Gau37mEd_8Z9mWhd2kISxMZU7wI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pyramid Biscuit Cake with Banana | Chocolate Salami with Bananas | Chocolate Souce</title>
+<utube>9v2wIA-hjKM</utube>
+<thumbnail>https://i.ytimg.com/vi/9v2wIA-hjKM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aMEfUbjQihCfaHtrAjg2VWFKhQI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Pide With Meat |  Kiymali Pide Recipe | Traditional Food</title>
+<utube>9QHtWsUTDdA</utube>
+<thumbnail>https://i.ytimg.com/vi/9QHtWsUTDdA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M5j6RBZijYzoIfAfQZl8qzNab70</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkish Stuffed Zucchini Recipe | Kousa Mahshi | Step by Step</title>
+<utube>zgUvBRihDaE</utube>
+<thumbnail>https://i.ytimg.com/vi/zgUvBRihDaE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cx3KfhEgfx-kLU-NE1XqDQmi-wI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

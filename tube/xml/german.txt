@@ -1,0 +1,17 @@
+<channels>
+<channel>
+<name>German Cooking with German Deli</name>
+<thumbnail>http://i.imgur.com/KJcG38E.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/German/German_Deli_German.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook German with German Deli</info>
+</channel>
+
+<channel>
+<name>German Cooking with The German Way</name>
+<thumbnail>http://i.imgur.com/IfvIrLI.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/German/TheGermanWay_German.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook German with German Way</info>
+</channel>
+</channels>

@@ -1,0 +1,108 @@
+<item>
+<title>How to cook: THURINGIAN POTATO DUMPLINGS (Thüringer Klöße) Recipe # 018</title>
+<utube>SXDYtNxJ04U</utube>
+<thumbnail>https://i.ytimg.com/vi/SXDYtNxJ04U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RZp93hdo32FrpqkvKG40NOWrL3w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: JUNKET (Quarkspeise) Recipe # 017</title>
+<utube>JLUEGI_skpg</utube>
+<thumbnail>https://i.ytimg.com/vi/JLUEGI_skpg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qpjB7LQBdlVF08XOk567DIaUHF4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: CABBAGE ROLLS (Kohlrouladen) Recipe # 016</title>
+<utube>M5-7xml4QiI</utube>
+<thumbnail>https://i.ytimg.com/vi/M5-7xml4QiI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7hfsT76AcwDtMI_K9NTYUe7o6fU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: CURD DOUGHNUTS (Quarkspitzen) Recipe # 015</title>
+<utube>qfHJ8I3TQo4</utube>
+<thumbnail>https://i.ytimg.com/vi/qfHJ8I3TQo4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lR2p7NtWODSJ28UfrI1vdfZZB_I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: GERMAN MEATBALLS (Kochklopse Königsberger Art) Recipe # 014</title>
+<utube>s0yVyTzcohQ</utube>
+<thumbnail>https://i.ytimg.com/vi/s0yVyTzcohQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0aVeCs1RF8IftH07HUKZHExPOJY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: FARMER'S BREAKFAST (Bauernfrühstück) Recipe # 013</title>
+<utube>2DYTzLLTRn0</utube>
+<thumbnail>https://i.ytimg.com/vi/2DYTzLLTRn0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WxFLOYXeyVaqg_ahUymUTPs-oD8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: GERMAN CRULLERS (Eberswalder Spritzkuchen) Recipe # 012</title>
+<utube>7_cNNe_cNmU</utube>
+<thumbnail>https://i.ytimg.com/vi/7_cNNe_cNmU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-IITonx1HGsagW7bIbzykw6kpjM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: APPLE IN PUFF PASTRY (Apfel im Schlafrock) - CookingTheGermanWay # 011</title>
+<utube>bM_e7nfnryg</utube>
+<thumbnail>https://i.ytimg.com/vi/bM_e7nfnryg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tgNhn-ujpkyVmf9jznZsnkqKtps</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: WHITE BEAN SOUP (Weiße Bohnensuppe) - CookingTheGermanWay # 010</title>
+<utube>OXowaVFE2No</utube>
+<thumbnail>https://i.ytimg.com/vi/OXowaVFE2No/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Tqggrzpf-SLK5MPkHwJctXF0EqQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: RISSOLES (Buletten) - CookingTheGermanWay # 009</title>
+<utube>kmhgkl-tsow</utube>
+<thumbnail>https://i.ytimg.com/vi/kmhgkl-tsow/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CT1DF_n0Emez4ciuUSj8IDV0frE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: POTATO DUMPLINGS (Kartoffelklöße) - CookingTheGermanWay # 008</title>
+<utube>6QQqW4aQMq0</utube>
+<thumbnail>https://i.ytimg.com/vi/6QQqW4aQMq0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YICZb2BV_Ey5h-b5G80VgyxCMQw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: POTATO SALAD (Kartoffelsalat) - CookingTheGermanWay # 007</title>
+<utube>tIogTWCkk0c</utube>
+<thumbnail>https://i.ytimg.com/vi/tIogTWCkk0c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5uB2664WLR11qJA1pcWbURaXEmw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: PORK LIVER - BERLIN STYLE (Schweineleber - Berliner Art) - CookingTheGermanWay # 006</title>
+<utube>UPg8h4lOQgU</utube>
+<thumbnail>https://i.ytimg.com/vi/UPg8h4lOQgU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bxH7XJjRV6mxflgsF-FNtdcZKpw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: POTATO SOUP (Kartoffelsuppe) - CookingTheGermanWay # 005</title>
+<utube>IQEXzbfF3yA</utube>
+<thumbnail>https://i.ytimg.com/vi/IQEXzbfF3yA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qA0SBt0fYQGl2zMjX3OpCW7bEXg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: BEEF ROLL / BEEF OLIVE (Rinderroulade) - CookingTheGermanWay # 004</title>
+<utube>cu9yQv_k5vI</utube>
+<thumbnail>https://i.ytimg.com/vi/cu9yQv_k5vI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vtZrBmTqFtULsCec5j9bRUC5ip0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: BREADED CHASSEUR SAUSAGE (Panierte Jagdwurst) - CookingTheGermanWay # 003</title>
+<utube>NKfFdxSogeI</utube>
+<thumbnail>https://i.ytimg.com/vi/NKfFdxSogeI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ynYQfnWCYkwunR471eRlVJeqH6Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: CHICKEN FRICASSEE (Hühnerfrikassee) - CookingTheGermanWay # 002</title>
+<utube>lHbk74pnrkU</utube>
+<thumbnail>https://i.ytimg.com/vi/lHbk74pnrkU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1hsjChN-3hlRJzP4rZozTZ__l70</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to cook: DEVILED EGGS (gefüllte Eier) - CookingTheGermanWay # 001</title>
+<utube>RP9MpAx4gCk</utube>
+<thumbnail>https://i.ytimg.com/vi/RP9MpAx4gCk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Lba3i-8Zoc0CBCOXvNEcvtUTk-s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

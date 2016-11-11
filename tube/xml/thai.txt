@@ -1,0 +1,11 @@
+<channels>
+
+<channel>
+<name>Thai Cooking with Pailin's Kitchen</name>
+<thumbnail>http://i.imgur.com/5pgtJRN.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Thailand/Pailin_Kitchen_Thai.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Thai with Pailin</info>
+</channel>
+
+</channels>

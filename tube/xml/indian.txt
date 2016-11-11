@@ -1,0 +1,26 @@
+<channels>
+
+<channel>
+<name>Indian Cooking with Megha's Cooking</name>
+<thumbnail>http://i.imgur.com/uygnGHZ.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Indian/Megha's_Cooking_Channel_Indian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Indian with Megha</info>
+</channel>
+
+<channel>
+<name>Indian Cooking with Mint Recepes</name>
+<thumbnail>http://i.imgur.com/d5NpY3A.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Indian/Mint_Recipes_Indian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Indian with Mint Recepes</info>
+</channel>
+
+<channel>
+<name>Indian Cooking with ShowMe The Curry</name>
+<thumbnail>http://i.imgur.com/T7kXOnU.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Indian/ShowMeTheCurry.indian.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Indian with ShowMe The Currys</info>
+</channel>
+</channels>

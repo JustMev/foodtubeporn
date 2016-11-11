@@ -1,0 +1,822 @@
+<item>
+<title>Custard Topping for Coffee Cooking Italian with Joe</title>
+<utube>u1X7bNaJaoo</utube>
+<thumbnail>https://i.ytimg.com/vi/u1X7bNaJaoo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tEpP9NT5eS4dq5fu4E1SjBjlV5o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nutella Pizza Cupcakes Cooking Italian with Joe</title>
+<utube>lBc-1ZIetWs</utube>
+<thumbnail>https://i.ytimg.com/vi/lBc-1ZIetWs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jXE23p5USwUnCyk07epZcx-hZN8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pumpkin Soup Cooking Italian with Joe</title>
+<utube>5oY_RDqtzKo</utube>
+<thumbnail>https://i.ytimg.com/vi/5oY_RDqtzKo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kl5w--ki8BX0izDyt4MqU5ee3M8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Dough Cooking Italian with Joe</title>
+<utube>GIeGpMk1mKk</utube>
+<thumbnail>https://i.ytimg.com/vi/GIeGpMk1mKk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RU7s4xCftO2sej3xRTB0k81YdhU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Osso Buco Ossobuco Recipe from Milan Cooking Italian with Joe</title>
+<utube>PUstEQPwL4s</utube>
+<thumbnail>https://i.ytimg.com/vi/PUstEQPwL4s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JNuU6SrIxL9wmcQSwKHw5pPjhDw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bacon Spaghetti Pasta Cooking Italian with Joe</title>
+<utube>EfH9BHdsiKk</utube>
+<thumbnail>https://i.ytimg.com/vi/EfH9BHdsiKk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HRf8X67T-2Abys2RLCRHZC0KTIU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Syracuse Salt Company Natural Sea Salt Cooking Italian with Joe</title>
+<utube>VyA5CeFGqlQ</utube>
+<thumbnail>https://i.ytimg.com/vi/VyA5CeFGqlQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hqS_1O4q6mohWievImeKQ6XXeO0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pancakes with Bacon Inside Cooking Italian with Joe</title>
+<utube>U0nWOxxRutU</utube>
+<thumbnail>https://i.ytimg.com/vi/U0nWOxxRutU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Xmf02hW0orMI49TNTQnuLMsxtg4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Cheese Sandwich Italian Style Cooking Italian with Joe</title>
+<utube>_3Pum-H9MZo</utube>
+<thumbnail>https://i.ytimg.com/vi/_3Pum-H9MZo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3gDv7JYRhS-bwT-iyKgPAurGeC0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Clean Cutting Sheets New Product for the Kitchen Cooking Italian with Joe</title>
+<utube>EuA0SGwVKjQ</utube>
+<thumbnail>https://i.ytimg.com/vi/EuA0SGwVKjQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XrPc6-tTnnfXeMXvzI_nTrWiQXo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>World's Best Scrambled Eggs Cooking Italian with Joe</title>
+<utube>Vy54wXqwZjc</utube>
+<thumbnail>https://i.ytimg.com/vi/Vy54wXqwZjc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Gyn9sd3eXYdTyyW43pnmaHNRV4s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nominate Chef Joe Borio Today Best of Syracuse Cooking Italian with Joe</title>
+<utube>5etHW4YCYvw</utube>
+<thumbnail>https://i.ytimg.com/vi/5etHW4YCYvw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xHTcf267711YR-9A-_Idw-ESud4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>World's Best Grilled Chicken Summer Salad Cooking Italian with Joe</title>
+<utube>wuECxW2DIFs</utube>
+<thumbnail>https://i.ytimg.com/vi/wuECxW2DIFs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2t_cWHuPeKgTI8dswKzCfB3q14k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lingunie with Clams Cooking Italian with Joe</title>
+<utube>3E-8s3PXUFM</utube>
+<thumbnail>https://i.ytimg.com/vi/3E-8s3PXUFM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=E2VP3DGf5ugGnyKe9jRMhX08gKs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Summer Salad with Arugula Prosciutto and Shrimp Cooking Italian with Joe</title>
+<utube>brOh2heVGw0</utube>
+<thumbnail>https://i.ytimg.com/vi/brOh2heVGw0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NGG-5toPKchXT0BgoCiqXhpYZdk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Cheese Stuffed Zucchini Flowers Blossoms Cooking Italian with Joe</title>
+<utube>PYye-9wXuPg</utube>
+<thumbnail>https://i.ytimg.com/vi/PYye-9wXuPg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sIg6RD6OyECvTWx42PggGsRkdmQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Boxiki Bakeware Cooking Italian with Joe</title>
+<utube>9J-M3rSYpu8</utube>
+<thumbnail>https://i.ytimg.com/vi/9J-M3rSYpu8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RymJAYK0oD7j9EkrODCQ1V1P6VI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nutella Croissants Crescents Cooking Italian with Joe</title>
+<utube>ONc5Y8cZSZA</utube>
+<thumbnail>https://i.ytimg.com/vi/ONc5Y8cZSZA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OtraW2etewsTFRIZgqnCN6y-rxM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Marsala Cooking Italian with Joe</title>
+<utube>_8H0mXMXsUM</utube>
+<thumbnail>https://i.ytimg.com/vi/_8H0mXMXsUM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6SuitE_at36wijxIRdDarine94o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Veal Marsala Cooking Italian with Joe</title>
+<utube>F8cCLFGy7kc</utube>
+<thumbnail>https://i.ytimg.com/vi/F8cCLFGy7kc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FpqxAYUVbhHwegEZh3MWkzGUc9o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Brownies Chewy and Fudgy Cooking Italian with Joe</title>
+<utube>khTFu64QlYg</utube>
+<thumbnail>https://i.ytimg.com/vi/khTFu64QlYg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KTjglDh9NfFvYUjn9FSROYjC5Us</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Spaghetti Puttanesca Cooking Italian with Joe</title>
+<utube>TI3vJevHVi4</utube>
+<thumbnail>https://i.ytimg.com/vi/TI3vJevHVi4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KTHOef1PMKX-i7Eh9EsyMvn83iU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cook Perfect Pasta Cooking Italian with Joe</title>
+<utube>_NITajekwtM</utube>
+<thumbnail>https://i.ytimg.com/vi/_NITajekwtM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3a0kluHz5MafUMwRBs40sSfmD5M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream Cheese Frosting Cooking Italian with Joe</title>
+<utube>V9GgcV8M5pE</utube>
+<thumbnail>https://i.ytimg.com/vi/V9GgcV8M5pE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lKS0T8rDF_JjkD3EFKoGv7zFZj0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>World's Best Homemade Carrot Cake Cooking Italian with Joe</title>
+<utube>WiITNztFqIE</utube>
+<thumbnail>https://i.ytimg.com/vi/WiITNztFqIE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LXNiSeToKBoX_JK0R4j9O8CcUAA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Taste Olive Oil Cooking Italian with Joe</title>
+<utube>SnARTcCnaqk</utube>
+<thumbnail>https://i.ytimg.com/vi/SnARTcCnaqk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pP5vTFzigX9-2__mI2k4PYK-lmM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Limoncello Recipe Southern Italy Cooking Italian with Joe</title>
+<utube>oVqqvTxTMNw</utube>
+<thumbnail>https://i.ytimg.com/vi/oVqqvTxTMNw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k_WOFCCCl636LCIKDaTFxxMLfWI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream Limoncello Crema di Limoncello Cooking Italian with Joe</title>
+<utube>l99ctnjRyg8</utube>
+<thumbnail>https://i.ytimg.com/vi/l99ctnjRyg8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=twoOEB_u1DfUHdctqLffaQhvqyI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Remove Garlic Smell Odor Hands Fast Cooking Italian with Joe</title>
+<utube>h6TipROK71Y</utube>
+<thumbnail>https://i.ytimg.com/vi/h6TipROK71Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KNrZ0uk41xMgZKpXAdJAzbByP-E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Remove Tomato Seeds Fast and Simple Cooking Italian with Joe</title>
+<utube>wjsKHtlw3To</utube>
+<thumbnail>https://i.ytimg.com/vi/wjsKHtlw3To/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gtoGoSH0Xdbt0l1N-ksYkL73I-U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Peel Garlic Fast and Easy Cooking Italian with Joe</title>
+<utube>rNKUiqs_oCo</utube>
+<thumbnail>https://i.ytimg.com/vi/rNKUiqs_oCo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rIB9P2vEHnAq-l7cMIR41po31sc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Buttercream Frosting Cooking Italian with Joe</title>
+<utube>hYH0wR3tJ4s</utube>
+<thumbnail>https://i.ytimg.com/vi/hYH0wR3tJ4s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9ALgdA_Y1RUKQ92IFxv4LM8R5L4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Cupcakes Cooking Italian with Joe</title>
+<utube>IlELANNgd-s</utube>
+<thumbnail>https://i.ytimg.com/vi/IlELANNgd-s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dlSCxNUCr1Wst5TebuGNu3zF1cA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Spaghetti Carbonara from Rome Cooking Italian with Joe</title>
+<utube>aec7ZW582cY</utube>
+<thumbnail>https://i.ytimg.com/vi/aec7ZW582cY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QuQM6mzK4IaqaFolsONfFhixIJE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Taste for Real Extra Virgin Olive Oil Cooking Italian with Joe</title>
+<utube>E0Ek09R-hdA</utube>
+<thumbnail>https://i.ytimg.com/vi/E0Ek09R-hdA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1bm0uC0uLsxnd9VSHNww4qPepxU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Garlic Bread with Gooey Cheese Cooking Italian with Joe</title>
+<utube>AWrXPxJyVdo</utube>
+<thumbnail>https://i.ytimg.com/vi/AWrXPxJyVdo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v9HxziAf1qWAWaX01lm1K03GSh8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Affogato Italian Dessert Coffee Cooking Italian with Joe</title>
+<utube>nS5MHMg2m-c</utube>
+<thumbnail>https://i.ytimg.com/vi/nS5MHMg2m-c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rfo_XksZdRhBVmfhYIZRUvUrUWA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Coffee Caramel Topping Syrup Cooking Italian with Joe</title>
+<utube>Pu55Z_GPmgM</utube>
+<thumbnail>https://i.ytimg.com/vi/Pu55Z_GPmgM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yVNnsr-G2mO_7LsHoNhM_rXKCwQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chocolate Coffee Caramel Vanilla Ice Cream Affogato Dessert Cooking Italian with Joe</title>
+<utube>hkHmaaDwKSk</utube>
+<thumbnail>https://i.ytimg.com/vi/hkHmaaDwKSk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PJfAlNJRR636IJP2KxkyqPErYOM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Atlas Coffee Club Worlds Best Coffee from Around the World Cooking Italian with Joe</title>
+<utube>mKFPG-8PZiA</utube>
+<thumbnail>https://i.ytimg.com/vi/mKFPG-8PZiA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VCmPYlzCXti3NKtGWO6fjqkk-Bc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Homemade Vanilla Ice Cream Cooking Italian with Joe</title>
+<utube>iTpizuT6WIE</utube>
+<thumbnail>https://i.ytimg.com/vi/iTpizuT6WIE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZM5c_iERFuh8ZV0t2HIa8q1qyvQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Crispy Delicious Fried Calamari Cooking Italian with Joe</title>
+<utube>sXo3Af09LnY</utube>
+<thumbnail>https://i.ytimg.com/vi/sXo3Af09LnY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eBGyIHVqubl92QfmR_OZjBymjcU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>The Godfather Movie Marlon Brando Deleted Scene Cooking Italian with Joe Borio</title>
+<utube>9wzg-WOIyd8</utube>
+<thumbnail>https://i.ytimg.com/vi/9wzg-WOIyd8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5i7C-swfNbLhybqJu7p-jGKU5lk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Authentic Italian Wedding Soup Cooking Italian with Joe</title>
+<utube>X1jPDSi7S7Q</utube>
+<thumbnail>https://i.ytimg.com/vi/X1jPDSi7S7Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J4rYB6KRs-oED-1x3nkL2-qVZI4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Shortbread Cookies Cooking Italian with Joe</title>
+<utube>NmO5U8MdoU8</utube>
+<thumbnail>https://i.ytimg.com/vi/NmO5U8MdoU8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XhQToyf5SyAtZi_U4oDDPy0xWp0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Italian Honey Balls Struffoli Cooking Italian with Joe</title>
+<utube>DCVMIoy7l60</utube>
+<thumbnail>https://i.ytimg.com/vi/DCVMIoy7l60/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cwjB1G2NEwNr-lidVVCI-KjxvQM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Manicotti Homemade 6 Cheese Cooking Italian with Joe</title>
+<utube>B4XMjxAl1WY</utube>
+<thumbnail>https://i.ytimg.com/vi/B4XMjxAl1WY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7nsmTG65AKji4nQ-XD_fNWYARAo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Manicotti Cannelloni Shells Cooking Italian with Joe</title>
+<utube>y4d8-MvN6gM</utube>
+<thumbnail>https://i.ytimg.com/vi/y4d8-MvN6gM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pFrKqxcsEVwBvh_Vc3f0Bj0BeSA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted Garlic Mashed Potatoes with Cheese Cooking Italian with Joe Style</title>
+<utube>XqyJj4gOsEA</utube>
+<thumbnail>https://i.ytimg.com/vi/XqyJj4gOsEA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pL1QjtDOUavMoUupyfUKcGYf0oE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Roast Your Own Garlic Cooking Italian with Joe</title>
+<utube>NCOm3afUqEM</utube>
+<thumbnail>https://i.ytimg.com/vi/NCOm3afUqEM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uqM62eY3tisU57tgdhwCYSLnFrs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Mashed Potato Patties Cakes Cooking Italian with Joe Style</title>
+<utube>SjD4nXd9WDg</utube>
+<thumbnail>https://i.ytimg.com/vi/SjD4nXd9WDg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GsO4Bpat1FScGwkH6vTbBEceIbM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Poach an Egg Old School Cooking Italian with Joe</title>
+<utube>fJGB2CMNH2c</utube>
+<thumbnail>https://i.ytimg.com/vi/fJGB2CMNH2c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9r4n1_I9vx3D6Zksz9-wHjx4_04</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Perfect Hollandaise Sauce Cooking Italian with Joe</title>
+<utube>mUrebxwLhvA</utube>
+<thumbnail>https://i.ytimg.com/vi/mUrebxwLhvA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pExNgeP3AqBcBRq2zm5BsGoUOf4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Eggs Benedict Italian Style Cooking Italian with Joe</title>
+<utube>YKDt_76Wuok</utube>
+<thumbnail>https://i.ytimg.com/vi/YKDt_76Wuok/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aX2FPL3VeMNNC8e5exnxyoLHlaQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Creamed Spinach Cooking Italian with Joe</title>
+<utube>mrIjXekF0XM</utube>
+<thumbnail>https://i.ytimg.com/vi/mrIjXekF0XM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1G8wznd-HisibjVrIjp2Ao4-f_M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>World's Best Pasta e Fagioli Fazool Cooking Italian with Joe</title>
+<utube>k8keQZBFI74</utube>
+<thumbnail>https://i.ytimg.com/vi/k8keQZBFI74/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BvreeVzixYjecpekOmDhguPghPk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Pumpkin Pie Recipe Cooking Italian with Joe</title>
+<utube>hG_f6gqSfzM</utube>
+<thumbnail>https://i.ytimg.com/vi/hG_f6gqSfzM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0H_GSz9kdF_eop8Czr4Zd7gIJHY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Blueberry Pie Cooking Italian with Joe</title>
+<utube>r2VnRlHXoAc</utube>
+<thumbnail>https://i.ytimg.com/vi/r2VnRlHXoAc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VLTCB9N9dJ_n4Z0MFyWlhAWhZ6E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Pie Crust Recipe Cooking Italian with Joe</title>
+<utube>QUg0WpFNvI4</utube>
+<thumbnail>https://i.ytimg.com/vi/QUg0WpFNvI4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t3yXWZLN-tBs4GZQmtUR_r_BPx4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Apple Fritters Cooking Italian with Joe</title>
+<utube>l6FJks7wGaQ</utube>
+<thumbnail>https://i.ytimg.com/vi/l6FJks7wGaQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4Zwg1nEebFgIxMu-SznzgXH7ZvU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cooking Italian with Joe Recipe Contest</title>
+<utube>3su_hzPd8J8</utube>
+<thumbnail>https://i.ytimg.com/vi/3su_hzPd8J8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kFcKWXYnXCizxGIrphpzAzQcsQ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Macaroni and Cheese Italian Style Cooking Italian with Joe</title>
+<utube>ovHkHPnCPMk</utube>
+<thumbnail>https://i.ytimg.com/vi/ovHkHPnCPMk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=S5RGYgmfef66-59XNfDzeIwlMXk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dinner in Italy Arugula Shrimp Salad, Steak, Garlic Prawns, Peach Melba Cooking Italian with Joe</title>
+<utube>u2VVbqpVq8s</utube>
+<thumbnail>https://i.ytimg.com/vi/u2VVbqpVq8s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qcstwrcllpNBc8NR8Y5C_ODj724</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Caprese Salad Made in Italy Cooking Italian with Joe</title>
+<utube>wj7UxLB_9wg</utube>
+<thumbnail>https://i.ytimg.com/vi/wj7UxLB_9wg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hAvuFW96cmbZTyMAbevuSGUHin0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Marinated Flank Skirt Steak with Rosemary and Thyme Cooking Italian with Joe</title>
+<utube>edxyvOO4_BM</utube>
+<thumbnail>https://i.ytimg.com/vi/edxyvOO4_BM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_c_hD7m-eOUXs7tnX2cpBo0RkcI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Rosemary and Thyme Marinade Cooking Italian with Joe</title>
+<utube>WTbPNvRpmHg</utube>
+<thumbnail>https://i.ytimg.com/vi/WTbPNvRpmHg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QHrEdLv49QuAPimBIq-QWOcxKIk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Buttermilk Biscuits Cooking Italian with Joe</title>
+<utube>Hb-5FJD1U0g</utube>
+<thumbnail>https://i.ytimg.com/vi/Hb-5FJD1U0g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mZbMq0RbyPasNi8Wny-_O0WnHfM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Strawberry Shortcake Italian Style Cooking Italian with Joe</title>
+<utube>vFoiG1fRL2g</utube>
+<thumbnail>https://i.ytimg.com/vi/vFoiG1fRL2g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UoQVVSUNVF5r02f0g5d2Jr5FCr0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Frittata Italian Style Cooking Italian with Joe</title>
+<utube>U-1EqE_lxyY</utube>
+<thumbnail>https://i.ytimg.com/vi/U-1EqE_lxyY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WlI8cwB1pCKIvuwfJPs_OZDr2hI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Magikuchen Silicone Gloves Product Review Cooking Italian with Joe</title>
+<utube>2NkoChNvyEI</utube>
+<thumbnail>https://i.ytimg.com/vi/2NkoChNvyEI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ov7S8BhGP2X36im61DqHfkzF0eQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Magikuchen Stainless Steel Measuring Spoons Product Review Cooking Italian with Joe</title>
+<utube>5P7fi6FQxFc</utube>
+<thumbnail>https://i.ytimg.com/vi/5P7fi6FQxFc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hP5vq116a21k8uzhfpN1ZCNqOjM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Italian Lovers Whipped Cream Cooking Italian with Joe</title>
+<utube>riuS-EP6QNY</utube>
+<thumbnail>https://i.ytimg.com/vi/riuS-EP6QNY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=67swmN5V4PARrCZUmhwbTZfrvw0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Your Own Hummus Cooking Italian with Joe</title>
+<utube>TzhbprVpWXo</utube>
+<thumbnail>https://i.ytimg.com/vi/TzhbprVpWXo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VesJ8IPGp-HhWc8mSx3YL-pKj6w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted Red Pepper and Eggplant Spread Dip Cooking Italian with Joe</title>
+<utube>5wh9p0a_wsM</utube>
+<thumbnail>https://i.ytimg.com/vi/5wh9p0a_wsM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qesGfXrFMXmTyKxpW4_IPs70UF0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Italian Braciola Recipe Cooking Italian with Joe</title>
+<utube>1VMxtwyp5Zw</utube>
+<thumbnail>https://i.ytimg.com/vi/1VMxtwyp5Zw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6aMKdpFtvtSehQ-oBoCpTj5moDs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MagiKuchen Strainer Product Review Cooking Italian with Joe</title>
+<utube>HuFo8zQ3hfg</utube>
+<thumbnail>https://i.ytimg.com/vi/HuFo8zQ3hfg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9O7687-lzP23IV2eA-6fKemvEl4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Pizza Cupcakes Cooking Italian with Joe</title>
+<utube>RKKaeaRiYEk</utube>
+<thumbnail>https://i.ytimg.com/vi/RKKaeaRiYEk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GtsdXHfStXtZXvJCop8DoJnZYeM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ultimate Italian "Goombah" Cheese Burger Cooking Italian with Joe</title>
+<utube>l43iJF42Few</utube>
+<thumbnail>https://i.ytimg.com/vi/l43iJF42Few/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d1oGU0ngrKebaRvWVQuBsfUV2nw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Garlic Croutons Cooking Italian with Joe</title>
+<utube>FeV3XPRApCk</utube>
+<thumbnail>https://i.ytimg.com/vi/FeV3XPRApCk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ElTMKuqaXbOw7Q0M1Bh-vZUCiPU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Fresh Garlic Paste Cooking Italian with Joe</title>
+<utube>Y7z-Msq_zWM</utube>
+<thumbnail>https://i.ytimg.com/vi/Y7z-Msq_zWM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=se9qldqp5wkz7scDiTngbO_-Cck</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Caesar Salad Cooking Italian with Joe</title>
+<utube>1tDkXTc-REc</utube>
+<thumbnail>https://i.ytimg.com/vi/1tDkXTc-REc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XO8dVJ6FqKEYNPDMnuKhw63gAfc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pasta with Broccoli and Garlic Cooking Italian with Joe</title>
+<utube>L15ZZT4HD2A</utube>
+<thumbnail>https://i.ytimg.com/vi/L15ZZT4HD2A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1GfSvyxPZSsw6LtBy-XfRq3e1aU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Visit to Italy Cooking Italian with Joe</title>
+<utube>ObAWEMeT5OY</utube>
+<thumbnail>https://i.ytimg.com/vi/ObAWEMeT5OY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=z3WKiknbmR30LPx9quboz2x5AL0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Eggplant Parmesan Lasagna Made in Italy Cooking Italian with Joe</title>
+<utube>mmSLkWGbm_M</utube>
+<thumbnail>https://i.ytimg.com/vi/mmSLkWGbm_M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-Ft5vsK2zlPcyp9FZQXj3JllCSg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Fig Pastry with Cheese Cooking Italian with Joe</title>
+<utube>p6uWGVhG3CM</utube>
+<thumbnail>https://i.ytimg.com/vi/p6uWGVhG3CM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lHtCgdM7ffjTuYg6Ihpoq9NoyYY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Gnocchi with Vodka Sauce Cooking Italian with Joe</title>
+<utube>9S1E7iw7pG8</utube>
+<thumbnail>https://i.ytimg.com/vi/9S1E7iw7pG8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TCsNYAtGpaoS54UrlmeBh3WRlqM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>World's Greatest Sandwich Monte Cristo Reuben Cooking Italian with Joe</title>
+<utube>QopLa2S3oo4</utube>
+<thumbnail>https://i.ytimg.com/vi/QopLa2S3oo4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jIYyCwqi8M2Nd7wpDbm7M03xSHo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Deep Fried Creme Brulee French Toast Cooking Italian with Joe</title>
+<utube>9jGqmFQlvxU</utube>
+<thumbnail>https://i.ytimg.com/vi/9jGqmFQlvxU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Wp49rPzryQ9A8jksvaMYlNgONDI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Bolognese Pasta Sauce with Tagliatelle Cooking Italian with Joe</title>
+<utube>IvqwJMa51VM</utube>
+<thumbnail>https://i.ytimg.com/vi/IvqwJMa51VM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RmAAzRWInZtYTw9vgUi95XSDPxc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Homemade Fresh Pasta Cooking Italian with Joe</title>
+<utube>ODawKbtYkKg</utube>
+<thumbnail>https://i.ytimg.com/vi/ODawKbtYkKg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yjUzkukLm_26AJ71YvA5SRpAxjk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Authentic Italian Tomato Pasta Sauce Cooking Italian with Joe</title>
+<utube>xB9X1y1CgNo</utube>
+<thumbnail>https://i.ytimg.com/vi/xB9X1y1CgNo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=audSGiDX_lloVPliKzIYjIAnKG4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nutella Crepe Cake with Whipped Cream and Strawberries Cooking Italian with Joe</title>
+<utube>3r6a-McaQqY</utube>
+<thumbnail>https://i.ytimg.com/vi/3r6a-McaQqY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rincZWWrFTq1yVrXz1fTrsPpquE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Awesome Chicken Pamesan Cooking Italian with Joe</title>
+<utube>GeTi1xCBGEk</utube>
+<thumbnail>https://i.ytimg.com/vi/GeTi1xCBGEk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Z7NkUnMCs6xkZfiR6HjE3oWNus0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Fettuccine Alfredo with Homemade Pasta Cooking Italian with Joe</title>
+<utube>87zejU2yPr8</utube>
+<thumbnail>https://i.ytimg.com/vi/87zejU2yPr8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fOtkOpr3sOa_BjdDkS5RmSxmiFk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried Homemade Ravioli Cooking Italian with Joe</title>
+<utube>oP5_-VrcZ0E</utube>
+<thumbnail>https://i.ytimg.com/vi/oP5_-VrcZ0E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d25yRliT5IiejhKrEA2xZUNQ_WU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Delicious Fried Ricotta Cheese Balls Cooking Italian with Joe</title>
+<utube>E67D9TUUfmY</utube>
+<thumbnail>https://i.ytimg.com/vi/E67D9TUUfmY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hf2JTacZivjERo03xucVyoW9Qao</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Creamy Homemade Ricotta Cheese Cooking Italian with Joe</title>
+<utube>lmhP3we19B0</utube>
+<thumbnail>https://i.ytimg.com/vi/lmhP3we19B0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pIcUA_AQ98Rvyw0FIDmniO8AfHA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Authentic Lasagna with Bologense Sauce Cooking Italian with Joe</title>
+<utube>IaBFxqJrPiU</utube>
+<thumbnail>https://i.ytimg.com/vi/IaBFxqJrPiU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RV6JxdJHRqDFk4falF1rd6o7Xmg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Authentic Italian Tiramisu Cooking Italain with Joe</title>
+<utube>jPj_ipnVWFU</utube>
+<thumbnail>https://i.ytimg.com/vi/jPj_ipnVWFU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PHRwOHgs1OApzisy5CcNoscNA98</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Steamed Musseles Cozze with Garlic and Wine Cooking Italian with Joe</title>
+<utube>uTJ2NjAK4lo</utube>
+<thumbnail>https://i.ytimg.com/vi/uTJ2NjAK4lo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sXxg7f28hg30XqnwSsA-qoi5RJU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Tortoni a True Italian Dessert Cooking Italian with Joe</title>
+<utube>aVo1n4omLaU</utube>
+<thumbnail>https://i.ytimg.com/vi/aVo1n4omLaU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=utXKLk-EUuzmgk_3V-aW1cqPbhw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bruschetta with Arugula Cooking Italain with Joe</title>
+<utube>E3HlMd222Xw</utube>
+<thumbnail>https://i.ytimg.com/vi/E3HlMd222Xw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QpzIw_K066uxKtw1jpnBSssPJMw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Homemade Halloween Cupcakes with Cream Cheese Frosting Cooking Italian with Joe</title>
+<utube>-U59FhvWan8</utube>
+<thumbnail>https://i.ytimg.com/vi/-U59FhvWan8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=H6vpQsCxAt7Hfc2dVfFK5GVyYos</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Caramel Apples with Candy Toppings Cooking Italian with Joe</title>
+<utube>n8iSXmwhvxc</utube>
+<thumbnail>https://i.ytimg.com/vi/n8iSXmwhvxc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mXcE6fSFVbStwmGddAWHUq7ADds</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>World's Best Apple Dumplings with Ice Cream Cooking Italian with Joe</title>
+<utube>xKDJ50bhUs4</utube>
+<thumbnail>https://i.ytimg.com/vi/xKDJ50bhUs4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=N7175qLcKZI9PdiQzcvJGrWYvaQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sicilian Rice Balls Arancini Stuffed with Goat Cheese Cooking Italian with Joe</title>
+<utube>1_DcK6AXydY</utube>
+<thumbnail>https://i.ytimg.com/vi/1_DcK6AXydY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_VsTN8IyZM-vznAkDVM6eQ_U-qc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Italian Waffles Pizzelle Cooking Italian with Joe</title>
+<utube>RHKUs2N6onU</utube>
+<thumbnail>https://i.ytimg.com/vi/RHKUs2N6onU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iVtgRYJYy9Yb6zxvQM_W0e2wCCw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>The Most Delicious Italian Ricotta Cheese Cake Cooking Italian with Joe</title>
+<utube>u8s7FPuSfEw</utube>
+<thumbnail>https://i.ytimg.com/vi/u8s7FPuSfEw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=83wRyKK3e78-jq3e29j7J6rJZ3U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grilled Italian Sausage Sandwich with Peppers, Onions, and Herb Butter Cooking Italian with Joe</title>
+<utube>MwmPb9cOBUo</utube>
+<thumbnail>https://i.ytimg.com/vi/MwmPb9cOBUo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3g2RRwJoCAFx6Q9I0p-33bwDEU8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Stuffed Shells with Riccotta Cheese Cooking Italian with Joe</title>
+<utube>DTQVQqyW4N0</utube>
+<thumbnail>https://i.ytimg.com/vi/DTQVQqyW4N0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LgNyf0ZKucpJre_4KgQ5o46F568</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Delicious Cinnamon Puff Pastry Twists Cooking Italain with Joe</title>
+<utube>yuD_1QuS6lc</utube>
+<thumbnail>https://i.ytimg.com/vi/yuD_1QuS6lc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OFsfN1dTrx3rBXDClLf3ACnWTYE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Worlds Best Authentic Italian Panini Cooking Italian with Joe</title>
+<utube>M8kqKXwrdFo</utube>
+<thumbnail>https://i.ytimg.com/vi/M8kqKXwrdFo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JrzC2GVHGkBqodMH1nqSIgvtzf0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Italian Pesto Homemade Cooking Italian with Joe</title>
+<utube>Uooq_Hib_50</utube>
+<thumbnail>https://i.ytimg.com/vi/Uooq_Hib_50/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6VKnrMDWgRsgZM6ZThK6B80wUZE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentic Italian Worlds Best Rice Pudding Cooking Italian with Joe</title>
+<utube>3i2YbqwKErM</utube>
+<thumbnail>https://i.ytimg.com/vi/3i2YbqwKErM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hC_h1pdRbn-bE2-tUE6-QJ1wIGw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Homemade Spaghetti with Fresh Pesto Cooking Italian with Joe</title>
+<utube>IRDK-8JWUl8</utube>
+<thumbnail>https://i.ytimg.com/vi/IRDK-8JWUl8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pE6VJQkDfHiaf5eRPqbccaTQO7A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Italian Fried Polenta with Parmesan Cheese Cooking Italian with Joe</title>
+<utube>dD2KNT--TEQ</utube>
+<thumbnail>https://i.ytimg.com/vi/dD2KNT--TEQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vZ3-OJAuTl58uHSo5HKuNUWPdqk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Best Homemade Italian Almond Biscotti Cookies Cooking Italian with Joe</title>
+<utube>X5rxmygZPbo</utube>
+<thumbnail>https://i.ytimg.com/vi/X5rxmygZPbo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LKgOvw8z8WmRvpmPR94DaN9DA-E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Authentic Italian Roasted Eggplant with Goat Cheese Cooking Italian with Joe</title>
+<utube>ra-zz5elBug</utube>
+<thumbnail>https://i.ytimg.com/vi/ra-zz5elBug/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ao2hXz_DUoQQMaoKMr9xFZE3WUM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Authentic Italian Roasted Chicken with Rosemary Cooking Italian with Joe</title>
+<utube>KR746Sinfq4</utube>
+<thumbnail>https://i.ytimg.com/vi/KR746Sinfq4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b7Ne9e8m9IFAJ77zCeJDMATxNQ4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted Eggplant with Goat Cheese Salad Cooking Italian with Joe</title>
+<utube>irer0P4OMGs</utube>
+<thumbnail>https://i.ytimg.com/vi/irer0P4OMGs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CfG0dh06M8S1HSMQjsrts5ylwvY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making the Best Tasting Italian Sausage Roll Ever Cooking Italian with Joe</title>
+<utube>FrN-RhVNlsc</utube>
+<thumbnail>https://i.ytimg.com/vi/FrN-RhVNlsc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HSX9T9H-EIRjQa4pOiMcLFauWZs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make The Worlds Best Homemade Meatballs Cooking Italian with Joe</title>
+<utube>4ahTS8Iua2E</utube>
+<thumbnail>https://i.ytimg.com/vi/4ahTS8Iua2E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ftdlHHSvsIuf_hhgc1t6QuP67VQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Homemade Pasta Dough by Hand Cooking Italian with Joe</title>
+<utube>8e5iT9DpuNE</utube>
+<thumbnail>https://i.ytimg.com/vi/8e5iT9DpuNE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7LHp678ZEnwCWLN36Gmux4RoSDU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rice Krispy Treats Easter Bunny Cutouts Cooking Italian with Joe</title>
+<utube>O-HseYcjjo0</utube>
+<thumbnail>https://i.ytimg.com/vi/O-HseYcjjo0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DEYzElfTaM0D3LsFYROkEefMvV4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Pizza  Margarita from Scratch Cooking Italian with Joe</title>
+<utube>0Y6s2kKpULU</utube>
+<thumbnail>https://i.ytimg.com/vi/0Y6s2kKpULU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YiQVYmJQXs_C6nO3jPqNDKKttCQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Focaccia Bread with Rosemary Cooking Italian with Joe</title>
+<utube>gVBj3wmHNh0</utube>
+<thumbnail>https://i.ytimg.com/vi/gVBj3wmHNh0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-fRmV3x1Xo5ySczC7Pk6aKpl_0Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cooking Italian with Joe How to Make Homemade Ravioli with Ricotta Filling</title>
+<utube>W8BbA8dwrQA</utube>
+<thumbnail>https://i.ytimg.com/vi/W8BbA8dwrQA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bDB7pR6pDbUDErgT-am2hBAKiJQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Gnocchi with Ricotta Cheese and Truffle Sauce Cooking Italian with Joe</title>
+<utube>7KQsB4jtnsA</utube>
+<thumbnail>https://i.ytimg.com/vi/7KQsB4jtnsA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WhcuHbbduqeGT3kPVGZ6uPCW1Oc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Rich and Creamy Authentic Panna Cotta Cooking Italian with Joe</title>
+<utube>pznoYALd3CQ</utube>
+<thumbnail>https://i.ytimg.com/vi/pznoYALd3CQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oxWBtVEJ9XRRUWVWf4btuu6wEvw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Authentic Italian Nutella Crepes Cooking Italian with Joe</title>
+<utube>kI7TVaPCKDc</utube>
+<thumbnail>https://i.ytimg.com/vi/kI7TVaPCKDc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ep91CyPSw94youlw67rMRlt3XYc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Homemade Roasted Peppers with Olive Oil Garlic Cooking Italian with Joe</title>
+<utube>LUzgfFPNY4s</utube>
+<thumbnail>https://i.ytimg.com/vi/LUzgfFPNY4s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fBhxoAk2Yy4bE_L5MBaoTtRqsqo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted Green Beans Salad Side Cooking Italian with Joe</title>
+<utube>LQ1KQNPgf-k</utube>
+<thumbnail>https://i.ytimg.com/vi/LQ1KQNPgf-k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ntIZyXiqAyvCnlOVtlY2Nndui8Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Creamy Risotto wth Butternut Squash Cooking Italian with Joe</title>
+<utube>vCeMD_HAqSY</utube>
+<thumbnail>https://i.ytimg.com/vi/vCeMD_HAqSY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O54yfaRNSIhtH3uyIHoMsEw7NcY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Delicious Roasted Vegetables with Garlic Cooking Italian with Joe</title>
+<utube>nM8Tn72YHcg</utube>
+<thumbnail>https://i.ytimg.com/vi/nM8Tn72YHcg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MxUF0uHCBzOfAkYRfNNmg9Utnfg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making a Delicious Caprese Salad Cooking Italain with Joe</title>
+<utube>skP3S1YWC5A</utube>
+<thumbnail>https://i.ytimg.com/vi/skP3S1YWC5A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Zyp7V_J0-NjL_BjKaGtsE1-2wmQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Making Quick and Easy Tomato Pasta Sauce Cooking Italian with Joe</title>
+<utube>SUcJQuZ2bi0</utube>
+<thumbnail>https://i.ytimg.com/vi/SUcJQuZ2bi0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vWieIquccnOJAsWE7MGzqJlB6qM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Homemade Pasta Orecchiette Cooking Italian with Joe</title>
+<utube>fzF7zDWZz9k</utube>
+<thumbnail>https://i.ytimg.com/vi/fzF7zDWZz9k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7Ls8QAvQg05a2VCJzMP72996GZk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

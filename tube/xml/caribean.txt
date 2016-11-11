@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>Caribbean Cooking with Caribbean Pot</name>
+<thumbnail>http://i.imgur.com/QSQkWRL.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Caribbean/caribbeanpot_caribbean.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Caribbean with Caribbean Pot</info>
+</channel>
+</channels>

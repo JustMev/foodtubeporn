@@ -1,0 +1,11 @@
+<channels>
+
+<channel>
+<name>Vietnamese Cooking with Helen</name>
+<thumbnail>http://i.imgur.com/3eck56H.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Vietname/Helens_Cooking_Vietnamese.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Vietnamese with Helen</info>
+</channel>
+
+</channels>

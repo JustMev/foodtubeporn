@@ -1,0 +1,11 @@
+<channels>
+
+<channel>
+<name>Russian Cooking with Allas Yummy Food</name>
+<thumbnail>http://i.imgur.com/9YKCH9K.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Russian/AllasYummyFood..txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Russian with Allas Yummy Food</info>
+</channel>
+
+</channels>

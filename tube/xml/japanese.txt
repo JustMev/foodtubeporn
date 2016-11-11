@@ -1,0 +1,19 @@
+<channels>
+
+<channel>
+<name>Japanese Cooking with Japanese Cooking 101</name>
+<thumbnail>http://i.imgur.com/DWeQoJH.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Japanese/JapaneseCooking101_Japan.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Japanese with Japanese Cooking 101</info>
+</channel>
+
+<channel>
+<name>Japanese Cooking with Hiroyuki Terada Master Sushi Chef</name>
+<thumbnail>http://i.imgur.com/2EeFFaE.jpg</thumbnail>
+<externallink>http://tvdev.xyz/tube/countries/Japanese/Hiroyuki Terada_Master_Sushi_Chef.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Japanese with Hiroyuki Terada Master Sushi Chef</info>
+</channel>
+
+</channels>
