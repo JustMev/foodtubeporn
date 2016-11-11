@@ -3,7 +3,7 @@
 <channel>
 <name>Polish Cooking with Ania's Kitchen</name>
 <thumbnail>http://i.imgur.com/YwcOBFC.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Polish/Ania_Kitchen_Polish.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Polish/Ania_Kitchen_Polish.txt?token=AOJJ0puqaJtBw1UNhtlKD09-K02aynRIks5YLpvXwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Polish with Ania's Kitchen</info>
 </channel>

@@ -3,7 +3,7 @@
 <channel>
 <name>Japanese Cooking with Japanese Cooking 101</name>
 <thumbnail>http://i.imgur.com/DWeQoJH.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Japanese/JapaneseCooking101_Japan.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Japanese/JapaneseCooking101_Japan.txt?token=AOJJ0uUxA1kqDDwNIk9qvhPE_zOOUQE0ks5YLpnMwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Japanese with Japanese Cooking 101</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>Japanese Cooking with Hiroyuki Terada Master Sushi Chef</name>
 <thumbnail>http://i.imgur.com/2EeFFaE.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Japanese/Hiroyuki Terada_Master_Sushi_Chef.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Japanese/Hiroyuki%20Terada_Master_Sushi_Chef.txt?token=AOJJ0rMIzkB159nr9uPEmKw5GYQqIeN_ks5YLpmowA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Japanese with Hiroyuki Terada Master Sushi Chef</info>
 </channel>

@@ -3,7 +3,7 @@
 <channel>
 <name>Hungarian Cooking with hrcsidaranoli</name>
 <thumbnail>http://i.imgur.com/SIbqeKn.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Hungarian/hrcsidaranoli_Hungarian.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Hungarian/hrcsidaranoli_Hungarian.txt?token=AOJJ0tmoy4Pa1bdnZRRwdY2rluwZuDUVks5YLpGkwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Hungarian with hrcsidaranoli</info>
 </channel>

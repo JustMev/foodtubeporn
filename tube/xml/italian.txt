@@ -3,7 +3,7 @@
 <channel>
 <name>Italian Cooking with Laura Vitale</name>
 <thumbnail>http://i.imgur.com/ld3HcDk.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Italian/Laura_Vitale_italian.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Italian/Laura_Vitale_italian.txt?token=AOJJ0hPkx5N9hF3TvKiw0qhf0uChlXm-ks5YLplEwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Italian with Laura Vitale</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>Italian Cooking with Joe</name>
 <thumbnail>http://i.imgur.com/BI8ie7F.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Italian/Cooking_Italian_with_Joe.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Italian/Cooking_Italian_with_Joe.txt?token=AOJJ0kMVJJxuM2mkENpNIDbzXxJbI_Uwks5YLpknwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Italian Joe</info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>Italian Cooking with Orsara Recipes</name>
 <thumbnail>http://i.imgur.com/98y4idu.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Italian/Orsara_Recipes_italian.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Italian/Orsara_Recipes_italian.txt?token=AOJJ0suoV7Ko4lzFNkEvHaRnjsFKFXXMks5YLpl9wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Italian Orsara Rececipes</info>
 </channel>

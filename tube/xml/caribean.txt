@@ -2,7 +2,7 @@
 <channel>
 <name>Caribbean Cooking with Caribbean Pot</name>
 <thumbnail>http://i.imgur.com/QSQkWRL.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Caribbean/caribbeanpot_caribbean.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Caribbean/caribbeanpot_caribbean.txt?token=AOJJ0s2KSXFZq204laPUz7F0dVfP8WsOks5YLo3XwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Caribbean with Caribbean Pot</info>
 </channel>

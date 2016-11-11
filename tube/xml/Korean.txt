@@ -3,7 +3,7 @@
 <channel>
 <name>South Korean Cooking with Maangchi</name>
 <thumbnail>http://i.imgur.com/cMY3K33.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Korean/Maangchi_Korean.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Korean/Maangchi_Korean.txt?token=AOJJ0srWWgOLrbhh8emA-HXz-KVtmP8nks5YLppKwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook South Korean with Maangchi</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>South Korean Cooking with Crazy Korean Cooking</name>
 <thumbnail>http://i.imgur.com/WeQhlct.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Korean/Crazy_Korean_Cooking.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Korean/Crazy_Korean_Cooking.txt?token=AOJJ0gM8h0_vJKsb7EVPRLKErl5AVr3wks5YLpowwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook South Korean with Crazy Korean Cooking</info>
 </channel>

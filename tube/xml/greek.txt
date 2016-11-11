@@ -3,7 +3,7 @@
 <channel>
 <name>Greek Cuisine</name>
 <thumbnail>http://i.imgur.com/PffKOZl.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Greek/greek.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Greek/greek.txt?token=AOJJ0jHAp3h-0EhRghRIhQM62XTQJLqUks5YLpFBwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Greek</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>Greek Cooking with Diane Kochilas</name>
 <thumbnail>http://i.imgur.com/Aui7mlb.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Greek/Diane_Kochilas_Greek.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Greek/Diane_Kochilas_Greek.txt?token=AOJJ0oBGj3c5ZMXOdlYOAM-7vZjRFEiAks5YLpEjwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Greek Diane Kochilas</info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>Greek Cooking with Dimitra's Dishes</name>
 <thumbnail>http://i.imgur.com/fwo3qv9.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Greek/Dimitra's_Dishes_Greek.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Greek/Dimitra's_Dishes_Greek.txt?token=AOJJ0lV9YK0Q_Sq-tzjeHqR17A_iZKrnks5YLpFlwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Greek with Dimitra's Dishes</info>
 </channel>

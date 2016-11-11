@@ -2,7 +2,7 @@
 <channel>
 <name>Aussie Grillers</name>
 <thumbnail>http://i.imgur.com/F4x6Syb.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Australian/aussie_grillers.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Australian/aussie_grillers.txt?token=AOJJ0mplLMwasR6mg0a5HTqprntWi1mBks5YLo2YwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Australian BBQ</info>
 </channel>

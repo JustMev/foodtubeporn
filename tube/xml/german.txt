@@ -2,7 +2,7 @@
 <channel>
 <name>German Cooking with German Deli</name>
 <thumbnail>http://i.imgur.com/KJcG38E.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/German/German_Deli_German.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/German/German_Deli_German.txt?token=AOJJ0jKozzwxfBq8jAaaCL0dkpwIxTCCks5YLpCawA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook German with German Deli</info>
 </channel>
@@ -10,7 +10,7 @@
 <channel>
 <name>German Cooking with The German Way</name>
 <thumbnail>http://i.imgur.com/IfvIrLI.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/German/TheGermanWay_German.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/German/TheGermanWay_German.txt?token=AOJJ0l4k5fH_e3kRUI9h2R98CuMZsQmIks5YLpCvwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook German with German Way</info>
 </channel>

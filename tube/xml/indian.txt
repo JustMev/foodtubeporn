@@ -3,7 +3,7 @@
 <channel>
 <name>Indian Cooking with Megha's Cooking</name>
 <thumbnail>http://i.imgur.com/uygnGHZ.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Indian/Megha's_Cooking_Channel_Indian.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Indian/Megha's_Cooking_Channel_Indian.txt?token=AOJJ0gIKB7orqNPZ87qTxJpBO_jicHsuks5YLpi4wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Indian with Megha</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>Indian Cooking with Mint Recepes</name>
 <thumbnail>http://i.imgur.com/d5NpY3A.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Indian/Mint_Recipes_Indian.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Indian/Mint_Recipes_Indian.txt?token=AOJJ0oKe_CzOAsGXf5nZqnx1uHmCTwUaks5YLpjZwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Indian with Mint Recepes</info>
 </channel>
@@ -19,7 +19,7 @@
 <channel>
 <name>Indian Cooking with ShowMe The Curry</name>
 <thumbnail>http://i.imgur.com/T7kXOnU.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Indian/ShowMeTheCurry.indian.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Indian/ShowMeTheCurry.indian.txt?token=AOJJ0pi_eoTfiYQUr8G6bcbzBPsL4QfQks5YLpj0wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Indian with ShowMe The Currys</info>
 </channel>

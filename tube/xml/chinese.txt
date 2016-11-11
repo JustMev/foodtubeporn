@@ -2,7 +2,7 @@
 <channel>
 <name>Chinese Cooking with Happy Wok</name>
 <thumbnail>http://i.imgur.com/0PhNy9l.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Chinese/HappyWok_Chinese.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Chinese/HappyWok_Chinese.txt?token=AOJJ0kYGO4nitlukh57uo3Q2ZxFtlXiTks5YLo4QwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Chinese with Happy Wok</info>
 </channel>
@@ -10,7 +10,7 @@
 <channel>
 <name>Chinese Cooking with Xiao's Kitchen</name>
 <thumbnail>http://i.imgur.com/KfbWCrh.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Chinese/Xiaos Kitchen_chinese.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Chinese/Xiaos%20Kitchen_chinese.txt?token=AOJJ0t4lzDf_8BWRKeszHitwKKQpRxzvks5YLo4owA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Chinese with Xiao's Kitchen</info>
 </channel>

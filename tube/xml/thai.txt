@@ -3,7 +3,7 @@
 <channel>
 <name>Thai Cooking with Pailin's Kitchen</name>
 <thumbnail>http://i.imgur.com/5pgtJRN.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Thailand/Pailin_Kitchen_Thai.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Thailand/Pailin_Kitchen_Thai.txt?token=AOJJ0tgpbpHd2z8DS2aikJzjxezNF_Cwks5YLpzSwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Thai with Pailin</info>
 </channel>

@@ -3,7 +3,7 @@
 <channel>
 <name>Filipino Cooking with Mga Lutong Pinoy</name>
 <thumbnail>http://i.imgur.com/bgSQjjJ.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Filipino/MgaLutongPinoy_Phillipino.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Filipino/MgaLutongPinoy_Phillipino.txt?token=AOJJ0vu6vXMHy6HNNOnBSsTVi6xdpr7dks5YLpA-wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Filipino with Mga Lutong Pinoy</info>
 </channel>
@@ -11,7 +11,7 @@
 <channel>
 <name>Filipino Cooking with Pagkaing Pinoy TV</name>
 <thumbnail>http://i.imgur.com/AE5knCG.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Filipino/Pagkaing_Pinoy_TV.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Filipino/Pagkaing_Pinoy_TV.txt?token=AOJJ0vIPkjedOWZu8jkvNtktBxDoZzxzks5YLpBswA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Filipino with Pagkaing Pinoy TV</info>
 </channel>

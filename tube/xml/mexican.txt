@@ -3,7 +3,7 @@
 <channel>
 <name>Mexican Cooking with how to Cook Mexican Food</name>
 <thumbnail>http://i.imgur.com/2dg1p1P.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Mexican/HowToCookMexicanFood_Mexican.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Mexican/HowToCookMexicanFood_Mexican.txt?token=AOJJ0q8Jfx730v09SEGjO0De8l6P2tiRks5YLpspwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Mexican with how to Cook Mexican Food</info>
 </channel>

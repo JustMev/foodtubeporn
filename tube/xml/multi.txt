@@ -3,7 +3,7 @@
 <channel>
 <name>Multi Cultural Cooking with Sandy</name>
 <thumbnail>http://i.imgur.com/g3Atsmk.jpg</thumbnail>
-<externallink>http://tvdev.xyz/tube/countries/Multi/Multi_Cultreual_Sandy.txt</externallink>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Multi/Multi_Cultreual_Sandy.txt?token=AOJJ0k5_OWeT_g9ohunp167Bmh1CuBRGks5YLpuQwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Multi Cultural with Sandy</info>
 </channel>
