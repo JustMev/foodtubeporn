@@ -1,0 +1,966 @@
+<item>
+<title>Chicken in a new way moroccan cooking</title>
+<utube>KA8p8g9ueSo</utube>
+<thumbnail>https://i.ytimg.com/vi/KA8p8g9ueSo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ti_-vkU_UcIVG2zmQ1wUjR2FDrE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>legume soup moroccan cooking</title>
+<utube>KDx2EXya1_4</utube>
+<thumbnail>https://i.ytimg.com/vi/KDx2EXya1_4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hOA36UIDk0JOcvBhqXIMmODtpgw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Goodbye to tooth decay and mouth odor moroccan cooking</title>
+<utube>dXY38-LHG-8</utube>
+<thumbnail>https://i.ytimg.com/vi/dXY38-LHG-8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rPiMEpyJ2lDFXp492xKEZLE2SlE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>pizza with toast moroccan cooking</title>
+<utube>nYP1nQayxAg</utube>
+<thumbnail>https://i.ytimg.com/vi/nYP1nQayxAg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xLBnQd0fgdMDaUbyShdqQEafHmE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>grawch moroccan cooking</title>
+<utube>7xhotoRRj6w</utube>
+<thumbnail>https://i.ytimg.com/vi/7xhotoRRj6w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3fXx-7dfAbmRDdz88Nzxy6IN2mo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>juice espanic moroccan cooking عصير اسباني</title>
+<utube>bQ5QnSn4Ohg</utube>
+<thumbnail>https://i.ytimg.com/vi/bQ5QnSn4Ohg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=He7FqIRdk5YlkBbB7vLXZw2XIqc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Quick and beautiful moroccan cooking سريعة وجميلة</title>
+<utube>kVyzpo7nOig</utube>
+<thumbnail>https://i.ytimg.com/vi/kVyzpo7nOig/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HG3AvCY32jXiqWF4f1p5l_BORH0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Minced sardines moroccan cooking السردين مفروم</title>
+<utube>U4LU4TOdpDc</utube>
+<thumbnail>https://i.ytimg.com/vi/U4LU4TOdpDc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZeKmPb5igO8i1GMVPqYvguAERKY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gratin recipe moroccan cooking</title>
+<utube>LsEegpMxgGo</utube>
+<thumbnail>https://i.ytimg.com/vi/LsEegpMxgGo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PenyiBQLeluXpj59DRVYhe1n3iM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Savory pies moroccan cooking فطائر مملحة جربوها تعجبكم</title>
+<utube>BuJkFDPGfDI</utube>
+<thumbnail>https://i.ytimg.com/vi/BuJkFDPGfDI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YdpCdiHUv94stz-XHN99Jq7LVsk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>moroccan cooking</title>
+<utube>Xu2xBkFVC-4</utube>
+<thumbnail>https://i.ytimg.com/vi/Xu2xBkFVC-4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8ud-p1QvQgJD7Ie7lDbnONsL2eY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>croissa moroccan cooking كرواصة للاحباب</title>
+<utube>kODl4zveuKw</utube>
+<thumbnail>https://i.ytimg.com/vi/kODl4zveuKw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xFQFyTyuHCzZ8t-iqJq4dshOBrM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ghriba moroccan cooking غريبة</title>
+<utube>Eqib8Owb7Jc</utube>
+<thumbnail>https://i.ytimg.com/vi/Eqib8Owb7Jc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gWBcM9HxrmGsyV-ivL1KQUJjP0A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>halwa richbond moroccan cooking حلوة الريشبوند</title>
+<utube>xESsc4Omt5o</utube>
+<thumbnail>https://i.ytimg.com/vi/xESsc4Omt5o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mE7QqikPODplDv5cZ6fS6wjv6Rg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>briwat stunner moroccan cooking بريوات حلوين</title>
+<utube>A0gVaWJRvoE</utube>
+<thumbnail>https://i.ytimg.com/vi/A0gVaWJRvoE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RQFY_BdlAZctl5Ph5L3lLLj3pPk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>pancake with rich salad moroccan cooking فطيرة مع سلطة غنية</title>
+<utube>0OM9zEewQlY</utube>
+<thumbnail>https://i.ytimg.com/vi/0OM9zEewQlY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jubh56bQEp5jpJcZw7IXicJKV8k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>harcha with limon moroccan cooking حرشة بالليمون</title>
+<utube>C1JeUrzLMl4</utube>
+<thumbnail>https://i.ytimg.com/vi/C1JeUrzLMl4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kQ1xExHs2WqQowNGbObwcqJWuQI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cigars in the oven moroccan cooking سيجار في الفرن</title>
+<utube>_22Hr2sXymg</utube>
+<thumbnail>https://i.ytimg.com/vi/_22Hr2sXymg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sQf2dv02b8QUWRl0-cNXSRCarII</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ifttar moroccan cooking افطار رمضان</title>
+<utube>ke8LawGJNh0</utube>
+<thumbnail>https://i.ytimg.com/vi/ke8LawGJNh0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KzUktsZWW-JztsPxOGzJ9_e3Gz4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>briwat savory  بريوات مالحين moroccan cooking</title>
+<utube>44gAWJttpl4</utube>
+<thumbnail>https://i.ytimg.com/vi/44gAWJttpl4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6DrnQWnHR-D-I0RSHAAuBFojXdo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>slilo slilou moroccan cooking</title>
+<utube>zNIn2pb-3po</utube>
+<thumbnail>https://i.ytimg.com/vi/zNIn2pb-3po/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WXbtrX41Ormvg05xrlGg7qGnAlI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bastilla with Chicken and almond</title>
+<utube>jOX7f-0XXys</utube>
+<thumbnail>https://i.ytimg.com/vi/jOX7f-0XXys/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XC-nrK6TWfbW7_QF81zBWBRmPEw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>pizza liquid moroccan cooking</title>
+<utube>YiAT-3mU0W4</utube>
+<thumbnail>https://i.ytimg.com/vi/YiAT-3mU0W4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Z1kz_sp6w9rbweJ1Jlztovi22tw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Stuffed potatoes with chicken and cheese moroccan cooking</title>
+<utube>tibUabbOxsQ</utube>
+<thumbnail>https://i.ytimg.com/vi/tibUabbOxsQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uIC36IXC4v7d-l5Wf09r-JloH2A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>apple pie moroccan cooking</title>
+<utube>e33jyTk-SPk</utube>
+<thumbnail>https://i.ytimg.com/vi/e33jyTk-SPk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X9-NWKmcg4-vZoFqoxB2pLsVcsY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake flan moroccan cooking</title>
+<utube>Qi6fI4uWksg</utube>
+<thumbnail>https://i.ytimg.com/vi/Qi6fI4uWksg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=U4ZkGpUGjAtozYgFrjRwyQD6oOA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable with Coffee flavor moroccan cooking</title>
+<utube>YITCuwAm0Ew</utube>
+<thumbnail>https://i.ytimg.com/vi/YITCuwAm0Ew/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4fyw_ceeH81hgb1CbfKZOoXB8NM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake sanders moroccan cooking</title>
+<utube>EKsmwnnQMII</utube>
+<thumbnail>https://i.ytimg.com/vi/EKsmwnnQMII/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=C5SpXHb6sfnWWVJjZPhrUwQySbE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake Alkskas moroccan cooking</title>
+<utube>YE7NOeHHNEM</utube>
+<thumbnail>https://i.ytimg.com/vi/YE7NOeHHNEM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nmCIooiczZACSXwx1p9IekvWIb4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>fakkas with Dates moroccan cooking</title>
+<utube>DZrITtpWuCI</utube>
+<thumbnail>https://i.ytimg.com/vi/DZrITtpWuCI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rXgrPJejJtAVU5_s1t2LfqxLj3k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>new huge  plateau sable moroccan cooking</title>
+<utube>jdLELWil8CY</utube>
+<thumbnail>https://i.ytimg.com/vi/jdLELWil8CY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t4_TYCnEgfHVbed4X5BooNeAEjU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>pizza moroccan cooking</title>
+<utube>Z26Xhg2R2Z0</utube>
+<thumbnail>https://i.ytimg.com/vi/Z26Xhg2R2Z0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RYGXolmnHPB8ElyAWeV2PMI8CIo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>chebakia moroccan cooking</title>
+<utube>FJ8rOtGUZ3o</utube>
+<thumbnail>https://i.ytimg.com/vi/FJ8rOtGUZ3o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=42tndFrklF2jbIKeg5kz-P7Waes</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>recipes Moroccan single gratin</title>
+<utube>9zcpr-VOy7I</utube>
+<thumbnail>https://i.ytimg.com/vi/9zcpr-VOy7I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dwaSSQWtvpnS2c-eA_Bd9vCpxvw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet dates moroccan cooking</title>
+<utube>1Goqx-5FjPc</utube>
+<thumbnail>https://i.ytimg.com/vi/1Goqx-5FjPc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gvK6NAMaqzPK9wpQzha6TuR6H4w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ghriba for everyone moroccan cooking</title>
+<utube>Vb1JVFpivhQ</utube>
+<thumbnail>https://i.ytimg.com/vi/Vb1JVFpivhQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gZpQqxxl0k20P1xbbtkHc2_7aPY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Palmriq moroccan cooking</title>
+<utube>Wm2iJZh35vc</utube>
+<thumbnail>https://i.ytimg.com/vi/Wm2iJZh35vc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L3ku26PN0c1RUkVYati7ZDqo9sw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>chopped torkey with egg</title>
+<utube>HG_pOg-l_nM</utube>
+<thumbnail>https://i.ytimg.com/vi/HG_pOg-l_nM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VVnHAGaiiEIG0HW4UtpMrAIUmxU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>domestic yeast moroccan cooking</title>
+<utube>qh7K9LB_yCs</utube>
+<thumbnail>https://i.ytimg.com/vi/qh7K9LB_yCs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SsDF7LARtaLzmQAElA1iYODRblE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake with cheese moroccan cooking</title>
+<utube>lbYIvYD-bRg</utube>
+<thumbnail>https://i.ytimg.com/vi/lbYIvYD-bRg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pyKGPoUbY4U1QoX0eNRmWxuVBN8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>maizena cake moroccan cooking</title>
+<utube>Z-NiCvrhCXs</utube>
+<thumbnail>https://i.ytimg.com/vi/Z-NiCvrhCXs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0nxrw-MHjVmM85F7iJrJl3vSZoU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake with dates moroccan cooking</title>
+<utube>Z8xTBSlaH5s</utube>
+<thumbnail>https://i.ytimg.com/vi/Z8xTBSlaH5s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JBH4Z8KKjlOKZeDjSJJ-m_XzODs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Luxury cake moroccan cooking</title>
+<utube>bd0oVL7WrAk</utube>
+<thumbnail>https://i.ytimg.com/vi/bd0oVL7WrAk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ElSIAI5ocHG-kqOHH9IAlk4uBLA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake in the form of spaghetti moroccan cooking</title>
+<utube>5rIRhO5wrQA</utube>
+<thumbnail>https://i.ytimg.com/vi/5rIRhO5wrQA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q89e_K39ob3B0eAu38a4Ev1dBLE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake boiled eggs moroccan cooking</title>
+<utube>J-2VAMxKwgY</utube>
+<thumbnail>https://i.ytimg.com/vi/J-2VAMxKwgY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TRzdGOqgojn-nrhr0fBOtxsJhLQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ghriba with lemon flavor</title>
+<utube>sdRNFMSutuY</utube>
+<thumbnail>https://i.ytimg.com/vi/sdRNFMSutuY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=unOi7by-5Zv3R2Rqq7ZdfMSJhIk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>two tagine for a diabetic and the other for the normal moroccan cooking</title>
+<utube>WI_hulLLirw</utube>
+<thumbnail>https://i.ytimg.com/vi/WI_hulLLirw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wwCMi5jBkXEv5dCjlxvHO8niq30</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine and salad moroccan cooking</title>
+<utube>lokjoYI05kg</utube>
+<thumbnail>https://i.ytimg.com/vi/lokjoYI05kg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K8YpAiVpqicF-MjhZPoBKEikc7Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>delicious chopped turkey recipes</title>
+<utube>js8RFO8RyK8</utube>
+<thumbnail>https://i.ytimg.com/vi/js8RFO8RyK8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b062CIawjnnmpKl8YGesTTDNog4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hedgehog cake</title>
+<utube>MvcxTDLby54</utube>
+<thumbnail>https://i.ytimg.com/vi/MvcxTDLby54/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=psFTtr6J14w7SehMFl876otu540</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>surprise sandwich for kids ( المعقودة) moroccan cooking</title>
+<utube>YSgrUNaKBys</utube>
+<thumbnail>https://i.ytimg.com/vi/YSgrUNaKBys/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=It-zyrZ-4gq9BPZ6z_TkJte5uqM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>rich salad different vegetable ( الزعلوك بالكرعة الخضرة) moroccan cooking</title>
+<utube>1rCG2UuPAfg</utube>
+<thumbnail>https://i.ytimg.com/vi/1rCG2UuPAfg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1-h7ZXMD6OPZFCW7wi-r4XPRt8g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>surprise sandwich Tuna islands olive corn eggs tomato potato rice moroccan cooking</title>
+<utube>U0ZgbR4UYoM</utube>
+<thumbnail>https://i.ytimg.com/vi/U0ZgbR4UYoM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JD-hAOZMZxnYaG9f9AeoCnPJkNI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>mallow ( البقولة) moroccan cooking</title>
+<utube>ifV6XF1eG1A</utube>
+<thumbnail>https://i.ytimg.com/vi/ifV6XF1eG1A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BTBxclsmLeFUT4YkdfsMzZ96r_0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>surprise couscouss sweet  (seffa) moroccan cooking</title>
+<utube>3IJiQUHCUj8</utube>
+<thumbnail>https://i.ytimg.com/vi/3IJiQUHCUj8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=C_3XoSv9WZ--64Swy7aGHIefaVA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>surprise cake in Pressure cooker moroccan cooking</title>
+<utube>r52JVDo8rik</utube>
+<thumbnail>https://i.ytimg.com/vi/r52JVDo8rik/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JMHx027-76GRJh0trlTQJEJNV14</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lemon shrine</title>
+<utube>bOGk0sgEie4</utube>
+<thumbnail>https://i.ytimg.com/vi/bOGk0sgEie4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vyRSqkvYs6a6U4VAJ4BPYC5ue8s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine with Noor artichoke and Peas</title>
+<utube>pOPP8dWPP6o</utube>
+<thumbnail>https://i.ytimg.com/vi/pOPP8dWPP6o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2F-_OzeVq0SqmFJXPNyj_8uKnzs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>egg with Peas</title>
+<utube>aZm7O_LDn80</utube>
+<thumbnail>https://i.ytimg.com/vi/aZm7O_LDn80/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PrORXkOkcCCPUNjffP-wC8XmMMc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Belone Roast</title>
+<utube>ugrtnkYqOzg</utube>
+<thumbnail>https://i.ytimg.com/vi/ugrtnkYqOzg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M6njC4_ym62pV17L3LnPlsRMKB0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>egg and tomato and egg</title>
+<utube>D8n-14GCiho</utube>
+<thumbnail>https://i.ytimg.com/vi/D8n-14GCiho/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lqjS4Sg3puuY9LTPYfkOD3OY2-E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>9richlat moroccan cooking</title>
+<utube>CaYDvDrNM5c</utube>
+<thumbnail>https://i.ytimg.com/vi/CaYDvDrNM5c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rJM-LyCUMAbqwnee3-NyeviflNI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cookies moroccan</title>
+<utube>kpTQcEC9560</utube>
+<thumbnail>https://i.ytimg.com/vi/kpTQcEC9560/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t-MNG2bePWeZysyrF8gkZHcyhdM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Beehive moroccan cooking</title>
+<utube>tmpqdr63IsI</utube>
+<thumbnail>https://i.ytimg.com/vi/tmpqdr63IsI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-EnJZZoaa142pr11m-BfhiPXkIU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>bissara moroccan cooking</title>
+<utube>rHi6hcEiyww</utube>
+<thumbnail>https://i.ytimg.com/vi/rHi6hcEiyww/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-6P_64mjkOKHgO70l0uPsGpcc0Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salad entry</title>
+<utube>f3PvZ4A4iP4</utube>
+<thumbnail>https://i.ytimg.com/vi/f3PvZ4A4iP4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1SRx3iCWMfr-XI1_9DC8yLo91Ns</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>0.5 $ for a sandwich egg sardine</title>
+<utube>JT-DTok2RAs</utube>
+<thumbnail>https://i.ytimg.com/vi/JT-DTok2RAs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X5NNJEmyolqD4uaG1_EtMYOokb8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Housewife</title>
+<utube>s_jN1aes-dQ</utube>
+<thumbnail>https://i.ytimg.com/vi/s_jN1aes-dQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MEShVL1XyYscwq7dpQ6RbjSOxsw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>how you find this sable?</title>
+<utube>ZHqov6JNE_I</utube>
+<thumbnail>https://i.ytimg.com/vi/ZHqov6JNE_I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UhCr1hVrRPekYPy1kSm9CEmDReU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>biscuit ka3ka3 moroccan cooking</title>
+<utube>A3ImZuRgrAE</utube>
+<thumbnail>https://i.ytimg.com/vi/A3ImZuRgrAE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=V8Wkeo8rrkdF1nMawM6AXUhealw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roasted chicken</title>
+<utube>thpTrwzG3Xo</utube>
+<thumbnail>https://i.ytimg.com/vi/thpTrwzG3Xo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zcdLodQL_lKqSNrxjgaCqQFq6Rs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>zaalook moroccan</title>
+<utube>FqKrHprkxy0</utube>
+<thumbnail>https://i.ytimg.com/vi/FqKrHprkxy0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3J-AGe6YYjKUEIsofOu5O0mOis0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cream-cake</title>
+<utube>XRYZd2Ij2q0</utube>
+<thumbnail>https://i.ytimg.com/vi/XRYZd2Ij2q0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DNTP5Bfy9lRe5H-Ema2FdVsIN_U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine fish for family</title>
+<utube>JWAUlAjg-6A</utube>
+<thumbnail>https://i.ytimg.com/vi/JWAUlAjg-6A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MaHMtZQr6-pGir3fxj2FfzekOgM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Popcorn new</title>
+<utube>meBb_7zWCWk</utube>
+<thumbnail>https://i.ytimg.com/vi/meBb_7zWCWk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UIzV5DPFaPvs7e8L1g4zl0XqhGM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ghriba with flans chocolat</title>
+<utube>hrapMeD2RQM</utube>
+<thumbnail>https://i.ytimg.com/vi/hrapMeD2RQM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Sy6HMHzmk8cuX4wb_GVpdTecdSk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable such as Crescent</title>
+<utube>5iU0_GNABWg</utube>
+<thumbnail>https://i.ytimg.com/vi/5iU0_GNABWg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HDT4FSIvz-eaAq637hY4xUrH1qU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ghriba with caccao moroccan cooking waaaaaaw</title>
+<utube>dHkuZTy5boQ</utube>
+<thumbnail>https://i.ytimg.com/vi/dHkuZTy5boQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rvG8XChcb0b2ENHy5m_VRBgxhPQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>happy new year cake</title>
+<utube>Y1MCBxyxKhc</utube>
+<thumbnail>https://i.ytimg.com/vi/Y1MCBxyxKhc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OH9fGpKRTmVGCk5UPVscZz_ppHg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Balls of eggs and potatoes</title>
+<utube>7aA9MK1p2Pc</utube>
+<thumbnail>https://i.ytimg.com/vi/7aA9MK1p2Pc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fvb0F7gUmO-q71XZOle10rUIxho</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>mkhamer moroccan Beautiful fruit in the world</title>
+<utube>rdKbGr0iyqY</utube>
+<thumbnail>https://i.ytimg.com/vi/rdKbGr0iyqY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XLq778Fk3K8GVdFy0mnZllsFL2E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>msemen with vegetables in Oven and Fryer</title>
+<utube>HmKeixdYln4</utube>
+<thumbnail>https://i.ytimg.com/vi/HmKeixdYln4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PKZxKNWf6a0kvYKrcJCKnhfyo5w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tchicha moroccan (herber)</title>
+<utube>0oMdxzeSOcA</utube>
+<thumbnail>https://i.ytimg.com/vi/0oMdxzeSOcA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LqP9y7L9h54QKTyMJ8h-wsIitII</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>San sparrow moroccan cooking</title>
+<utube>CpxbCMjKlX4</utube>
+<thumbnail>https://i.ytimg.com/vi/CpxbCMjKlX4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WR9TI5R9Tr6yi--Qc9DqnRoFt58</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>couscouss moroccan with mjebna</title>
+<utube>OQaRnNdib5I</utube>
+<thumbnail>https://i.ytimg.com/vi/OQaRnNdib5I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Y50pInEvV8M3f5e2flM0yUy1rR4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make honey</title>
+<utube>Ai4bj7YTvPk</utube>
+<thumbnail>https://i.ytimg.com/vi/Ai4bj7YTvPk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=01C7i5pV8O9C39t0GAOW8w3tlFE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moroccan Seffa like how pastilla</title>
+<utube>Rbu6P6eAods</utube>
+<thumbnail>https://i.ytimg.com/vi/Rbu6P6eAods/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ozTmhSdknV6GNbSmGs8EHWd7pJA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake with coffee and cocoa</title>
+<utube>SnUfPLJjBns</utube>
+<thumbnail>https://i.ytimg.com/vi/SnUfPLJjBns/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=r8woCDRfggeJ-MqgIlrdEu2QZLs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to prepare chicken with haricot</title>
+<utube>usP64rmSYkw</utube>
+<thumbnail>https://i.ytimg.com/vi/usP64rmSYkw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ngfRMMlIzRT5ssm3hL9Lysl_N7U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fried sardines</title>
+<utube>js_IE7Jgqss</utube>
+<thumbnail>https://i.ytimg.com/vi/js_IE7Jgqss/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eSp6CF0YUpd9xel4jnvfB20OjO0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tajine of sardine sauce</title>
+<utube>Pq8iefy2_Wg</utube>
+<thumbnail>https://i.ytimg.com/vi/Pq8iefy2_Wg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ob3HvFAvwM7gekP1OWbSNehfjyA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>vegetable soup recipe</title>
+<utube>ae_fBsgQAxE</utube>
+<thumbnail>https://i.ytimg.com/vi/ae_fBsgQAxE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kV-PKNuRDMHfB6n7U8XbJPKHoqM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake with Dates and walnuts</title>
+<utube>BNKbRQdpDHY</utube>
+<thumbnail>https://i.ytimg.com/vi/BNKbRQdpDHY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kgpziHKSSVA3O_yCIsxYKGkKqzs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>lmsemen with Onions</title>
+<utube>XeGW3-CVNvA</utube>
+<thumbnail>https://i.ytimg.com/vi/XeGW3-CVNvA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZCc51IbWQOZiShbMmM0yzF5jhzs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>how to make Raib moroccan</title>
+<utube>IhaSlUhzBVE</utube>
+<thumbnail>https://i.ytimg.com/vi/IhaSlUhzBVE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YbbiHrQB1X_CpVeIc43IRdsdu64</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Banana Cream Pie moroccan</title>
+<utube>JocQPXNrGJc</utube>
+<thumbnail>https://i.ytimg.com/vi/JocQPXNrGJc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=glwWWyzZ6ra3n0nRPdTagFmmpio</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>couscouss moroccan with Semolina</title>
+<utube>aT3j5BkHyx0</utube>
+<thumbnail>https://i.ytimg.com/vi/aT3j5BkHyx0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AEiKM1_6M2Km_dbn7YFzqNUkIIs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Biscuit for children</title>
+<utube>FYt9QErOqBM</utube>
+<thumbnail>https://i.ytimg.com/vi/FYt9QErOqBM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2KgWdCiOp5jWfgSPuycud0ClNg4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>lharcha Moroccan way</title>
+<utube>gi042nsfeCQ</utube>
+<thumbnail>https://i.ytimg.com/vi/gi042nsfeCQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=08SFllhtGIIk8a-b2ZE8X6jqq5Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moroccan way of beans (mangoob)</title>
+<utube>YDGFfnypMJE</utube>
+<thumbnail>https://i.ytimg.com/vi/YDGFfnypMJE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5usRcxfmfdLv3d7z2Lx8OaQYfd8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine Chicken with Artichokes and Broccoli</title>
+<utube>rPWvWKjVxQU</utube>
+<thumbnail>https://i.ytimg.com/vi/rPWvWKjVxQU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ei4RCwyv54E50Cr3kBCHrFW03O0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tchicha moroccan with Herbal health</title>
+<utube>s_lJ84m2OCw</utube>
+<thumbnail>https://i.ytimg.com/vi/s_lJ84m2OCw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NqDf1RuZVxS885HT8TmcvC1ZKpo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>orange marmalade recipe</title>
+<utube>iLFNsgDpNvs</utube>
+<thumbnail>https://i.ytimg.com/vi/iLFNsgDpNvs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kbDdh6xU6vvLA4AMlVbhOksiLgg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>harira moroccan with Turnip</title>
+<utube>l3u8yaOBXsY</utube>
+<thumbnail>https://i.ytimg.com/vi/l3u8yaOBXsY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2CpzUqIUWednostyrpRQQiayz9E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>baghrir with Semolina</title>
+<utube>MtACjBJcm4o</utube>
+<thumbnail>https://i.ytimg.com/vi/MtACjBJcm4o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QYXmdjz-HQo7L-veBWM71nhniWU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>pancakes moroccan</title>
+<utube>ow5V8P-ITw8</utube>
+<thumbnail>https://i.ytimg.com/vi/ow5V8P-ITw8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mpz-diaAc3M5Z4wD64qVorJ0rJ0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>erghayf moroccan with Meatballs</title>
+<utube>6BzOTUpEDrA</utube>
+<thumbnail>https://i.ytimg.com/vi/6BzOTUpEDrA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=voTyuO2bC4EPh1ABZshmjwcsN4U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>donuts moroccan</title>
+<utube>ywtYo4_U4wA</utube>
+<thumbnail>https://i.ytimg.com/vi/ywtYo4_U4wA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MP5jG66_8Veh6_wLyPShidubsMg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Roast chicken with olives</title>
+<utube>2ioEJGawIOo</utube>
+<thumbnail>https://i.ytimg.com/vi/2ioEJGawIOo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qQVAu53iMjzYBqmS8_ns96UGFkg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine moroccan soussi</title>
+<utube>pSziOgTyFrc</utube>
+<thumbnail>https://i.ytimg.com/vi/pSziOgTyFrc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OEQTgPbaOUvN0YHMd1RZEneFwB0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>recipe moroccan tagin with egg and rice salad</title>
+<utube>fyNE5Xvl19s</utube>
+<thumbnail>https://i.ytimg.com/vi/fyNE5Xvl19s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ImyRWXV0AKAQ_qEXhPpbtHdqn0w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tajine moroccn with Plum</title>
+<utube>O-makSU-d-0</utube>
+<thumbnail>https://i.ytimg.com/vi/O-makSU-d-0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jioU1XfIBvTsJXb5wHZwazzOEJk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>cake with Almond</title>
+<utube>03H2E2mF1SI</utube>
+<thumbnail>https://i.ytimg.com/vi/03H2E2mF1SI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IEgCJoZY8liLq0e1ZssK4RC5KR4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pasta moroccan</title>
+<utube>HeIXyT4iXGA</utube>
+<thumbnail>https://i.ytimg.com/vi/HeIXyT4iXGA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EhQ3Zqr-AXvn7Woc_tgte75xOHw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>juice avocat withe Dates and raisins</title>
+<utube>UHpxS5ui8D8</utube>
+<thumbnail>https://i.ytimg.com/vi/UHpxS5ui8D8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8GQ170tq_K0zfWMKVVs73VEevoc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Noodles with milk</title>
+<utube>9eaTWsHnzlw</utube>
+<thumbnail>https://i.ytimg.com/vi/9eaTWsHnzlw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NBn6FRA6IgIMps1UNmw0pGubRuM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>how to prepare the mayonnaise with a simple method</title>
+<utube>41RDsde0AIY</utube>
+<thumbnail>https://i.ytimg.com/vi/41RDsde0AIY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L7UK185g5DF3NbrNEZrKOy9QZYY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moroccan baghrir (the recipe like all artists)</title>
+<utube>pvgjXCbyYs0</utube>
+<thumbnail>https://i.ytimg.com/vi/pvgjXCbyYs0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3TVSMYr06r5-G6KUK6KgH9AGxZ4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable in several forms moroccan</title>
+<utube>9P5WVLqLss0</utube>
+<thumbnail>https://i.ytimg.com/vi/9P5WVLqLss0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j9EWAe0tb51leumjn8MQN1BRawY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Lentils meat bacon</title>
+<utube>2j_RWc5BKR4</utube>
+<thumbnail>https://i.ytimg.com/vi/2j_RWc5BKR4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y8MiFYbWdxYxgTv0G0llKaWrG9k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Noodles with chicken and sauce</title>
+<utube>oXEaMSytNi0</utube>
+<thumbnail>https://i.ytimg.com/vi/oXEaMSytNi0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dI6rV3jAXLxiBo8bakaOQrnjsDs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Clip meat with onions moroccan</title>
+<utube>__XjnyEewzA</utube>
+<thumbnail>https://i.ytimg.com/vi/__XjnyEewzA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NTrqrbAn3_dMZG_Zdzpg3d5uiDo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moroccan fried tripe</title>
+<utube>EbWedRUIDc4</utube>
+<thumbnail>https://i.ytimg.com/vi/EbWedRUIDc4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Sp2SO3vAzsAf9z-0jgFr1w5QX7o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>msemen moroccan</title>
+<utube>k0ErzXaYOPM</utube>
+<thumbnail>https://i.ytimg.com/vi/k0ErzXaYOPM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Cxv26hdADOp5zCYbkrX6ZyX0ak8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Moroccan lunch meal</title>
+<utube>34h2_IUCBA4</utube>
+<thumbnail>https://i.ytimg.com/vi/34h2_IUCBA4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bNltk8mmqgjHsgOn7Ndapqr-8zY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tchicha moroccan</title>
+<utube>z_i1cCXr404</utube>
+<thumbnail>https://i.ytimg.com/vi/z_i1cCXr404/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n-GAlg8tsr1vPQ8op9dA8AkhkbQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable chocolate</title>
+<utube>fuJvoQdI00U</utube>
+<thumbnail>https://i.ytimg.com/vi/fuJvoQdI00U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-CIYxFVVAZA_01oJ9bCB80aVKL8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sardines in a circular motion</title>
+<utube>hXAD7l_1VSU</utube>
+<thumbnail>https://i.ytimg.com/vi/hXAD7l_1VSU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hY0XtpsCX_d5XtR87sz9zQZN4aU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable heart moroccan</title>
+<utube>HtO__tUMLAE</utube>
+<thumbnail>https://i.ytimg.com/vi/HtO__tUMLAE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Rysgz8ImuIJVNc-z_LJYlUyn460</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>seffa moroccan</title>
+<utube>NYlVCiAoLYI</utube>
+<thumbnail>https://i.ytimg.com/vi/NYlVCiAoLYI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JS0CT-AST00uesa2SBBclSrhNrU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine with greens</title>
+<utube>ZyfH1dW-44E</utube>
+<thumbnail>https://i.ytimg.com/vi/ZyfH1dW-44E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=P8EEaUyKyEtemtxnnwydIU5MVS0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine with Incense</title>
+<utube>VkHB1mjxh7A</utube>
+<thumbnail>https://i.ytimg.com/vi/VkHB1mjxh7A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b07XjUmOapYqqr48wfzGeOkxLZY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Meat poles kabab moroccan</title>
+<utube>UVBzzRA7_Uk</utube>
+<thumbnail>https://i.ytimg.com/vi/UVBzzRA7_Uk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BkROR1AHcGH8WcnMPq1nkGYOk6Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>beautiful dessert mix</title>
+<utube>8wUW-pxtx_g</utube>
+<thumbnail>https://i.ytimg.com/vi/8wUW-pxtx_g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Hd0cpGyn6xx83GlewvdxT3glPSA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Oud Olive oil eggs and garlic</title>
+<utube>TUMAzUSdkNc</utube>
+<thumbnail>https://i.ytimg.com/vi/TUMAzUSdkNc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Lm3Ql7l8cgNioyYBMTXGruh8guQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>bread Wheat flour</title>
+<utube>BQGpnUdZ1fk</utube>
+<thumbnail>https://i.ytimg.com/vi/BQGpnUdZ1fk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=swnycqR9Cg7xCRkndUqALDHyjGU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>lmaloui moroccan</title>
+<utube>G05PZkuEUH4</utube>
+<thumbnail>https://i.ytimg.com/vi/G05PZkuEUH4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=24J-od2SfPHy9yQv29XAePWFcdA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>matloua moroccan</title>
+<utube>gI4C9w_qo9Q</utube>
+<thumbnail>https://i.ytimg.com/vi/gI4C9w_qo9Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7ievoXdQ9DWA6xNi9X3e4Xx6IXc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable easy moroccan</title>
+<utube>CciL3iNT4_o</utube>
+<thumbnail>https://i.ytimg.com/vi/CciL3iNT4_o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LdrHGtWU7lWurJvEP24Q86h_mM8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>rfissa moroccan</title>
+<utube>urO5ILWJIIE</utube>
+<thumbnail>https://i.ytimg.com/vi/urO5ILWJIIE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=m-2yBV69Odco6Mux54f-LrSFT3o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable ghriba coke</title>
+<utube>5y6677ybUqQ</utube>
+<thumbnail>https://i.ytimg.com/vi/5y6677ybUqQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=P-WAZjzu6c15jn9fmu29aOP185I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable with caccao</title>
+<utube>9FCe1UGt10A</utube>
+<thumbnail>https://i.ytimg.com/vi/9FCe1UGt10A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GvARc3--UbDw1jE3d-U_ZEIP478</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable with glucose</title>
+<utube>CiEydFghW0k</utube>
+<thumbnail>https://i.ytimg.com/vi/CiEydFghW0k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OjBVuPsXjzhQCvJZ0l2vzMgCHRs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ghriba with coke</title>
+<utube>FdflFnWMsXo</utube>
+<thumbnail>https://i.ytimg.com/vi/FdflFnWMsXo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AnT9dQnVT95cAyNHCii3qUoCCHY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sable and Fruit</title>
+<utube>hINjgHKozY0</utube>
+<thumbnail>https://i.ytimg.com/vi/hINjgHKozY0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j0hte0rZPvB4FWc2adVo-_vOOQw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>sourdough bread</title>
+<utube>FEWjKlOE3dI</utube>
+<thumbnail>https://i.ytimg.com/vi/FEWjKlOE3dI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ba1E8pfI6JVd8nByyO1pnIHxXTE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>couscouss morrocan</title>
+<utube>f_R0BbzMwbQ</utube>
+<thumbnail>https://i.ytimg.com/vi/f_R0BbzMwbQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Mp4Mvt1DydOnYkzGKs6m7zdrIqE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>tagine recipes</title>
+<utube>aWPRQ3TQGgY</utube>
+<thumbnail>https://i.ytimg.com/vi/aWPRQ3TQGgY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0t7P-hm1cZ7tcOwPQHunoXNNHpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>delicious Moroccan cake</title>
+<utube>uG_EDi7gNqg</utube>
+<thumbnail>https://i.ytimg.com/vi/uG_EDi7gNqg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v01YjQ_wqGhsHwPo-KLiiGcQdjE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sardines put in the oven</title>
+<utube>d-_P-Ou_qeE</utube>
+<thumbnail>https://i.ytimg.com/vi/d-_P-Ou_qeE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GUPjBFftTWzwQ8LrO0xf58vDkCI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>croissa moroccan,Dinner Rolls</title>
+<utube>y7uzAK_C3bY</utube>
+<thumbnail>https://i.ytimg.com/vi/y7uzAK_C3bY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fiComJHBwwOrwx_xh9jfn39WZok</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggs and potatoes in the best way</title>
+<utube>jwhoGPJ5XlQ</utube>
+<thumbnail>https://i.ytimg.com/vi/jwhoGPJ5XlQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fF-R_Sa5hSRLrZNuqYirxMaWKco</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>The bread we eat for breakfast</title>
+<utube>XHZjaG-8dyI</utube>
+<thumbnail>https://i.ytimg.com/vi/XHZjaG-8dyI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=B4cVgYLu46HCzjmXNHFfx-VhpKU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>bread with suet and onions</title>
+<utube>M_mRw3tU-vY</utube>
+<thumbnail>https://i.ytimg.com/vi/M_mRw3tU-vY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=i2TFNAUnmChMaRiTU0b9BP8Ln-o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cake with milk</title>
+<utube>jXMp1ErVU0A</utube>
+<thumbnail>https://i.ytimg.com/vi/jXMp1ErVU0A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dPFI1-xjujXqR-hkeVtiA-fcREE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Whale meal Moroccan way Delicious and scrumptious</title>
+<utube>XI4UAgJZb2o</utube>
+<thumbnail>https://i.ytimg.com/vi/XI4UAgJZb2o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wDscP2YxmjAsb33rHQoNsCsEIR4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Look at how this juice is attractive Orange juice, watermelon and Indian Akarmos</title>
+<utube>vsrzrurEZM4</utube>
+<thumbnail>https://i.ytimg.com/vi/vsrzrurEZM4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1EQfRiLHioC2TXide0NJKpQb4jE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to prepare authentic Moroccan calories (harira)</title>
+<utube>8RJppyVZGiw</utube>
+<thumbnail>https://i.ytimg.com/vi/8RJppyVZGiw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xg2zqkY2jn0zffV_KseHwMGmpNg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Orange juice Aldlah fun</title>
+<utube>cpBTMBZri_w</utube>
+<thumbnail>https://i.ytimg.com/vi/cpBTMBZri_w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gRbFZxfweufm7qdkr0B2Qko5iT4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>how to prepare the fish Alhern</title>
+<utube>b9sGs-Ek0E4</utube>
+<thumbnail>https://i.ytimg.com/vi/b9sGs-Ek0E4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LRyb8w-ups8caExyMCa2rKM30CQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to prepare the way Moroccan tea</title>
+<utube>q9I3oM2qa0o</utube>
+<thumbnail>https://i.ytimg.com/vi/q9I3oM2qa0o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1vjRFHcYgpjYT3dWJ--VLGClj3E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
