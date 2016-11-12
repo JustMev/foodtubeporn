@@ -1,0 +1,2340 @@
+<item>
+<title>PECAN PIE BITES - CookingwithKarma</title>
+<utube>FwQxEPvROpk</utube>
+<thumbnail>https://i.ytimg.com/vi/FwQxEPvROpk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kUXIVLnmvpaEVRY9CREkmY1yCIs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>REESE'S PEANUT BUTTER MUG CAKE (no eggs) - CookingwithKarma</title>
+<utube>hgknvIQSeG8</utube>
+<thumbnail>https://i.ytimg.com/vi/hgknvIQSeG8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Se5v5-V0qYRwIWEISHX99lqRoec</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CUTE & CREEPY HALLOWEEN MARSHMALLOWS - CookingwithKarma</title>
+<utube>y34onYm4rIw</utube>
+<thumbnail>https://i.ytimg.com/vi/y34onYm4rIw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Vo-yzJeod7pdnrZV7rrZloAUTBQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>FUN & EASY HALLOWEEN TREATS (5 ingredients or less) - CookingwithKarma</title>
+<utube>IjD74nGUCgY</utube>
+<thumbnail>https://i.ytimg.com/vi/IjD74nGUCgY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eAio6T4cUAs8xcxViu5x26KAaw8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PINTEREST TEST: BAKED PUMPKIN SPICE DONUTS - CookingwithKarma</title>
+<utube>wPANbKJbQcM</utube>
+<thumbnail>https://i.ytimg.com/vi/wPANbKJbQcM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8xFUeBmSh7yC7lQxSZ53sC-_DXE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PUMPKIN SPICE MUFFINS with MAPLE SYRUP GLAZE - CookingwithKarma</title>
+<utube>2jbHI2kM6-w</utube>
+<thumbnail>https://i.ytimg.com/vi/2jbHI2kM6-w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pisHjaZQKrdZptXl_0mabDg8p6I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE SUNDAE MUG CAKE (with vegan option) - CookingwithKarma</title>
+<utube>X9bzyvZkLmc</utube>
+<thumbnail>https://i.ytimg.com/vi/X9bzyvZkLmc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=81tZI6hCYtB187-c9W_pYaE2mXs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SWEET POTATO BREAD - CookingwithKarma</title>
+<utube>emMbwTgotD4</utube>
+<thumbnail>https://i.ytimg.com/vi/emMbwTgotD4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sGAbnI6h0B9u6U0TQWvSa09xD4I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GREEN HULK SMOOTHIE - CookingwithKarma</title>
+<utube>Wlva--X_EXw</utube>
+<thumbnail>https://i.ytimg.com/vi/Wlva--X_EXw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=trgMVAhZt_tND4lkrNuRzKE9zWA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PINTEREST TEST: RAW VEGAN CHOCOLATE FUDGE - CookingwithKarma</title>
+<utube>XivPZI_QJ4s</utube>
+<thumbnail>https://i.ytimg.com/vi/XivPZI_QJ4s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BSbhAvbgiCpuN-738YQwIUOrzEM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DELICIOUS VEGAN CHOCOLATE CAKE - CookingwithKarma</title>
+<utube>9B0ys-qL6oI</utube>
+<thumbnail>https://i.ytimg.com/vi/9B0ys-qL6oI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OUXb9BidvAB_KfpBSawCSlhxZqI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GUACAMOLE SALAD - CookingwithKarma</title>
+<utube>ZdTouXQmXlM</utube>
+<thumbnail>https://i.ytimg.com/vi/ZdTouXQmXlM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fRQyUpqyELxDOqmzDF1ELYWyDy0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOT CHOCOLATE WAFFLE CONE CUPS - CookingwithkKarma</title>
+<utube>HlZCAaQYuwk</utube>
+<thumbnail>https://i.ytimg.com/vi/HlZCAaQYuwk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tuFSdYNqNGsRdJoi1awmN5oP4P0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PINTEREST TEST: NUTELLA STUFFED CHOCOLATE CHIP MUFFINS</title>
+<utube>4JUy4ayEPys</utube>
+<thumbnail>https://i.ytimg.com/vi/4JUy4ayEPys/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QWV4c2ZKiQuJTmeUb8Tgs4mkv-w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BUZZFEED TESTED: LIGHTER ALFREDO PASTA</title>
+<utube>vXni4D_RWS4</utube>
+<thumbnail>https://i.ytimg.com/vi/vXni4D_RWS4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c0tBMc9z5Kh38eGr6neZxbjiyiw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BLUE HAIR DON'T CARE /  Q & A - CookingwithKarma</title>
+<utube>CtrXYHG3Dqc</utube>
+<thumbnail>https://i.ytimg.com/vi/CtrXYHG3Dqc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9xQlO24mAEy2QRxiTcfNVMl2yMw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ACAI / SMOOTHIE BOWLS - CookingwithKarma</title>
+<utube>JJwWvv_fP00</utube>
+<thumbnail>https://i.ytimg.com/vi/JJwWvv_fP00/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TBRtfEtpGkF4w9jdzOVaHPuv80M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>TASTING PRINGLES FLAVOURS - CookingwithKarma</title>
+<utube>JbRZy1J2WWU</utube>
+<thumbnail>https://i.ytimg.com/vi/JbRZy1J2WWU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J29sRO6DB88b9cNP8dBuEHBIV0M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NUTELLA BROWNIE TRIFLES - CookingwithKarma</title>
+<utube>wDfZYEYmTT0</utube>
+<thumbnail>https://i.ytimg.com/vi/wDfZYEYmTT0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PpZiNqnO94b9wefjGPAVmcM2ae8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BUZZFEED TESTED: SALTED CARAMEL CHOCOLATE OREO BARS</title>
+<utube>zM4MTU-vlxM</utube>
+<thumbnail>https://i.ytimg.com/vi/zM4MTU-vlxM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=S6PXil5Pz4BDwULq9KOIIx4slgw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BERRY GREEN SMOOTHIE - CookingwithKarma</title>
+<utube>z8ixwV4vkNA</utube>
+<thumbnail>https://i.ytimg.com/vi/z8ixwV4vkNA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WM2u1lRZX9A6Ti1lLCV0KiaqeCw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HEALTHY BREAKFAST COOKIES - CookingwithKarma</title>
+<utube>71abflYOi-E</utube>
+<thumbnail>https://i.ytimg.com/vi/71abflYOi-E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kOoz_YthSHkT5exzwy0PdNjrfIU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PINTEREST: HEALTHY CHOCOLATE MOUSSE - CookingwithKarma</title>
+<utube>2mgJSEUB1M0</utube>
+<thumbnail>https://i.ytimg.com/vi/2mgJSEUB1M0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0BvcIseJ8DBS2_pbM1Il4hYQsrU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DIY TWINKIES: GALAXY, OREO, NUTELLA - CookingwithKarma</title>
+<utube>j7ye_qp3XQM</utube>
+<thumbnail>https://i.ytimg.com/vi/j7ye_qp3XQM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rTpZcjHheqJ5UXi3ubMji78PH8Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>JAPANESE CANDY TASTE TEST (2) - CookingwithKarma</title>
+<utube>EEXebks1EDk</utube>
+<thumbnail>https://i.ytimg.com/vi/EEXebks1EDk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bkBtWRajK2sNzcTg1nkylBbDY2w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MARS SNICKERS FUDGE - CookingwithKarma</title>
+<utube>ORBN0tOyDHg</utube>
+<thumbnail>https://i.ytimg.com/vi/ORBN0tOyDHg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j8Hfc8pC1FyeKMatfpD6E4aUHqo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OREO CHEESECAKE BROWNIES - CookingwithKarma</title>
+<utube>HHvriAB0hdE</utube>
+<thumbnail>https://i.ytimg.com/vi/HHvriAB0hdE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VfnkLeHVn1nJT4xnkgXW5kScRC8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GLUTEN FREE BANANA PANCAKES</title>
+<utube>U8tlK85tJqM</utube>
+<thumbnail>https://i.ytimg.com/vi/U8tlK85tJqM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K4yIm5BB3TZnOzTMAQoY15nEPx8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>AUSSIE TASTES AMERICAN CEREAL : CookingwithKarma</title>
+<utube>JARar1ujW4E</utube>
+<thumbnail>https://i.ytimg.com/vi/JARar1ujW4E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9bZcOsAAJu9U4vEPOksPeqLur8w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BANANA BREAKFAST SMOOTHIE - CookingwithKarma</title>
+<utube>8HByv5Ixe2s</utube>
+<thumbnail>https://i.ytimg.com/vi/8HByv5Ixe2s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O2kQRO7NY7idf6Ll4mb_mxA-xyU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pinterest Test: FLOURLESS CHOCOLATE CAKE - CookingwithKarma</title>
+<utube>vMSHkUA8aLM</utube>
+<thumbnail>https://i.ytimg.com/vi/vMSHkUA8aLM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tWFAW2BLESUG4VzqXkEw-DgXSw0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DIY CHOCOLATE GALAXY EGGS - CookingwithKarma</title>
+<utube>We7TZgEXPWE</utube>
+<thumbnail>https://i.ytimg.com/vi/We7TZgEXPWE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f4muNfZEsjtIcFdUABsYnl2812g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CREME EGG MCFLURRY & MILKSHAKE - CookingwithKarma</title>
+<utube>QIjgbJs3vRw</utube>
+<thumbnail>https://i.ytimg.com/vi/QIjgbJs3vRw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Y9ongeirEP5DP6LldgFLGZy5MnU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BUZZFEED TESTED: NUTELLA & CHEESE - CookingwithKarma</title>
+<utube>8WnQCZWjJtM</utube>
+<thumbnail>https://i.ytimg.com/vi/8WnQCZWjJtM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TT9WVFVgwvEtvoJkZyoVr3A6osk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SWEET HEALTHY SNACK IDEAS - CookingwithKarma</title>
+<utube>WobJ2cy1Z64</utube>
+<thumbnail>https://i.ytimg.com/vi/WobJ2cy1Z64/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HRDzRKjsi8JrLM0rzbQtB84Wc0A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OREO ICE CREAM CAKE - CookingwithKarma</title>
+<utube>KgbIBNcuxpw</utube>
+<thumbnail>https://i.ytimg.com/vi/KgbIBNcuxpw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=I_V8QgOAdPkzhStIK9cGhcmU54U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MINIONS GLITTER GUMMIES - CookingwithKarma</title>
+<utube>-0yFSR9mJcU</utube>
+<thumbnail>https://i.ytimg.com/vi/-0yFSR9mJcU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t8XOaVp7qWffCWZDKfLNAcZTc4w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DIY DESIGNER DONUTS  (nutella, oreo, m&m) - CookingwithKarma</title>
+<utube>erwptgD9cyw</utube>
+<thumbnail>https://i.ytimg.com/vi/erwptgD9cyw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZD-JU88Oc6TmPvEdHVlJmXEGbgE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>JAPANESE TASTE TEST FAIL!!!!! - CookingwithKarma</title>
+<utube>2WfHCHB1oyU</utube>
+<thumbnail>https://i.ytimg.com/vi/2WfHCHB1oyU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L5s5MEpthrd81U0gYGRpaN2Qzb8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BAKING ESSENTIALS - CookingwithKarma</title>
+<utube>dtlpzf0EF8U</utube>
+<thumbnail>https://i.ytimg.com/vi/dtlpzf0EF8U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mIe994LAUrzt-JPy47alI40zSbk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>THE BEST MANGO SALSA - CookingwithKarma</title>
+<utube>NFHhG8QKjmQ</utube>
+<thumbnail>https://i.ytimg.com/vi/NFHhG8QKjmQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6Kv883wKKRYt8uzqBvhnsw4JtBs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SUPER SMOOTHIE - CookingwithKarma</title>
+<utube>Sc2DqKxdkTA</utube>
+<thumbnail>https://i.ytimg.com/vi/Sc2DqKxdkTA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rWrSI_C4EFUkL6QicEodY5J9JHI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHRISTMAS BARK BITES - CookingwithKarma</title>
+<utube>MeI8sD5pHFQ</utube>
+<thumbnail>https://i.ytimg.com/vi/MeI8sD5pHFQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ayv-2zCbOC00nsamdGhWC9uLVmI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHRISTMAS FRUIT CAKE - CookingwithKarma</title>
+<utube>ie7EJq0tNx8</utube>
+<thumbnail>https://i.ytimg.com/vi/ie7EJq0tNx8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gFbSp5NjroZw-APuT94jSILzSrg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MANGO CHEESECAKE CUPS - CookingwithKarma</title>
+<utube>-VyBUt9XNKE</utube>
+<thumbnail>https://i.ytimg.com/vi/-VyBUt9XNKE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tx6M93qfnQqjRmHzgK3ohS6zKqo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CANDY BAR COOKIES - CookingwithKarma</title>
+<utube>MVusa1Jcva4</utube>
+<thumbnail>https://i.ytimg.com/vi/MVusa1Jcva4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aT5gKSybJF4i1Kw4niE0vHNUewE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SWEET POTATO CURRY - CookingwithKarma</title>
+<utube>ofgkg7OVR4g</utube>
+<thumbnail>https://i.ytimg.com/vi/ofgkg7OVR4g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lowEHMxsNXOwtq3vDvBYKrGGOQU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>REFRESHING GREEN JUICE - CookingwithKarma</title>
+<utube>rnqCkKjMz9g</utube>
+<thumbnail>https://i.ytimg.com/vi/rnqCkKjMz9g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0MhRLuYWPHCX0OIuo7RGBIKwGEs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>KIT KAT CHEESECAKE SLICE</title>
+<utube>IIBxqJ5R0c4</utube>
+<thumbnail>https://i.ytimg.com/vi/IIBxqJ5R0c4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Np0UhP1dnnRX_SalQPyp9FrNaHY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PUMPKIN SPICE CAKE</title>
+<utube>ltFKXjHPhFY</utube>
+<thumbnail>https://i.ytimg.com/vi/ltFKXjHPhFY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u5Hkrtquh777CEKhzELBsILFI8M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HALLOWEEN CUPCAKES</title>
+<utube>TNa9vOTQIZ0</utube>
+<thumbnail>https://i.ytimg.com/vi/TNa9vOTQIZ0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IkF1-4EzuQT1acTE-HaEvV73Bc4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE CHIP OREO COOKIE - IN A MUG!</title>
+<utube>UR9umJAQv9E</utube>
+<thumbnail>https://i.ytimg.com/vi/UR9umJAQv9E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VQ9CLE-L8iFIPAP5EFHS0fioRdc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ULTIMATE BREAKFAST BURRITO</title>
+<utube>pUTZkX2y9iY</utube>
+<thumbnail>https://i.ytimg.com/vi/pUTZkX2y9iY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ax8FIQtW-s2dgCy3LeSVyws7eeQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GREEN BOOST JUICE</title>
+<utube>OPh6WJ0meuo</utube>
+<thumbnail>https://i.ytimg.com/vi/OPh6WJ0meuo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t3Ov2rp8vbmhnKCpqzvHFmzP-ug</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHUNKY CHOCOLATE PEANUT BUTTER COOKIES</title>
+<utube>n1HeZWqhiBU</utube>
+<thumbnail>https://i.ytimg.com/vi/n1HeZWqhiBU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9PRaNSDZ8eFpaovsHM-ijMt-wVE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE  OREO TART</title>
+<utube>VmWZnujDjeA</utube>
+<thumbnail>https://i.ytimg.com/vi/VmWZnujDjeA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2DpbRpxUO3zC0ausysnWlYxXrMk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HEALTHY CHOCOLATE STRAWBERRY MILKSHAKE</title>
+<utube>HuZDKc3VD-Q</utube>
+<thumbnail>https://i.ytimg.com/vi/HuZDKc3VD-Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lS_vC5vz0HhlrUOLb-gUjnikZ5E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>AUSSIE TRIES AMERICAN CANDY (Part 2)</title>
+<utube>ctNqgeLebfo</utube>
+<thumbnail>https://i.ytimg.com/vi/ctNqgeLebfo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aE9lGm03K8lzx86lBOjnQX-flqY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>AUSSIE TRIES AMERICAN CANDY (Part 1)</title>
+<utube>MaAwZzu5mmY</utube>
+<thumbnail>https://i.ytimg.com/vi/MaAwZzu5mmY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cA0J2HWyv6VtJ_qbr6mNWoT82DM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HEALTHY CHOCOLATE CHIP MUFFINS</title>
+<utube>lpttHKNza3s</utube>
+<thumbnail>https://i.ytimg.com/vi/lpttHKNza3s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nU3TTS5WuLjXIe6z5fCG9QZtW5c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>WHAT'S IN MY MOUTH CHALLENGE with Clisare</title>
+<utube>mOsMAZi2sb8</utube>
+<thumbnail>https://i.ytimg.com/vi/mOsMAZi2sb8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xXQHqh8NwoWwWVxwjgwLdok8Y10</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE NUT CLUSTERS (Gluten Free)</title>
+<utube>nvCTLL-LF5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/nvCTLL-LF5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LeL_6lVaVgNcScN5_xusCLk7vio</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NUTELLA (Tortilla) ROLL UPS</title>
+<utube>dVAhQyF5fWU</utube>
+<thumbnail>https://i.ytimg.com/vi/dVAhQyF5fWU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fHJ0zg8E1TSEeoTalXQvbZ9ovzI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>WAFFLE DONUTS - (wonuts)</title>
+<utube>vplPKzQG3fk</utube>
+<thumbnail>https://i.ytimg.com/vi/vplPKzQG3fk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TlVoGgS2VcqBD47xXPCyVhLzkCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOC MINT BROWNIE MILKSHAKE</title>
+<utube>LB8qClZyA5o</utube>
+<thumbnail>https://i.ytimg.com/vi/LB8qClZyA5o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8Orfznsq5OHUhyUhSDfDqjOZWKo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BARF BEANS??!! BEAN BOOZLED CHALLENGE</title>
+<utube>bTbAhZ2Ez0A</utube>
+<thumbnail>https://i.ytimg.com/vi/bTbAhZ2Ez0A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9492i6eaKRixPmeCgZrii6j71E4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>VEGEMITE CHOCOLATE - YOUTUBER REACTIONS</title>
+<utube>GA7HPltNZWU</utube>
+<thumbnail>https://i.ytimg.com/vi/GA7HPltNZWU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Lu5K2aT51wSG4jwZ4YMbPihEI8s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MALTESER MARS BAR MUG CAKE</title>
+<utube>8WKj4HjTSGA</utube>
+<thumbnail>https://i.ytimg.com/vi/8WKj4HjTSGA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sMQFQHVCykVwMgrICJnZH48Jnp4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>WAFFLE CONE CANNOLI'S</title>
+<utube>FUjR7Us-1Qo</utube>
+<thumbnail>https://i.ytimg.com/vi/FUjR7Us-1Qo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CHrKmVxD3qMVC1jZQXuHAIr-kos</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SNICKERS PIZZA</title>
+<utube>hRqPcyigtzk</utube>
+<thumbnail>https://i.ytimg.com/vi/hRqPcyigtzk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eutBYctc5C1tlT8ADHLdf0s3a8c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GAME ON! Come and say hi (giveaway now over)</title>
+<utube>pTcn9Bbl8qY</utube>
+<thumbnail>https://i.ytimg.com/vi/pTcn9Bbl8qY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FvnUls_8I5OCCCR5qS40yNIC-es</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MALTESER CHEESECAKE</title>
+<utube>p_MgNui_RNM</utube>
+<thumbnail>https://i.ytimg.com/vi/p_MgNui_RNM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WiXScNt6speJMR0prB60cPXOz6w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>WAFFLE APPLE PIES</title>
+<utube>G7tCAO67cRw</utube>
+<thumbnail>https://i.ytimg.com/vi/G7tCAO67cRw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=a1Bw_nsGpyCHqY-Xymv_EUmFB5E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHEESEBURGER PULL APART BREAD</title>
+<utube>IFQYIGyromI</utube>
+<thumbnail>https://i.ytimg.com/vi/IFQYIGyromI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4hMeu2_p7f5hH0fsbT6M2CFBelA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NATURAL BANANA / OAT FACE MASK (Lush Oatifix)</title>
+<utube>nU9Pels373M</utube>
+<thumbnail>https://i.ytimg.com/vi/nU9Pels373M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Na2xLxWM2ZtbVEqg-NiVIh7wzrU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CREME EGG CUPCAKES</title>
+<utube>eKwPuTcpwhY</utube>
+<thumbnail>https://i.ytimg.com/vi/eKwPuTcpwhY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oBsbk3D4uWeVN7Foz62J5rDUF7Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BANANA BREAD PANCAKES (sugar free / dairy free)</title>
+<utube>43YGBvrDXBg</utube>
+<thumbnail>https://i.ytimg.com/vi/43YGBvrDXBg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xYlBUkh1QA-18ZrMgIYKWSPFAtA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>JELLO/GUMMI OREOS (shots & cookies)</title>
+<utube>mCYBaExMcwc</utube>
+<thumbnail>https://i.ytimg.com/vi/mCYBaExMcwc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NDUE-iwrSlwx2QjNiRT4eJzxnNM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHEAT'S HASH BROWNS</title>
+<utube>2_1Rp5q5f4w</utube>
+<thumbnail>https://i.ytimg.com/vi/2_1Rp5q5f4w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cVoEWj2OokE9XG0GwEbnlxki6Hs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NUTELLA BROWNIE PANCAKES</title>
+<utube>GSzeBpPNO7Q</utube>
+<thumbnail>https://i.ytimg.com/vi/GSzeBpPNO7Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HmvWoPxn7WGF0KOAXA9XBPOcVRc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HEALTHY BROWNIE BARS</title>
+<utube>E37aQZ0IhgA</utube>
+<thumbnail>https://i.ytimg.com/vi/E37aQZ0IhgA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zEko3M4QbqWBzhRyEZYefdZXlOs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BUBBLEGUM CAKE (How to)</title>
+<utube>M8LlQA_5WeE</utube>
+<thumbnail>https://i.ytimg.com/vi/M8LlQA_5WeE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=apkIPmT7p1DapMX-Y7k6K6d6Cz4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OREO NUTELLA COOKIE CAKEPOPS</title>
+<utube>OuABOr5gHdw</utube>
+<thumbnail>https://i.ytimg.com/vi/OuABOr5gHdw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QGB3f0H4kmqzBRIC5asJAi6V6Ww</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BACON POTATO BALLS (How to)</title>
+<utube>VSn9muQQzOY</utube>
+<thumbnail>https://i.ytimg.com/vi/VSn9muQQzOY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=x2WwNl59FKVR-cZs8KHCDOJYVJ8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HEALTY CHOCOLATE CHIP COOKIES (Gluten free, dairy free)</title>
+<utube>aMQ2ZmukuQQ</utube>
+<thumbnail>https://i.ytimg.com/vi/aMQ2ZmukuQQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MTwP84Z6flRQGqXWqabTSIC1rt8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MANGO BREAD (How to)</title>
+<utube>hsu0VeapXck</utube>
+<thumbnail>https://i.ytimg.com/vi/hsu0VeapXck/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TqBuYY9uTBSO8A5k3GUCxpcniwg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OREO BUTTER/SPREAD (How to)</title>
+<utube>UiHg0GpAu-4</utube>
+<thumbnail>https://i.ytimg.com/vi/UiHg0GpAu-4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kfPfyezQ7nm04QBfLzZE_jBR-ms</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHRISTMAS & HAND SURGERY</title>
+<utube>2gLEJCRY9zc</utube>
+<thumbnail>https://i.ytimg.com/vi/2gLEJCRY9zc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-K0HTggbfsTH0fh-yISefagaSQQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE CANDY CANE BALLS (Edible Gifts)</title>
+<utube>t1_U4IEyeXk</utube>
+<thumbnail>https://i.ytimg.com/vi/t1_U4IEyeXk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pNDC6Qn4bAax4-dJNxQiUFxKm-g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOT CHOCOLATE JARS (EDIBLE GIFTS)</title>
+<utube>3O4M0n4BZG4</utube>
+<thumbnail>https://i.ytimg.com/vi/3O4M0n4BZG4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4GpOhUNhUZw0d6fBszYIKqpWr74</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OREO FUNFETTI CAKE (How to)</title>
+<utube>IrNh-iUIdjs</utube>
+<thumbnail>https://i.ytimg.com/vi/IrNh-iUIdjs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mb9RRpR-karQTNQ6du3p2PBrafI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SIMPLE & DELICIOUS PASTA BAKE (How to)</title>
+<utube>JuiEdwVDu08</utube>
+<thumbnail>https://i.ytimg.com/vi/JuiEdwVDu08/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_J1l5UIv1VuLsipPukvph4QLraw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE CHEESECAKE CAKE (How to)</title>
+<utube>ddolZ3G36Mw</utube>
+<thumbnail>https://i.ytimg.com/vi/ddolZ3G36Mw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iCmGVKntTZrXvBKJRdcpXU3-HZQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MINI ICE CREAM COOKIE CUPS (How to)</title>
+<utube>s8nyUxYDJlI</utube>
+<thumbnail>https://i.ytimg.com/vi/s8nyUxYDJlI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O4mTYA99U2idTPb32xKUKxbEf4Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BLACK VELVET JACK SKELLINGTON CAKE (How to)</title>
+<utube>tyDb_5A9A3s</utube>
+<thumbnail>https://i.ytimg.com/vi/tyDb_5A9A3s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BSrLqif3LANjLdC_yj9NmUOnXbM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE PEANUT BUTTER ICE CREAM CUPS (How to)</title>
+<utube>mWuEcWeRSQs</utube>
+<thumbnail>https://i.ytimg.com/vi/mWuEcWeRSQs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pEtMLeFBN_yvz90RB8s_fqIMu7A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MONSTER ICE CREAM COOKIES (How to)</title>
+<utube>rYDE5DfVVtI</utube>
+<thumbnail>https://i.ytimg.com/vi/rYDE5DfVVtI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=acrsLxqqHcx_yYpei4a57Dfe-10</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>OREO GHOST TRUFFLES (How to)</title>
+<utube>5efLSKSMS5A</utube>
+<thumbnail>https://i.ytimg.com/vi/5efLSKSMS5A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_5x9YvYgUn6mTpXqSlngP3Lez48</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE AN APPLE CRUMBLE PIE</title>
+<utube>gFoQlCYYzzU</utube>
+<thumbnail>https://i.ytimg.com/vi/gFoQlCYYzzU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=70nk6VAXeADLzb2HkD-VdcL8qUU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>APPLE BANANA BREAD (How to)</title>
+<utube>KmBm7ta4bEM</utube>
+<thumbnail>https://i.ytimg.com/vi/KmBm7ta4bEM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gmrfocyC2oEt58c2QGoVDhCxcug</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHURRO / DONUT FRENCH TOAST (How to)</title>
+<utube>XuC7HkdPQsc</utube>
+<thumbnail>https://i.ytimg.com/vi/XuC7HkdPQsc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sMgd43y9kddOjstEPaqT4W8n-Nc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHURRO POPCORN (How to)</title>
+<utube>DCcRdga_FR4</utube>
+<thumbnail>https://i.ytimg.com/vi/DCcRdga_FR4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TjxPb0UOoO0Vj86GMWPpqb7WCIY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>TWIX COOKIES (How to)</title>
+<utube>UYeSO_uBQcA</utube>
+<thumbnail>https://i.ytimg.com/vi/UYeSO_uBQcA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dJjbK3JiC5B-yvqmbQUG8MCgh80</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>TWIX MUD CAKE (with M&M's + Maltesers) (How to)</title>
+<utube>0_VQv2DqKW0</utube>
+<thumbnail>https://i.ytimg.com/vi/0_VQv2DqKW0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=20WhVysd96LoJxXZ4HsjuZwZIn8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CUPCAKE MILKSHAKE (How to)</title>
+<utube>aSSetb0R88A</utube>
+<thumbnail>https://i.ytimg.com/vi/aSSetb0R88A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4R44Eyfokdxjjt5e9mRhmJ68JTQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DONUT MILKSHAKE (How to)</title>
+<utube>NnHzBEARup4</utube>
+<thumbnail>https://i.ytimg.com/vi/NnHzBEARup4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xrhWctmDKQeLT_S6iSlLM_h5vuQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PROSCIUTTO & SUN DRIED TOMATO FRITTATA (How to)</title>
+<utube>49D_dj0Q9DU</utube>
+<thumbnail>https://i.ytimg.com/vi/49D_dj0Q9DU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v4m3275I-JDCnwU8Li_BXp2A-BM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MINI VEGETARIAN QUICHES (How to)</title>
+<utube>DZCmWymXJec</utube>
+<thumbnail>https://i.ytimg.com/vi/DZCmWymXJec/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uj68ii7XBJsiGPfSx6otnjpnmmk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PANCAKE COOKIES CHOC CHIP / M&MS (How to)</title>
+<utube>1AJ3z4RHibo</utube>
+<thumbnail>https://i.ytimg.com/vi/1AJ3z4RHibo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=R0Qmm_PMJ9sGkS7wfTof980d6fE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NUTELLA PANCAKE MUFFINS (How to)</title>
+<utube>R_rS_4qtbTY</utube>
+<thumbnail>https://i.ytimg.com/vi/R_rS_4qtbTY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bv6-1onHxquQzocrGmnuDbzLbdY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>KIT KAT BROWNIES (How to)</title>
+<utube>VgE9rsZ-gzM</utube>
+<thumbnail>https://i.ytimg.com/vi/VgE9rsZ-gzM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=z64i_cuIuXR7BDxxbwuiCqMr90E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE DONUTS - oven baked (How to)</title>
+<utube>Hcv7-WxPN1o</utube>
+<thumbnail>https://i.ytimg.com/vi/Hcv7-WxPN1o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xZTeD4d9An7n4Mdam3S5vLrUP6k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PROFITEROLE ICE CREAM SANDWICHES (How to)</title>
+<utube>ZGiAzT9oJfw</utube>
+<thumbnail>https://i.ytimg.com/vi/ZGiAzT9oJfw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WAW2w1fz-gHEq6Dz9_G8N970KD4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SALTED CARAMEL ICE CREAM (How to)</title>
+<utube>Lu_NdNdoDKI</utube>
+<thumbnail>https://i.ytimg.com/vi/Lu_NdNdoDKI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uJ1Fu8EMrK16m_-QwIvcM-3exyE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SWEET POTATO FRIES - oven baked (How to)</title>
+<utube>j6yZ4CXrd5w</utube>
+<thumbnail>https://i.ytimg.com/vi/j6yZ4CXrd5w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aSqenG1wb7wqTCJmGXhy9ZFDYHo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DORITOS MOZZARELLA STICKS (How to)</title>
+<utube>G5Fb9_gdz44</utube>
+<thumbnail>https://i.ytimg.com/vi/G5Fb9_gdz44/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eu5ujgh041Zxrv6nfKJxMNbaQHI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BREAKFAST MUFFINS (How to)</title>
+<utube>Mpg2ChbKzfw</utube>
+<thumbnail>https://i.ytimg.com/vi/Mpg2ChbKzfw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IKMGlZfQ_oVgqGFXwmoZSReOPd4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ULTIMATE CHOCOLATE MUFFINS (How to)</title>
+<utube>56IvHn7NXTo</utube>
+<thumbnail>https://i.ytimg.com/vi/56IvHn7NXTo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=guY4nZQado-3osOGTvR6pZdOUDs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>FROZEN YOGHURT STRAWBERRIES (How to)</title>
+<utube>r4GAK2z1dLM</utube>
+<thumbnail>https://i.ytimg.com/vi/r4GAK2z1dLM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JCrp5xJOfsSUL9YuU1kdAn8dnnI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>STRAWBERRY PANCAKES (How to)</title>
+<utube>O85YJmAzzQc</utube>
+<thumbnail>https://i.ytimg.com/vi/O85YJmAzzQc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PfUvUsEROosy07er7KC7WrDnUgM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CINNAMON ROLL POPS (How to)</title>
+<utube>FqvzckDt4k0</utube>
+<thumbnail>https://i.ytimg.com/vi/FqvzckDt4k0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gi5F03iGbc3JkKBZd4r9pCIqJ-s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NUTELLA PIE POPS - Oreo & Strawberry (How to)</title>
+<utube>1Fu1VATJk4Q</utube>
+<thumbnail>https://i.ytimg.com/vi/1Fu1VATJk4Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=i6INMIYCrNzSsJ7YAuvN9IrrbgM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BANANA PROTEIN SMOOTHIE (How to)</title>
+<utube>kzkruU78ltA</utube>
+<thumbnail>https://i.ytimg.com/vi/kzkruU78ltA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VZJTUHNQ-fgJ6zHcN4MiLLa0uho</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE AN OREO ICE CREAM SANDWICH MILKSHAKE</title>
+<utube>M7CqjkwhyfQ</utube>
+<thumbnail>https://i.ytimg.com/vi/M7CqjkwhyfQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sWtMlpJ80S_eQRk0qwUJM2lpf54</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE POPCORN PORK</title>
+<utube>-W8ycn1i5Hk</utube>
+<thumbnail>https://i.ytimg.com/vi/-W8ycn1i5Hk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sHN0VmU5Nou8Gf0F6fAo406K_aM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PULLED PORK + COLESLAW SLIDER</title>
+<utube>C89CAx5a1PU</utube>
+<thumbnail>https://i.ytimg.com/vi/C89CAx5a1PU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YKD225rmurzHYDXQml-QXE4hY7U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE COLESLAW</title>
+<utube>Kae2m9fn1V0</utube>
+<thumbnail>https://i.ytimg.com/vi/Kae2m9fn1V0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dE5PJzEgi4m9_sVHhJ2Vwzy06Kc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MAYONNAISE</title>
+<utube>f-4GdGqm40g</utube>
+<thumbnail>https://i.ytimg.com/vi/f-4GdGqm40g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ih7H3YgEAg_VYxM7I-hlMW2BdSU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE OREO POPCORN BITES</title>
+<utube>EUFPxK71utU</utube>
+<thumbnail>https://i.ytimg.com/vi/EUFPxK71utU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TP3lZzLORmkL1Kl51MX-XO7rARg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE UNICORN POOP PINATA COOKIES</title>
+<utube>pS5Kajo4nww</utube>
+<thumbnail>https://i.ytimg.com/vi/pS5Kajo4nww/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=v-DyobqY8dcmrUc9ltlXH24gogQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DEEP FRIED CHOCOLATE COVERED STRAWBERRIES</title>
+<utube>Kgxzov7ubJo</utube>
+<thumbnail>https://i.ytimg.com/vi/Kgxzov7ubJo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mj_KjNpA7I3FqOWRlyfpBVfFItE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHEESECAKE CHIMICHANGAS</title>
+<utube>6MvYNrkCfg0</utube>
+<thumbnail>https://i.ytimg.com/vi/6MvYNrkCfg0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZTk4ypibuJ0Al2ba2u9Rvessh_0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SALMON PATTIES</title>
+<utube>AbbDyA8HIUE</utube>
+<thumbnail>https://i.ytimg.com/vi/AbbDyA8HIUE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lpt7262kwrelPd_yzpT0_BvW-XY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CRUNCHY COCONUT CHICKEN</title>
+<utube>aYaonkCNtcA</utube>
+<thumbnail>https://i.ytimg.com/vi/aYaonkCNtcA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HboeJeoXqr8etv2wZU4rm9wc-KQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE FERRERO ROCHER CAKE POPS</title>
+<utube>My2lY4Cfw6w</utube>
+<thumbnail>https://i.ytimg.com/vi/My2lY4Cfw6w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BM_e7187uDeiMOnmQl3AlULk_sw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE YOUR OWN MARVELLOUS CREATIONS CHOCOLATE & FUDGE</title>
+<utube>5c_dhAsgal0</utube>
+<thumbnail>https://i.ytimg.com/vi/5c_dhAsgal0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nLmBgZtvBaAGEZ2-ijaMp8PmkM0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE POCKY STICKS</title>
+<utube>rhjZxiNptqQ</utube>
+<thumbnail>https://i.ytimg.com/vi/rhjZxiNptqQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tlLMrlMJMB9Doh43J8UP0VRkWio</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE RAINBOW MERINGUE KISSES</title>
+<utube>2fVumjVC1xg</utube>
+<thumbnail>https://i.ytimg.com/vi/2fVumjVC1xg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=y7DQbG-jWRn6U9K3-zTdUKHNMRo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CRUSTY SAVOURY BREAD ROLLS</title>
+<utube>cGMS13Z9z10</utube>
+<thumbnail>https://i.ytimg.com/vi/cGMS13Z9z10/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=veo5y5HFxPxTwcsGHA9OQWDTx3I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE 30 SECOND MICROWAVE LAVA CAKES</title>
+<utube>C5xwNGwSUWM</utube>
+<thumbnail>https://i.ytimg.com/vi/C5xwNGwSUWM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qUBqeBHA_zha3Y2issX0hS03_8Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A MICROWAVE CHEESECAKE</title>
+<utube>lRHtLhI6-mY</utube>
+<thumbnail>https://i.ytimg.com/vi/lRHtLhI6-mY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yF92erX0iSV552TXWpfj38igyvk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MILK & COOKIE CUPS (Rainbow,TieDye,Chocolate Chip)</title>
+<utube>npwCyJdK5rI</utube>
+<thumbnail>https://i.ytimg.com/vi/npwCyJdK5rI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pABnTj4BuzWy27ENGGfdYukJHR8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHEWY ANZAC BISCUITS</title>
+<utube>DTsHMgOUSzo</utube>
+<thumbnail>https://i.ytimg.com/vi/DTsHMgOUSzo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2PnxafsmST-fzc4gp3mNEmAe4M8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHEESECAKE TRUFFLES</title>
+<utube>_LJ4xxOmHKQ</utube>
+<thumbnail>https://i.ytimg.com/vi/_LJ4xxOmHKQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bbpQsjFQp5dWuSWeJlyh6JgIg5M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHERRY RIPE TRUFFLES</title>
+<utube>PYFAv2IXsyg</utube>
+<thumbnail>https://i.ytimg.com/vi/PYFAv2IXsyg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7YfV0ctlNV4PKCqjJZMh0EgQUoE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE REESE'S PEANUT BUTTER EGGS</title>
+<utube>-ucTTFpn748</utube>
+<thumbnail>https://i.ytimg.com/vi/-ucTTFpn748/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sKYg0ksHvd-Q_EnGlLVZdrqpylk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE HOT CROSS MUFFINS</title>
+<utube>CS0rTtKN9MA</utube>
+<thumbnail>https://i.ytimg.com/vi/CS0rTtKN9MA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jRqpoHKPuEuL4If_DReF627JP8M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE FRIED DUMPLINGS</title>
+<utube>tLkNsGCnitI</utube>
+<thumbnail>https://i.ytimg.com/vi/tLkNsGCnitI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=H3aZwyVNcU7GNc0A-mq5KtGPlSY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE NASI GORENG</title>
+<utube>Uut5krdptZM</utube>
+<thumbnail>https://i.ytimg.com/vi/Uut5krdptZM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GQJPFcUG8xqQnpCUVs4rfS-I1zk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PEANUT BUTTER & JELLY DONUTS</title>
+<utube>FjOBtBngI9M</utube>
+<thumbnail>https://i.ytimg.com/vi/FjOBtBngI9M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=l2_N8XLQ1_YMDOyu5yj2p7wsgqQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CINNAMON DONUT CUPCAKES</title>
+<utube>RvPnB056Y60</utube>
+<thumbnail>https://i.ytimg.com/vi/RvPnB056Y60/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oA1HeTsdq5aFzFdIW__6PUgHMDI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE FLUFFY SCONES</title>
+<utube>LLNGl7jjpIs</utube>
+<thumbnail>https://i.ytimg.com/vi/LLNGl7jjpIs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jhnXwuvEd5ffT4yhzEOSwvIG2W4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MUESLI COOKIE BITES</title>
+<utube>HcfelyTfs0g</utube>
+<thumbnail>https://i.ytimg.com/vi/HcfelyTfs0g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ps7YVnV74UMLj1OS0E25WLR-yHs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE WHITE CHOCOLATE CHERRY COOKIES</title>
+<utube>eszjdImrV6c</utube>
+<thumbnail>https://i.ytimg.com/vi/eszjdImrV6c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aROJySd0lbssdXsh6KoApufcG90</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE SOUFFLES</title>
+<utube>Z_DLNneSoyw</utube>
+<thumbnail>https://i.ytimg.com/vi/Z_DLNneSoyw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5cUQ1Qybqp7u7LCjLHrfGTQ7lZE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A CHOCOLATE NUTELLA TART (Gluten Free)</title>
+<utube>b31cjZ2i5s8</utube>
+<thumbnail>https://i.ytimg.com/vi/b31cjZ2i5s8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ovn2yOIdTCqWoxPXDtHlILgDV_A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A HEALTHY GREEN SMOOTHIE</title>
+<utube>ftwsj3IMJM0</utube>
+<thumbnail>https://i.ytimg.com/vi/ftwsj3IMJM0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pdz5isF28VUpfP5X-OOAgOMwK2I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE BEST  WAFFLES</title>
+<utube>0PgYcC1zsUI</utube>
+<thumbnail>https://i.ytimg.com/vi/0PgYcC1zsUI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=i20o71uZTQv_BJ6xJWhmq3wz3H0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BLUEBERRY BREAD</title>
+<utube>bR5tdTkP_FU</utube>
+<thumbnail>https://i.ytimg.com/vi/bR5tdTkP_FU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CVeM_LNbajHFB3XO07bN__zQUCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BLUE VELVET OLAF CUPCAKES: Disney's "Frozen"</title>
+<utube>_Db5q8QJLMk</utube>
+<thumbnail>https://i.ytimg.com/vi/_Db5q8QJLMk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IxP19Ym9o3XdWOT8cbiwJ3CL1po</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE S'MORES CHEESECAKE CUPS</title>
+<utube>jPruKk1fWlE</utube>
+<thumbnail>https://i.ytimg.com/vi/jPruKk1fWlE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pXUGg5DP0QDCW_y6gEq2qWnzX8Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A FUDGY S'MORES SLICE</title>
+<utube>xxlwbWmUwPs</utube>
+<thumbnail>https://i.ytimg.com/vi/xxlwbWmUwPs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gfN-FxUtulNzw1CPNVMHuS20GR4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A GIANT PIZZA COOKIE</title>
+<utube>H7ti-lwYk_A</utube>
+<thumbnail>https://i.ytimg.com/vi/H7ti-lwYk_A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-4WvEYfjdf3gkuOdmchc9mjXwZU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE JERK CHICKEN</title>
+<utube>NAP1skGlqgs</utube>
+<thumbnail>https://i.ytimg.com/vi/NAP1skGlqgs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nK6qD60FQ_POiZo3pOJtTlwHH2g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A RASPBERRY "BUBBLE" CAKE (Bublanina)</title>
+<utube>jhh6UWrv4r0</utube>
+<thumbnail>https://i.ytimg.com/vi/jhh6UWrv4r0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GeV6FX9KKIvQEY_JTl6nwBOqaqY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A LAYERED CHOCOLATE MOUSSE CAKE</title>
+<utube>pjM_UBEexkI</utube>
+<thumbnail>https://i.ytimg.com/vi/pjM_UBEexkI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AUq_LBHFJhiy_7UacENnJlmiSyA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MERRY CHRISTMAS EVERYONE</title>
+<utube>J_gXQnRpGho</utube>
+<thumbnail>https://i.ytimg.com/vi/J_gXQnRpGho/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XCwo2HOhi5XSKZRzA-UkADnhhpo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CANDY CANES</title>
+<utube>ZKnrRIsJMRE</utube>
+<thumbnail>https://i.ytimg.com/vi/ZKnrRIsJMRE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mIdRrKZ9M1H_UXbe9nZZIFbcIaM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A CREAMY POTATO BAKE</title>
+<utube>NHVI4dSLNtU</utube>
+<thumbnail>https://i.ytimg.com/vi/NHVI4dSLNtU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zYk0lthb12SuDTUGKBNeUGx2XXo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CANDY/CHOCOLATE BAR ICE CREAM BITES</title>
+<utube>9MJGfppAPlQ</utube>
+<thumbnail>https://i.ytimg.com/vi/9MJGfppAPlQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X_FBbSosDWrHkVwVnjdk4Jlr7eI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A CHOCOLATE PAVLOVA (with Nutella & Maltesers)</title>
+<utube>6boHGL4MuOE</utube>
+<thumbnail>https://i.ytimg.com/vi/6boHGL4MuOE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-Lj317PhErcS9PoGPL0aKe1SWcQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CARAMEL SLICE BITES</title>
+<utube>Af0V0OsFn0w</utube>
+<thumbnail>https://i.ytimg.com/vi/Af0V0OsFn0w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u3COKmK4tCGuHe4ZDrGDbdnRyJs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPRING ROLLS (low fat recipe)</title>
+<utube>2Q-Nq6kxpfg</utube>
+<thumbnail>https://i.ytimg.com/vi/2Q-Nq6kxpfg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=z2I9xjaux8djL0-uZ7nIDBePFS0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CINNAMON SCROLLS</title>
+<utube>iaVbKQLcRWw</utube>
+<thumbnail>https://i.ytimg.com/vi/iaVbKQLcRWw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-5vhAOo0mwSoYT2HJ-PYL2TswDM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BLOOD SPLATTERED COOKIES</title>
+<utube>gfLqslngor0</utube>
+<thumbnail>https://i.ytimg.com/vi/gfLqslngor0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wpLSsGYEv6cVDGsohHFD-W9nOuU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ZOMBIE CAKE POP CUPCAKES</title>
+<utube>h4012XGDx4I</utube>
+<thumbnail>https://i.ytimg.com/vi/h4012XGDx4I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k4iTTiGvBLGcTAd6BBbQL84_Izw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE GUMMY/JELLO EYEBALLS</title>
+<utube>xOGZdTHSSGU</utube>
+<thumbnail>https://i.ytimg.com/vi/xOGZdTHSSGU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qrZKCzR3Z56OGPSRs74haF9e0FE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE STRAWBERRY CHEESECAKE ICE CREAM</title>
+<utube>z7qnyzSudCw</utube>
+<thumbnail>https://i.ytimg.com/vi/z7qnyzSudCw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c0kDH2OoKLBXJkoQkCwALD0Z-Vk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A QUICK & EASY VEGETARIAN BURRITO</title>
+<utube>I7zxYGCRFno</utube>
+<thumbnail>https://i.ytimg.com/vi/I7zxYGCRFno/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wrH4JNq5S1jgZLyE1tUgz0ATYbE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE OVEN BAKED BANANA DONUTS</title>
+<utube>2gPJebwN3LA</utube>
+<thumbnail>https://i.ytimg.com/vi/2gPJebwN3LA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KdfWHR0j5LZZRX6DPIwgbl_Unls</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MALTESER CUPCAKES</title>
+<utube>jLXch7Ho_vg</utube>
+<thumbnail>https://i.ytimg.com/vi/jLXch7Ho_vg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HZ-XJwmaGkvDdNFeWtn9sKbLm2E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE RAINBOW GUMMY BEAR CUPCAKES</title>
+<utube>Onm4ZgvHyqc</utube>
+<thumbnail>https://i.ytimg.com/vi/Onm4ZgvHyqc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5fkegMNreJqjDtR722HOQYeYwLs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE DEEP FRIED NUTELLA COOKIE DOUGH BALLS</title>
+<utube>jFXd5I5fVZU</utube>
+<thumbnail>https://i.ytimg.com/vi/jFXd5I5fVZU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f-8wg7tBh67hXWIy1hVkNYh9VPA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>COOKIE DOUGH BROWNIE BITES/POPS</title>
+<utube>9DHLHYns8IQ</utube>
+<thumbnail>https://i.ytimg.com/vi/9DHLHYns8IQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xavtnUm6tVU0sXirJBIQX7gGX44</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE WHOOPIE PIES</title>
+<utube>zviQLS_mO3c</utube>
+<thumbnail>https://i.ytimg.com/vi/zviQLS_mO3c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3V3N-Ji5JygUx4PSQgWjG_PD_J8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>GIVEAWAY PRIZE WINNER ANNOUNCED</title>
+<utube>pIjJLiId5A0</utube>
+<thumbnail>https://i.ytimg.com/vi/pIjJLiId5A0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BLnhSZ6y5qfMRSUhxDTejqhvK8E</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE YOUR OWN TOASTED MUESLI / GRANOLA</title>
+<utube>Pa-EArTJp5Y</utube>
+<thumbnail>https://i.ytimg.com/vi/Pa-EArTJp5Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=44uAtG94VHjGKUYlsoWGWloRQVc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A FLUFFY CHEESY OMELETTE</title>
+<utube>B98NzM8r65s</utube>
+<thumbnail>https://i.ytimg.com/vi/B98NzM8r65s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AXb1zTte-SQUM0_yUjq0TsQqqIs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Q&A ANSWERS VIDEO</title>
+<utube>Yc8sbyOpOQQ</utube>
+<thumbnail>https://i.ytimg.com/vi/Yc8sbyOpOQQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5qFVN9qx6YtBbHFcoIXWqs-j-fo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>COOKING WITH KARMA GIVEAWAY!!  ---- CONTEST NOW CLOSED!!!</title>
+<utube>boFvITsin4c</utube>
+<thumbnail>https://i.ytimg.com/vi/boFvITsin4c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G4zQAJIWse7_vrPpo1OvQnQeVVw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PEANUT BUTTER COOKIE CUPCAKES</title>
+<utube>IEGMhvNeRiM</utube>
+<thumbnail>https://i.ytimg.com/vi/IEGMhvNeRiM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NsAOQwH5FbgBhNIFK8yk8Xcn6oA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PEANUT BUTTER POPCORN SLICE</title>
+<utube>6Za6A6w41o8</utube>
+<thumbnail>https://i.ytimg.com/vi/6Za6A6w41o8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dO6lvpQE1rIODFjuLBVMlsP8SBk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE RANCH DRESSING</title>
+<utube>t0vcBJcdmwg</utube>
+<thumbnail>https://i.ytimg.com/vi/t0vcBJcdmwg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=il2hjamp__8CWZlqOM87M_CR4Cc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BASIL PESTO</title>
+<utube>wEkFueC6Hgg</utube>
+<thumbnail>https://i.ytimg.com/vi/wEkFueC6Hgg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=V91MP5jnW0D7dKLrUEGphLnFuyQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A CHOCOLATE PEANUT BUTTER CREAM MUG CAKE (no egg recipe)</title>
+<utube>TczobpivouA</utube>
+<thumbnail>https://i.ytimg.com/vi/TczobpivouA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=70f4zaFaKwnXGQAajNCEuiHxFKs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A RED VELVET MUG CAKE (no egg recipe)</title>
+<utube>Hwm6cBWOtHY</utube>
+<thumbnail>https://i.ytimg.com/vi/Hwm6cBWOtHY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3_Y_kWDkTCORCebNoLCaL4hcwRw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Q & A with Karma</title>
+<utube>l609IBrE3ps</utube>
+<thumbnail>https://i.ytimg.com/vi/l609IBrE3ps/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCRpC5LeDwcKvDH6pH8ejFM1l1I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CRONUTS (How to video)</title>
+<utube>ffyxG4iIqR0</utube>
+<thumbnail>https://i.ytimg.com/vi/ffyxG4iIqR0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J55m9MDSO8yqkWf8GMF-YvZ4rjQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CARAMEL SAUCE</title>
+<utube>QuY6M0MQa6A</utube>
+<thumbnail>https://i.ytimg.com/vi/QuY6M0MQa6A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NSxdBX9xkeQZjYs5peahqU8SniI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE LEMON CURD</title>
+<utube>Zp3_KHu5YUM</utube>
+<thumbnail>https://i.ytimg.com/vi/Zp3_KHu5YUM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=s3mgmKpRcErCLpp8ChOOrKBNkWk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A LEMON CHEESECAKE SLICE</title>
+<utube>IBAx_nT_zGo</utube>
+<thumbnail>https://i.ytimg.com/vi/IBAx_nT_zGo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_b2qgGuUxHBPuCePArNPHYaxTPk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE LEMON SUGAR COOKIES</title>
+<utube>BaC0CIOHrX4</utube>
+<thumbnail>https://i.ytimg.com/vi/BaC0CIOHrX4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=aNd2F6fcj2Qp5AEDtxVqfDACNRM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TRIPLE CHOCOLATE OREO BROWNIES</title>
+<utube>_P9N4QxT4Xk</utube>
+<thumbnail>https://i.ytimg.com/vi/_P9N4QxT4Xk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rGSmmg8Xbj_1-G3JhCGXHSUvvUg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOC CARAMEL FUDGE BROWNIES: with caramel sauce</title>
+<utube>xAlEyBAdCRM</utube>
+<thumbnail>https://i.ytimg.com/vi/xAlEyBAdCRM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gnKPfA6WvnTdtYEDkE2f8c68fS8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE AN ASPARAGUS TART (Vegetarian Recipe)</title>
+<utube>op2spZCW5WA</utube>
+<thumbnail>https://i.ytimg.com/vi/op2spZCW5WA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=L8PcSa72l6u2OwbEg7WMdYC4hLw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE M&M MARSHMALLOW COOKIES</title>
+<utube>SOU3veym8wE</utube>
+<thumbnail>https://i.ytimg.com/vi/SOU3veym8wE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=G8J97rLMmh6b-sdtQ4RLEr5Gc3g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MINI ICE CREAM CAKE POPS</title>
+<utube>yMcguv084L0</utube>
+<thumbnail>https://i.ytimg.com/vi/yMcguv084L0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DFlDsVCeEio5MLmeZhNXJK9gCgU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHEESY HERB & POTATO BREAD</title>
+<utube>9Cpi44a2E6w</utube>
+<thumbnail>https://i.ytimg.com/vi/9Cpi44a2E6w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5HgGKTy-D-oalGXglNLPoFYVLDo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ICE CREAM BREAD: Cookies n Cream</title>
+<utube>eOf-JTuJT6U</utube>
+<thumbnail>https://i.ytimg.com/vi/eOf-JTuJT6U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=w-6R9UykCo_KSkBY_h8mAA4D3ao</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A MAGIC CAKE .. AMAZING 1 BATTER 3 LAYERS!!</title>
+<utube>5-1_O5hKbeA</utube>
+<thumbnail>https://i.ytimg.com/vi/5-1_O5hKbeA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ye9m7yjGAGA_rF-A8Q1FFiIq58k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE AN UPSIDE DOWN PEAR CAKE</title>
+<utube>lvVyTiAaEUY</utube>
+<thumbnail>https://i.ytimg.com/vi/lvVyTiAaEUY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sBuEwmgeDMZfRKLbQzm87-ZQkwY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SOUR CREAM AND APPLE SLICE</title>
+<utube>FE2B85IycOw</utube>
+<thumbnail>https://i.ytimg.com/vi/FE2B85IycOw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gkmzBqsv2szQIyfVSRq6qHBTsWU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE SLICE</title>
+<utube>AkpPe5iLsk4</utube>
+<thumbnail>https://i.ytimg.com/vi/AkpPe5iLsk4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tXCvXgP404mA9eVu9Hzi09r6C8I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CREME BRULEE</title>
+<utube>F8Tlng4M_8Y</utube>
+<thumbnail>https://i.ytimg.com/vi/F8Tlng4M_8Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7DhjGtEUfeE_0CPSUawY3UAARjQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CREME BRULEE (MARSHMALLOW) FUDGE</title>
+<utube>IRbWJqy2wJw</utube>
+<thumbnail>https://i.ytimg.com/vi/IRbWJqy2wJw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j3xY8QGdM7autRiHaM6aN4TvBNY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ICE CREAM IN 2 MINUTES</title>
+<utube>8zQL9uMK0ho</utube>
+<thumbnail>https://i.ytimg.com/vi/8zQL9uMK0ho/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-Xe1JulrOLdBe6JhRIapJgIhT7Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHUNKY CHOCOLATE ICE CREAM</title>
+<utube>M5L8k6rCyLA</utube>
+<thumbnail>https://i.ytimg.com/vi/M5L8k6rCyLA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dijwGr5grgM7BixIz_tC1FGJpBs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHEESE & BACON SCROLLS</title>
+<utube>uf5wSsZv9ho</utube>
+<thumbnail>https://i.ytimg.com/vi/uf5wSsZv9ho/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3YQ84GsFl-Ne0ohKk2sY0Gpoa8Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SUPER EASY APPLE PIES (better than McDonald's)</title>
+<utube>BDgHu8LFm-w</utube>
+<thumbnail>https://i.ytimg.com/vi/BDgHu8LFm-w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jnhXtMlucipLL1pkJ9YOFiVfU_s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BUMPER BLT BURGER</title>
+<utube>NJYw42PTzUo</utube>
+<thumbnail>https://i.ytimg.com/vi/NJYw42PTzUo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZK34Q5Y510VAiU0DVcvStqz7HS8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>DECADENT FERRERO ROCHER CHEESECAKE</title>
+<utube>qdPwrDlmdT4</utube>
+<thumbnail>https://i.ytimg.com/vi/qdPwrDlmdT4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AKFCNuMiH2SNGpOx5KQqWnoyh4M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A TIRAMISU CHEESECAKE</title>
+<utube>GSRxY8L2Fz4</utube>
+<thumbnail>https://i.ytimg.com/vi/GSRxY8L2Fz4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FCty2IqQH9xZYpymvZfmuhQ1VMs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PIZZA PIES</title>
+<utube>pmWLsb9l-sw</utube>
+<thumbnail>https://i.ytimg.com/vi/pmWLsb9l-sw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Zd810JfKc6782MmZ71TcTWUWxfc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TORTILLA CUPS</title>
+<utube>W9mgbqWZ508</utube>
+<thumbnail>https://i.ytimg.com/vi/W9mgbqWZ508/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q_-EgZI3gDjevKXr9Q3hquqGjZo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE HOMEMADE TOMATO KETCHUP/SAUCE</title>
+<utube>iuI2ikfLZ6A</utube>
+<thumbnail>https://i.ytimg.com/vi/iuI2ikfLZ6A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lp05PyePC-7Tzad7KuaoRhkJEac</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A ROASTED TOMATO AND RICOTTA TART</title>
+<utube>nvlm1KFmokM</utube>
+<thumbnail>https://i.ytimg.com/vi/nvlm1KFmokM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f4q9ycpQgPvvpPivhheKx9GU4nE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE HEALTHY BANANA NUT BARS</title>
+<utube>1yyoaKmdFbw</utube>
+<thumbnail>https://i.ytimg.com/vi/1yyoaKmdFbw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3SU3-VUTRqzniB0tUaoxHAqoElw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE BEST BANANA BREAD</title>
+<utube>-ClDM2SirqM</utube>
+<thumbnail>https://i.ytimg.com/vi/-ClDM2SirqM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_ohFVMr2lksXHRYlmtF9lxcPfkE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE MOCHA CUPCAKES</title>
+<utube>izeRIArLrHs</utube>
+<thumbnail>https://i.ytimg.com/vi/izeRIArLrHs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7Zq6ftCnz-0UF9kl5FVAmfqmNu8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CADBURY CREME EGGS</title>
+<utube>bGdJVriWdOc</utube>
+<thumbnail>https://i.ytimg.com/vi/bGdJVriWdOc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gYq2_P_ThZor4zbL8UYIQT9eYHU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CRISPY OVEN BAKED CHICKEN WINGS</title>
+<utube>0g1_fpp1kYE</utube>
+<thumbnail>https://i.ytimg.com/vi/0g1_fpp1kYE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h4HnrYSxDwuN1VJRQc6a0sa2J90</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHICKEN NUGGETS: Baked not fried</title>
+<utube>FyeOmn95HBI</utube>
+<thumbnail>https://i.ytimg.com/vi/FyeOmn95HBI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3kIooe351IZedD7k8DMHK1y_3bc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PERFECT CREPES</title>
+<utube>QCo0Lk8jDI8</utube>
+<thumbnail>https://i.ytimg.com/vi/QCo0Lk8jDI8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-ER7W9vLYh4QYKD63XUzw1nxwtg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PERFECT FLUFFY PANCAKES</title>
+<utube>1EXUX0MB_68</utube>
+<thumbnail>https://i.ytimg.com/vi/1EXUX0MB_68/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ss-Fn_e_E0ZNUeQWOGb0kJLfu3g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BLUEBERRY CUSTARD TARTLETS</title>
+<utube>_-tGvYCoQKs</utube>
+<thumbnail>https://i.ytimg.com/vi/_-tGvYCoQKs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EENb38PyNC3jZeEehKO0OR8k824</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BLUEBERRY MUFFINS: with crumble topping</title>
+<utube>NeYngvJ4BsY</utube>
+<thumbnail>https://i.ytimg.com/vi/NeYngvJ4BsY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=wARrr7vOLTYfzpt8w-WWFmdYLrg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE POTATO CROQUETTES</title>
+<utube>30l56ZtbZq0</utube>
+<thumbnail>https://i.ytimg.com/vi/30l56ZtbZq0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3AKHOzGVqWS_JQrzHkewoRnOSA8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A POTATO FRITTATA</title>
+<utube>xTtmvFLTFbg</utube>
+<thumbnail>https://i.ytimg.com/vi/xTtmvFLTFbg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UnhCDTXQcG4yy8Wb9Umwhn7jHS4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE STRAWBERRY CREAMS</title>
+<utube>MnFm8LUZTuc</utube>
+<thumbnail>https://i.ytimg.com/vi/MnFm8LUZTuc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TvrPdApJOZz1TpUfo0kH47eK7PE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE POTS de CREME</title>
+<utube>BpGIQ-npCOg</utube>
+<thumbnail>https://i.ytimg.com/vi/BpGIQ-npCOg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nqm_uVfgdDPbIm--fY-fXMspd9s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TWIX FUDGE</title>
+<utube>5JOr8JYsghM</utube>
+<thumbnail>https://i.ytimg.com/vi/5JOr8JYsghM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-ggyHQLWf5tnWVus24uefhq3Ioo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE OREO NUTELLA FUDGE</title>
+<utube>ta3qw750g_E</utube>
+<thumbnail>https://i.ytimg.com/vi/ta3qw750g_E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QiaKVjQykTEd8WSpBDwfAzMMtwE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE S'MORES POP TARTS</title>
+<utube>bnYWf5HOHHE</utube>
+<thumbnail>https://i.ytimg.com/vi/bnYWf5HOHHE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pdoKzm56lVOyLBvmYkheyBs2RLA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE S'MORES COOKIES</title>
+<utube>FqbltbgyeIA</utube>
+<thumbnail>https://i.ytimg.com/vi/FqbltbgyeIA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OjjjQ5dLvnOqwLUkn7Qi7QK6oI8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE HASH BROWNS</title>
+<utube>Gs7Bg6hLo84</utube>
+<thumbnail>https://i.ytimg.com/vi/Gs7Bg6hLo84/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VsnIw8wQj5-XTx87iitKgYWoFEE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ONION RINGS</title>
+<utube>ZXY0C7_6VF8</utube>
+<thumbnail>https://i.ytimg.com/vi/ZXY0C7_6VF8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TlDDIfcFT9YZrCpodJFsOr3bph0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MERRY XMAS EVERYONE!!</title>
+<utube>_yVzRRZAM7E</utube>
+<thumbnail>https://i.ytimg.com/vi/_yVzRRZAM7E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vX3JEoG5qMDDyV1lTgWAHzJnH6o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MINI CHRISTMAS PUDDINGS: with Caramel/Brandy sauce</title>
+<utube>txQKdGu8IWw</utube>
+<thumbnail>https://i.ytimg.com/vi/txQKdGu8IWw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZN6-n90iaUnCkWED2rR-20fgozs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MAPLE FLAVOURED ROASTED VEGETABLES</title>
+<utube>SsCJg3XShBk</utube>
+<thumbnail>https://i.ytimg.com/vi/SsCJg3XShBk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j5hofIL_ox4HmTNz9NUIkoxRizk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE FRUIT MINCE SLICE</title>
+<utube>vyIynRH_CCw</utube>
+<thumbnail>https://i.ytimg.com/vi/vyIynRH_CCw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BoY1PRE4dWIV6b7hCbMZtz-JaWs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE WHITE CHRISTMAS TREES</title>
+<utube>zQir5shRhS4</utube>
+<thumbnail>https://i.ytimg.com/vi/zQir5shRhS4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oQkzasvzlW6RfLuvcYqJfgk0nng</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE GINGERBREAD COOKIES</title>
+<utube>hbRrA53brMw</utube>
+<thumbnail>https://i.ytimg.com/vi/hbRrA53brMw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h-h7tLbIp7KA14WcgE6EJXZY7SM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE NUTELLA PEANUT BUTTER ICE CREAM: No ice cream maker recipe</title>
+<utube>O48aPrMKC0Q</utube>
+<thumbnail>https://i.ytimg.com/vi/O48aPrMKC0Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hsH78qrywAs6ojW4tTV0ApH4kwU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE CHEESECAKE CUPCAKES</title>
+<utube>hEOZxJ6IbmE</utube>
+<thumbnail>https://i.ytimg.com/vi/hEOZxJ6IbmE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nKoWB2lREuDKGnnfb60J-08aXBk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CREME BRULEE CHEESECAKE</title>
+<utube>yeBNGMrqGTM</utube>
+<thumbnail>https://i.ytimg.com/vi/yeBNGMrqGTM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uXMQd3clpfQz6YGttp5EzxPZaVA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PASSIONFRUIT & COCONUT TART</title>
+<utube>gSjlOXiY1cA</utube>
+<thumbnail>https://i.ytimg.com/vi/gSjlOXiY1cA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kUW31-YvMsjCnxSsosYILTZAgWc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MELTING MOMENTS</title>
+<utube>-WMAHv-7i5o</utube>
+<thumbnail>https://i.ytimg.com/vi/-WMAHv-7i5o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7oPx08mWbNX1s49SeUAdfKvMmuU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CORN & ZUCCHINI FRITTERS</title>
+<utube>UbZau7vYGd4</utube>
+<thumbnail>https://i.ytimg.com/vi/UbZau7vYGd4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fXlpfCYBaguJWe01v1uuDq98f6I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BEEF SKEWERS with HOMEMADE SATAY SAUCE</title>
+<utube>rOC7TbRMkHU</utube>
+<thumbnail>https://i.ytimg.com/vi/rOC7TbRMkHU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IdgIwHqP-_TU5eu88OkI11OK0OU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ICED COFFEE: 3 different ways (regular, vietnamese & milkshake)</title>
+<utube>4Fut-XPRGOs</utube>
+<thumbnail>https://i.ytimg.com/vi/4Fut-XPRGOs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MO0_5-7yZ8KyWo44aYM3UG-ohv8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE LEMONADE</title>
+<utube>OIJrOQALhTQ</utube>
+<thumbnail>https://i.ytimg.com/vi/OIJrOQALhTQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EnDXnWqV7YQ3nysqzbTmhowS0dM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PLAY DOUGH: no cook recipe (edible variation)</title>
+<utube>K9UgTr4fU74</utube>
+<thumbnail>https://i.ytimg.com/vi/K9UgTr4fU74/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zaur1KmPYXKIUZL0YdyE1enRhx8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A RAINBOW TIE DYE CAKE</title>
+<utube>vs4jgKLxumQ</utube>
+<thumbnail>https://i.ytimg.com/vi/vs4jgKLxumQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3Pbwe568pQJ5Y-Ue_trL43nGVyc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MARSHMALLOWS: Vanilla & Nutella</title>
+<utube>q8d8xj6d1ZU</utube>
+<thumbnail>https://i.ytimg.com/vi/q8d8xj6d1ZU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BCA4NuoJptn17H5IxEdLRlJwgOw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PEPPERMINT PATTIES</title>
+<utube>EbrWWPi08sI</utube>
+<thumbnail>https://i.ytimg.com/vi/EbrWWPi08sI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nfvUgcdw31w8360SQUY7bPrPy2g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE OREO CHOCOLATE MOUSSE</title>
+<utube>N-ZiIvCOhUw</utube>
+<thumbnail>https://i.ytimg.com/vi/N-ZiIvCOhUw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZEpoOoOLfsVHHaJLwNBCQJGN0t8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CREEPY CANDY APPLES</title>
+<utube>QdIVInaTfb0</utube>
+<thumbnail>https://i.ytimg.com/vi/QdIVInaTfb0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vkWPhtulbY1w9Uei5dPIpNzSYsg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE LASAGNE: with a twist</title>
+<utube>kpCieDMStiA</utube>
+<thumbnail>https://i.ytimg.com/vi/kpCieDMStiA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-fsbKrcyi_t8JnUtGlXCN5-hiwY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPAGHETTI NESTS</title>
+<utube>aQYt4WFLQVg</utube>
+<thumbnail>https://i.ytimg.com/vi/aQYt4WFLQVg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=F5UYu77bWi-fvEx_oHLIiP7vxUk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MINI BANOFFEE PIES</title>
+<utube>s9l_jjPA43A</utube>
+<thumbnail>https://i.ytimg.com/vi/s9l_jjPA43A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ecExjTy_QPN_kTPVlTtuqriWhAM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHICKEN BACON & VEGETABLE PIE</title>
+<utube>R5hYagdLk_M</utube>
+<thumbnail>https://i.ytimg.com/vi/R5hYagdLk_M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JmpDzrDy-lkTI079Nm899JTVYyg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SAVOURY POPCORN: Spicy & Cheesy!</title>
+<utube>DLOEKdsFhQE</utube>
+<thumbnail>https://i.ytimg.com/vi/DLOEKdsFhQE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ra2SnftQaL4iTf7ELweFsLdt4bo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CARAMEL POPCORN</title>
+<utube>H3egVUu4rww</utube>
+<thumbnail>https://i.ytimg.com/vi/H3egVUu4rww/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7GHJtUYI6LfAAbZHcSZHwO7T_kI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PIZZA FROM SCRATCH: dough and sauce</title>
+<utube>3s9wugWiQoI</utube>
+<thumbnail>https://i.ytimg.com/vi/3s9wugWiQoI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GndvPkuLMHS2p6m9fua19W65bnI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PRETZELS (soft & buttery)</title>
+<utube>xQfEvHzj-VU</utube>
+<thumbnail>https://i.ytimg.com/vi/xQfEvHzj-VU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xE6ctw0CGVRSfsHd5Fd7RogIuJU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE DONUTS: Cinnamon & Glazed</title>
+<utube>5F0YkwCgFL8</utube>
+<thumbnail>https://i.ytimg.com/vi/5F0YkwCgFL8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c5MX5DWpgQJb1kn2qOBaoazovRI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOC-CARAMEL FUDGE SLICE</title>
+<utube>9njkGxNAW68</utube>
+<thumbnail>https://i.ytimg.com/vi/9njkGxNAW68/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ytr3Gp2MMIsYqI2FaPtQA8HM1TE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TRIPLE CHOCOLATE CHIP COOKIES</title>
+<utube>fkWLm5UCiQM</utube>
+<thumbnail>https://i.ytimg.com/vi/fkWLm5UCiQM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lI84u-CK9AhVlaSnycXlEdWVmYQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE FRENCH MACARONS: a tutorial video</title>
+<utube>ab_sWdens7Q</utube>
+<thumbnail>https://i.ytimg.com/vi/ab_sWdens7Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=x1iFInj_4ZhGp64UTHBbCXIYe7w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE NUTELLA LAVA CAKES</title>
+<utube>E-So3ARrV1s</utube>
+<thumbnail>https://i.ytimg.com/vi/E-So3ARrV1s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mXMJXL8k0Z8Bg9dU9hGu9rVV-lE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TIRAMISU CUPS: with Baileys Irish Cream</title>
+<utube>84-U9ZXWRjw</utube>
+<thumbnail>https://i.ytimg.com/vi/84-U9ZXWRjw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EE5xIIXK5r3LnUln9HN1NdtgySM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE BROWNIES: Low calorie / low fat</title>
+<utube>hvqAw-h-Rdo</utube>
+<thumbnail>https://i.ytimg.com/vi/hvqAw-h-Rdo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tXJVvJGokCdXN_dIpLMW-Fe0w6k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MARS BAR CHEESECAKE: NO BAKE</title>
+<utube>X1fZndwxfkc</utube>
+<thumbnail>https://i.ytimg.com/vi/X1fZndwxfkc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=56V-Xwjt00Gy8L7gkRX5_i9yKA4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PUMPKIN & SWEET POTATO CURRY</title>
+<utube>y_T-C2dctOA</utube>
+<thumbnail>https://i.ytimg.com/vi/y_T-C2dctOA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2gZ7OS9wqqFovCffZNLW-VxrRPQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE DELICIOUS SPICY PUMPKIN SOUP</title>
+<utube>qZyXT15YH3I</utube>
+<thumbnail>https://i.ytimg.com/vi/qZyXT15YH3I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GFMSbwv2EjHgrUeJ0JIH158R1Ko</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE BEST EVER RED VELVET CUPCAKES</title>
+<utube>CMaZEmcES3o</utube>
+<thumbnail>https://i.ytimg.com/vi/CMaZEmcES3o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OxnItIBXbMmGYyIcUemlaf7uxnk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE COCA-COLA CUPCAKES</title>
+<utube>H6eC2mihU4Y</utube>
+<thumbnail>https://i.ytimg.com/vi/H6eC2mihU4Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1ak6Dhyri4fcjbNkwAn82U1Nl9U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TUNA POTATO CAKES</title>
+<utube>rmyvfNb5AvA</utube>
+<thumbnail>https://i.ytimg.com/vi/rmyvfNb5AvA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sYXEEg6zq7AdnTpkj-kTq3Nm_YY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPICY COCONUT PRAWNS</title>
+<utube>0XWLVorL9hI</utube>
+<thumbnail>https://i.ytimg.com/vi/0XWLVorL9hI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=im9VCU-rh6XxxxaGwsCiBe8gywQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE HOMEMADE FRENCH FRIES: Oven baked and deep fried</title>
+<utube>mJFfYdUYV_w</utube>
+<thumbnail>https://i.ytimg.com/vi/mJFfYdUYV_w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ez1STF1c_XsrKGmHhHt2MMTO1co</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE OVEN BAKED POTATO CHIPS - Salt n Vinegar</title>
+<utube>RxBtmgLILTw</utube>
+<thumbnail>https://i.ytimg.com/vi/RxBtmgLILTw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2ouuqyVJBf_4hc5du7S3pwbRczE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE BEST CHOCOLATE CAKE</title>
+<utube>OogsVJzl5tQ</utube>
+<thumbnail>https://i.ytimg.com/vi/OogsVJzl5tQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=z3z_mA3VLK6AHwmNucNBCfU1B3g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A DELICIOUS HOMEMADE CARROT CAKE</title>
+<utube>ToD9rw_QoJY</utube>
+<thumbnail>https://i.ytimg.com/vi/ToD9rw_QoJY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-TH94LbsEPQ60eXEUK1kVIFOdqs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>THANK YOU!!!</title>
+<utube>x7FtgoOALQw</utube>
+<thumbnail>https://i.ytimg.com/vi/x7FtgoOALQw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M00aAgvH2PInkZb3prUSM2xcEOk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE NAAN BREAD: Spinach/Cheese & Garlic</title>
+<utube>eoQlmIcaCvE</utube>
+<thumbnail>https://i.ytimg.com/vi/eoQlmIcaCvE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oA_EHrFsN0k8j7AJx3Vmbli9aCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE WHOLEMEAL BREAD</title>
+<utube>Nv2FMVsQTv4</utube>
+<thumbnail>https://i.ytimg.com/vi/Nv2FMVsQTv4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1Y7prRyJPs6Ss2Nzv3L2ZTJcQ4g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TOFFEE APPLE CUPCAKES</title>
+<utube>T0Zs2JrQQtE</utube>
+<thumbnail>https://i.ytimg.com/vi/T0Zs2JrQQtE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zMUX8ufoVSy8E_SNi83xCd5fE6U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A DELICIOUS HOMEMADE APPLE PIE</title>
+<utube>9uqZbXHogM0</utube>
+<thumbnail>https://i.ytimg.com/vi/9uqZbXHogM0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=by_87ZRq06vudMEB-oPukTinOuc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE QUICK & EASY BUTTER CHICKEN</title>
+<utube>8Xv8uX2_8YA</utube>
+<thumbnail>https://i.ytimg.com/vi/8Xv8uX2_8YA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bn1LB_rL6FfEEexssmVi5o8gLAg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PARMESAN HERB CHICKEN</title>
+<utube>B7Lh4KY2oOk</utube>
+<thumbnail>https://i.ytimg.com/vi/B7Lh4KY2oOk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eYptSGl3R4Ltr6n8eJhzZ2VV2EQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A CHAI LATTE</title>
+<utube>TZFTBSG_99k</utube>
+<thumbnail>https://i.ytimg.com/vi/TZFTBSG_99k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XznM6Hsq_okDtQU4tFAbgyTIU4w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE BEST HOT CHOCOLATE</title>
+<utube>A4Yl_ixxP-0</utube>
+<thumbnail>https://i.ytimg.com/vi/A4Yl_ixxP-0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=taYqnsVc9GMbnIwhGmeZb5Jk_8s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MEXICAN STYLE STUFFED CAPSICUMS</title>
+<utube>rkWktTx5R78</utube>
+<thumbnail>https://i.ytimg.com/vi/rkWktTx5R78/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tunYo6ZDAi4j1EgmYXtbbr1FJCM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE NACHOS BITES</title>
+<utube>JdXOh0FezyY</utube>
+<thumbnail>https://i.ytimg.com/vi/JdXOh0FezyY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OLAGnQudACNgbxn2usqSbLjT6b0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SNICKERS BARS</title>
+<utube>UHlc18C1Q0s</utube>
+<thumbnail>https://i.ytimg.com/vi/UHlc18C1Q0s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nV_9R4smFjzySoXLh1yZMyppbRc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE TWIX BARS</title>
+<utube>lWcluODtNKQ</utube>
+<thumbnail>https://i.ytimg.com/vi/lWcluODtNKQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CghUStQGy5nLRGvp7f3ZBB63ink</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE GUMMY WORMS</title>
+<utube>hzvmcjPtTHc</utube>
+<thumbnail>https://i.ytimg.com/vi/hzvmcjPtTHc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M7CmsxHtVeAilbKAu9vMfRCNJR8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SOUR BOMB POP ROCKS</title>
+<utube>FlWPW9Vsalo</utube>
+<thumbnail>https://i.ytimg.com/vi/FlWPW9Vsalo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AwmW-fZhscELsv6dESdvrpULBn8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A SIMPLE PAD THAI</title>
+<utube>kC0bfNceD1A</utube>
+<thumbnail>https://i.ytimg.com/vi/kC0bfNceD1A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=H2NgyRI2dtRzzBimwv24ogYjceo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THAI FISH CAKES</title>
+<utube>FW_3mL2ivQg</utube>
+<thumbnail>https://i.ytimg.com/vi/FW_3mL2ivQg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=N-lfcwGpfvoQnyAsoAeVNYNOiPs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MICROWAVE CHOCOLATE COATED PEANUT BRITTLE</title>
+<utube>qQaZC09KLEE</utube>
+<thumbnail>https://i.ytimg.com/vi/qQaZC09KLEE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hIbPTZzB5BS20KZm3eZAKfJk8NM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOMEMADE ROCKY ROAD: SPECIAL RECIPE</title>
+<utube>6x8cIge8OZ8</utube>
+<thumbnail>https://i.ytimg.com/vi/6x8cIge8OZ8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8Fu7ZrFklDWuibRYGqtziXeTm9g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BABA GANOUSH</title>
+<utube>Vqwd5O-Axmo</utube>
+<thumbnail>https://i.ytimg.com/vi/Vqwd5O-Axmo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fwh3CxOPQaJS2d8hlF-UFLeIv4s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE DELICIOUS HUMMUS!</title>
+<utube>N8I0kMIF0ic</utube>
+<thumbnail>https://i.ytimg.com/vi/N8I0kMIF0ic/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iyJ-G7Cum7-J_tlAinDyVTqIeY8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPIDERMAN & FAIRY PRINCESS CAKE POPS</title>
+<utube>KuaBmWIoWDY</utube>
+<thumbnail>https://i.ytimg.com/vi/KuaBmWIoWDY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OHiNSiIyIxNxeluyYbApAQb4Who</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE & DECORATE CAKE POPS</title>
+<utube>bmbHgmiTCXI</utube>
+<thumbnail>https://i.ytimg.com/vi/bmbHgmiTCXI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XTmmIqjcybAB4h7u9PwbZIT7-ZM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE FILLED CHURROS</title>
+<utube>6J_kr821kd8</utube>
+<thumbnail>https://i.ytimg.com/vi/6J_kr821kd8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2lyeg4w_8POobqIbOKOZpGaYGsM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MINI CORN DOGS</title>
+<utube>YVA6KjolJTM</utube>
+<thumbnail>https://i.ytimg.com/vi/YVA6KjolJTM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W77hZevJl0XK4v792Wo2Z5O9XAo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SUPER EASY LEMON MERINGUE PIES</title>
+<utube>b26Jz0eggDA</utube>
+<thumbnail>https://i.ytimg.com/vi/b26Jz0eggDA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EOVL1WulMAzLUem0HgOWa67QQtU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>LEMON HERB CHICKEN</title>
+<utube>ee0E4uOPxlw</utube>
+<thumbnail>https://i.ytimg.com/vi/ee0E4uOPxlw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OHh6L-wnBNxSiaYJuuZizrUFMVU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ULTIMATE CHOCOLATE HOT CROSS BUNS</title>
+<utube>wmtWichEBV8</utube>
+<thumbnail>https://i.ytimg.com/vi/wmtWichEBV8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sFcGHD2Jr7qvktQu1BDy8vZKVrI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ULTRA CHOCOLATE EASTER EGG SLICE</title>
+<utube>UWUlLLMTN3Q</utube>
+<thumbnail>https://i.ytimg.com/vi/UWUlLLMTN3Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=17GjBkIaFV-TbbGd5IgqLI6GrQo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MUSHROOM RISOTTO</title>
+<utube>m84pJf6Jsa8</utube>
+<thumbnail>https://i.ytimg.com/vi/m84pJf6Jsa8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PPfvbDIWry4LUjK5vMyHQEO_muI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MUSHROOM & FETA PIES</title>
+<utube>2cR54f7dSTs</utube>
+<thumbnail>https://i.ytimg.com/vi/2cR54f7dSTs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GqZ8sR5jVb9tsWfkg4DcLS_ZCzs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>WHITE CHOCOLATE STRAWBERRY SHORTCAKE</title>
+<utube>xilhxaE8hU8</utube>
+<thumbnail>https://i.ytimg.com/vi/xilhxaE8hU8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BxcoRAeX5gOqEoiw3wd-2HeMZJo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BERRY RICOTTA MUFFINS</title>
+<utube>A8fIff7RPGM</utube>
+<thumbnail>https://i.ytimg.com/vi/A8fIff7RPGM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=uxYRebLSL0NJcO1OKgOX1ianTaM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>NO BAKE OREO CHEESECAKE</title>
+<utube>iXczdnKz584</utube>
+<thumbnail>https://i.ytimg.com/vi/iXczdnKz584/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ADa0CsmZt4YOVRVibB263hnMayA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOMEMADE OREO ICE CREAM</title>
+<utube>eNXzRSUCKQA</utube>
+<thumbnail>https://i.ytimg.com/vi/eNXzRSUCKQA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=3CGIJZIJt8LWV8rnzmv20uKByHE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPAGHETTI BOLOGNESE</title>
+<utube>-oHMNz3DmCc</utube>
+<thumbnail>https://i.ytimg.com/vi/-oHMNz3DmCc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cXj5-mV0vHabMqv5sAvOJO7w05U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CANNELLONI: SPINACH AND RICOTTA</title>
+<utube>rYGaEJjyLQA</utube>
+<thumbnail>https://i.ytimg.com/vi/rYGaEJjyLQA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=j9W-Kw3pS7Ci7KZFt4MO07yWIHQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>FRENCH TOAST: Cinnamon & Banana</title>
+<utube>VELMUNGShbc</utube>
+<thumbnail>https://i.ytimg.com/vi/VELMUNGShbc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TKMxcdIoOYHhxVkenslLWR6sbDI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>EGGS BENEDICT: with Hollandaise Sauce</title>
+<utube>ZgEiM8-rRJU</utube>
+<thumbnail>https://i.ytimg.com/vi/ZgEiM8-rRJU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=u4JzLzeXEjkPZ4zC0mKbPk9Vvzs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOMEMADE CHOCOLATE: HOW TO MAKE YOUR OWN</title>
+<utube>fEEcOiINKCc</utube>
+<thumbnail>https://i.ytimg.com/vi/fEEcOiINKCc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=HnMpQenkl5ak1RYl5Rp5ZlNCS5c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MINI CHOCOLATE CHEESECAKES</title>
+<utube>b999XLc6kjY</utube>
+<thumbnail>https://i.ytimg.com/vi/b999XLc6kjY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X2nqGMowY0bJjdSK1SQkEV3Hb28</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BANANA COCONUT FRITTERS</title>
+<utube>LBmZGST5x1o</utube>
+<thumbnail>https://i.ytimg.com/vi/LBmZGST5x1o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-KMI69ZpM-a7ehm9dm_sbc1_02o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BANANA HONEY MUFFINS: with toasted coconut</title>
+<utube>-7OPDlax-Zw</utube>
+<thumbnail>https://i.ytimg.com/vi/-7OPDlax-Zw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CkCFwShf18z-06TWiJkj26jUnJA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>VEGETABLE SAMOSAS: OVEN BAKED</title>
+<utube>oqzS0VqnWnw</utube>
+<thumbnail>https://i.ytimg.com/vi/oqzS0VqnWnw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=K9Tkv9zJSxTVyX9cMmeD5mHlLaM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PUMPKIN & VEGETABLE BAKE</title>
+<utube>lOcuwPVpFes</utube>
+<thumbnail>https://i.ytimg.com/vi/lOcuwPVpFes/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tdrAacLlZED6hSVJKthDpbEFORQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>ROCKY ROAD BROWNIES</title>
+<utube>5JhmpBqdwWM</utube>
+<thumbnail>https://i.ytimg.com/vi/5JhmpBqdwWM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qUfQ7mw5yH9Ejs_AkWXFpa8-V-I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>TOBLERONE FUDGY COOKIES/MACARONS</title>
+<utube>MXhCejKNcO8</utube>
+<thumbnail>https://i.ytimg.com/vi/MXhCejKNcO8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XolL8Hk6bpbP1y6QqZ7W8Yc6d6I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>5 MINUTE CHOCOLATE FUDGE</title>
+<utube>kxRfI8XlbVc</utube>
+<thumbnail>https://i.ytimg.com/vi/kxRfI8XlbVc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pNrAYYtOBIvbsSvvV4at7Nnsd_k</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOMEMADE CHOC/HONEYCOMB CRUNCHIE BARS</title>
+<utube>bKdPHIF1Y1I</utube>
+<thumbnail>https://i.ytimg.com/vi/bKdPHIF1Y1I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9lYEgekgcULjm-Ao3SVYqRQaf9M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>BAILEYS MOCHA FRAPPE</title>
+<utube>G8mThmmU8Z0</utube>
+<thumbnail>https://i.ytimg.com/vi/G8mThmmU8Z0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iZ-sJdFSwq2SvcO8P5OzDwRY5_M</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE VODKA</title>
+<utube>vce16gicnos</utube>
+<thumbnail>https://i.ytimg.com/vi/vce16gicnos/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jyNKaXHQivWfSvaPY94tCvD4Jz0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>COTTON CANDY COCKTAIL</title>
+<utube>UiaN1Ne69dI</utube>
+<thumbnail>https://i.ytimg.com/vi/UiaN1Ne69dI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=g5xEx4ZdY1SzxrIArB7xASPKd84</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MERRY CHRISTMAS</title>
+<utube>lwm41QBfWZg</utube>
+<thumbnail>https://i.ytimg.com/vi/lwm41QBfWZg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jVoznhU3aKPgIwH0HD5N3tmv49c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>SPICY CHEESEBURGER</title>
+<utube>FPYFOtmT5mA</utube>
+<thumbnail>https://i.ytimg.com/vi/FPYFOtmT5mA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Q_8CjsiEhRfoadvOsmH4ZlTuVSQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>MINI POTATO BAKES</title>
+<utube>zgPg9Mh2Up4</utube>
+<thumbnail>https://i.ytimg.com/vi/zgPg9Mh2Up4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qw2W_FkPu4MuB0ZyYYmrcvfMC9I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOMEMADE EGGNOG</title>
+<utube>jokcY6RthLo</utube>
+<thumbnail>https://i.ytimg.com/vi/jokcY6RthLo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=COLulWg7HfxjF-KalMc9UWannBM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>CHOCOLATE RUM TRUFFLES</title>
+<utube>kLrBzBUMaZc</utube>
+<thumbnail>https://i.ytimg.com/vi/kLrBzBUMaZc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vQ5HyMy_OQnWND5i70UFJXRkBqI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A PERFECT PAVLOVA - VIDEO RECIPE</title>
+<utube>p0teQvObXyU</utube>
+<thumbnail>https://i.ytimg.com/vi/p0teQvObXyU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=clOUa1VG1o6kEJOcbgEya6brmgM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>PARTY TIME! What's your favourite party food?</title>
+<utube>kS1EtCpuYT4</utube>
+<thumbnail>https://i.ytimg.com/vi/kS1EtCpuYT4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DvJtZGXWL_FJUMKGJIxxXyjUisM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE GUACAMOLE</title>
+<utube>-S4ckJiSqaE</utube>
+<thumbnail>https://i.ytimg.com/vi/-S4ckJiSqaE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JrQ1cigok30Hpg8I_XdGz87RI7s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE PECAN PIES: with Maple Ice Cream</title>
+<utube>ltQpkI1tC_8</utube>
+<thumbnail>https://i.ytimg.com/vi/ltQpkI1tC_8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tpdKgQFFcRcZsY1bFubOH7Zh7eo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MANGO FROZEN YOGHURT CUPS</title>
+<utube>g0VLGLoA9Ys</utube>
+<thumbnail>https://i.ytimg.com/vi/g0VLGLoA9Ys/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jJvic6K4Fq_DjfQDWlhToMEcJD4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE HOMEMADE DONUTS: BAKED NOT FRIED</title>
+<utube>TxapEy1tCc4</utube>
+<thumbnail>https://i.ytimg.com/vi/TxapEy1tCc4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=OYH-h9ZXBgZ_3UOHw4OJn3XQcx8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>YOUTUBE NEXT CHEF PROGRAM - I'VE BEEN SELECTED!!</title>
+<utube>p5hdxvIwGDg</utube>
+<thumbnail>https://i.ytimg.com/vi/p5hdxvIwGDg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hJuiqN2sh4Avh1HgATm6bDYr6AE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A SIMPLE CHICKEN KORMA</title>
+<utube>dqmLLWity5E</utube>
+<thumbnail>https://i.ytimg.com/vi/dqmLLWity5E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LPfIlGwEsbkGcAwDyEU6tKBspnY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE JACK-O-LANTERN COOKIES</title>
+<utube>D4meqMywBWk</utube>
+<thumbnail>https://i.ytimg.com/vi/D4meqMywBWk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X5bF9rcKHUWpjcvmiYbVjuAxTM4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPIDER CUPCAKES</title>
+<utube>vmJ49i08Nc8</utube>
+<thumbnail>https://i.ytimg.com/vi/vmJ49i08Nc8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sAZkMW7J2tcEq5nSe66GwT0J7OE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SIMPLE SCONES: Only 4 ingredients</title>
+<utube>kgqiFM2Zmds</utube>
+<thumbnail>https://i.ytimg.com/vi/kgqiFM2Zmds/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Btx4m-B-UO0bdnGQ6Nn142X6I-g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE MOUSSE: with Kahlua</title>
+<utube>PCGWLpmHszo</utube>
+<thumbnail>https://i.ytimg.com/vi/PCGWLpmHszo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tpmzkgU2k27kojW31qTcdTYAhRo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BLUEBERRY PANCAKES</title>
+<utube>QuAiC4sm4N0</utube>
+<thumbnail>https://i.ytimg.com/vi/QuAiC4sm4N0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nYEfLRAsYHWpz8z_57WYzX-_DoA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MAC N CHEESE</title>
+<utube>bN8pca_I8H4</utube>
+<thumbnail>https://i.ytimg.com/vi/bN8pca_I8H4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cxGjKn6CVuPOZTZqJBS2ev03wyo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A DELICIOUS PUMPKIN SALAD</title>
+<utube>AQDdDQlKhpE</utube>
+<thumbnail>https://i.ytimg.com/vi/AQDdDQlKhpE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EJdtc4UhhzMZEgMZr-k_CFhVwHI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A DELICIOUS COCONUT CAKE: with sour cream lemon icing</title>
+<utube>9cf-rC2w34U</utube>
+<thumbnail>https://i.ytimg.com/vi/9cf-rC2w34U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=164IeeuTRkCWUyuT4rMSRbg-hM4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THAI CHICKEN MEATBALLS</title>
+<utube>sN5hig-tH7Y</utube>
+<thumbnail>https://i.ytimg.com/vi/sN5hig-tH7Y/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=c-vNSGBcw5jPH9FkA598JDAJI0g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A BLUEBERRY & YOGHURT CAKE</title>
+<utube>cyGr9_YQ1Cg</utube>
+<thumbnail>https://i.ytimg.com/vi/cyGr9_YQ1Cg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xLaEiJSKTseKcTZHBlgfpzDWp4U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A SPAGHETTI PIE</title>
+<utube>FkEMGxin0tg</utube>
+<thumbnail>https://i.ytimg.com/vi/FkEMGxin0tg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZvRhlaCI963RVZ3Uh73BqjXRrsQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE BACON & EGG BREAKFAST PIES</title>
+<utube>vbEyUAY5UIE</utube>
+<thumbnail>https://i.ytimg.com/vi/vbEyUAY5UIE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=O2MOUWJ_9wh77IGPXxMqivHizU8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SNICKERS CHOCOLATE PARCELS</title>
+<utube>qvcDGZ2mBA8</utube>
+<thumbnail>https://i.ytimg.com/vi/qvcDGZ2mBA8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2KlI7_w2xwGLcgYI6AS7hkL5txM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ASIAN BEEF STIR FRY</title>
+<utube>f61jnCAl4IA</utube>
+<thumbnail>https://i.ytimg.com/vi/f61jnCAl4IA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=g4kM5Q9K5Oya-lTG20el1WUw8H4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CREAMY TWICE BAKED POTATO</title>
+<utube>E_qp6yViXc4</utube>
+<thumbnail>https://i.ytimg.com/vi/E_qp6yViXc4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n9RMlc3Ufqdl1NwskwakZGrFg7U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CREAMY RICE PUDDING</title>
+<utube>vQF5THYAX8E</utube>
+<thumbnail>https://i.ytimg.com/vi/vQF5THYAX8E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q4c3nZHwu47Ac6ZTriOwQMfBxl0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE OVEN BAKED ARTICHOKE DIP</title>
+<utube>D4lnuDOwgM8</utube>
+<thumbnail>https://i.ytimg.com/vi/D4lnuDOwgM8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2hGskb2_As-cyLQMjhJtJu_CyEw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MALTESER COOKIES</title>
+<utube>DV43Xmc07qc</utube>
+<thumbnail>https://i.ytimg.com/vi/DV43Xmc07qc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GZNhZIkLc_RGhbJXXpQnMU_3VuY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE MINI MEAT PIES</title>
+<utube>vgeJ8QFKPFw</utube>
+<thumbnail>https://i.ytimg.com/vi/vgeJ8QFKPFw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=1Ks5uxIWJHgs2WMnpq1JOIXq1y8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE DOUBLE CHOCOLATE CHEESECAKE SLICE</title>
+<utube>9304QR0j23g</utube>
+<thumbnail>https://i.ytimg.com/vi/9304QR0j23g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LC31p5VxBkl6ZF91PtunZI1OXn0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE VEGETARIAN LASAGNE: Pumpkin & Spinach</title>
+<utube>hrx7RDezNi0</utube>
+<thumbnail>https://i.ytimg.com/vi/hrx7RDezNi0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Q_Dt-3An2CfRua3LuABKbuEDNJ0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A DELICIOUS BANANA & COCONUT SMOOTHIE</title>
+<utube>RdwDadSesi4</utube>
+<thumbnail>https://i.ytimg.com/vi/RdwDadSesi4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VEwsCb-ujSUw4Q1WudoyudFDNk4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHOCOLATE CHIP & PEANUT BUTTER COOKIES - No Flour!</title>
+<utube>_CIMnHHHpxU</utube>
+<thumbnail>https://i.ytimg.com/vi/_CIMnHHHpxU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FTukngig_6E_Ochm-JldXIrLoqM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE CHILE CON QUESO: CHEESY DIP</title>
+<utube>VwKakNoC6dc</utube>
+<thumbnail>https://i.ytimg.com/vi/VwKakNoC6dc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=d7iLj2zddEPESLgIMc_XHvTuCgE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A QUICK AND EASY PIZZA</title>
+<utube>B6khaf66_cQ</utube>
+<thumbnail>https://i.ytimg.com/vi/B6khaf66_cQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Ibyig-HU1AH5tX8t6WFtxvECMuc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE EASIEST EVER APPLE CRUMBLE</title>
+<utube>GRqkxeinTdE</utube>
+<thumbnail>https://i.ytimg.com/vi/GRqkxeinTdE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vZtQvCXVZuyrDl8nl34Q55wH2D0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE SPICY POTATO WEDGES</title>
+<utube>5nW7_sn8PWk</utube>
+<thumbnail>https://i.ytimg.com/vi/5nW7_sn8PWk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Y-7v-eRn2f6XoXX4tbsK8tzjrOI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE ARANCINI: SPICY CHEESY BALLS</title>
+<utube>TEDQ290-R_k</utube>
+<thumbnail>https://i.ytimg.com/vi/TEDQ290-R_k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=4XmPDWiqNoxWm_XwgU9ormTriHc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE THE BEST BANANA CAKE - with Citrus Cream Cheese Icing</title>
+<utube>KtYN78xhgSo</utube>
+<thumbnail>https://i.ytimg.com/vi/KtYN78xhgSo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=s__IlO5gN2lbO-68x1LZkjgDAZA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A QUESADILLA</title>
+<utube>nUHp7ltYiZ0</utube>
+<thumbnail>https://i.ytimg.com/vi/nUHp7ltYiZ0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sg44taVNWDuHe8qQCpXqSxvq5p8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>HOW TO MAKE A VEGETABLE FRITTATA</title>
+<utube>yTEmXbo21qw</utube>
+<thumbnail>https://i.ytimg.com/vi/yTEmXbo21qw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=B4GKmT7dXMWR8Z5P1HpetSsF4p4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Welcome to Cooking with Karma</title>
+<utube>8B8jwGI4-us</utube>
+<thumbnail>https://i.ytimg.com/vi/8B8jwGI4-us/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SGkEvkeSiw025lBI8Fo7oXN0r04</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
