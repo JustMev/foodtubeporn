@@ -1,0 +1,132 @@
+<item>
+<title>Polish Cooking: Makowiec (Christmas Poppy Seed Roll)</title>
+<utube>eZOlfQURnMo</utube>
+<thumbnail>https://i.ytimg.com/vi/eZOlfQURnMo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bT4sN0MP2lqkALYg27bZcBkU0yk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Croquettes</title>
+<utube>P4t9H2Wnesg</utube>
+<thumbnail>https://i.ytimg.com/vi/P4t9H2Wnesg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-zOIiipYQ7iYaOqw_Ita5kmcDvE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Potato pancakes</title>
+<utube>wt2rToBN3wo</utube>
+<thumbnail>https://i.ytimg.com/vi/wt2rToBN3wo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ZE0SgF_63VIWy2Ohy39YFovEqPY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Gołąbki</title>
+<utube>NUoQJ-DJup8</utube>
+<thumbnail>https://i.ytimg.com/vi/NUoQJ-DJup8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zqKCM_RdGIq-P2I2VxkLCNaA-cM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Beetroot salad</title>
+<utube>r1RgOY5SpYk</utube>
+<thumbnail>https://i.ytimg.com/vi/r1RgOY5SpYk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WGE_wJgfXOGtZSCtLkABX08DAyE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Mizeria</title>
+<utube>Vzy2l7aHOo8</utube>
+<thumbnail>https://i.ytimg.com/vi/Vzy2l7aHOo8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vL0CIOURrVU8tKgeimM9MQo54rE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Knysza</title>
+<utube>Xenjo7ics0w</utube>
+<thumbnail>https://i.ytimg.com/vi/Xenjo7ics0w/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bEvyeL1Mfg29XPbbFKorIvOrsUQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Carrot and apple salad</title>
+<utube>RIw7Apuc-yI</utube>
+<thumbnail>https://i.ytimg.com/vi/RIw7Apuc-yI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mXdEL_RzIlXfagZcLbiXyXm8EWo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Sauerkraut salad</title>
+<utube>MNg1d-8BvU8</utube>
+<thumbnail>https://i.ytimg.com/vi/MNg1d-8BvU8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6F8om2ffziv_ZRvotXwfmj0qGjI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Barszcz czerwony</title>
+<utube>IgR8zpe9Joc</utube>
+<thumbnail>https://i.ytimg.com/vi/IgR8zpe9Joc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=p7vO-f-ypn34-UUgFTf25Pv7Xi8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Uszka - pasta for Barszcz</title>
+<utube>VNETicDnGNI</utube>
+<thumbnail>https://i.ytimg.com/vi/VNETicDnGNI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=l_byRGHarlm8neoLLxTKFaG_UH8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Kotlet Schabowy - Polish Schnitzel</title>
+<utube>7jJYUjCRa5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/7jJYUjCRa5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xLryvAQ4yIkio6KbjY9yoa6k9VQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Racuchy - Apple Pancackes</title>
+<utube>d5xthpcxFnM</utube>
+<thumbnail>https://i.ytimg.com/vi/d5xthpcxFnM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Bawu7yP_WCtrmCrCmpxEh6197_c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Simplest Tomato Soup</title>
+<utube>cfPHtesOlkE</utube>
+<thumbnail>https://i.ytimg.com/vi/cfPHtesOlkE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6URmt3KqhOkacOottm_SzXJ0SYc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Dill pickles</title>
+<utube>UVSoE6prSBs</utube>
+<thumbnail>https://i.ytimg.com/vi/UVSoE6prSBs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jUiSHDRe0sJPMBzzRM_f0iGpnmU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Łazanki</title>
+<utube>o1qOEONJW2k</utube>
+<thumbnail>https://i.ytimg.com/vi/o1qOEONJW2k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Edw2Xw7zuDpvKmfs_uheF6UO9nQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Pierogi Ruskie</title>
+<utube>EHPkhM261nk</utube>
+<thumbnail>https://i.ytimg.com/vi/EHPkhM261nk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oSyLUjex74B_4haRq06A-5MwtYY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Bigos</title>
+<utube>6jqMg0qc6gs</utube>
+<thumbnail>https://i.ytimg.com/vi/6jqMg0qc6gs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=0znhEegq9dslXZpicx6IH2jIQvk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Zakwas Buraczany (Sour base for Barszcz)</title>
+<utube>O7J2haHQSsk</utube>
+<thumbnail>https://i.ytimg.com/vi/O7J2haHQSsk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QJvsW9gUi5WngoDolJoV5sQTbzY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Cucumber soup</title>
+<utube>L5Q_ygWBEoc</utube>
+<thumbnail>https://i.ytimg.com/vi/L5Q_ygWBEoc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RBzy9GvJcV-onSTDuA9nh4eEos8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Kotlety Mielone</title>
+<utube>qyV26VdGT3g</utube>
+<thumbnail>https://i.ytimg.com/vi/qyV26VdGT3g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yCvYRXuiGLFjfR1aEV5RnqXSZp0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Polish Cooking: Rosół</title>
+<utube>7GSswLTFfK0</utube>
+<thumbnail>https://i.ytimg.com/vi/7GSswLTFfK0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PD13KI4ogqt1cRS5fV9VO715LA4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
