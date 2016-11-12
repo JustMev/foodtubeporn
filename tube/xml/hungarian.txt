@@ -8,6 +8,7 @@
 <info>Learn To Cook Hungarian with hrcsidaranoli</info>
 </channel>
 
+<channel>
 <name>Hungarian Cooking with gourmet Hungarian Magdi's</name>
 <thumbnail>http://i.imgur.com/0W8DMfo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Hungarian/grourmet%20hungarian%20magdis.txt?token=AOJJ0sg_fVZ1eFK1NjsRrmjT9d7gFgcsks5YMM8LwA%3D%3D</externallink>

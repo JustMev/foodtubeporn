@@ -8,6 +8,7 @@
 <info>Learn To Cook Mexican with how to Cook Mexican Food</info>
 </channel>
 
+<channel>
 <name>Mexican Cooking with Adriana Guillen</name>
 <thumbnail>http://i.imgur.com/LccfDrj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Mexican/adriana%20guillen.txt?token=AOJJ0ksq62m-yZ77e962_Oa1e0tBqSEiks5YMNHHwA%3D%3D</externallink>
