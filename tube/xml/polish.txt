@@ -8,4 +8,20 @@
 <info>Learn To Cook Polish with Ania's Kitchen</info>
 </channel>
 
+<channel>
+<name>Polish Cooking with Polish Cooking </name>
+<thumbnail>http://i.imgur.com/BKKZMVI.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Polish/polish%20cooking.txt?token=AOJJ0sdLdKeesnn-QSG5qHntw70sH0y-ks5YMN_iwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Polish with Polish Cooking</info>
+</channel>
+
+<channel>
+<name>Polish Cooking with ULA Live 1</name>
+<thumbnail>http://i.imgur.com/gaQbyW6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Polish/ulalive.txt?token=AOJJ0okokqP26oZlVedbPkFXCRXQcOlfks5YMOA7wA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Polish with ULA Live 1</info>
+</channel>
+
 </channels>

@@ -8,4 +8,20 @@
 <info>Learn To Cook Vietnamese with Helen</info>
 </channel>
 
+<channel>
+<name>Vietnamese Cooking with Van Kitchen</name>
+<thumbnail>http://i.imgur.com/kNw91Sj.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Vietname/vans%20kitchen.txt?token=AOJJ0pDa7VxuAONf-44yN6GIuc5hB2K6ks5YMOLawA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Vietnamese with Van Kitchen</info>
+</channel>
+
+<channel>
+<name>Vietnamese Cooking with Vietnamese Cuisine</name>
+<thumbnail>http://i.imgur.com/fzCY0Zt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Vietname/vietnamese%20cuisine.txt?token=AOJJ0lJXA3KjMQJak7471HgP7kOnrBmQks5YMONRwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Vietnamese with Vietnamese Cuisine</info>
+</channel>
+
 </channels>

@@ -8,4 +8,12 @@
 <info>Learn To Cook Thai with Pailin</info>
 </channel>
 
+<channel>
+<name>Thai Cooking with Thai Cuisine</name>
+<thumbnail>http://i.imgur.com/Iiw4DIK.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Thailand/thailand%20cuisine.txt?token=AOJJ0tqaxwmZENuoePhIr60G6YkxgZdeks5YMOIuwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Thai with Thai Cuisine</info>
+</channel>
+
 </channels>
