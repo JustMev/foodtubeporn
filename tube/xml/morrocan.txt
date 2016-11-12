@@ -1,9 +1,25 @@
 <channels>
 <channel>
-<name>Cooking with Alia</name>
+<name> Moroccan Cooking with Alia</name>
 <thumbnail>http://i.imgur.com/v0Yqsb8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Morrocan/cookingwithalia.morrocan.txt?token=AOJJ0pXQuVx27juTWDwOo_GFqhS_trHMks5YLptowA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
-<info>Learn to cook Morrocan with Alia</info>
+<info>Learn to cook Moroccan with Alia</info>
+</channel>
+
+<channel>
+<name>Moroccan Cooking with Moroccan cooking</name>
+<thumbnail>http://i.imgur.com/HJkhR0r.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Morrocan/morrocan%20cooking.txt?token=AOJJ0iwHcXVLw7n3a7ithseWfknUSRVKks5YMNPYwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Morrocan with Morrocan cooking</info>
+</channel>
+
+<channel>
+<name>Moroccan Cooking with Sou Sou</name>
+<thumbnail>http://i.imgur.com/oyxf6jQ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Morrocan/sousou%20morrocan.txt?token=AOJJ0mQVnbHcEl5o2f2pxaRUFQoe_rpcks5YMNSLwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Moroccan with Sou Sou</info>
 </channel>
 </channels>
