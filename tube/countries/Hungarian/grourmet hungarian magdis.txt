@@ -1,0 +1,684 @@
+<item>
+<title>Watermelon cutting by Magdi</title>
+<utube>5A4tXpOfjY0</utube>
+<thumbnail>https://i.ytimg.com/vi/5A4tXpOfjY0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=bqd5ocCTRP5V78n6ifJZz1ifxFw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Lecso recipe by Magdi</title>
+<utube>uFlIqVZkjhY</utube>
+<thumbnail>https://i.ytimg.com/vi/uFlIqVZkjhY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hsEEYx1iX8VELHZra_m15GdXW0U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Káposztás Tészta  készitése kezdöknek Magdival</title>
+<utube>A0yHedjCqk0</utube>
+<thumbnail>https://i.ytimg.com/vi/A0yHedjCqk0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XHsNH4ZgzInLVHIChpiuVz1KA_A</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Noodles with Cabbage - Káposztás tészta by Magdi</title>
+<utube>Wi-viAgp66k</utube>
+<thumbnail>https://i.ytimg.com/vi/Wi-viAgp66k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=77FxaATvjin3fFhcgii-gq395hQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nokedli-Galuska-Noodle-Dumpling is a special Hungarian pasta its a good side dish by Magdi</title>
+<utube>vNnBvAj-i24</utube>
+<thumbnail>https://i.ytimg.com/vi/vNnBvAj-i24/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t71yvfVTIIWWXnZ2Vjo6vlyThdQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Almond - Orange Sugar Cookies by Magdi</title>
+<utube>I3aYbdtnMII</utube>
+<thumbnail>https://i.ytimg.com/vi/I3aYbdtnMII/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KcKKkZMfSqad4_rTQl6OuQPKPQQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fast breakfast or lunch with sausages in the Philips Air Fryer by Magdi</title>
+<utube>_5b5zmQ_EjE</utube>
+<thumbnail>https://i.ytimg.com/vi/_5b5zmQ_EjE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b81loJ_eeLQ9E0RFmKAC36orFwc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Walnut Rolls- Hungarian Style -  Diós beigli  by Magdi</title>
+<utube>tyDYVwy2G_0</utube>
+<thumbnail>https://i.ytimg.com/vi/tyDYVwy2G_0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hJJ4SWu3xgWOqnX_yvWbBRezdf4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Poppy Seed Rolls  Beigli Hungarian style by Magdi</title>
+<utube>wdNyIFEcwDc</utube>
+<thumbnail>https://i.ytimg.com/vi/wdNyIFEcwDc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=AI1l2ivcctAc_wKl5CstcY9oBYk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Linzer sandwich cookies by Magdi</title>
+<utube>1hnGf0-JcGo</utube>
+<thumbnail>https://i.ytimg.com/vi/1hnGf0-JcGo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VL8ECEli65wQuZalg7Xq4RFU_kc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Macarons Mandulas kis sütik kezdöknek Magdival</title>
+<utube>He7jFQ1yw8M</utube>
+<thumbnail>https://i.ytimg.com/vi/He7jFQ1yw8M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=yxluB07HtU3V8tAsByXJVBXfUlc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tavaszias zöldség leves grizgaluskával kezdöknek Magdival</title>
+<utube>ElYB39yPw_8</utube>
+<thumbnail>https://i.ytimg.com/vi/ElYB39yPw_8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5nXROFUDRRAgU51T3bADb8T5pEI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Könnyü Almás Diós Süti Magdival</title>
+<utube>sUnwXxzFIbs</utube>
+<thumbnail>https://i.ytimg.com/vi/sUnwXxzFIbs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SUPHRlTA6ogcz2OaMH94vC5gePs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sárgarépa Fözelék kezdöknek by Magdi</title>
+<utube>9gLG2ZximPE</utube>
+<thumbnail>https://i.ytimg.com/vi/9gLG2ZximPE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n8Og-rACQDm8zo6S5rENZe1azrM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Poppy seed and Apple cake by Magdi</title>
+<utube>Uwmn0Heyh3E</utube>
+<thumbnail>https://i.ytimg.com/vi/Uwmn0Heyh3E/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rkq6APVcTFwGZZf2an4Y5Ky_0_4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy vegetable soup with cream of wheat dumplings by Magdi</title>
+<utube>CvOb5rPDVr8</utube>
+<thumbnail>https://i.ytimg.com/vi/CvOb5rPDVr8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=55HWoJyXRUitDHNQipuBSWg92jU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cheese sticks Sajtos Pogacsa Hungarian style by Magdi</title>
+<utube>P8nE6cVzbK8</utube>
+<thumbnail>https://i.ytimg.com/vi/P8nE6cVzbK8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=p1qWje-a-99p64LtjHDyS0i8o3U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cream of wheat Dumplings for soups by Magdi</title>
+<utube>K7IeXI4JdDs</utube>
+<thumbnail>https://i.ytimg.com/vi/K7IeXI4JdDs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vAFJZCu3ddvCeT4SXaKquU85Y1w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Grizgaluska  Daragaluska kezdoknek by Magdi</title>
+<utube>OfODXTJ17dM</utube>
+<thumbnail>https://i.ytimg.com/vi/OfODXTJ17dM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=XhpPNCKt7q02aHOx0LMoz6vyHFE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Creamy mushroom soup with tarragon by Magdi my friends favorite</title>
+<utube>_cXHHiEpTX8</utube>
+<thumbnail>https://i.ytimg.com/vi/_cXHHiEpTX8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qtaBOCJD15uFdN4o-u3-CxSghvY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tilapia made in the Philips Air Fryer by Magdi</title>
+<utube>r-D4vWB_fu8</utube>
+<thumbnail>https://i.ytimg.com/vi/r-D4vWB_fu8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-e3PcKMG5BEVTDGFWdyMhiIv9JY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tasty Banana Bread by Magdi</title>
+<utube>uJgXcLWMN7g</utube>
+<thumbnail>https://i.ytimg.com/vi/uJgXcLWMN7g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=t33A49CJQy1wrBV4WEFuMv6KxkM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Könnyű Banános Süti  Magditol</title>
+<utube>JPgSdbhp7Bk</utube>
+<thumbnail>https://i.ytimg.com/vi/JPgSdbhp7Bk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=CR2aJBG28LgEYVx3LUgKgf0F1nU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sweet little dessert with Farmers Cheese and Coconut -Turós-kokuszos golyocskák by Magdi</title>
+<utube>sp6npkNquBU</utube>
+<thumbnail>https://i.ytimg.com/vi/sp6npkNquBU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MzBUGArcKAJs_iSamsYotJCCjSg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>4 layered cake with apricot and walnuts - Zserbo by Magdi</title>
+<utube>yJ9WnsROCY0</utube>
+<thumbnail>https://i.ytimg.com/vi/yJ9WnsROCY0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TpnDP7t0qvZIV1eWPFEITt0UDzA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Homemade Sauerkrut made easy by Magdi</title>
+<utube>lSK6AYEN1D8</utube>
+<thumbnail>https://i.ytimg.com/vi/lSK6AYEN1D8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Yk0wT8Ta08UFIDap7fTKeHeTuVQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Style Bean Soup in the 8 Q  Elite Pressure Cooker by Magdi</title>
+<utube>mWVqEp7MFEI</utube>
+<thumbnail>https://i.ytimg.com/vi/mWVqEp7MFEI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=WeJaukOMbhiVnMmj2ogaHyrPIn8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Chicken in the oven by Magdi</title>
+<utube>5aCFgOkrqE0</utube>
+<thumbnail>https://i.ytimg.com/vi/5aCFgOkrqE0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tJt55jZo3EuMLJ-3cWQD9pNqJy4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sóska fõzelék by Magdi</title>
+<utube>N0aeYPp7WYc</utube>
+<thumbnail>https://i.ytimg.com/vi/N0aeYPp7WYc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=YKbCmHuoo_VCyazka97M8gPo1Fs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Garlic Pork Tenderloin- Brassoi by Magdi</title>
+<utube>YQfCZixxV28</utube>
+<thumbnail>https://i.ytimg.com/vi/YQfCZixxV28/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=TG7lTjZKtg6XpOA3McufWu2bqOk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pot Roast little differently by Magdi</title>
+<utube>iO9ScYqgxBE</utube>
+<thumbnail>https://i.ytimg.com/vi/iO9ScYqgxBE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5Q3768yQ2qBdlP0HAKy6K4zEhNU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turkey meatballs in the Philips Air Fryer with wine sauce by Magdi</title>
+<utube>4k1vuoqQL_U</utube>
+<thumbnail>https://i.ytimg.com/vi/4k1vuoqQL_U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qI69px4CrNnxhbt9dxS6oC-3SG8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Reese and Ryanne making sugar cookies with Grandma by Magdi</title>
+<utube>mLcW5kIMUWA</utube>
+<thumbnail>https://i.ytimg.com/vi/mLcW5kIMUWA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rTNpRe4yoQgWoUDcBut-MnJnq7g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Easy Cream Puffs by Magdi</title>
+<utube>4xy8mNLnxxk</utube>
+<thumbnail>https://i.ytimg.com/vi/4xy8mNLnxxk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=W4HpHOHHfHGBo08ntlCq9_WHfPM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chicken Thighs in the Philips Air Fryer and Quinoa Salad by Magdi</title>
+<utube>GBuGWtsiZUk</utube>
+<thumbnail>https://i.ytimg.com/vi/GBuGWtsiZUk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=kXMSWm99xgtpcctwLL_y_n_fQXA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian style Hamburger Fasirt made in the Philips Air Fryer by Magdi</title>
+<utube>GBFYQZuXe88</utube>
+<thumbnail>https://i.ytimg.com/vi/GBFYQZuXe88/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iBBLF9xsVrvT0NHLIU3zaw5HoEg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Meggyes Kakaós Vizes Piskóta by Magdi</title>
+<utube>LMAxRTSZ06I</utube>
+<thumbnail>https://i.ytimg.com/vi/LMAxRTSZ06I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JQK27BM5VUa5sr3kM0W4MzCjyRk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fast  Linguine and Shrimp Pasta in white wine sauce by Magdi</title>
+<utube>8xSCvltLdn0</utube>
+<thumbnail>https://i.ytimg.com/vi/8xSCvltLdn0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JVA1tQsqXFr_xZ1XF04quft0Cm0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My pizza for request by Magdi</title>
+<utube>f1WHmfVQzkQ</utube>
+<thumbnail>https://i.ytimg.com/vi/f1WHmfVQzkQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rw395ModA5Ktlf7vQuYCU7fxSW0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Turógombóc készitése Magdival</title>
+<utube>iPycIjCkD1c</utube>
+<thumbnail>https://i.ytimg.com/vi/iPycIjCkD1c/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=e0t-10XsMu4oS1wS-L2_tATFO3s</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Farmers Cheese Dumplings Turógombóc</title>
+<utube>jLd-u4dzjm0</utube>
+<thumbnail>https://i.ytimg.com/vi/jLd-u4dzjm0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DQIpXdFrvr7afaxeO7XyLsgTF4o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Healthy Turkey Buritto by Magdi</title>
+<utube>sJJFu0gdFjM</utube>
+<thumbnail>https://i.ytimg.com/vi/sJJFu0gdFjM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JRvRjUg793Sz2pv3htBujZARj_8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kovászos Uborka Készitése Magdival</title>
+<utube>izasIKKUcAY</utube>
+<thumbnail>https://i.ytimg.com/vi/izasIKKUcAY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oP5Xzw5sxnlOvgzAWmEmBE5LGUQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Karfiol leves Magdival</title>
+<utube>xMvBon-esF8</utube>
+<thumbnail>https://i.ytimg.com/vi/xMvBon-esF8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VVvYqcJJryNADH0fo5x4ViTU6TA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Buffalo Wings in the Philips Air Fryer by Magdi</title>
+<utube>1h47geKMNfI</utube>
+<thumbnail>https://i.ytimg.com/vi/1h47geKMNfI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VGrWtUwevSXEFcdrmXeMGRqr1mc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Eggplant in the Philips Air Fryer by Magdi</title>
+<utube>s6bbGJleMEY</utube>
+<thumbnail>https://i.ytimg.com/vi/s6bbGJleMEY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=NNCS2TdU8lYV9G-VxxRcdvSRHF8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Carrots chips in the Philips Air Fryer</title>
+<utube>cpEh3Y-vcz4</utube>
+<thumbnail>https://i.ytimg.com/vi/cpEh3Y-vcz4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eYKWsaG7tmStBJSiSst02x6OYu8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Another Easy Easter Cards by Magdi</title>
+<utube>FFTWwkNiFkU</utube>
+<thumbnail>https://i.ytimg.com/vi/FFTWwkNiFkU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LyB52ODl-_Vh08Q-7r0dprvORY0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>2 Easy Easter cards by Magdi</title>
+<utube>8BEGoR4ev9g</utube>
+<thumbnail>https://i.ytimg.com/vi/8BEGoR4ev9g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=58fA_YjHzVz4i9FYhGlNGXTrjWo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mushroom Chicken in the Elite pressure cooker by Magdi</title>
+<utube>7fD6CicvyDM</utube>
+<thumbnail>https://i.ytimg.com/vi/7fD6CicvyDM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=hywK-RRSKtS-boxv8Ef2Z8TWZw4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Cook in the Philips Air Fryer with 3 recipes by Magdi</title>
+<utube>nLJ7qrAXOiA</utube>
+<thumbnail>https://i.ytimg.com/vi/nLJ7qrAXOiA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tWCOcyfSGIhuJ2xGfbMQGnj3BeM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Easy Coconut Cake by Magdi</title>
+<utube>yuFVABaJ0mY</utube>
+<thumbnail>https://i.ytimg.com/vi/yuFVABaJ0mY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xRFD4kM7f6gDBN871zVUJkdXJjE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gulyas Soup in the slow cooker by Magdi</title>
+<utube>0yAplrdjlfM</utube>
+<thumbnail>https://i.ytimg.com/vi/0yAplrdjlfM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fAXmf8ZrVpZEtSZYYi8EcNM6IOk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Layered Potatoes   Potato Casserole  Rakott Krumpli  by Magdi</title>
+<utube>6L4FZdr5mAA</utube>
+<thumbnail>https://i.ytimg.com/vi/6L4FZdr5mAA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=rXVkiFlE40ALgNAgkA7IOeGIENM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to fold T-shirts socks the easy way</title>
+<utube>bVWmuA7ay7Q</utube>
+<thumbnail>https://i.ytimg.com/vi/bVWmuA7ay7Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tb5VmXAHc1Rx6BNYEelqNMC1tPQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>First day of 2015</title>
+<utube>6uHfO9oUdA8</utube>
+<thumbnail>https://i.ytimg.com/vi/6uHfO9oUdA8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=N4P0p_oyM_YP0X_Up3SREu_UWqY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My friend enjoys his Hanukkah present made from bread</title>
+<utube>uHYSvPTFQr0</utube>
+<thumbnail>https://i.ytimg.com/vi/uHYSvPTFQr0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=FnvLfrm1VuqlypQeZszkXSR7MJM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gourmet Hungarian Channel with Magdi</title>
+<utube>j4KDWhnRUZU</utube>
+<thumbnail>https://i.ytimg.com/vi/j4KDWhnRUZU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_q-Bia8ZA7zKC9pk5XNNhXIQn5c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Easy Pumpkin Bundt Cake</title>
+<utube>BzQ0WXzBbts</utube>
+<thumbnail>https://i.ytimg.com/vi/BzQ0WXzBbts/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SMcYIH9iJUhJtNFlQuKYtSp5mvA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Salad with Quinoa by Magdi</title>
+<utube>aBgcD506w14</utube>
+<thumbnail>https://i.ytimg.com/vi/aBgcD506w14/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X8OAFY6ZFgYVZ7Oxs-RJfD96Q1Y</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Basmati Rice by Magdi</title>
+<utube>WXinhWcgnr4</utube>
+<thumbnail>https://i.ytimg.com/vi/WXinhWcgnr4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RI6vPA2Klvv5jjhfR7ms9fMZeJA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Kung Pao Chicken by Magdi</title>
+<utube>3o2slUH6UmE</utube>
+<thumbnail>https://i.ytimg.com/vi/3o2slUH6UmE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=9oR4pZbZebzrcADOsmk89B6MTWc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Potato Pasta Krumplis Teszta by Magdi</title>
+<utube>FSd57zd3PJE</utube>
+<thumbnail>https://i.ytimg.com/vi/FSd57zd3PJE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ggVWUSvWNtuoqcAvtI4T2xOGeMY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Name tag Table decoration by Magdi for any Occasion</title>
+<utube>SxXdtnuv73A</utube>
+<thumbnail>https://i.ytimg.com/vi/SxXdtnuv73A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fzYEWKs0vH9-oxsY18lsicaHc4c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Coconut Cake for any Holiday by Magdi</title>
+<utube>z6nPPd7Bhcg</utube>
+<thumbnail>https://i.ytimg.com/vi/z6nPPd7Bhcg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iq6EaCXe7LLB4wC9q1rxPOiHIbY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>She loves baby animals......little goats</title>
+<utube>6qxC4gQmtAs</utube>
+<thumbnail>https://i.ytimg.com/vi/6qxC4gQmtAs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=lgwL3twV0lYNG55_86I0dmkyhQI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy oven cleaning</title>
+<utube>42sY0lfISiw</utube>
+<thumbnail>https://i.ytimg.com/vi/42sY0lfISiw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gp9XsUHWWCSH3e3ygvGfvjsgLfY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salad with cucumber and yogurt   Persian style by Magdi</title>
+<utube>fpYZiphhmeM</utube>
+<thumbnail>https://i.ytimg.com/vi/fpYZiphhmeM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Nzzn6orklTNpelqH7ZYaWVWkEzY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Asian Flavored Cabbage Salad by Magdi</title>
+<utube>M5C0-gj3rU0</utube>
+<thumbnail>https://i.ytimg.com/vi/M5C0-gj3rU0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2tihdNtD4aazodngoC4Nx52TJlw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Banana Muffins with Chocolate Chip by Magdi</title>
+<utube>i08opmhc4vI</utube>
+<thumbnail>https://i.ytimg.com/vi/i08opmhc4vI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=q9tCvaa5_NTy6uY5qD6z5fVH3tQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Simple Broccoli Soup by Magdi‎</title>
+<utube>vAon5oio0aw</utube>
+<thumbnail>https://i.ytimg.com/vi/vAon5oio0aw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VLaRq6nFBF-tfCRenGUJ0mSX6C4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Graduation card with pocket by Magdi</title>
+<utube>mAe_yCDI2Oo</utube>
+<thumbnail>https://i.ytimg.com/vi/mAe_yCDI2Oo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pU72x1Tp2y1-ANtpJWWIygAX_D0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sour Cherry Cake - Hungarian Style - Meggyes Piskota by Magdi</title>
+<utube>_Y3QaHI9srA</utube>
+<thumbnail>https://i.ytimg.com/vi/_Y3QaHI9srA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=i7UmguJGT5QMW1GkW6F5envN750</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Easy Crusty Buns - Zsemlék by Magdi</title>
+<utube>aclbs71DlKw</utube>
+<thumbnail>https://i.ytimg.com/vi/aclbs71DlKw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h3BLX-DLhddd-qdDawMg95I5TMY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Green Pea Soup Zoldborso Leves by Magdi</title>
+<utube>RONW4wd6eag</utube>
+<thumbnail>https://i.ytimg.com/vi/RONW4wd6eag/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pxC27X4hMJcoJNqX5uHKj6h9zxg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Ideas what makes cooking easier by Magdi</title>
+<utube>rhm6hNOepos</utube>
+<thumbnail>https://i.ytimg.com/vi/rhm6hNOepos/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jIVifIMzhzyBcVPZ20IZ79O2vZE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Fermented Dill Pickles   Hungarian fermented cucumber   Kovászos uborka by Magdi</title>
+<utube>CgYYIioO_7s</utube>
+<thumbnail>https://i.ytimg.com/vi/CgYYIioO_7s/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IL_WPpajIMW6F2zESsiGnqDWYQo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Asparagus Soup Made Differently by Magdi</title>
+<utube>DkETed1TqEk</utube>
+<thumbnail>https://i.ytimg.com/vi/DkETed1TqEk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gB3HIFE8ojfBBbALdnFcnWn8mbU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Sweet Roll - Twisted Egg bread - Kalács</title>
+<utube>cmbRiaU3xFU</utube>
+<thumbnail>https://i.ytimg.com/vi/cmbRiaU3xFU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iSWgzGbrWA0kXdAxLgqJ8VwfCCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Spárga leves másképpen Magdival</title>
+<utube>mL_4gbVrOFM</utube>
+<thumbnail>https://i.ytimg.com/vi/mL_4gbVrOFM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ziZHlfeglddQYgOILEomErgLqJk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hazi Teszta keszitese Magdival</title>
+<utube>hf7SJeQujBs</utube>
+<thumbnail>https://i.ytimg.com/vi/hf7SJeQujBs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=tTPdVHtMRypF62nePMpVTOIPAd0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Csalamade Mixed Pickles Hungarian Style by Magdi</title>
+<utube>tMLqLLbZ6Lc</utube>
+<thumbnail>https://i.ytimg.com/vi/tMLqLLbZ6Lc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Uu7x0UKeLcpSOtS7V4JMZ7VRHek</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tarhonya Készitése Magyarul Magdival</title>
+<utube>1IZajMlIUxc</utube>
+<thumbnail>https://i.ytimg.com/vi/1IZajMlIUxc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=SWrzLNH6OGethDZB2V5cfFzUM8I</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Walnut Buns with Vanilla Wine Sauce   Aranygaluska by Magdi</title>
+<utube>yYMIXPJAfzs</utube>
+<thumbnail>https://i.ytimg.com/vi/yYMIXPJAfzs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=42ysrU46z-bNrPeYfcB_IFwpivs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Walnut Apricot Tarts - Kosárkák by Magdi</title>
+<utube>scN6F9ZmJ8A</utube>
+<thumbnail>https://i.ytimg.com/vi/scN6F9ZmJ8A/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JsLY9-4TrIcf_wwSrOJeERSEXAY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Beets Easy on the BBQ, Oven or Stove Top</title>
+<utube>03JDTk7ucRg</utube>
+<thumbnail>https://i.ytimg.com/vi/03JDTk7ucRg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7GwyIvter_H9QhWxthxruyDOAq4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to Make Caramelized Onions by Magdi</title>
+<utube>FruNim9Z7ww</utube>
+<thumbnail>https://i.ytimg.com/vi/FruNim9Z7ww/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=h9p8w2X9qtlDmHceGIu0xWgQj74</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy to make Homemade Pasta - Noodles by Magdi</title>
+<utube>o1GAqdZ4vGI</utube>
+<thumbnail>https://i.ytimg.com/vi/o1GAqdZ4vGI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LkgBtfkSx7cYx87cqHlaEoiphms</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy Bread Making by Magdi. No machine! No kneading, just mix, wait and bake.</title>
+<utube>6DBmQckQNG0</utube>
+<thumbnail>https://i.ytimg.com/vi/6DBmQckQNG0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DzFyLhRuEpsO---ejwRLJvpQQkM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Hungarian Style Hamburger - Meatballs called  Fasirt by Magdi</title>
+<utube>Id9b7lny6_I</utube>
+<thumbnail>https://i.ytimg.com/vi/Id9b7lny6_I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=cVY1xWorSeOdZNyUHnW89rFpX5g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Kale Capellini Bean Hotlink Soup by Magdi</title>
+<utube>XeGI_Kw45QM</utube>
+<thumbnail>https://i.ytimg.com/vi/XeGI_Kw45QM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dBJ__tneDmmKtyd4etDozDuNgWg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cranberry Oatmeal Cookies by Magdi</title>
+<utube>obFVHbJUOPo</utube>
+<thumbnail>https://i.ytimg.com/vi/obFVHbJUOPo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mW1MsU_ZZbAe7YCm-AltqIUilMs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Blueberry Cake by Magdi</title>
+<utube>P11pZZ9u6c8</utube>
+<thumbnail>https://i.ytimg.com/vi/P11pZZ9u6c8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EjoOZn8F6yy1O47_X4hEDneIciU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>My bread making story</title>
+<utube>YEhb5PJGGzQ</utube>
+<thumbnail>https://i.ytimg.com/vi/YEhb5PJGGzQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_n_zc4WIsUs9Ncv0h9fx_vYvEW0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Easy slow cooker soup - Cornish game hen soup</title>
+<utube>xFJ9SREBXcU</utube>
+<thumbnail>https://i.ytimg.com/vi/xFJ9SREBXcU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VZB7gDE9PrTsqTUI17fT0-as7Og</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Reese fake laugh - very funny</title>
+<utube>TEYjW1wSjR0</utube>
+<thumbnail>https://i.ytimg.com/vi/TEYjW1wSjR0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xTyW6AcJcy-iYaBuC62XlVQ7qvM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Peppers are growing in October with upside down watering.</title>
+<utube>MQIUWOC2nlY</utube>
+<thumbnail>https://i.ytimg.com/vi/MQIUWOC2nlY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=RZqB6IVPFM58ckH6V8WsnWPXsaM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make easy homemade Vegetable soup by Magdi</title>
+<utube>exbREbQiczc</utube>
+<thumbnail>https://i.ytimg.com/vi/exbREbQiczc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vJvkTfH6yoizBLadLlDSSiU21U8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Egg barley with  potatoes  Tarhonyas krumpli</title>
+<utube>n5dybfj0D08</utube>
+<thumbnail>https://i.ytimg.com/vi/n5dybfj0D08/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=xgw095O6JgGxiuI3_X88t5T2VjA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Potato paprikas   Paprikas krumpli by Magdi</title>
+<utube>uwINyQ-Ij2o</utube>
+<thumbnail>https://i.ytimg.com/vi/uwINyQ-Ij2o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zltzJa7QXAm42xaQhMgQMtkZ4KE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Bologna Salad - Hús salata by Magdi</title>
+<utube>nKvLDHHaNro</utube>
+<thumbnail>https://i.ytimg.com/vi/nKvLDHHaNro/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DvPF3XDwnZzUncSC1K-ZwQK8M8g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Amazingly Easy to make Apple Cake by Magdi</title>
+<utube>d3zbqa1zsqg</utube>
+<thumbnail>https://i.ytimg.com/vi/d3zbqa1zsqg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=qoG55QOPyLNmR-6456wKsVXU3EQ</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Palm Desert Retreat</title>
+<utube>Tc35C_yhyao</utube>
+<thumbnail>https://i.ytimg.com/vi/Tc35C_yhyao/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nIbtLLibNSrAlRJtWvy4JrZDCus</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Simple Thanksgiving card 2 by Magdi</title>
+<utube>S_4KxBGA4TU</utube>
+<thumbnail>https://i.ytimg.com/vi/S_4KxBGA4TU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=T2AzeL78_hIK0kPBe0lwIUiu0O8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make simple quesadilla and kale salad lunch by Magdi</title>
+<utube>dTfEpjlV_qE</utube>
+<thumbnail>https://i.ytimg.com/vi/dTfEpjlV_qE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=POIRwOOwxyqdq4yM-Qhs_37sVZc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Fast gourmet  lunch in 10 minutes with tomato and basil by Magdi</title>
+<utube>BR2e7ZR3lVc</utube>
+<thumbnail>https://i.ytimg.com/vi/BR2e7ZR3lVc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=075IVqyxy3_1guxfPIFYX3Yymos</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to start making simple card by Magdi part 2</title>
+<utube>kLXOC1FjAAY</utube>
+<thumbnail>https://i.ytimg.com/vi/kLXOC1FjAAY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=VYFxlKaK_TJ2yorrEZtEI0slRa8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to start making simple cards  by Magdi part 1</title>
+<utube>YWX8AD2eCCg</utube>
+<thumbnail>https://i.ytimg.com/vi/YWX8AD2eCCg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eIUtsGioTjsMDyy7coJEWB46y0Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Nokedli - Galuska  is a good side dish Hungarian stlye New by Magdi</title>
+<utube>ywJEafSCabU</utube>
+<thumbnail>https://i.ytimg.com/vi/ywJEafSCabU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=b-u-I-A74z6MSZ_ATdq0UwLB5Aw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Simple Easy Thanksgiving card by Magdi</title>
+<utube>bfvJwj41XrI</utube>
+<thumbnail>https://i.ytimg.com/vi/bfvJwj41XrI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=QIxaTSNMXWct2ePwVqVKZLoo8Bo</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make a Simple Easy Back to school card made by Magdi with the Slice cutter</title>
+<utube>QLcU8i-u1cI</utube>
+<thumbnail>https://i.ytimg.com/vi/QLcU8i-u1cI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6dBkGHJjO3FNfhyGXdNEMGtSEQY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Vanilla sugar what you can use for baking.</title>
+<utube>CXhIFOkSm_8</utube>
+<thumbnail>https://i.ytimg.com/vi/CXhIFOkSm_8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DducG7vARgpUdhHqPOZryVf3qog</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make an  Easy Eggplant Appetizer by Magdi</title>
+<utube>mpiXVk8Nlqw</utube>
+<thumbnail>https://i.ytimg.com/vi/mpiXVk8Nlqw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MUebMDrd_u4mTgMdB1zWyJGMMCc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>How to make Almond Brittle by Magdi</title>
+<utube>O1orITCzo50</utube>
+<thumbnail>https://i.ytimg.com/vi/O1orITCzo50/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=6i_FybEt4uUrAohfVxNxXgaHoVg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>

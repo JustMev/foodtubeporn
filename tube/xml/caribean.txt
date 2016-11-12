@@ -6,4 +6,13 @@
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Caribbean with Caribbean Pot</info>
 </channel>
+
+<channel>
+<name>Caribbean Cooking with cooking like a Jamaican</name>
+<thumbnail>http://i.imgur.com/qIrzNHO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Caribbean/cooking%20like%20a%20jamacian.txt?token=AOJJ0hmXPCUGEcVce4qiv2wYxrsZdHOTks5YMM0JwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Caribbean with cooking like a Jamaican</info>
+</channel>
+
 </channels>
