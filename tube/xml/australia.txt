@@ -6,4 +6,37 @@
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Australian BBQ</info>
 </channel>
+
+<channel>
+<name>Cooking With Aussie</name>
+<thumbnail>http://i.imgur.com/3DeEUtl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Australian/cook%20with%20aussie.txt?token=AOJJ0lloFv6JfouffNQTHH11mLCaUlR0ks5YMMXSwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Australian with Aussie cooking</info>
+</channel>
+
+<channel>
+<name>Cooking with Karma</name>
+<thumbnail>http://i.imgur.com/iP14DET.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Australian/cooking%20with%20karma.txt?token=AOJJ0tpz_DH3lps4RCfA66FoL9UYf97nks5YMMbOwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Australian with Karma</info>
+</channel>
+
+<channel>
+<name>Cooking With Nicko's Kitchen</name>
+<thumbnail>http://i.imgur.com/sQdWKrZ.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Australian/nikos%20kitchen.txt?token=AOJJ0vgSEKyPBNiX5k6SkKWLhQnGvd0Fks5YMMqfwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Australian with Nicko</info>
+</channel>
+
+<channel>
+<name>Cooking with One Pot Chef</name>
+<thumbnail>http://i.imgur.com/fgg9xwm.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Australian/one%20pot%20chef.txt?token=AOJJ0hA2PcaQ2WTiTDBQ8qABE87fuxMvks5YMMutwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn to cook Australian with One Pot Chef</info>
+</channel>
+
 </channels>
