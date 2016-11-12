@@ -24,6 +24,14 @@
 <info>Learn To Cook Italian Orsara Rececipes</info>
 </channel>
 
+<channel>
+<name>Italian Cooking with Vincenzo's Plate</name>
+<thumbnail>http://i.imgur.com/vxH2se6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/countries/Italian/vincenzo%20plate.xml?token=AOJJ0k-mLazsO8XLsa2dkDGEuTXFmCY6ks5YMNDdwA%3D%3D</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Learn To Cook Italian Vincenzo's</info>
+</channel>
+
 </channels>
 
 

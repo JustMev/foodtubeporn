@@ -1,0 +1,324 @@
+<item>
+<title>Sunday Morning Coffee Vlog | Adriana Guillen</title>
+<utube>NY2vTL8sqME</utube>
+<thumbnail>https://i.ytimg.com/vi/NY2vTL8sqME/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2RmcVNS_ul7R2SKSTya2-sUav48</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Enchiladas Placeras Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>qWJXu2A1V_o</utube>
+<thumbnail>https://i.ytimg.com/vi/qWJXu2A1V_o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=PLB_qMg9OCPkbAmO2N0ZieQeoA4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Salsa de Chile de Arbol (Tomatillo Salsa) Recipe -  Authentically Mexican | Deliciously Vegetarian</title>
+<utube>eFEGsdBr_Qg</utube>
+<thumbnail>https://i.ytimg.com/vi/eFEGsdBr_Qg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=oaI9jU2KYBX7bEa7v-bUzhIPwGc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tomatillos | "The Dish"</title>
+<utube>LvWEuQUehyA</utube>
+<thumbnail>https://i.ytimg.com/vi/LvWEuQUehyA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=ujwxjZyWaEXlYF0KBU5tBHdQbXg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Happy New Years! Authentically Mexican | Deliciously Vegetarian</title>
+<utube>bRnV1avfxT8</utube>
+<thumbnail>https://i.ytimg.com/vi/bRnV1avfxT8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=gr5Q75GlaU1gj9QLEGb4WfNjVmk</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Outtakes from Mexican Holiday Recipes Video - Adriana Guillen</title>
+<utube>wQBBGWnuODg</utube>
+<thumbnail>https://i.ytimg.com/vi/wQBBGWnuODg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=f1qVPIn2f0UTeZ1ltL_EeoY_gp0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mexican Holiday Dishes with Recipes - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>6r4xvDwldec</utube>
+<thumbnail>https://i.ytimg.com/vi/6r4xvDwldec/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8TnN0ZKjYPihW_Jhk-_qptoN4b0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Frijoles de la Olla & Refried Beans Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>XRtbk0IGp4o</utube>
+<thumbnail>https://i.ytimg.com/vi/XRtbk0IGp4o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=x79ddZK6aAFo3NIZDPXcN4kw1cs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>You Think it's Mexican Food... but it's Not | "The Dish"</title>
+<utube>GUPIdSNdql4</utube>
+<thumbnail>https://i.ytimg.com/vi/GUPIdSNdql4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7ssZt_TGJGvqKKszRgfz2FvdlP0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>No More Cooks In The Kitchen | "The Dish''</title>
+<utube>VDpZOEa_Ifo</utube>
+<thumbnail>https://i.ytimg.com/vi/VDpZOEa_Ifo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=96xlcFOMNk3yzgkpwQMGmC_oIn8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mole de Zanahoria (Carrot Mole) Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>KByg70F0sA0</utube>
+<thumbnail>https://i.ytimg.com/vi/KByg70F0sA0/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=38FhZEpRfZ-9s3KGXAu7PhB1rG0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sneek Peak Mole De Zanahoria</title>
+<utube>VInfwxMOo58</utube>
+<thumbnail>https://i.ytimg.com/vi/VInfwxMOo58/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=n4QV89jHLc9dX4PQbhqMdPH1BlY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>More Bloopers -  Authentically Mexican | Deliciously Vegetarian</title>
+<utube>YhWpJzJt5uQ</utube>
+<thumbnail>https://i.ytimg.com/vi/YhWpJzJt5uQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KoIL5CLT2nLzOtpWS4SU-fenduU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Life Update 10/15 - Adriana Guillen | "The Dish"</title>
+<utube>xuyXLswsAhA</utube>
+<thumbnail>https://i.ytimg.com/vi/xuyXLswsAhA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=8JQdPAR2Wxn5CWGwlEQMGWWZTuA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Trip to Orlando, Florida - Adriana Guillen | "The Dish"</title>
+<utube>MD3ztDO3d1k</utube>
+<thumbnail>https://i.ytimg.com/vi/MD3ztDO3d1k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=GNt1reph1dp-a3Ze5_HSyHA-jCE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Arroz con Leche Recipe (Mexican Rice Pudding) - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>C1yjS-UWtF8</utube>
+<thumbnail>https://i.ytimg.com/vi/C1yjS-UWtF8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MrJOzF_R_3-KbozYLOYCTQ1WmWM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pickled Red Onions (Cebollas en Escabeche de Naranja Agria) - Adriana Guillen | "The Dish"</title>
+<utube>fbj-8N-V58U</utube>
+<thumbnail>https://i.ytimg.com/vi/fbj-8N-V58U/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=iDN7KXbLjZzONUf0v7_UmP8fZZI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Life Update 5/15 - Adriana Guillen | "The Dish"</title>
+<utube>sC0MjRYdyKM</utube>
+<thumbnail>https://i.ytimg.com/vi/sC0MjRYdyKM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=fb39yRtRyieBr3lDe-CBtdIXT7c</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Gorditas de Frijoles (Bean Gorditas) Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>wjH-Gnz6Ea4</utube>
+<thumbnail>https://i.ytimg.com/vi/wjH-Gnz6Ea4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=5a1IGrhxqgiLJZstVXSqn97uYv8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Food from Tulum (Quintana Roo) Mexico - Adriana Guillen | "The Dish"</title>
+<utube>_UJ031h69qE</utube>
+<thumbnail>https://i.ytimg.com/vi/_UJ031h69qE/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=EyZroJQmqTBZfE_3b_7zAHRWJH0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Huevos de Albañil (Bricklayer Eggs) Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>Eg_4oe-xBPo</utube>
+<thumbnail>https://i.ytimg.com/vi/Eg_4oe-xBPo/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7AQR1HbHaQzq4AgMvo7ATDJ-ChU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Behind The Scenes - Adriana Guillen | "The Dish"</title>
+<utube>f46ecDiayZs</utube>
+<thumbnail>https://i.ytimg.com/vi/f46ecDiayZs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=_7_8EVJ1138MdJDKMM0XGdMoMGE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Flour Tortillas (Tortillas de Harina) Adriana Guillen | "The Dish"</title>
+<utube>rUxGyDySoAc</utube>
+<thumbnail>https://i.ytimg.com/vi/rUxGyDySoAc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=jJL80Jx59XnMFkeMga-4RX-Okrc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Welcome to Authentically Mexican | Deliciously Vegetarian</title>
+<utube>oVFBlsgmJ-o</utube>
+<thumbnail>https://i.ytimg.com/vi/oVFBlsgmJ-o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=mWnbOQgJXwXMCAEvszWTLtObfCY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Pozole Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>dqmB9BDWbGM</utube>
+<thumbnail>https://i.ytimg.com/vi/dqmB9BDWbGM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Cqk2GSFPBLSMsxXmQX109_i5P-w</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>This or That Food Tag - Adriana Guillen  | "The Dish"</title>
+<utube>uxVxSr6vnBM</utube>
+<thumbnail>https://i.ytimg.com/vi/uxVxSr6vnBM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=IwG_kZahVn4mWD-qA_V8v4Y9VFA</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Nutritional Yeast - Adriana Guillen | "The Dish"</title>
+<utube>BVLjkFUxTf4</utube>
+<thumbnail>https://i.ytimg.com/vi/BVLjkFUxTf4/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=su4CV3nxS4qGxweovtjGQmwEiGw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mexican Fresh Chiles - Adriana Guillen | "The Dish"</title>
+<utube>SOZZWYGiiTw</utube>
+<thumbnail>https://i.ytimg.com/vi/SOZZWYGiiTw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BisZa4KKY_EXH7DGMCPVLLzqmtI</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mexican Hot Chocolate Wedding Cookies Recipe - Adriana Guillen | "The Dish"</title>
+<utube>tMPSkYJb_dQ</utube>
+<thumbnail>https://i.ytimg.com/vi/tMPSkYJb_dQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=BhbKG-LTlWnHZp_6uz-EK4TQNG8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Sopa de Nopales Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>DWtQSSaq-Ak</utube>
+<thumbnail>https://i.ytimg.com/vi/DWtQSSaq-Ak/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=2hgPoaAJVP9C3Gaiebb1ivUovgs</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chayotes - Adriana Guillen | "The Dish"</title>
+<utube>4yOZdn9jjuw</utube>
+<thumbnail>https://i.ytimg.com/vi/4yOZdn9jjuw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=pyx0K-alK0yh5N8fF2wZtSc0pkY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Bloopers & Outtakes - Adriana Guillen</title>
+<utube>wtnXV6Dj4HQ</utube>
+<thumbnail>https://i.ytimg.com/vi/wtnXV6Dj4HQ/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=-IITm_ApwvX3P5SCqBDb-k71C3Q</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Flan Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>5mRI6Wbwspk</utube>
+<thumbnail>https://i.ytimg.com/vi/5mRI6Wbwspk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=M3RM-bW_hF3Ebe8smdXFct-t87o</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Avocados - Adriana Guillen | "The Dish"</title>
+<utube>1D9dmoYGHxI</utube>
+<thumbnail>https://i.ytimg.com/vi/1D9dmoYGHxI/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=dLbVwO_FJmH4WFeWhOjoa5gZIL8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chia Seed Pudding - Adriana Guillen | "The Dish"</title>
+<utube>gS_05HtJgCg</utube>
+<thumbnail>https://i.ytimg.com/vi/gS_05HtJgCg/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Uy0xWiwIuyK2nM4DpeJLus_hg3U</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tortitas de Vegetales (Vegetable Patties) Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>8k97TDysY2g</utube>
+<thumbnail>https://i.ytimg.com/vi/8k97TDysY2g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=DAGTheY5vkztZlPPGg4Wx_yXqGw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tortitas de Vegetales Sneap Peak - Airs 4/16/14</title>
+<utube>Gz4rjgfIZ5Q</utube>
+<thumbnail>https://i.ytimg.com/vi/Gz4rjgfIZ5Q/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=knn_cxx42fmKDUEYqmWni6XbkJg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mexican Cinnamon - Adriana Guillen | "The Dish"</title>
+<utube>dLmIW63UhnM</utube>
+<thumbnail>https://i.ytimg.com/vi/dLmIW63UhnM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eRLlEmcPflSBCEJxRFC6zjBpWUw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Cuaresma (Lent) Dishes - Adriana Guillen | "The Dish"</title>
+<utube>1-XZ8izLsgw</utube>
+<thumbnail>https://i.ytimg.com/vi/1-XZ8izLsgw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eXQNAF-AgzI0VKmwONWuLX1Noro</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tacos de "Carnitas" Tacos (Jackfruit Tacos) - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>WbmSR0bt24o</utube>
+<thumbnail>https://i.ytimg.com/vi/WbmSR0bt24o/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=LkF-_SlHcI7hbOk0fUpRPsoRLQc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mexican Chili Candy - Adriana Guillen | "The Dish"</title>
+<utube>67e8IBzNKnY</utube>
+<thumbnail>https://i.ytimg.com/vi/67e8IBzNKnY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=w_5O0PQZlz5SuNkxleiFY6Az7pU</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Healthy Mexican Snacks - Adriana Guillen | "The Dish"</title>
+<utube>0oZtMDNAVGA</utube>
+<thumbnail>https://i.ytimg.com/vi/0oZtMDNAVGA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=JUWtQvZ3BtRVAV3W-aixICluHNc</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Huevos Rancheros Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>e6_ZhfG6_r8</utube>
+<thumbnail>https://i.ytimg.com/vi/e6_ZhfG6_r8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=MHKjr98VWhFUJwmcT4PoS5CRGiE</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>New Year's Resolution Tips - Adriana Guillen | "The Dish"</title>
+<utube>jVMqayh-7fU</utube>
+<thumbnail>https://i.ytimg.com/vi/jVMqayh-7fU/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=X3bJui18aYy9po-lJCX_IEDiEo8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Buñuelos and Ponche Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>6mCNQhk54Ds</utube>
+<thumbnail>https://i.ytimg.com/vi/6mCNQhk54Ds/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=KzzlPyMkixiMfg5km-pCz6SSGj8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Adriana Guillen -</title>
+<utube>tE5fMMAeH7k</utube>
+<thumbnail>https://i.ytimg.com/vi/tE5fMMAeH7k/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=7AjGFE9BWTF23K0Jm0tQAt1f3fM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Tortillas - Adriana Guillen | "The Dish"</title>
+<utube>n2ohn2ez68M</utube>
+<thumbnail>https://i.ytimg.com/vi/n2ohn2ez68M/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=S62CnobSmZ1JyN0toqL36-vxsZ4</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Green Chile Tamales (Tamales Verdes) Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>YG9JsgoZCRY</utube>
+<thumbnail>https://i.ytimg.com/vi/YG9JsgoZCRY/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=J7Lj_WIYU65WchdTHAeFtzsO6qw</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Chiles Rellenos - Adriana Guillen | "The Dish"</title>
+<utube>JkuXCEu0cYk</utube>
+<thumbnail>https://i.ytimg.com/vi/JkuXCEu0cYk/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Xjx6HT6-c0j1-QKdPKtg6DYp54g</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mexican Rice - Adriana Guillen | "The Dish"</title>
+<utube>YACX6iL8rC8</utube>
+<thumbnail>https://i.ytimg.com/vi/YACX6iL8rC8/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=A5w9wQ-KNJSzw6hz5Xmg3bVO9Ow</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Staple Ingredients - Adriana Guillen | "The Dish"</title>
+<utube>xcGueAxXyCM</utube>
+<thumbnail>https://i.ytimg.com/vi/xcGueAxXyCM/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=vr7T5Jtk0algkdIZ1Gk1AZ_ZaE8</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Dried Chiles - Adriana Guillen | "The Dish"</title>
+<utube>iTq1h4mbP6g</utube>
+<thumbnail>https://i.ytimg.com/vi/iTq1h4mbP6g/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Xly9UGffR0ddK4Bf6tk3-ktf-cY</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Mole De Olla Recipe - Authentically Mexican | Deliciously Vegetarian</title>
+<utube>IupZv04Vofs</utube>
+<thumbnail>https://i.ytimg.com/vi/IupZv04Vofs/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=UsOTJ33ikjxNRLvt94LTC2FY2GM</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+<item>
+<title>Authentically Mexican | Deliciously Vegetarian - Cooking Show with Adriana Guillen</title>
+<utube>3UCk-eGkHQc</utube>
+<thumbnail>https://i.ytimg.com/vi/3UCk-eGkHQc/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=nBHd5u3eloOm1HlnGlWHoaBYQl0</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
