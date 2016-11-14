@@ -1,5 +1,0 @@
-import xbmcaddon
-import base64
-
-MainBase = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0p1c3RNZXYvZm9vZHR1YmVwb3JuL21hc3Rlci9ob21lMi50eHQ/dG9rZW49QU9KSjBwVWpmRjQ0RnQtd3hUVktpb3YwTFM5UUxlYnFrczVZTHFaMXdBJTNEJTNE'
-addon = xbmcaddon.Addon('plugin.video.foodtubeporn')
