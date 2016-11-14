@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>Australian Cooking</name>
-<thumbnail>http://i.imgur.com/sOfwbv4.png</thumbnail>
+<thumbnail>http://i.imgur.com/6cymilU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/australia.txt?token=AOJJ0sZ4LxWPYaG3YzyZQ2HfG40FO3YQks5YLoUswA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Australian</info>
@@ -12,14 +12,14 @@
 <channels>
 <channel>
 <name>Caribbean Cooking</name>
-<thumbnail>http://i.imgur.com/Pmz7tpb.png</thumbnail>
+<thumbnail>http://i.imgur.com/mA6lNRA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/caribean.txt?token=AOJJ0rhi615-h1v0AD57eTDolpjSGzf9ks5YLoVewA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Caribbean</info>
 
 <channel>
 <name>Chinese Cooking</name>
-<thumbnail>http://i.imgur.com/JWYHJIV.png</thumbnail>
+<thumbnail>http://i.imgur.com/0eyKSq0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/chinese.txt?token=AOJJ0th-OLykqCgjq2mFgg5ncRxMMdkmks5YLoWSwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Chinese</info>
@@ -27,7 +27,7 @@
 
 <channel>
 <name>Greek Cooking</name>
-<thumbnail>http://i.imgur.com/cMny8Vc.png</thumbnail>
+<thumbnail>http://i.imgur.com/uxv3gas.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/greek.txt?token=AOJJ0lP6AG4zUPplutoj0zptXSHnaNUCks5YLoX6wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Greek</info>
@@ -35,7 +35,7 @@
 
 <channel>
 <name>German Cooking</name>
-<thumbnail>http://i.imgur.com/ySfeMOw.png</thumbnail>
+<thumbnail>http://i.imgur.com/zradSMw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/german.txt?token=AOJJ0sWL_FKEvmRwFANkmXlfUqzEfhlCks5YLoXVwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook German</info>
@@ -43,7 +43,7 @@
 
 <channel>
 <name>Hungarian Cooking</name>
-<thumbnail>http://i.imgur.com/jgTadV1.png</thumbnail>
+<thumbnail>http://i.imgur.com/26AlfPY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/hungarian.txt?token=AOJJ0jdsRdTkoPQ7u_drIBXvQZA-eac4ks5YLoYmwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Hungarian</info>
@@ -51,7 +51,7 @@
 
 <channel>
 <name>Indian Cooking</name>
-<thumbnail>http://i.imgur.com/wZGcD7S.png</thumbnail>
+<thumbnail>http://i.imgur.com/hGvLkWp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/indian.txt?token=AOJJ0uKCIdfkCSA6gfxnrHTVyI-Lt9pWks5YLoabwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Indian</info>
@@ -59,7 +59,7 @@
 
 <channel>
 <name>Italian Cooking</name>
-<thumbnail>http://i.imgur.com/NdP6r5G.png</thumbnail>
+<thumbnail>http://i.imgur.com/YON22kT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/italian.txt?token=AOJJ0us1DhPdzk3j17FvhHD9JVnL3beCks5YLoZXwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Italian</info>
@@ -67,7 +67,7 @@
 
 <channel>
 <name>Japanese Cooking</name>
-<thumbnail>http://i.imgur.com/R4QDc8s.png</thumbnail>
+<thumbnail>http://i.imgur.com/UZlthPL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/japanese.txt?token=AOJJ0v_patmmyOqNX8i05d9-fU6F3q_uks5YLoqiwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Japanese</info>
@@ -75,16 +75,15 @@
 
 <channel>
 <name>Korean Cooking</name>
-<thumbnail>http://i.imgur.com/ho5Zw36.png</thumbnail>
+<thumbnail>http://i.imgur.com/2U8rNsM.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/Korean.txt?token=AOJJ0jVVSW8lmn0BXECR1r8wPS3DOcO7ks5YLoTewA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook South Korean</info>
 </channel>
 
-
 <channel>
 <name>Malaysian Cooking</name>
-<thumbnail>http://i.imgur.com/vevnYHP.png</thumbnail>
+<thumbnail>http://i.imgur.com/KxCJLdb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/malaysian.txt?token=AOJJ0jB2EBIvTlYPN3CTn6b3XGbVHKGNks5YLobUwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Malaysian</info>
@@ -93,7 +92,7 @@
 
 <channel>
 <name>Mexican Cooking</name>
-<thumbnail>http://i.imgur.com/rkOPFXd.png</thumbnail>
+<thumbnail>http://i.imgur.com/ktt5pLp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/mexican.txt?token=AOJJ0s1mFWhpq3h6ImpXHhsi-RHFGOCtks5YLociwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Mexican</info>
@@ -101,7 +100,7 @@
 
 <channel>
 <name>Morrocan Cooking</name>
-<thumbnail>http://i.imgur.com/xVXp4Ca.png</thumbnail>
+<thumbnail>http://i.imgur.com/bdHgHUp.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/morrocan.txt?token=AOJJ0ktrEgtkFo5Ysp0YbyM2CIjXdY29ks5YLodAwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Morrocan</info>
@@ -109,7 +108,7 @@
 
 <channel>
 <name>Multi Cultural Cooking</name>
-<thumbnail>http://i.imgur.com/lSgV4Oz.png</thumbnail>
+<thumbnail>http://i.imgur.com/055nAYF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/multi.txt?token=AOJJ0lUevWwAkluRfun4WBMfuUNrSvejks5YLodqwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Multi Cultural</info>
@@ -118,7 +117,7 @@
 
 <channel>
 <name>Filipino Cooking</name>
-<thumbnail>http://i.imgur.com/pvcUdSF.png</thumbnail>
+<thumbnail>http://i.imgur.com/Zx184DI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/filipino.txt?token=AOJJ0tAdFzbZ3nGRLdDKhh4slqN9p3Ltks5YLoWywA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Filipino</info>
@@ -126,7 +125,7 @@
 
 <channel>
 <name>Polish Cooking</name>
-<thumbnail>http://i.imgur.com/buR833n.png</thumbnail>
+<thumbnail>http://i.imgur.com/7dDDbmK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/polish.txt?token=AOJJ0ntupW3GNO4Uw_QUM6jYKta4Pb60ks5YLoeFwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Polish</info>
@@ -134,7 +133,7 @@
 
 <channel>
 <name>Russian Cooking</name>
-<thumbnail>http://i.imgur.com/3eck56H.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/8O790iu.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/russian.txt?token=AOJJ0v2Y0LrG6DZNAuksB-6WJzey5xB8ks5YLoeuwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Russian</info>
@@ -142,7 +141,7 @@
 
 <channel>
 <name>Thai Cooking</name>
-<thumbnail>http://i.imgur.com/hnK1EWf.png</thumbnail>
+<thumbnail>http://i.imgur.com/APhbklB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/thai.txt?token=AOJJ0mpkdFFElv3i2b-joQV4lkZphdnMks5YLofFwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Thailand</info>
@@ -151,7 +150,7 @@
 
 <channel>
 <name>Turkish Cooking</name>
-<thumbnail>http://i.imgur.com/FaZV6cY.png</thumbnail>
+<thumbnail>http://i.imgur.com/zn0EqZj.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/turkish.txt?token=AOJJ0uXoH3FDf7rZmUEoSZz6QTbGIbESks5YLof5wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Turkish</info>
@@ -159,7 +158,7 @@
 
 <channel>
 <name>USA Cooking</name>
-<thumbnail>http://i.imgur.com/ct4sBd0.png</thumbnail>
+<thumbnail>http://i.imgur.com/11Pvmgq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/usa.txt?token=AOJJ0vPTkgHzTScjG0VYbJ7mfs2B7O14ks5YLos9wA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Turkish</info>
@@ -167,7 +166,7 @@
 
 <channel>
 <name>Vietnamese Cooking</name>
-<thumbnail>http://i.imgur.com/GMSJaWw.png</thumbnail>
+<thumbnail>http://i.imgur.com/xuqdpV3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/vietnamese.txt?token=AOJJ0nnjtf9IDFLcVYJmTYFaXhb_N3Saks5YLogtwA%3D%3D</externallink>
 <fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
 <info>Learn To Cook Vietnamese</info>
