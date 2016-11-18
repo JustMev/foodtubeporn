@@ -2,6 +2,14 @@
 
 <channels>
 <channel>
+<name>Live Food Channels</name>
+<thumbnail>http://i.imgur.com/EkxS6gH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/live.txt</externallink>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+<info>Live Food Channels</info>
+</channel>
+
+<channel>
 <name>Australian Cooking</name>
 <thumbnail>http://i.imgur.com/6cymilU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JustMev/foodtubeporn/master/tube/xml/australia.txt?token=AOJJ0sZ4LxWPYaG3YzyZQ2HfG40FO3YQks5YLoUswA%3D%3D</externallink>
