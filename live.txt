@@ -1,0 +1,11 @@
+<item>
+<title>Food Network Channel</title>
+<link>http://92.62.234.218:2222/udp/239.18.1.103:1234</link>
+<thumbnail>http://i.imgur.com/LQ1bdqQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/MewIcsJ.jpg</fanart>
+</item>
+
+</item>
+
+
+
